@@ -1,8 +1,8 @@
-name: Update latest projects
+name: Update latest repos in README
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Blog Post Workflow
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Fetch latest repos and update README
+        uses: peter-evans/repository-dispatch@v2
         with:
-          comment_tag_name: "LATEST_REPOS"
-          feed_list: "https://rsshub.app/github/repos/apoorvdarshan"
-          max_post_count: 3
-          custom_tags: "<li><a href='{{url}}'>{{title}}</a></li>"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: apoorvdarshan/apoorvdarshan
+          event-type: update-readme
+          client-payload: '{"date": "2025-05-18T23:56:55Z"}'
