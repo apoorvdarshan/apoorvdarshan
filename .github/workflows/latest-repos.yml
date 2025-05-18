@@ -2,15 +2,18 @@ name: Update latest projects
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:     # Allows manual run
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "LATEST_REPOS"
           feed_list: "https://rsshub.app/github/repos/apoorvdarshan"
