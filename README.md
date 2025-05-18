@@ -27,13 +27,11 @@
 
 ---
 
-### 📦 My Recent Projects
+### 📦 Latest Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apoorvdarshan&repo=redbull" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apoorvdarshan&repo=spotify" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apoorvdarshan&repo=simonsays" />
-</p>
+<!-- LATEST_REPOS_START -->
+<!-- LATEST_REPOS_END -->
+
 
 
 ---
