@@ -13,9 +13,19 @@
 - 🎓 Frontend dev 
 - 💻 Building responsive & animated websites  
 - 🛠️ Learning **React**, **TailwindCSS**, and **modern UI/UX patterns**  
-- 💡 I love making interactive projects and visually impressive UIs  
+- 💡 I love making interactive projects and visually impressive UIs
 
 ---
+
+### 😂 Meme of the Day
+
+<p align="left">
+  <img src="https://web.ohidur.com/memes/random.jpg?category=programming" alt="programming meme" height="250" />
+</p>
+
+
+---
+
 
 ### 🛠 Tech Stack
 
