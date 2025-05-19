@@ -1,4 +1,8 @@
-<h1 align="center">Hey there! 👋 I'm Apoorv Darshan</h1>
+<p align="center">
+  <img src="matrix.webp" alt="Matrix Banner" />
+</p>
+
+<h1 align="center">👾 Welcome to the Matrix, I'm Apoorv Darshan 🟢</h1>
 <h3 align="center">🌐 Frontend Developer | 🎨 UI/UX Explorer | 🚀 Building modern web experiences</h3>
 
 <p align="center">
