@@ -14,8 +14,6 @@
 - 💻 Building responsive & animated websites  
 - 🛠️ Learning **React**, **TailwindCSS**, and **modern UI/UX patterns**  
 - 💡 I love making interactive projects and visually impressive UIs  
-- 🌍 Portfolio: [github.com/apoorvdarshan](https://github.com/apoorvdarshan)  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/apoorvdarshan) • [X/Twitter](https://x.com/apoorvdarshan)  
 
 ---
 
