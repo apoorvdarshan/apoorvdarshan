@@ -27,15 +27,6 @@
 
 ---
 
-### 📦 Latest Projects
-
-<!-- LATEST_REPOS_START -->
-<!-- LATEST_REPOS_END -->
-
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
