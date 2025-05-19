@@ -2,13 +2,12 @@
   <img src="matrix.webp" alt="Matrix Banner" />
 </p>
 
-<h1 align="center">👾 Welcome to the Matrix, I'm Apoorv Darshan 🟢</h1>
+<h1 align="center">💾 Welcome to the Matrix, I'm Apoorv Darshan 🟢</h1>
 <h3 align="center">🌐 Frontend Developer | 🎨 UI/UX Explorer | 🚀 Building modern web experiences</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32CD32&width=435&lines=Crafting+clean+UIs+with+HTML+%2F+CSS+%2F+JS;React+learner+%7C+Frontend+focused;Pixel+perfect+design+meets+code!" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -23,17 +22,15 @@
 
 ### 😂 Meme of the Day
 
-<p align="left">
+<p align="center">
   <img src="https://web.ohidur.com/memes/random.jpg?category=programming" alt="programming meme" height="250" />
 </p>
 
-
 ---
-
 
 ### 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vscode,git,github" />
 </p>
 
@@ -50,8 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvdarshan&theme=radical" height="165" />
 </p>
 
-
-
 ---
 
 ### 🌐 Let’s Connect
@@ -62,7 +57,6 @@
   <a href="https://www.linkedin.com/in/apoorvdarshan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ad13dtu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 
 ---
 
