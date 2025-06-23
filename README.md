@@ -149,6 +149,9 @@ _Performance tuning and<br>code optimization for<br>lightning-fast experiences_
 ## 🌐 **Let's Connect & Collaborate**
 
 <p align="center">
+  <a href="https://www.apoorvdarshan.com/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://github.com/apoorvdarshan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/apoorvdarshan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/apoorvdarshan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
