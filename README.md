@@ -18,8 +18,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ## 🔮 **Technology Arsenal**
@@ -27,8 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vscode,git,github" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -55,8 +51,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ## 😄 **Daily Dose of Developer Humor**
@@ -64,8 +58,6 @@
 <img src="https://camo.githubusercontent.com/b4d35c2de75145c92c0bce75a3d98be35270838a6e3667e450686b8a0c75ffe3/68747470733a2f2f7765622e6f68696475722e636f6d2f6d656d65732f72616e646f6d2e6a70673f63617465676f72793d70726f6772616d6d696e67" alt="Programming Jokes" height="250px"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -86,8 +78,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-_Open for collaborations, freelance projects, mentorship, and tech discussions!_
 
 </div>
 
