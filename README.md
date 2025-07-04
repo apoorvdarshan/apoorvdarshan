@@ -22,80 +22,7 @@
 
 <div align="center">
 
-## 🔮 **About Me**
-
-</div>
-
-### 👨‍💻 **Who Am I?**
-
-🎯 **Frontend Developer** passionate about creating stunning web experiences  
-🌍 **Location:** Earth (Remote-friendly)  
-🚀 **Mission:** Building the next generation of web applications
-
-### 🔥 **Current Focus**
-
-- 🎨 **UI/UX Design** - Creating intuitive and beautiful interfaces
-- ⚛️ **React Development** - Building scalable and performant applications
-- 🌐 **Modern Web Technologies** - Staying ahead of the curve with latest tools
-
-### 💡 **What Drives Me**
-
-- ✨ **Clean Code** - Writing maintainable and elegant solutions
-- 📱 **Responsive Design** - Ensuring perfect experiences across all devices
-- 👥 **User Experience** - Putting users at the center of every decision
-
-### 🎭 **Fun Fact**
-
-_I debug with console.log and I'm not ashamed! There's beauty in simplicity_ 🐛
-
-### 🎯 **Philosophy**
-
-> _"Code is poetry written in logic"_ 💻✨
-
-<div align="center">
-
-### 🚀 **What I Bring to the Table**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**🎨 UI/UX Design**
-<br><br>
-_Creating intuitive and<br>visually stunning interfaces<br>that users love to interact with_
-
-</td>
-<td align="center" width="25%">
-
-**💻 Frontend Development**
-<br><br>
-_Building responsive and<br>performant web applications<br>with modern technologies_
-
-</td>
-<td align="center" width="25%">
-
-**🛠️ Problem Solving**
-<br><br>
-_Turning complex requirements<br>into elegant, scalable<br>digital solutions_
-
-</td>
-<td align="center" width="25%">
-
-**🔧 Optimization**
-<br><br>
-_Performance tuning and<br>code optimization for<br>lightning-fast experiences_
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🛠️ **Technology Arsenal**
+## 🔮 **Technology Arsenal**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vscode,git,github" />
@@ -136,10 +63,6 @@ _Performance tuning and<br>code optimization for<br>lightning-fast experiences_
 
 <img src="https://camo.githubusercontent.com/b4d35c2de75145c92c0bce75a3d98be35270838a6e3667e450686b8a0c75ffe3/68747470733a2f2f7765622e6f68696475722e636f6d2f6d656d65732f72616e646f6d2e6a70673f63617465676f72793d70726f6772616d6d696e67" alt="Programming Jokes" height="250px"/>
 
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -164,33 +87,9 @@ _Performance tuning and<br>code optimization for<br>lightning-fast experiences_
   </a>
 </p>
 
-### 💌 **Let's Build Something Amazing Together!**
-
 _Open for collaborations, freelance projects, mentorship, and tech discussions!_
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🏆 **GitHub Achievements**
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorvdarshan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-</div>
-
-<div align="center">
-
-### 🚀 _"Welcome to the Matrix of Code - where every line tells a story!"_ 🐰
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
-
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%92%BB;Let's+build+the+future+together!+%F0%9F%9A%80" alt="Footer Typing" />
