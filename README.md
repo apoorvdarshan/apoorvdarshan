@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Matrix%20Visitors&color=00ff00&style=for-the-badge)](https://github.com/apoorvdarshan)
+  [![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Visitors&color=00ff00&style=for-the-badge)](https://github.com/apoorvdarshan)
   [![GitHub Followers](https://img.shields.io/github/followers/apoorvdarshan?label=Followers&style=for-the-badge&color=00ff00&labelColor=1a1a1a)](https://github.com/apoorvdarshan?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/apoorvdarshan?label=Stars&style=for-the-badge&color=00ff00&labelColor=1a1a1a)](https://github.com/apoorvdarshan)
 
