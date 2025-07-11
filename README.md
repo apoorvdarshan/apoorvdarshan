@@ -47,12 +47,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvdarshan&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=32cd32&point=00ff00" width="100%" />
-
-</div>
-
-<div align="center">
-
 ## 😄 **Daily Dose of Developer Humor**
 
 <img src="https://camo.githubusercontent.com/b4d35c2de75145c92c0bce75a3d98be35270838a6e3667e450686b8a0c75ffe3/68747470733a2f2f7765622e6f68696475722e636f6d2f6d656d65732f72616e646f6d2e6a70673f63617465676f72793d70726f6772616d6d696e67" alt="Programming Jokes" height="250px"/>
