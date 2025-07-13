@@ -18,19 +18,9 @@
 
 </div>
 
-<div align="center">
-
-## 🔮 **Technology Arsenal**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vscode,git,github" />
 </p>
-
-<div align="center">
-
-## 📊 **GitHub Analytics Dashboard**
-
-</div>
 
 <div align="center">
 
@@ -47,15 +37,11 @@
 
 <div align="center">
 
-## 😄 **Daily Dose of Developer Humor**
-
 <img src="https://camo.githubusercontent.com/b4d35c2de75145c92c0bce75a3d98be35270838a6e3667e450686b8a0c75ffe3/68747470733a2f2f7765622e6f68696475722e636f6d2f6d656d65732f72616e646f6d2e6a70673f63617465676f72793d70726f6772616d6d696e67" alt="Programming Jokes" height="250px"/>
 
 </div>
 
 <div align="center">
-
-## 🌐 **Let's Connect & Collaborate**
 
 <p align="center">
   <a href="https://www.apoorvdarshan.com/">
