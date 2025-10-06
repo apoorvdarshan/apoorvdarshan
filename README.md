@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vscode,git,github,nodejs,expressjs,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vscode,git,github,nodejs,express,py,mongodb,bash,jquery,latex,npm,vercel" />
 </p>
 
 <div align="center">
