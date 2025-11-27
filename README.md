@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=35&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Computer+Science;" alt="Typing SVG" />
+</div>
+
+<div align="center">
   
   [![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Visitors&color=8B0000&style=for-the-badge)](https://github.com/apoorvdarshan)
   [![GitHub Followers](https://img.shields.io/github/followers/apoorvdarshan?label=Followers&style=for-the-badge&color=8B0000&labelColor=0a0000)](https://github.com/apoorvdarshan?tab=followers)
@@ -20,12 +24,6 @@
 <div align="center">
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvdarshan&theme=radical&hide_border=true&background=0a0000&stroke=8B0000&ring=DC143C&fire=8B0000&currStreakLabel=8B0000&sideLabels=B8860B&dates=B8860B" />
-
-</div>
-
-<div align="center">
-
-<img src="https://camo.githubusercontent.com/b4d35c2de75145c92c0bce75a3d98be35270838a6e3667e450686b8a0c75ffe3/68747470733a2f2f7765622e6f68696475722e636f6d2f6d656d65732f72616e646f6d2e6a70673f63617465676f72793d70726f6772616d6d696e67" alt="Programming Jokes" height="250px"/>
 
 </div>
 
