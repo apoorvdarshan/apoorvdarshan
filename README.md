@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="matrix.webp" alt="Matrix"/>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+the+Matrix;I'm+Apoorv+Darshan;Frontend+Developer+%7C+UI%2FUX+Explorer;Ready+to+build+the+future%3F" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=32CD32&center=true&vCenter=true&width=900&lines=Crafting+pixel-perfect+interfaces+with+cutting-edge+technologies;React+enthusiast+building+scalable+web+applications;Transforming+creative+visions+into+interactive+digital+experiences;Always+learning%2C+always+coding%2C+always+innovating" alt="Subtitle Typing SVG" />
-</p>
-
 <div align="center">
   
   [![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Visitors&color=00ff00&style=for-the-badge)](https://github.com/apoorvdarshan)
@@ -59,8 +47,4 @@
   </a>
 </p>
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%92%BB;Let's+build+the+future+together!+%F0%9F%9A%80" alt="Footer Typing" />
 </div>
