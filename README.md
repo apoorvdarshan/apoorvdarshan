@@ -40,7 +40,7 @@
   <a href="https://youtube.com/@apoorvdarshan">
     <img src="https://img.shields.io/badge/YouTube-0a0000?style=for-the-badge&logo=youtube&logoColor=8B0000" />
   </a>
-  <a href="https://instagram.com/apoorvcode">
+  <a href="https://instagram.com/apoorvdarshan">
     <img src="https://img.shields.io/badge/Instagram-0a0000?style=for-the-badge&logo=instagram&logoColor=DC143C" />
   </a>
   <a href="https://www.credly.com/users/apoorvdarshan">
