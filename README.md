@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Profile%20Views&color=0D7C37&style=flat)](https://github.com/apoorvdarshan)
@@ -15,8 +13,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/apoorvdarshan?label=Total%20Stars&style=flat&color=0D7C37)](https://github.com/apoorvdarshan)
 
 </div>
-
----
 
 ## Tech Stack
 
@@ -52,8 +48,6 @@
 
 </div>
 
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -68,8 +62,6 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvdarshan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
-
----
 
 ## Connect With Me
 
@@ -109,5 +101,3 @@
 </a>
 
 </div>
-
----
