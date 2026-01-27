@@ -92,6 +92,7 @@
 - JEE 2023 - Ranked in top 1.5% candidates
 - Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
 - Built YouTube channel to 20K+ subscribers at 16, earned $1000+, and sold it
+- Over 7K+ subscribers on LinkedIn
 
 ---
 
