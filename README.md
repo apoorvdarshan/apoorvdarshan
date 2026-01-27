@@ -3,15 +3,25 @@
 📍 **India** | 💻 **Full Stack Developer** | 🚀 **Building scalable web applications**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 > Writing clean, maintainable code and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
 
@@ -19,15 +29,15 @@
 
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - CRT TV horror portfolio inspired by 'The Ring'
 - 📰 **[zyro](https://github.com/apoorvdarshan/zyro)** - AI news website (GNews.io API, 100 req/day limit)
-- 📚 **[iitjee](https://www.iitjee.xyz/)** *(private)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
+- 📚 **[iitjee](https://www.iitjee.xyz/)** *(closed source)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
 
 ### Legacy Work
-- 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(private)* - CRM platform built during internship at XIRCLS
+- 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
 - 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
 - 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
 - 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
 - 💔 **[grievance](https://github.com/apoorvdarshan/grievance)** - Playful relationship complaint portal
-- 📄 **[resume-codes](https://resume.codes/)** *(private)* - Resume builder with live preview (currently not functional)
+- 📄 **[resume-codes](https://resume.codes/)** *(closed source)* - Resume builder with live preview (currently not functional)
 - 🎮 **[zombie-game](https://github.com/apoorvdarshan/zombie-game)** - 3D zombie survival FPS with Three.js
 - 🖐️ **[gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)** - MediaPipe-powered hands-free virtual keyboard
 - 🎨 **[drawtica](https://github.com/apoorvdarshan/drawtica)** - Hand-gesture drawing app
