@@ -83,12 +83,17 @@
 
 ---
 
-<details>
-<summary>More About Me</summary>
+### Philosophy
 
-- Building full-stack applications with MERN stack
-- Experimenting with gesture recognition and computer vision
-- Creating unique UI/UX experiences
-- Open to collaboration and new opportunities
+> "Be alone, that is the secret of invention; be alone, that is when ideas are born." - Nikola Tesla
+
+<details>
+<summary>Random Facts</summary>
+
+- Using Claude Code to build faster and ship more
+- Turns out electrons are probability clouds until observed
+- Mathematics, physics, and electronics keep me curious
+- Apple > Windows, no debate
+- Hit the gym when I'm not at the keyboard
 
 </details>
