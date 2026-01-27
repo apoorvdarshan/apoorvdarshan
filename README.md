@@ -43,15 +43,22 @@
 - 🧙 **[todo-app](https://github.com/apoorvdarshan/todo-app)** - Harry Potter-themed To-Do app
 - 🎧 **[spotify-clone](https://github.com/apoorvdarshan/spotify-clone)** - Spotify UI clone
 
-## What I'm Working With
-
-- **Frontend** – React, Redux, TailwindCSS, Bootstrap, Three.js, MediaPipe, HTML5, CSS3
-- **Backend** – Node.js, Express.js, Python, MongoDB
-- **Tools** – Git, GitHub, VS Code, npm, Vercel, Bash, LaTeX
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/apoorvdarshan)
+
+## What I'm Doing
+
+- **Building full-stack apps** - From frontend to backend, databases to deployment
+- **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, and X
+- **Learning iOS development** - Exploring Swift and mobile app development
+- **Contributing to open source** - Giving back to the community
+- **Regular coding practice** - Solving problems to stay sharp
+
+## Writing
+
+- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (1,800+ subscribers)
+- **[Articles on X](https://x.com/apoorvdarshan/articles)** - Sharing insights on tech innovation and emerging trends
 
 ## Connect
 
