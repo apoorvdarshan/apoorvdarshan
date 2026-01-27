@@ -74,6 +74,15 @@
 
 ---
 
+### Recognition
+
+- Diamond Badge on CodeChef
+- LOR for outstanding performance in Computer Science and Mathematics from University of the People professors
+- JEE 2023 - Ranked in top 1.5% candidates
+- Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
+
+---
+
 <details>
 <summary>More About Me</summary>
 
