@@ -20,7 +20,7 @@
 
 ## Current Projects
 
-- 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - CRT TV horror portfolio inspired by 'The Ring'
+- 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 - 📰 **[zyro](https://github.com/apoorvdarshan/zyro)** - AI news website (GNews.io API, 100 req/day limit)
 - 📚 **[iitjee](https://www.iitjee.xyz/)** *(closed source)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
 
@@ -114,6 +114,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Profile%20Views&color=0D7C37&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Visitors&color=0D7C37&style=flat)
+![Total Stars](https://img.shields.io/github/stars/apoorvdarshan?label=Total%20Stars&style=flat&color=0D7C37)
 
 </div>
