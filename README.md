@@ -116,3 +116,11 @@
 - Hit the gym when I'm not at the keyboard
 
 </details>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Profile%20Views&color=0D7C37&style=flat)
+
+</div>
