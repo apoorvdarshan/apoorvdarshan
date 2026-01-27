@@ -22,6 +22,7 @@
 - 📚 **[iitjee](https://www.iitjee.xyz/)** *(private)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
 
 ### Legacy Work
+- 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(private)* - CRM platform built during internship at XIRCLS
 - 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
 - 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
 - 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
@@ -46,6 +47,10 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/apoorvdarshan)
+
+**Work GitHub**: [@apoorvxircls](https://github.com/apoorvxircls) - 900+ contributions during internship
+
+![Work GitHub Contribution Graph](https://ghchart.rshah.org/apoorvxircls)
 
 ## What I'm Doing
 
