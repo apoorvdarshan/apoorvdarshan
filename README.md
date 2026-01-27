@@ -1,103 +1,78 @@
-<div align="center">
+# Hi, I'm Apoorv 👋
 
-### Full Stack Developer
+📍 **India** | 💻 **Full Stack Developer** | 🚀 **Building scalable web applications**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi+there%2C+I'm+Apoorv;Building+scalable+web+applications;Writing+clean%2C+maintainable+code;Always+learning+new+technologies" alt="Typing SVG" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-</div>
+> Writing clean, maintainable code and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
 
-<div align="center">
+## Current Projects
 
-[![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Profile%20Views&color=0D7C37&style=flat)](https://github.com/apoorvdarshan)
-[![GitHub Followers](https://img.shields.io/github/followers/apoorvdarshan?label=Followers&style=flat&color=0D7C37)](https://github.com/apoorvdarshan?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/apoorvdarshan?label=Total%20Stars&style=flat&color=0D7C37)](https://github.com/apoorvdarshan)
+- 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - CRT TV horror portfolio inspired by 'The Ring'
+- 📰 **[zyro](https://github.com/apoorvdarshan/zyro)** - AI news website (GNews.io API, 100 req/day limit)
+- 📚 **[iitjee](https://www.iitjee.xyz/)** *(private)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
 
-</div>
+### Legacy Work
+- 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
+- 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
+- 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
+- 💔 **[grievance](https://github.com/apoorvdarshan/grievance)** - Playful relationship complaint portal
+- 📄 **[resume-codes](https://resume.codes/)** *(private)* - Resume builder with live preview (currently not functional)
+- 🎮 **[zombie-game](https://github.com/apoorvdarshan/zombie-game)** - 3D zombie survival FPS with Three.js
+- 🖐️ **[gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)** - MediaPipe-powered hands-free virtual keyboard
+- 🎨 **[drawtica](https://github.com/apoorvdarshan/drawtica)** - Hand-gesture drawing app
+- 👁️ **[peek-a-pupil](https://github.com/apoorvdarshan/peek-a-pupil)** - Horror-themed interactive eye with gesture control
+- 🎯 **[headshot-tracker](https://github.com/apoorvdarshan/headshot-tracker)** - Real-time face tracking with sci-fi HUD
+- 🖼️ **[compress-image](https://github.com/apoorvdarshan/compress-image)** - Client-side image compression (browser-only, nothing uploaded)
+- 🏫 **[dtu-clone](https://github.com/apoorvdarshan/dtu-clone)** - DTU website with cyberpunk UI
+- 🐂 **[redbull](https://github.com/apoorvdarshan/redbull)** - Red Bull landing page reimagined
+- 🌓 **[toggle-button](https://github.com/apoorvdarshan/toggle-button)** - Star Wars themed dark/light mode toggle
+- 🚗 **[bmw](https://github.com/apoorvdarshan/bmw)** - BMW landing page clone
+- 🐉 **[monster-energy](https://github.com/apoorvdarshan/monster-energy)** - Monster Energy landing page
+- 🐕 **[random-dog-images](https://github.com/apoorvdarshan/random-dog-images)** - Random dog images powered by Dog CEO API
+- 🐱 **[random-cat-facts](https://github.com/apoorvdarshan/random-cat-facts)** - Cat facts powered by catfact.ninja API
+- 🧙 **[todo-app](https://github.com/apoorvdarshan/todo-app)** - Harry Potter-themed To-Do app
+- 🎧 **[spotify-clone](https://github.com/apoorvdarshan/spotify-clone)** - Spotify UI clone
 
-## Tech Stack
+## What I'm Working With
 
-<div align="center">
+- **Frontend** – React, Redux, TailwindCSS, Bootstrap, Three.js, MediaPipe, HTML5, CSS3
+- **Backend** – Node.js, Express.js, Python, MongoDB
+- **Tools** – Git, GitHub, VS Code, npm, Vercel, Bash, LaTeX
 
-### Frontend
+## GitHub Activity
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![GitHub Contribution Graph](https://ghchart.rshah.org/apoorvdarshan)
 
-### Backend
+## Connect
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/-apoorvdarshan.com-0D7C37?style=flat-square&logo=google-chrome&logoColor=white)](https://www.apoorvdarshan.com/)
+[![Twitter](https://img.shields.io/badge/-@apoorvdarshan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
+[![LinkedIn](https://img.shields.io/badge/-Apoorv_Darshan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
+[![YouTube](https://img.shields.io/badge/-apoorvdarshan-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@apoorvdarshan)
+[![Instagram](https://img.shields.io/badge/-apoorvdarshan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apoorvdarshan)
+[![Email](https://img.shields.io/badge/-ad13dtu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
+[![Credly](https://img.shields.io/badge/-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
+[![Schedule](https://img.shields.io/badge/-Book_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
-### Developer Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+<details>
+<summary>More About Me</summary>
 
-</div>
+- Building full-stack applications with MERN stack
+- Experimenting with gesture recognition and computer vision
+- Creating unique UI/UX experiences
+- Open to collaboration and new opportunities
 
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=apoorvdarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvdarshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvdarshan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.apoorvdarshan.com/">
-  <img src="https://img.shields.io/badge/Portfolio-0D7C37?logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/apoorvdarshan">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/apoorvdarshan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/apoorvdarshan">
-  <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white" alt="X" />
-</a>
-
-<a href="mailto:ad13dtu@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" alt="Mail" />
-</a>
-<a href="https://youtube.com/@apoorvdarshan">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://instagram.com/apoorvdarshan">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.reddit.com/user/apoorvdev">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit" />
-</a>
-
-<a href="https://www.credly.com/users/apoorvdarshan">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white" alt="Credly" />
-</a>
-<a href="https://cal.com/apoorvdarshan">
-  <img src="https://img.shields.io/badge/Schedule_Meeting-000000?logo=google-meet&logoColor=white" alt="Calendar" />
-</a>
-
-</div>
+</details>
