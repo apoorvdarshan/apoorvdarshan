@@ -29,7 +29,6 @@
 - 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
 - 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
 - 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
-- 💔 **[grievance](https://github.com/apoorvdarshan/grievance)** - Playful relationship complaint portal
 - 📄 **[resume-codes](https://resume.codes/)** *(closed source)* - Resume builder with live preview (currently not functional)
 - 🎮 **[zombie-game](https://github.com/apoorvdarshan/zombie-game)** - 3D zombie survival FPS with Three.js
 - 🖐️ **[gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)** - MediaPipe-powered hands-free virtual keyboard
