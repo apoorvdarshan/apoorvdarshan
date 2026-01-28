@@ -65,7 +65,7 @@
 
 ## Writing
 
-- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (1,800+ subscribers)
+- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (2,000+ subscribers)
 - **[Articles on X](https://x.com/apoorvdarshan/articles)** - Sharing insights on tech innovation and emerging trends
 
 ## Connect
