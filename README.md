@@ -29,7 +29,7 @@
 - 📰 **[zyro](https://github.com/apoorvdarshan/zyro)** - AI news website (GNews.io API, 100 req/day limit)
 - 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
 - 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
-- 📄 **[resume-codes](https://resume.codes/)** *(closed source)* - Resume builder with live preview (currently not functional)
+- 📄 **[resume-codes](https://github.com/apoorvdarshan/resume-codes)** - Resume builder with live preview
 - 🎮 **[zombie-game](https://github.com/apoorvdarshan/zombie-game)** - 3D zombie survival FPS with Three.js
 - 🖐️ **[gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)** - MediaPipe-powered hands-free virtual keyboard
 - 🎨 **[drawtica](https://github.com/apoorvdarshan/drawtica)** - Hand-gesture drawing app
