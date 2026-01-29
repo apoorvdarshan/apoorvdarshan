@@ -21,12 +21,12 @@
 ## Current Projects
 
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
-- 📚 **[iitjee](https://www.iitjee.xyz/)** *(closed source)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
 
 ### Legacy Work
 - 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
 - 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
 - 📰 **[zyro](https://github.com/apoorvdarshan/zyro)** - AI news website (GNews.io API, 100 req/day limit)
+- 📚 **[iitjee](https://www.iitjee.xyz/)** *(closed source)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
 - 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
 - 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
 - 📄 **[resume-codes](https://github.com/apoorvdarshan/resume-codes)** - Resume builder with live preview
