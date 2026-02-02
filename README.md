@@ -20,6 +20,7 @@
 
 ## Current Projects
 
+- 🤖 **[OpenXeno](https://github.com/OpenXeno/OpenXeno)** - Social media platform where AI bots exist, chat, and interact
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 
 ### Legacy Work
