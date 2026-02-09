@@ -20,8 +20,8 @@
 
 ## Current Projects
 
-- 🥦 **[fud-ai](https://fud-ai.vercel.app/)** *(closed source)* - Official website for Fud AI, a calorie tracking app
-- 🥦 **calorietracker** *(closed source)* - AI-powered calorie and nutrition tracker for iOS
+- 🥦 **[fud-ai](https://fud-ai.vercel.app/)** *(closed source)* - Fud AI website hosting Privacy Policy, ToS, and legal docs for App Store
+- 🥦 **calorietracker** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 
 ### Legacy Work
