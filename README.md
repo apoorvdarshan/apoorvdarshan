@@ -60,9 +60,9 @@
 
 ## What I'm Doing
 
+- **Building iOS apps** - Building with Swift and SwiftUI
 - **Building full-stack apps** - From frontend to backend, databases to deployment
 - **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, and X
-- **Learning iOS development** - Exploring Swift and mobile app development
 - **Contributing to open source** - Giving back to the community
 - **Regular coding practice** - Solving problems to stay sharp
 
