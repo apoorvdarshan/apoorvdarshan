@@ -1,6 +1,6 @@
 # Hi, I'm Apoorv 👋
 
-📍 **Delhi** | 🤖 **AI-powered builder** | 🚀 **Building web, bots, APIs, and everything in between**
+📍 **Delhi** | 🤖 **AI-powered builder** | 🚀 **Building web, apps, bots, APIs, and everything in between**
 
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
