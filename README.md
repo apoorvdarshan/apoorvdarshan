@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- 🥦 **[fud-ai](https://fud-ai.app/)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app with website hosting Privacy Policy, ToS, and legal docs for App Store
+- 🥦 **[fud-ai](https://fud-ai.app/)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 
 ### Legacy Work
