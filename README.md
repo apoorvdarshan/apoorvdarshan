@@ -25,6 +25,10 @@
 - 🥦 **[fud-ai](https://fud-ai.app/)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 
+### Open Source Contributions
+
+- 🛠️ **[CodexBar](https://github.com/steipete/CodexBar)** - [fix: use region-specific API endpoint for MiniMax usage fetch](https://github.com/steipete/CodexBar/commit/cc7013b8113eba1e1a04b367e56a927957a4339c)
+
 ### Legacy Work
 - 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
 - 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
