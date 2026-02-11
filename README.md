@@ -56,11 +56,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/apoorvdarshan)
-
-**Work GitHub**: [@apoorvxircls](https://github.com/apoorvxircls) - 900+ contributions during internship
-
-![Work GitHub Contribution Graph](https://ghchart.rshah.org/apoorvxircls)
+<img src="https://github-contribution-merger.vercel.app/api/merge?users=apoorvdarshan%2Capoorvxircls&mode=overlay&colors=39d353%2C58a6ff" alt="Merged contributions" />
 
 ## What I'm Doing
 
