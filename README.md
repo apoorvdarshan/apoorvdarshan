@@ -58,6 +58,8 @@
 
 <img src="https://github-contribution-merger.vercel.app/api/merge?users=apoorvdarshan%2Capoorvxircls&mode=overlay&colors=39d353%2C58a6ff" alt="Merged contributions" />
 
+**Work GitHub**: [@apoorvxircls](https://github.com/apoorvxircls) - 900+ contributions during internship
+
 ## What I'm Doing
 
 - **Building iOS apps** - Building with Swift and SwiftUI
