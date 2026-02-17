@@ -29,6 +29,8 @@
 ### Open Source Contributions
 
 - 🛠️ **[CodexBar](https://github.com/steipete/CodexBar)** - [fix: use region-specific API endpoint for MiniMax usage fetch](https://github.com/steipete/CodexBar/pull/344/commits)
+- 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros)** - [fix: redirected bank URLs reported by link checker](https://github.com/guibranco/BancosBrasileiros/pull/895)
+- 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge)** - [solve: filter even numbers from array](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)
 
 ### Legacy Work
 - 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
