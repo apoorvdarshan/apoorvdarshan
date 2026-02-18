@@ -28,10 +28,10 @@
 
 ### Open Source Contributions
 
-- 🛠️ **[CodexBar](https://github.com/steipete/CodexBar/pull/344/commits)** ⭐ 6K+ - fix: use region-specific API endpoint for MiniMax usage fetch
-- 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros/pull/895)** ⭐ 500+ - fix: redirected bank URLs reported by link checker
-- 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** ⭐ 470+ - solve: filter even numbers from array
-- 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** ⭐ 3 - fix: NameError in choose_bg_color when color picker is cancelled
+- 🛠️ **[CodexBar](https://github.com/steipete/CodexBar/pull/344/commits)** 6K+ ⭐ - fix: use region-specific API endpoint for MiniMax usage fetch
+- 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros/pull/895)** 500+ ⭐ - fix: redirected bank URLs reported by link checker
+- 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** 470+ ⭐ - solve: filter even numbers from array
+- 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** 3 ⭐ - fix: NameError in choose_bg_color when color picker is cancelled
 
 ### Legacy Work
 - 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
