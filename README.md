@@ -29,7 +29,7 @@
 ### Open Source Contributions
 
 - 🧠 **[dify](https://github.com/langgenius/dify/pull/32386)** ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=★&color=0D7C37) - refactor(web): replace String.match() with RegExp.exec() for non-global regex
-- 🔴 **[laravel](https://github.com/laravel/laravel/pull/6755)** ![Stars](https://img.shields.io/github/stars/laravel/laravel?style=flat-square&label=★&color=0D7C37) - add APP_NAME fallback in mail config
+- 🔴 **[laravel](https://github.com/laravel/laravel/pull/6755)** ![Stars](https://img.shields.io/github/stars/laravel/laravel?style=flat-square&label=★&color=0D7C37) - add APP_NAME fallback in mail config (merged by [@taylorotwell](https://github.com/taylorotwell), creator of Laravel)
 - 🛠️ **[CodexBar](https://github.com/steipete/CodexBar/pull/344/commits)** ![Stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square&label=★&color=0D7C37) - fix: use region-specific API endpoint for MiniMax usage fetch (by [@steipete](https://github.com/steipete), creator of 🦞 [OpenClaw](https://github.com/anthropics/openclaw))
 - 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros/pull/895)** ![Stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=flat-square&label=★&color=0D7C37) - fix: redirected bank URLs reported by link checker
 - 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** ![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?style=flat-square&label=★&color=0D7C37) - solve: filter even numbers from array
