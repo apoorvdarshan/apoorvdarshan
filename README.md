@@ -32,9 +32,9 @@
 - 🔴 **[laravel](https://github.com/laravel/laravel/pull/6755)** ![Stars](https://img.shields.io/github/stars/laravel/laravel?style=flat-square&label=★&color=0D7C37) - add APP_NAME fallback in mail config (merged by [@taylorotwell](https://github.com/taylorotwell), creator of Laravel)
 - 🔧 **[gitextensions](https://github.com/gitextensions/gitextensions/pull/12841)** ![Stars](https://img.shields.io/github/stars/gitextensions/gitextensions?style=flat-square&label=★&color=0D7C37) - fix: console launch fails when Windows username contains spaces
 - 🛠️ **[CodexBar](https://github.com/steipete/CodexBar/pull/344/commits)** ![Stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square&label=★&color=0D7C37) - fix: use region-specific API endpoint for MiniMax usage fetch (by [@steipete](https://github.com/steipete), creator of 🦞 [OpenClaw](https://github.com/anthropics/openclaw))
+- 👥 **[TEAMMATES](https://github.com/TEAMMATES/teammates/pull/13553)** ![Stars](https://img.shields.io/github/stars/TEAMMATES/teammates?style=flat-square&label=★&color=0D7C37) - replace file-saver with native browser APIs
 - 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros/pull/895)** ![Stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=flat-square&label=★&color=0D7C37) - fix: redirected bank URLs reported by link checker
 - 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** ![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?style=flat-square&label=★&color=0D7C37) - solve: filter even numbers from array
-- 👥 **[TEAMMATES](https://github.com/TEAMMATES/teammates/pull/13553)** ![Stars](https://img.shields.io/github/stars/TEAMMATES/teammates?style=flat-square&label=★&color=0D7C37) - replace file-saver with native browser APIs
 - 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** ![Stars](https://img.shields.io/github/stars/petertzy/markdown-reader?style=flat-square&label=★&color=0D7C37) - fix: NameError in choose_bg_color when color picker is cancelled
 
 ### Legacy Work
