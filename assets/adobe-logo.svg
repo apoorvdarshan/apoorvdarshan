@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" width="160" height="50">
-  <path d="M22.832 0H0v52.753h.002L22.832 0zM37.218 0H60.05v52.753h-.001L37.218 0zM30.025 19.596L45.676 52.753H36.58l-4.693-11.776H20.64l9.385-21.381z" transform="translate(2,0) scale(0.85)" fill="#FF0000"/>
-  <text x="56" y="37" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="36" fill="#FF0000">Adobe</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 45" width="135" height="45">
+  <path d="M22.832 0H0v52.753h.002L22.832 0zM37.218 0H60.05v52.753h-.001L37.218 0zM30.025 19.596L45.676 52.753H36.58l-4.693-11.776H20.64l9.385-21.381z" transform="translate(0,0) scale(0.75)" fill="#FF0000"/>
+  <text x="48" y="33" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="32" fill="#FF0000">Adobe</text>
 </svg>
