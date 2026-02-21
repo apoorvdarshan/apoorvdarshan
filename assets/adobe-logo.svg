@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60">
+  <!-- Adobe "A" icon -->
+  <path d="M22.832 0H0v52.753h.002L22.832 0zM37.218 0H60.05v52.753h-.001L37.218 0zM30.025 19.596L45.676 52.753H36.58l-4.693-11.776H20.64l9.385-21.381z" transform="translate(2,3) scale(0.85)" fill="#FF0000"/>
+  <!-- Adobe text -->
+  <text x="58" y="40" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="36" fill="#FF0000">Adobe</text>
+</svg>
