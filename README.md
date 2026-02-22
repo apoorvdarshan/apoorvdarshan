@@ -93,6 +93,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apoorvdarshan)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/apoorvdev)
 [![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
+[![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
