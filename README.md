@@ -40,6 +40,7 @@
 - 👥 **[TEAMMATES](https://github.com/TEAMMATES/teammates/pull/13553)** ![Stars](https://img.shields.io/github/stars/TEAMMATES/teammates?style=flat-square&label=★&color=0D7C37) - replace file-saver with native browser APIs
 - 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros/pull/895)** ![Stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=flat-square&label=★&color=0D7C37) - fix: redirected bank URLs reported by link checker
 - 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** ![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?style=flat-square&label=★&color=0D7C37) - solve: filter even numbers from array
+- 📝 **[moin](https://github.com/moinwiki/moin/pull/2166)** ![Stars](https://img.shields.io/github/stars/moinwiki/moin?style=flat-square&label=★&color=0D7C37) - fix: markdown parser crash on emphasized text inside HTML tags
 - 🔬 **[radis](https://github.com/radis/radis/pull/918)** ![Stars](https://img.shields.io/github/stars/radis/radis?style=flat-square&label=★&color=0D7C37) - fix: inconsistent spectral_points reporting
 - 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** ![Stars](https://img.shields.io/github/stars/petertzy/markdown-reader?style=flat-square&label=★&color=0D7C37) - fix: NameError in choose_bg_color when color picker is cancelled
 
