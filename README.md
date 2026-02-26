@@ -46,6 +46,7 @@
 - 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** ![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?v=2&style=flat-square&label=★&color=0D7C37) - solve: filter even numbers from array
 - 📝 **[moin](https://github.com/moinwiki/moin/pull/2166)** ![Stars](https://img.shields.io/github/stars/moinwiki/moin?v=2&style=flat-square&label=★&color=0D7C37) - fix: markdown parser crash on emphasized text inside HTML tags
 - 🔬 **[radis](https://github.com/radis/radis/pull/918)** ![Stars](https://img.shields.io/github/stars/radis/radis?v=2&style=flat-square&label=★&color=0D7C37) - fix: inconsistent spectral_points reporting
+- 🔷 **[docs-desktop](https://github.com/dotnet/docs-desktop/pull/2197)** ![Stars](https://img.shields.io/github/stars/dotnet/docs-desktop?v=2&style=flat-square&label=★&color=0D7C37) - fix: MD001 heading level violations in winforms/advanced (by [.NET](https://github.com/dotnet))
 - 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** ![Stars](https://img.shields.io/github/stars/petertzy/markdown-reader?v=2&style=flat-square&label=★&color=0D7C37) - fix: NameError in choose_bg_color when color picker is cancelled
 
 ### Legacy Work
