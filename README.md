@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- 🥦 **[fud-ai](https://fud-ai.app/)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
+- 🥦 **[fud-ai](https://apps.apple.com/us/app/fud-ai-calorie-tracker/id6758935726)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
 - 📊 **[github-readme-contribution-merger](https://github.com/apoorvdarshan/github-readme-contribution-merger)** - Merge multiple GitHub contribution graphs into one SVG heatmap
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 
