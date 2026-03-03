@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- 💰 **[billionaire-smash](https://bsmash.app)** *(closed source)* - Facemash for the Forbes Real-Time Billionaires list. Compare two billionaires head-to-head and vote on who wins
+- 💰 **[billionaire-smash](https://bsmash.app)** *(closed source)* - Facemash for Forbes billionaires, vote on who wins head-to-head
 - 🥦 **[fud-ai](https://apps.apple.com/us/app/fud-ai-calorie-tracker/id6758935726)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
 - 📊 **[github-readme-contribution-merger](https://github.com/apoorvdarshan/github-readme-contribution-merger)** - Merge multiple GitHub contribution graphs into one SVG heatmap
 - 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
