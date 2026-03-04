@@ -106,6 +106,12 @@
 [![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
 [![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.bsky.social)
+[![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
+[![Hackernoon](https://img.shields.io/badge/-Hackernoon-00FF00?style=flat-square&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/apoorvdarshan)
+[![HackerNode](https://img.shields.io/badge/-HackerNode-1A1A2E?style=flat-square&logo=hackernode&logoColor=white)](https://hackernode.com/apoorvdarshan)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
 ---
