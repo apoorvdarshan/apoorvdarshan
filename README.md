@@ -110,7 +110,7 @@
 [![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
 [![Hackernoon](https://img.shields.io/badge/-Hackernoon-00FF00?style=flat-square&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/apoorvdarshan)
-[![HackerNode](https://img.shields.io/badge/-HackerNode-1A1A2E?style=flat-square&logo=hackernode&logoColor=white)](https://hackernode.com/apoorvdarshan)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@apoorvdarshan)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
