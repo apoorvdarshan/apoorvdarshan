@@ -22,10 +22,10 @@
 
 ## Current Projects
 
+- ✍️ **[blog](https://apoorvdarshan.com)** - A personal blog about me :D
 - 💰 **[billionaire-smash](https://bsmash.app)** *(closed source)* - Facemash for Forbes billionaires, vote on who wins head-to-head
 - 🥦 **[fud-ai](https://apps.apple.com/us/app/fud-ai-calorie-tracker/id6758935726)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
 - 📊 **[github-readme-contribution-merger](https://github.com/apoorvdarshan/github-readme-contribution-merger)** - Merge multiple GitHub contribution graphs into one SVG heatmap
-- 📺 **[portfolio](https://github.com/apoorvdarshan/portfolio)** - Personal portfolio website
 
 ### Open Source Contributions
 
@@ -96,7 +96,7 @@
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D7C37?style=flat-square&logo=google-chrome&logoColor=white)](https://www.apoorvdarshan.com/)
+[![Blog](https://img.shields.io/badge/-Blog-0D7C37?style=flat-square&logo=google-chrome&logoColor=white)](https://apoorvdarshan.com)
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
@@ -106,7 +106,7 @@
 [![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
 [![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.bsky.social)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.com)
 [![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
 [![Hackernoon](https://img.shields.io/badge/-Hackernoon-00FF00?style=flat-square&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/apoorvdarshan)
