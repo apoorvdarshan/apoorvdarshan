@@ -143,12 +143,3 @@
 - Hit the gym when I'm not at the keyboard
 
 </details>
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=apoorvdarshan&label=Visitors&color=0D7C37&style=flat)
-![Total Stars](https://img.shields.io/github/stars/apoorvdarshan?label=Total%20Stars&style=flat&color=0D7C37)
-
-</div>
