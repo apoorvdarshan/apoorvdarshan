@@ -22,10 +22,10 @@
 
 ## Current Projects
 
+- 🧾 **[daxerly](https://daxerly.vercel.app)** *(closed source)* - Proof of work, formatted as a receipt — with a price tag on it
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
 - 💰 **[billionaire-smash](https://github.com/apoorvdarshan/billionaire-smash)** - Facemash for Forbes billionaires, vote on who wins head-to-head
 - 🥦 **[fud-ai](https://apps.apple.com/us/app/fud-ai-calorie-tracker/id6758935726)** *(closed source)* - Fud AI, an AI-powered calorie and nutrition tracker iOS app
-- 🧾 **[daxerly](https://daxerly.vercel.app)** *(closed source)* - Proof of work, formatted as a receipt — with a price tag on it
 - 📊 **[github-readme-contribution-merger](https://github.com/apoorvdarshan/github-readme-contribution-merger)** - Merge multiple GitHub contribution graphs into one SVG heatmap
 
 ### Open Source Contributions
