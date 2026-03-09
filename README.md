@@ -114,6 +114,7 @@
 [![Hackernoon](https://img.shields.io/badge/-Hackernoon-66FF66?style=flat-square&logo=hackernoon&logoColor=000000)](https://hackernoon.com/u/apoorvdarshan)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@apoorvdarshan)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/u/aapoorv)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
 ---
