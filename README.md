@@ -30,6 +30,7 @@
 
 ### Open Source Contributions
 
+- 🍃 **[spring-boot](https://github.com/spring-projects/spring-boot/pull/49261)** ![Stars](https://img.shields.io/github/stars/spring-projects/spring-boot?v=2&style=flat-square&label=★&color=0D7C37) - fix: update TestRestTemplate's default cookie handling to match RestTemplate's
 - 🧠 **[dify](https://github.com/langgenius/dify/pull/32386)** ![Stars](https://img.shields.io/github/stars/langgenius/dify?v=2&style=flat-square&label=★&color=0D7C37) - refactor(web): replace String.match() with RegExp.exec() for non-global regex
 - 🔴 **[laravel](https://github.com/laravel/laravel/pull/6755)** ![Stars](https://img.shields.io/github/stars/laravel/laravel?v=2&style=flat-square&label=★&color=0D7C37) - add APP_NAME fallback in mail config (merged by [@taylorotwell](https://github.com/taylorotwell), creator of [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/laravel))
 - 💲 **[jquery](https://github.com/jquery/jquery/pull/5775)** ![Stars](https://img.shields.io/github/stars/jquery/jquery?v=2&style=flat-square&label=★&color=0D7C37) - fix: use createElementNS to support XSLT documents
