@@ -98,7 +98,7 @@
 ## Writing
 
 - **[Blog](https://apoorvdarshan.com)** - Personal blog about tech, projects, and ideas
-- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (2,500+ subscribers)
+- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (2,800+ subscribers)
 - **[Articles on X](https://x.com/apoorvdarshan/articles)** - Sharing insights on tech innovation and emerging trends
 
 ## Connect
@@ -133,7 +133,7 @@
 - JEE 2023 - Ranked in top 1.5% candidates
 - Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
 - Built YouTube channel to 21K+ subscribers at 16, earned $1000+, and sold it
-- Over 8K+ subscribers on LinkedIn
+- Over 9K+ subscribers on LinkedIn
 
 ---
 
