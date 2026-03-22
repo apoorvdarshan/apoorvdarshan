@@ -23,9 +23,9 @@
 ## Current Projects
 
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit smoking, alcohol, porn, social media, weed, gambling, overspending & caffeine
+- 📊 **[Xscore](https://github.com/apoorvdarshan/Xscore)** - X account engagement scorer using the open-source algorithm
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
 - 🤖 **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - Official website for Scowld App
-- 📊 **[Xscore](https://github.com/apoorvdarshan/Xscore)** - X account engagement scorer using the open-source algorithm
 - 🧾 **[daxerly](https://github.com/apoorvdarshan/daxerly)** - Proof of work, formatted as a receipt — with a price tag on it
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
 - 💰 **[billionaire-smash](https://github.com/apoorvdarshan/billionaire-smash)** - Facemash for Forbes billionaires, vote on who wins head-to-head
