@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit smoking, alcohol, porn, social media, weed, gambling, overspending & caffeine
+- 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
 - 📊 **[Xscore](https://github.com/apoorvdarshan/Xscore)** - X account engagement scorer using the open-source algorithm
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
 - 🤖 **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - Official website for Scowld App
