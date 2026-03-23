@@ -34,6 +34,7 @@
 
 ### Open Source Contributions
 
+- 🏕️ **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/66544)** ![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?v=2&style=flat-square&label=★&color=0D7C37) - fix(curriculum): correct example for ochenta y uno gender rule
 - 🧠 **[dify](https://github.com/langgenius/dify/pull/32386)** ![Stars](https://img.shields.io/github/stars/langgenius/dify?v=2&style=flat-square&label=★&color=0D7C37) - refactor(web): replace String.match() with RegExp.exec() for non-global regex
 - 🔥 **[svelte](https://github.com/sveltejs/svelte/pull/17745)** ![Stars](https://img.shields.io/github/stars/sveltejs/svelte?v=2&style=flat-square&label=★&color=0D7C37) - fix: keep select.__value current when effect is deferred
 - 🔴 **[laravel](https://github.com/laravel/laravel/pull/6755)** ![Stars](https://img.shields.io/github/stars/laravel/laravel?v=2&style=flat-square&label=★&color=0D7C37) - add APP_NAME fallback in mail config (merged by [@taylorotwell](https://github.com/taylorotwell), creator of [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/laravel))
