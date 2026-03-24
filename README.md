@@ -22,6 +22,7 @@
 
 ## Current Projects
 
+- 🌌 **[nornlore](https://github.com/apoorvdarshan/nornlore)** - Discover what the universe was doing the day you were born
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
 - 📊 **[Xscore](https://github.com/apoorvdarshan/Xscore)** - X account engagement scorer using the open-source algorithm
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
