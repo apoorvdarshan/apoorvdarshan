@@ -35,66 +35,74 @@
 
 ### Open Source Contributions
 
-- 🏕️ **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/66544)** ![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?v=2&style=flat-square&label=★&color=0D7C37) - fix(curriculum): correct example for ochenta y uno gender rule
-- 🧠 **[dify](https://github.com/langgenius/dify/pull/32386)** ![Stars](https://img.shields.io/github/stars/langgenius/dify?v=2&style=flat-square&label=★&color=0D7C37) - refactor(web): replace String.match() with RegExp.exec() for non-global regex
-- 🔥 **[svelte](https://github.com/sveltejs/svelte/pull/17745)** ![Stars](https://img.shields.io/github/stars/sveltejs/svelte?v=2&style=flat-square&label=★&color=0D7C37) - fix: keep select.__value current when effect is deferred
-- 🔴 **[laravel](https://github.com/laravel/laravel/pull/6755)** ![Stars](https://img.shields.io/github/stars/laravel/laravel?v=2&style=flat-square&label=★&color=0D7C37) - add APP_NAME fallback in mail config (merged by [@taylorotwell](https://github.com/taylorotwell), creator of [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/laravel))
-- 🍃 **[spring-boot](https://github.com/spring-projects/spring-boot/pull/49261)** ![Stars](https://img.shields.io/github/stars/spring-projects/spring-boot?v=2&style=flat-square&label=★&color=0D7C37) - fix: update TestRestTemplate's default cookie handling to match RestTemplate's
-- 💲 **[jquery](https://github.com/jquery/jquery/pull/5775)** ![Stars](https://img.shields.io/github/stars/jquery/jquery?v=2&style=flat-square&label=★&color=0D7C37) - fix: use createElementNS to support XSLT documents
-- 🟣 **[julia](https://github.com/JuliaLang/julia/pull/61054)** ![Stars](https://img.shields.io/github/stars/JuliaLang/julia?v=2&style=flat-square&label=★&color=0D7C37) - fix: quote Symbol values in @test failure pretty printing
-- 🐚 **[zx](https://github.com/google/zx/pulls?q=author%3Aapoorvdarshan)** ![Stars](https://img.shields.io/github/stars/google/zx?v=2&style=flat-square&label=★&color=0D7C37) - 2 merged PRs: cwd validation + remote script error handling (by [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/google))
-- 🔷 **[runtime](https://github.com/dotnet/runtime/pull/124498)** ![Stars](https://img.shields.io/github/stars/dotnet/runtime?v=2&style=flat-square&label=★&color=0D7C37) - fix: TokenBucketRateLimiter AttemptAcquire(0) with fractional tokens (by [.NET](https://github.com/dotnet))
-- 📓 **[jupyterlab](https://github.com/jupyterlab/jupyterlab/pull/18530)** ![Stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab?v=2&style=flat-square&label=★&color=0D7C37) - fix: theme settings broken in non-English locales
-- <details><summary>Show More</summary>
-
-  - 🎨 **[react-spectrum](https://github.com/adobe/react-spectrum/pull/9678)** ![Stars](https://img.shields.io/github/stars/adobe/react-spectrum?v=3&style=flat-square&label=★&color=0D7C37) - fix: incorrect timezone conversion when setLocalTimeZone is used (by [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)](https://github.com/adobe))
-  - 🛡️ **[prowler](https://github.com/prowler-cloud/prowler/pull/10102)** ![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?v=2&style=flat-square&label=★&color=0D7C37) - fix: remove return statements from finally blocks
-  - 🛠️ **[CodexBar](https://github.com/steipete/CodexBar/pull/344/commits)** ![Stars](https://img.shields.io/github/stars/steipete/CodexBar?v=2&style=flat-square&label=★&color=0D7C37) - fix: region-specific API endpoint for MiniMax (by [@steipete](https://github.com/steipete), 🦞 [OpenClaw](https://github.com/anthropics/openclaw))
-  - 🔧 **[gitextensions](https://github.com/gitextensions/gitextensions/pull/12841)** ![Stars](https://img.shields.io/github/stars/gitextensions/gitextensions?v=2&style=flat-square&label=★&color=0D7C37) - fix: console launch fails when Windows username contains spaces
-  - 🐍 **[boa](https://github.com/boa-dev/boa/pull/4631)** ![Stars](https://img.shields.io/github/stars/boa-dev/boa?v=2&style=flat-square&label=★&color=0D7C37) - feat: implement BOM stripping and ignoreBOM option in TextDecoder
-  - 🦞 **[clawhub](https://github.com/openclaw/clawhub/pull/421)** ![Stars](https://img.shields.io/github/stars/openclaw/clawhub?v=2&style=flat-square&label=★&color=0D7C37) - fix: use relative delay for Retry-After header on 429 (by [@steipete](https://github.com/steipete), 🦞 [OpenClaw](https://github.com/anthropics/openclaw))
-  - 🆙 **[up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=author%3Aapoorvdarshan)** ![Stars](https://img.shields.io/github/stars/up-for-grabs/up-for-grabs.net?v=2&style=flat-square&label=★&color=0D7C37) - 6 merged PRs: add projects + fix forks badge cursor
-  - 🔮 **[zenml](https://github.com/zenml-io/zenml/pull/4496)** ![Stars](https://img.shields.io/github/stars/zenml-io/zenml?v=2&style=flat-square&label=★&color=0D7C37) - fix: include git submodule files in code archive
-  - ⚡ **[akka.net](https://github.com/akkadotnet/akka.net/pull/8048)** ![Stars](https://img.shields.io/github/stars/akkadotnet/akka.net?v=2&style=flat-square&label=★&color=0D7C37) - fix: downgrade RemoveChild log from Warning to Debug
-  - 🔷 **[fsharp](https://github.com/dotnet/fsharp/pull/19317)** ![Stars](https://img.shields.io/github/stars/dotnet/fsharp?v=2&style=flat-square&label=★&color=0D7C37) - fix: Seq.empty rendering as "EmptyEnumerable" in serializers (by [.NET](https://github.com/dotnet))
-  - 👥 **[TEAMMATES](https://github.com/TEAMMATES/teammates/pull/13553)** ![Stars](https://img.shields.io/github/stars/TEAMMATES/teammates?v=2&style=flat-square&label=★&color=0D7C37) - replace file-saver with native browser APIs
-  - 📺 **[ccextractor](https://github.com/CCExtractor/ccextractor/pulls?q=author%3Aapoorvdarshan)** ![Stars](https://img.shields.io/github/stars/CCExtractor/ccextractor?v=2&style=flat-square&label=★&color=0D7C37) - 2 merged PRs: fix null pointer dereference in Matroska parser + config file parsing bugs
-  - 💅 **[styled-components-website](https://github.com/styled-components/styled-components-website/pull/993)** ![Stars](https://img.shields.io/github/stars/styled-components/styled-components-website?v=2&style=flat-square&label=★&color=0D7C37) - fix: improve accessibility across site to meet WCAG 2.1 guidelines
-  - 🏦 **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros/pull/895)** ![Stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?v=2&style=flat-square&label=★&color=0D7C37) - fix: redirected bank URLs reported by link checker
-  - 🤖 **[giselle](https://github.com/giselles-ai/giselle/pull/2739)** ![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?v=2&style=flat-square&label=★&color=0D7C37) - fix: use continue instead of return in handleEdgesChange
-  - 🍴 **[fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge/pull/6370)** ![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?v=2&style=flat-square&label=★&color=0D7C37) - solve: filter even numbers from array
-  - 📝 **[moin](https://github.com/moinwiki/moin/pull/2166)** ![Stars](https://img.shields.io/github/stars/moinwiki/moin?v=2&style=flat-square&label=★&color=0D7C37) - fix: markdown parser crash on emphasized text inside HTML tags
-  - 🔬 **[radis](https://github.com/radis/radis/pull/918)** ![Stars](https://img.shields.io/github/stars/radis/radis?v=2&style=flat-square&label=★&color=0D7C37) - fix: inconsistent spectral_points reporting
-  - 🔷 **[docs-desktop](https://github.com/dotnet/docs-desktop/pull/2197)** ![Stars](https://img.shields.io/github/stars/dotnet/docs-desktop?v=2&style=flat-square&label=★&color=0D7C37) - fix: MD001 heading level violations in winforms/advanced (by [.NET](https://github.com/dotnet))
-  - 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** ![Stars](https://img.shields.io/github/stars/petertzy/markdown-reader?v=2&style=flat-square&label=★&color=0D7C37) - fix: NameError in choose_bg_color when color picker is cancelled
-  </details>
+<ul>
+  <li>🏕️ <strong><a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/66544">freeCodeCamp</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix(curriculum): correct example for ochenta y uno gender rule</li>
+  <li>🧠 <strong><a href="https://github.com/langgenius/dify/pull/32386">dify</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/langgenius/dify?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - refactor(web): replace String.match() with RegExp.exec() for non-global regex</li>
+  <li>🔥 <strong><a href="https://github.com/sveltejs/svelte/pull/17745">svelte</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/sveltejs/svelte?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: keep select.__value current when effect is deferred</li>
+  <li>🔴 <strong><a href="https://github.com/laravel/laravel/pull/6755">laravel</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/laravel/laravel?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - add APP_NAME fallback in mail config (merged by <a href="https://github.com/taylorotwell">@taylorotwell</a>, creator of <a href="https://github.com/laravel"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white"></a>)</li>
+  <li>🍃 <strong><a href="https://github.com/spring-projects/spring-boot/pull/49261">spring-boot</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/spring-projects/spring-boot?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: update TestRestTemplate's default cookie handling to match RestTemplate's</li>
+  <li>💲 <strong><a href="https://github.com/jquery/jquery/pull/5775">jquery</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/jquery/jquery?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: use createElementNS to support XSLT documents</li>
+  <li>🟣 <strong><a href="https://github.com/JuliaLang/julia/pull/61054">julia</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/JuliaLang/julia?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: quote Symbol values in @test failure pretty printing</li>
+  <li>🐚 <strong><a href="https://github.com/google/zx/pulls?q=author%3Aapoorvdarshan">zx</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/google/zx?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - 2 merged PRs: cwd validation + remote script error handling (by <a href="https://github.com/google"><img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white"></a>)</li>
+  <li>🔷 <strong><a href="https://github.com/dotnet/runtime/pull/124498">runtime</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/dotnet/runtime?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: TokenBucketRateLimiter AttemptAcquire(0) with fractional tokens (by <a href="https://github.com/dotnet">.NET</a>)</li>
+  <li>📓 <strong><a href="https://github.com/jupyterlab/jupyterlab/pull/18530">jupyterlab</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/jupyterlab/jupyterlab?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: theme settings broken in non-English locales</li>
+  <li>
+    <details>
+      <summary>Show More</summary>
+      <div>&bull; 🎨 <strong><a href="https://github.com/adobe/react-spectrum/pull/9678">react-spectrum</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/adobe/react-spectrum?v=3&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: incorrect timezone conversion when setLocalTimeZone is used (by <a href="https://github.com/adobe"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&amp;logo=adobe&amp;logoColor=white"></a>)</div>
+      <div>&bull; 🛡️ <strong><a href="https://github.com/prowler-cloud/prowler/pull/10102">prowler</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/prowler-cloud/prowler?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: remove return statements from finally blocks</div>
+      <div>&bull; 🛠️ <strong><a href="https://github.com/steipete/CodexBar/pull/344/commits">CodexBar</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/steipete/CodexBar?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: region-specific API endpoint for MiniMax (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/gitextensions/gitextensions/pull/12841">gitextensions</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/gitextensions/gitextensions?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: console launch fails when Windows username contains spaces</div>
+      <div>&bull; 🐍 <strong><a href="https://github.com/boa-dev/boa/pull/4631">boa</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/boa-dev/boa?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - feat: implement BOM stripping and ignoreBOM option in TextDecoder</div>
+      <div>&bull; 🦞 <strong><a href="https://github.com/openclaw/clawhub/pull/421">clawhub</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/openclaw/clawhub?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: use relative delay for Retry-After header on 429 (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</div>
+      <div>&bull; 🆙 <strong><a href="https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=author%3Aapoorvdarshan">up-for-grabs.net</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/up-for-grabs/up-for-grabs.net?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - 6 merged PRs: add projects + fix forks badge cursor</div>
+      <div>&bull; 🔮 <strong><a href="https://github.com/zenml-io/zenml/pull/4496">zenml</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/zenml-io/zenml?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: include git submodule files in code archive</div>
+      <div>&bull; ⚡ <strong><a href="https://github.com/akkadotnet/akka.net/pull/8048">akka.net</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/akkadotnet/akka.net?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: downgrade RemoveChild log from Warning to Debug</div>
+      <div>&bull; 🔷 <strong><a href="https://github.com/dotnet/fsharp/pull/19317">fsharp</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/dotnet/fsharp?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: Seq.empty rendering as "EmptyEnumerable" in serializers (by <a href="https://github.com/dotnet">.NET</a>)</div>
+      <div>&bull; 👥 <strong><a href="https://github.com/TEAMMATES/teammates/pull/13553">TEAMMATES</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/TEAMMATES/teammates?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - replace file-saver with native browser APIs</div>
+      <div>&bull; 📺 <strong><a href="https://github.com/CCExtractor/ccextractor/pulls?q=author%3Aapoorvdarshan">ccextractor</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/CCExtractor/ccextractor?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - 2 merged PRs: fix null pointer dereference in Matroska parser + config file parsing bugs</div>
+      <div>&bull; 💅 <strong><a href="https://github.com/styled-components/styled-components-website/pull/993">styled-components-website</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/styled-components/styled-components-website?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: improve accessibility across site to meet WCAG 2.1 guidelines</div>
+      <div>&bull; 🏦 <strong><a href="https://github.com/guibranco/BancosBrasileiros/pull/895">BancosBrasileiros</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/guibranco/BancosBrasileiros?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: redirected bank URLs reported by link checker</div>
+      <div>&bull; 🤖 <strong><a href="https://github.com/giselles-ai/giselle/pull/2739">giselle</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/giselles-ai/giselle?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: use continue instead of return in handleEdgesChange</div>
+      <div>&bull; 🍴 <strong><a href="https://github.com/fork-commit-merge/fork-commit-merge/pull/6370">fork-commit-merge</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - solve: filter even numbers from array</div>
+      <div>&bull; 📝 <strong><a href="https://github.com/moinwiki/moin/pull/2166">moin</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/moinwiki/moin?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: markdown parser crash on emphasized text inside HTML tags</div>
+      <div>&bull; 🔬 <strong><a href="https://github.com/radis/radis/pull/918">radis</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/radis/radis?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: inconsistent spectral_points reporting</div>
+      <div>&bull; 🔷 <strong><a href="https://github.com/dotnet/docs-desktop/pull/2197">docs-desktop</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/dotnet/docs-desktop?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: MD001 heading level violations in winforms/advanced (by <a href="https://github.com/dotnet">.NET</a>)</div>
+      <div>&bull; 📖 <strong><a href="https://github.com/petertzy/markdown-reader/pull/84">markdown-reader</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/petertzy/markdown-reader?v=2&amp;style=flat-square&amp;label=★&amp;color=0D7C37"> - fix: NameError in choose_bg_color when color picker is cancelled</div>
+    </details>
+  </li>
+</ul>
 
 ### Legacy Work
-- 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
-- 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
-- 📰 **[zyro](https://github.com/apoorvdarshan/zyro)** - AI news website (GNews.io API, 100 req/day limit)
-- 📚 **[iitjee](https://www.iitjee.xyz/)** *(closed source)* - Handwritten notes for IIT JEE prep (100+ organic visitors/month)
-- 🎰 **[slot-machine-date-picker](https://github.com/apoorvdarshan/slot-machine-date-picker)** - Slot machine date picker; intentionally bad UI
-- 🎵 **[doodle-beats](https://github.com/apoorvdarshan/doodle-beats)** - Doodle-style web music player
-- 📄 **[resume-codes](https://github.com/apoorvdarshan/resume-codes)** - Resume builder with live preview
-- 🎮 **[zombie-game](https://github.com/apoorvdarshan/zombie-game)** - 3D zombie survival FPS with Three.js
-- 🖐️ **[gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)** - MediaPipe-powered hands-free virtual keyboard
-- 🎨 **[drawtica](https://github.com/apoorvdarshan/drawtica)** - Hand-gesture drawing app
-- <details><summary>Show More</summary>
-
-  - 👁️ **[peek-a-pupil](https://github.com/apoorvdarshan/peek-a-pupil)** - Horror-themed interactive eye with gesture control
-  - 🎯 **[headshot-tracker](https://github.com/apoorvdarshan/headshot-tracker)** - Real-time face tracking with sci-fi HUD
-  - 🖼️ **[compress-image](https://github.com/apoorvdarshan/compress-image)** - Client-side image compression (browser-only, nothing uploaded)
-  - 🏫 **[dtu-clone](https://github.com/apoorvdarshan/dtu-clone)** - DTU website with cyberpunk UI
-  - 🐂 **[redbull](https://github.com/apoorvdarshan/redbull)** - Red Bull landing page reimagined
-  - 🌓 **[toggle-button](https://github.com/apoorvdarshan/toggle-button)** - Star Wars themed dark/light mode toggle
-  - 🚗 **[bmw](https://github.com/apoorvdarshan/bmw)** - BMW landing page clone
-  - 🐉 **[monster-energy](https://github.com/apoorvdarshan/monster-energy)** - Monster Energy landing page
-  - 🐕 **[random-dog-images](https://github.com/apoorvdarshan/random-dog-images)** - Random dog images powered by Dog CEO API
-  - 🐱 **[random-cat-facts](https://github.com/apoorvdarshan/random-cat-facts)** - Cat facts powered by catfact.ninja API
-  - 🧙 **[todo-app](https://github.com/apoorvdarshan/todo-app)** - Harry Potter-themed To-Do app
-  - 🎧 **[spotify-clone](https://github.com/apoorvdarshan/spotify-clone)** - Spotify UI clone
-  </details>
+<ul>
+  <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
+  <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
+  <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
+  <li>📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</li>
+  <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
+  <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
+  <li>📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</li>
+  <li>🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</li>
+  <li>🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> - MediaPipe-powered hands-free virtual keyboard</li>
+  <li>🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> - Hand-gesture drawing app</li>
+  <li>
+    <details>
+      <summary>Show More</summary>
+      <div>&bull; 👁️ <strong><a href="https://github.com/apoorvdarshan/peek-a-pupil">peek-a-pupil</a></strong> - Horror-themed interactive eye with gesture control</div>
+      <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> - Real-time face tracking with sci-fi HUD</div>
+      <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
+      <div>&bull; 🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> - DTU website with cyberpunk UI</div>
+      <div>&bull; 🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> - Red Bull landing page reimagined</div>
+      <div>&bull; 🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> - Star Wars themed dark/light mode toggle</div>
+      <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> - BMW landing page clone</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> - Monster Energy landing page</div>
+      <div>&bull; 🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> - Random dog images powered by Dog CEO API</div>
+      <div>&bull; 🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> - Cat facts powered by catfact.ninja API</div>
+      <div>&bull; 🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> - Harry Potter-themed To-Do app</div>
+      <div>&bull; 🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> - Spotify UI clone</div>
+    </details>
+  </li>
+</ul>
 
 ## GitHub Activity
 
