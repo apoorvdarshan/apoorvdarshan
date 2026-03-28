@@ -45,6 +45,10 @@
 - 🐚 **[zx](https://github.com/google/zx/pulls?q=author%3Aapoorvdarshan)** ![Stars](https://img.shields.io/github/stars/google/zx?v=2&style=flat-square&label=★&color=0D7C37) - 2 merged PRs: cwd validation + remote script error handling (by [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/google))
 - 🔷 **[runtime](https://github.com/dotnet/runtime/pull/124498)** ![Stars](https://img.shields.io/github/stars/dotnet/runtime?v=2&style=flat-square&label=★&color=0D7C37) - fix: TokenBucketRateLimiter AttemptAcquire(0) with fractional tokens (by [.NET](https://github.com/dotnet))
 - 📓 **[jupyterlab](https://github.com/jupyterlab/jupyterlab/pull/18530)** ![Stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab?v=2&style=flat-square&label=★&color=0D7C37) - fix: theme settings broken in non-English locales
+
+<details>
+<summary>Show More</summary>
+
 - 🎨 **[react-spectrum](https://github.com/adobe/react-spectrum/pull/9678)** ![Stars](https://img.shields.io/github/stars/adobe/react-spectrum?v=3&style=flat-square&label=★&color=0D7C37) - fix: incorrect timezone conversion when setLocalTimeZone is used (by [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)](https://github.com/adobe))
 - 🛡️ **[prowler](https://github.com/prowler-cloud/prowler/pull/10102)** ![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?v=2&style=flat-square&label=★&color=0D7C37) - fix: remove return statements from finally blocks
 - 🛠️ **[CodexBar](https://github.com/steipete/CodexBar/pull/344/commits)** ![Stars](https://img.shields.io/github/stars/steipete/CodexBar?v=2&style=flat-square&label=★&color=0D7C37) - fix: region-specific API endpoint for MiniMax (by [@steipete](https://github.com/steipete), 🦞 [OpenClaw](https://github.com/anthropics/openclaw))
@@ -66,6 +70,8 @@
 - 🔷 **[docs-desktop](https://github.com/dotnet/docs-desktop/pull/2197)** ![Stars](https://img.shields.io/github/stars/dotnet/docs-desktop?v=2&style=flat-square&label=★&color=0D7C37) - fix: MD001 heading level violations in winforms/advanced (by [.NET](https://github.com/dotnet))
 - 📖 **[markdown-reader](https://github.com/petertzy/markdown-reader/pull/84)** ![Stars](https://img.shields.io/github/stars/petertzy/markdown-reader?v=2&style=flat-square&label=★&color=0D7C37) - fix: NameError in choose_bg_color when color picker is cancelled
 
+</details>
+
 ### Legacy Work
 - 💼 **[axentra-os-affiliate](https://affiliate.axentraos.com/)** *(closed source)* - CRM platform built during internship at XIRCLS
 - 🌍 **[dob-selector](https://github.com/apoorvdarshan/dob-selector)** - Intentionally bad UI date picker; viral on Reddit (130K+ views)
@@ -77,6 +83,10 @@
 - 🎮 **[zombie-game](https://github.com/apoorvdarshan/zombie-game)** - 3D zombie survival FPS with Three.js
 - 🖐️ **[gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)** - MediaPipe-powered hands-free virtual keyboard
 - 🎨 **[drawtica](https://github.com/apoorvdarshan/drawtica)** - Hand-gesture drawing app
+
+<details>
+<summary>Show More</summary>
+
 - 👁️ **[peek-a-pupil](https://github.com/apoorvdarshan/peek-a-pupil)** - Horror-themed interactive eye with gesture control
 - 🎯 **[headshot-tracker](https://github.com/apoorvdarshan/headshot-tracker)** - Real-time face tracking with sci-fi HUD
 - 🖼️ **[compress-image](https://github.com/apoorvdarshan/compress-image)** - Client-side image compression (browser-only, nothing uploaded)
@@ -89,6 +99,8 @@
 - 🐱 **[random-cat-facts](https://github.com/apoorvdarshan/random-cat-facts)** - Cat facts powered by catfact.ninja API
 - 🧙 **[todo-app](https://github.com/apoorvdarshan/todo-app)** - Harry Potter-themed To-Do app
 - 🎧 **[spotify-clone](https://github.com/apoorvdarshan/spotify-clone)** - Spotify UI clone
+
+</details>
 
 ## GitHub Activity
 
