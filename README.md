@@ -165,7 +165,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- Using Claude Code to build faster and ship more
+- Using Claude Code and Codex to build faster and ship more
 - Turns out electrons are probability clouds until observed
 - Mathematics, physics, and electronics keep me curious
 - Apple > Windows, no debate
