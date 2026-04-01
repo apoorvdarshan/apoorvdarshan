@@ -25,8 +25,7 @@
 - 🌌 **[nornlore](https://github.com/apoorvdarshan/nornlore)** - Discover what the universe was doing the day you were born
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
 - 📊 **[Xscore](https://github.com/apoorvdarshan/Xscore)** - X account engagement scorer using the open-source algorithm
-- 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
-- 🤖 **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - Official website for Scowld App
+- 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** / **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - AI personal assistant that sees you
 - 🧾 **[daxerly](https://github.com/apoorvdarshan/daxerly)** - Proof of work, formatted as a receipt — with a price tag on it
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
 - 💰 **[billionaire-smash](https://github.com/apoorvdarshan/billionaire-smash)** - Facemash for Forbes billionaires, vote on who wins head-to-head
