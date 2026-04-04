@@ -93,6 +93,7 @@
       <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
       <div>&bull; 🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> - DTU website with cyberpunk UI</div>
       <div>&bull; 🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> - Red Bull landing page reimagined</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> - Fantasy-themed Simon Says memory game</div>
       <div>&bull; 🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> - Star Wars themed dark/light mode toggle</div>
       <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> - BMW landing page clone</div>
       <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> - Monster Energy landing page</div>
