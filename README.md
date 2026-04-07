@@ -82,13 +82,13 @@
   <li>📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</li>
   <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
-  <li>📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</li>
-  <li>🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</li>
-  <li>🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> - MediaPipe-powered hands-free virtual keyboard</li>
-  <li>🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> - Hand-gesture drawing app</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
+      <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
+      <div>&bull; 🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> - MediaPipe-powered hands-free virtual keyboard</div>
+      <div>&bull; 🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> - Hand-gesture drawing app</div>
       <div>&bull; 👁️ <strong><a href="https://github.com/apoorvdarshan/peek-a-pupil">peek-a-pupil</a></strong> - Horror-themed interactive eye with gesture control</div>
       <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> - Real-time face tracking with sci-fi HUD</div>
       <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
