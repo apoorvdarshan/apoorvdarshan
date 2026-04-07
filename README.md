@@ -24,15 +24,10 @@
 
 - 🦀 **[claw-c](https://github.com/apoorvdarshan/claw-c)** - Claude Code reimplemented in pure C — the lowest level it's ever been done
 - 📈 **[verceltics](https://github.com/apoorvdarshan/verceltics)** / **[verceltics-web](https://github.com/apoorvdarshan/verceltics-web)** - iOS app to view your Vercel web analytics
-- 🌌 **[nornlore](https://github.com/apoorvdarshan/nornlore)** - Discover what the universe was doing the day you were born
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
-- 📊 **[Xscore](https://github.com/apoorvdarshan/Xscore)** - X account engagement scorer using the open-source algorithm
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** / **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - AI personal assistant that sees you
-- 🧾 **[daxerly](https://github.com/apoorvdarshan/daxerly)** - Proof of work, formatted as a receipt — with a price tag on it
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
-- 💰 **[billionaire-smash](https://github.com/apoorvdarshan/billionaire-smash)** - Facemash for Forbes billionaires, vote on who wins head-to-head
 - 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** - AI-powered calorie and nutrition tracker iOS app
-- 📊 **[github-readme-contribution-merger](https://github.com/apoorvdarshan/github-readme-contribution-merger)** - Merge multiple GitHub contribution graphs into one SVG heatmap
 
 ### Open Source Contributions
 
@@ -76,6 +71,11 @@
 
 ### Legacy Work
 <ul>
+  <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
+  <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt — with a price tag on it</li>
+  <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> - Merge multiple GitHub contribution graphs into one SVG heatmap</li>
   <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
   <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
