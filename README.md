@@ -22,6 +22,7 @@
 
 ## Current Projects
 
+- 🦀 **[claw-c](https://github.com/apoorvdarshan/claw-c)** - Claude Code reimplemented in pure C — the lowest level it's ever been done
 - 📈 **[verceltics](https://github.com/apoorvdarshan/verceltics)** / **[verceltics-web](https://github.com/apoorvdarshan/verceltics-web)** - iOS app to view your Vercel web analytics
 - 🌌 **[nornlore](https://github.com/apoorvdarshan/nornlore)** - Discover what the universe was doing the day you were born
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
