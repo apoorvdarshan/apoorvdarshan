@@ -122,7 +122,7 @@
 ## Writing
 
 - **[Blog](https://apoorvdarshan.com)** - Personal blog about tech, projects, and ideas
-- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (2,900+ subscribers)
+- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Biweekly updates on LinkedIn (3,000+ subscribers)
 - **[Articles on X](https://x.com/apoorvdarshan/articles)** - Sharing insights on tech innovation and emerging trends
 
 ## Connect
