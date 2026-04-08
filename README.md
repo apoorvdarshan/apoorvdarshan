@@ -26,7 +26,7 @@
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** / **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - AI personal assistant that sees you
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
-- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** - AI-powered calorie and nutrition tracker iOS app
+- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app
 
 ### Open Source Contributions
 
