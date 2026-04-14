@@ -22,6 +22,7 @@
 
 ## Current Projects
 
+- 🐦‍⬛ **karasufumi** *(closed source)* - Automate your job hunt with Claude Code or Codex — cold outreach via Gmail MCP, tracked in a single JSON file
 - 📈 **[verceltics](https://github.com/apoorvdarshan/verceltics)** / **[verceltics-web](https://github.com/apoorvdarshan/verceltics-web)** - iOS app to view your Vercel web analytics
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions — smoking, alcohol, social media, and more
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** / **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - AI personal assistant that sees you
