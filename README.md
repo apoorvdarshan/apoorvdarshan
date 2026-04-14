@@ -27,7 +27,7 @@
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions like smoking, alcohol, social media, and more
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** / **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - AI personal assistant that sees you
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
-- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app
+- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app (2K+ downloads)
 
 ### Open Source Contributions
 
@@ -152,6 +152,7 @@
 
 ### Recognition
 
+- Fud AI iOS app reached 2K+ downloads on the App Store
 - Diamond Badge on CodeChef
 - LOR for outstanding performance in Computer Science and Mathematics from University of the People professors
 - ACE-CPT + US REPS (NCCA-accredited)
