@@ -22,12 +22,12 @@
 
 ## Current Projects
 
-- 🐦‍⬛ **[karasufumi](https://github.com/apoorvdarshan/karasufumi)** *(closed source)* - Automated job hunt via Claude Code/Codex with Gmail MCP outreach
+- 🐦‍⬛ **karasufumi** *(closed source)* - Automated job hunt via Claude Code/Codex with Gmail MCP outreach
 - 📈 **[verceltics](https://github.com/apoorvdarshan/verceltics)** / **[verceltics-web](https://github.com/apoorvdarshan/verceltics-web)** - iOS app to view your Vercel web analytics
 - 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions like smoking, alcohol, social media, and more
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** / **[scowld-web](https://github.com/apoorvdarshan/scowld-web)** - AI personal assistant that sees you
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
-- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app (2K+ downloads)
+- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** / **[fud-ai-web](https://github.com/apoorvdarshan/fud-ai-web)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app (3K+ downloads)
 
 ### Open Source Contributions
 
@@ -152,14 +152,14 @@
 
 ### Recognition
 
-- Fud AI iOS app reached 2K+ downloads on the App Store
+- Fud AI iOS app reached 3K+ downloads on the App Store
 - Diamond Badge on CodeChef
 - LOR for outstanding performance in Computer Science and Mathematics from University of the People professors
 - ACE-CPT + US REPS (NCCA-accredited)
 - JEE 2023 - Ranked in top 1.5% candidates
 - Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
 - Built YouTube channel to 21K+ subscribers at 16, earned $1000+, and sold it
-- Over 9K+ subscribers on LinkedIn
+- Over 10K+ subscribers on LinkedIn
 
 ---
 
