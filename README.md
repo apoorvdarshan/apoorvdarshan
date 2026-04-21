@@ -24,7 +24,7 @@
 
 - 🐦‍⬛ **karasufumi** *(closed source)* - Automated job hunt via Claude Code/Codex with Gmail MCP outreach
 - 📈 **[verceltics](https://github.com/apoorvdarshan/verceltics)** - iOS app to view your Vercel web analytics
-- 🚫 **[quit-all](https://quit-all.vercel.app/)** *(closed source)* - iOS app to quit addictions like smoking, alcohol, social media, and more
+- 🚫 **[quit-all](https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934)** *(closed source)* - iOS app to quit addictions like smoking, alcohol, social media, and more
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
 - 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app (3K+ downloads)
