@@ -27,7 +27,7 @@
 - 🚫 **[quit-all](https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934)** *(closed source)* - iOS app to quit addictions like smoking, alcohol, social media, and more
 - 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
 - ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
-- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker iOS app (3K+ downloads)
+- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker app (3K+ downloads)
 
 ### Open Source Contributions
 
