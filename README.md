@@ -152,7 +152,7 @@
 
 ### Recognition
 
-- Fud AI iOS app reached 3K+ downloads on the App Store
+- Fud AI app reached 3K+ downloads
 - Diamond Badge on CodeChef
 - LOR for outstanding performance in Computer Science and Mathematics from University of the People professors
 - ACE-CPT + US REPS (NCCA-accredited)
