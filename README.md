@@ -84,6 +84,7 @@
 
 ### Legacy Work
 <ul>
+  <li>🌐 <strong><a href="https://opengraph-studio.vercel.app">opengraph-studio</a></strong> <em>(closed source)</em> - Crop, compress, and preview OpenGraph metadata across Twitter/X, WhatsApp, Facebook, LinkedIn, Slack & more</li>
   <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
@@ -93,10 +94,10 @@
   <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
   <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
-  <li>📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
       <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
       <div>&bull; 🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</div>
       <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
