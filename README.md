@@ -31,14 +31,50 @@
 
 > Writing clean, maintainable code and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
 
-## Current Projects
-
-- 🐦‍⬛ **karasufumi** *(closed source)* - Automated job hunt via Claude Code/Codex with Gmail MCP outreach
-- 📈 **[verceltics](https://github.com/apoorvdarshan/verceltics)** - iOS app to view your Vercel web analytics
-- 🚫 **[quit-all](https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934)** *(closed source)* - iOS app to quit addictions like smoking, alcohol, social media, and more
-- 🤖 **[scowld](https://github.com/apoorvdarshan/scowld)** - AI personal assistant that sees you
-- ✍️ **[blog](https://github.com/apoorvdarshan/blog)** - A personal blog about me :D
-- 🥦 **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** ![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&style=flat-square&label=★&color=0D7C37) - AI-powered calorie and nutrition tracker app (3K+ downloads)
+## Projects
+<ul>
+  <li>🐦‍⬛ <strong>karasufumi</strong> <em>(closed source)</em> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
+  <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> - iOS app to view your Vercel web analytics</li>
+  <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
+  <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> - AI personal assistant that sees you</li>
+  <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - AI-powered calorie and nutrition tracker app (3K+ downloads)</li>
+  <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
+  <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
+  <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
+  <li>
+    <details>
+      <summary>Show More</summary>
+      <div>&bull; 🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</div>
+      <div>&bull; 💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</div>
+      <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> - Merge multiple GitHub contribution graphs into one SVG heatmap</div>
+      <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
+      <div>&bull; 🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</div>
+      <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
+      <div>&bull; 📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
+      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
+      <div>&bull; 🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</div>
+      <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
+      <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
+      <div>&bull; 🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> - MediaPipe-powered hands-free virtual keyboard</div>
+      <div>&bull; 🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> - Hand-gesture drawing app</div>
+      <div>&bull; 👁️ <strong><a href="https://github.com/apoorvdarshan/peek-a-pupil">peek-a-pupil</a></strong> - Horror-themed interactive eye with gesture control</div>
+      <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> - Real-time face tracking with sci-fi HUD</div>
+      <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
+      <div>&bull; 🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> - DTU website with cyberpunk UI</div>
+      <div>&bull; 🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> - Red Bull landing page reimagined</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> - Fantasy-themed Simon Says memory game</div>
+      <div>&bull; 🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> - Star Wars themed dark/light mode toggle</div>
+      <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> - BMW landing page clone</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> - Monster Energy landing page</div>
+      <div>&bull; 🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> - Random dog images powered by Dog CEO API</div>
+      <div>&bull; 🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> - Cat facts powered by catfact.ninja API</div>
+      <div>&bull; 🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> - Harry Potter-themed To-Do app</div>
+      <div>&bull; 🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> - Spotify UI clone</div>
+    </details>
+  </li>
+</ul>
 
 ### Open Source Contributions
 
@@ -78,45 +114,6 @@
       <div>&bull; 🔬 <strong><a href="https://github.com/radis/radis/pull/918">radis</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/radis/radis?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - fix: inconsistent spectral_points reporting</div>
       <div>&bull; 🔷 <strong><a href="https://github.com/dotnet/docs-desktop/pull/2197">docs-desktop</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/dotnet/docs-desktop?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - fix: MD001 heading level violations in winforms/advanced (by <a href="https://github.com/dotnet">.NET</a>)</div>
       <div>&bull; 📖 <strong><a href="https://github.com/petertzy/markdown-reader/pull/84">markdown-reader</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/petertzy/markdown-reader?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - fix: NameError in choose_bg_color when color picker is cancelled</div>
-    </details>
-  </li>
-</ul>
-
-### Legacy Work
-<ul>
-  <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
-  <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
-  <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
-  <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
-  <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> - Merge multiple GitHub contribution graphs into one SVG heatmap</li>
-  <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
-  <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
-  <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
-  <li>
-    <details>
-      <summary>Show More</summary>
-      <div>&bull; 📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
-      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
-      <div>&bull; 🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</div>
-      <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
-      <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
-      <div>&bull; 🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> - MediaPipe-powered hands-free virtual keyboard</div>
-      <div>&bull; 🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> - Hand-gesture drawing app</div>
-      <div>&bull; 👁️ <strong><a href="https://github.com/apoorvdarshan/peek-a-pupil">peek-a-pupil</a></strong> - Horror-themed interactive eye with gesture control</div>
-      <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> - Real-time face tracking with sci-fi HUD</div>
-      <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
-      <div>&bull; 🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> - DTU website with cyberpunk UI</div>
-      <div>&bull; 🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> - Red Bull landing page reimagined</div>
-      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> - Fantasy-themed Simon Says memory game</div>
-      <div>&bull; 🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> - Star Wars themed dark/light mode toggle</div>
-      <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> - BMW landing page clone</div>
-      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> - Monster Energy landing page</div>
-      <div>&bull; 🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> - Random dog images powered by Dog CEO API</div>
-      <div>&bull; 🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> - Cat facts powered by catfact.ninja API</div>
-      <div>&bull; 🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> - Harry Potter-themed To-Do app</div>
-      <div>&bull; 🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> - Spotify UI clone</div>
     </details>
   </li>
 </ul>
