@@ -84,7 +84,7 @@
 
 ### Legacy Work
 <ul>
-  <li>🌐 <strong><a href="https://opengraph-studio.vercel.app">opengraph-studio</a></strong> <em>(closed source)</em> - Crop, compress, and preview OpenGraph metadata across Twitter/X, WhatsApp, Facebook, LinkedIn, Slack & more</li>
+  <li>🌐 <strong><a href="https://opengraph-studio.vercel.app">opengraph-studio</a></strong> <em>(closed source)</em> - Live OpenGraph metadata previewer for social platforms</li>
   <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
