@@ -42,13 +42,13 @@
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
+  <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
   <li>
     <details>
       <summary>Show More</summary>
-      <div>&bull; 🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</div>
       <div>&bull; 💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</div>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> - Merge multiple GitHub contribution graphs into one SVG heatmap</div>
+      <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
       <div>&bull; 🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</div>
       <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
