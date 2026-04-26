@@ -34,11 +34,11 @@
 ## Projects
 <ul>
   <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - AI-powered calorie and nutrition tracker app (3K+ downloads)</li>
-  <li>🐦‍⬛ <strong>karasufumi</strong> <em>(closed source)</em> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> - iOS app to view your Vercel web analytics</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> - AI personal assistant that sees you</li>
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
+  <li>🐦‍⬛ <strong>karasufumi</strong> <em>(closed source)</em> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
