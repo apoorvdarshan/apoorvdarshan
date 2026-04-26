@@ -21,7 +21,7 @@ The README has these sections in order:
 
 ## Section Overflow (Show More)
 
-- **Projects** and **Open Source Contributions** show only the first **10 items**
+- **Projects** and **Open Source Contributions** show only the first **20 items**
 - Items beyond 10 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
 - Inside "Show More", entries use `<div>&bull; ...</div>` format (not markdown or `<li>`)
 
@@ -35,7 +35,7 @@ The README has these sections in order:
 ## Formatting Patterns
 
 ### Projects (HTML, inside `<ul>`)
-Top 10 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
+Top 20 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
 ```html
 <li>EMOJI <strong><a href="URL">name</a></strong> - description</li>
 <li>EMOJI <strong><a href="URL">name</a></strong> <em>(closed source)</em> - description</li>
@@ -44,7 +44,7 @@ Top 10 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
 ```
 
 ### Open Source Contributions (HTML, inside `<ul>`)
-Top 10 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
+Top 20 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
 ```html
 <li>EMOJI <strong><a href="PR-URL">repo-name</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/OWNER/REPO?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - description</li>
 ```
