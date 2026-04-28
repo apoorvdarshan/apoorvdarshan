@@ -38,6 +38,7 @@
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> - AI personal assistant that sees you</li>
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
+  <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🐦‍⬛ <strong>karasufumi</strong> <em>(closed source)</em> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
@@ -47,10 +48,10 @@
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
-  <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
       <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
       <div>&bull; 📚 <strong><a href="https://www.iitjee.xyz/">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
