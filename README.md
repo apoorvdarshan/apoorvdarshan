@@ -169,10 +169,10 @@
 - LOR for outstanding performance in Mathematics from Mr. Eddy Kamboh, University of the People
 - Diamond Badge on CodeChef
 - LOR for outstanding performance in Computer Science from Engr. Ola Fatai Ayanleke, University of the People
+- Built YouTube channel Mr Alpha Delta (later Tales Through Toons) to 21.5K+ subscribers organically over 5 years; sold to a private buyer in Dec 2024
 - ACE-CPT + US REPS (NCCA-accredited)
 - JEE 2023 - Ranked in top 1.5% candidates
 - Certificate of Merit - Top 0.1% nationally in Social Science Class 10, CBSE
-- Built YouTube channel to 21K+ subscribers at 16, earned $1000+, and sold it
 - Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
 
 ---
