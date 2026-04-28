@@ -162,14 +162,18 @@
 
 ### Recognition
 
+- President's List on the University of the People (CGPA 3.85–4.00, B.S. CS, Term 3)
+- Over 10K+ subscribers on LinkedIn
 - Fud AI app reached 3K+ downloads
+- Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 2)
+- LOR for outstanding performance in Mathematics from Mr. Eddy Kamboh, University of the People
 - Diamond Badge on CodeChef
-- LOR for outstanding performance in Computer Science and Mathematics from University of the People professors
+- LOR for outstanding performance in Computer Science from Engr. Ola Fatai Ayanleke, University of the People
 - ACE-CPT + US REPS (NCCA-accredited)
 - JEE 2023 - Ranked in top 1.5% candidates
-- Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
+- Certificate of Merit - Top 0.1% nationally in Social Science Class 10, CBSE
 - Built YouTube channel to 21K+ subscribers at 16, earned $1000+, and sold it
-- Over 10K+ subscribers on LinkedIn
+- Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level
 
 ---
 
