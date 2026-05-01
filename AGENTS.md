@@ -4,7 +4,7 @@ This file provides guidance to coding agents when working with code in this repo
 
 ## Repository Overview
 
-This is a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan`). It contains a single `README.md` that renders on the GitHub profile page. All work involves editing this file.
+This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan`). `README.md` renders on the GitHub profile page, and most content work involves editing `README.md`.
 
 ## README Section Structure
 
@@ -22,7 +22,7 @@ The README has these sections in order:
 ## Section Overflow (Show More)
 
 - **Projects** and **Open Source Contributions** show only the first **15 items**
-- Items beyond 10 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
+- Items beyond 15 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
 - Inside "Show More", entries use `<div>&bull; ...</div>` format (not markdown or `<li>`)
 
 ## Adding New Items — Placement Rules
