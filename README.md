@@ -141,6 +141,7 @@
 ## Connect
 
 [![Blog](https://img.shields.io/badge/-Blog-0D7C37?style=flat-square&logo=google-chrome&logoColor=white)](https://apoorvdarshan.com)
+[![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
