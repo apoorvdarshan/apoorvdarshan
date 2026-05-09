@@ -142,7 +142,6 @@
 ## Connect
 
 [![Blog](https://img.shields.io/badge/-Blog-0D7C37?style=flat-square&logo=google-chrome&logoColor=white)](https://apoorvdarshan.com)
-[![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
@@ -154,12 +153,13 @@
 [![TrustMRR](https://img.shields.io/badge/-%E2%98%85%20TrustMRR-5865F2?style=flat-square)](https://trustmrr.com/founder/apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.com)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@apoorvdarshan)
 [![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
-[![Hackernoon](https://img.shields.io/badge/-Hackernoon-66FF66?style=flat-square&logo=hackernoon&logoColor=000000)](https://hackernoon.com/u/apoorvdarshan)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@apoorvdarshan)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@apoorvdarshan)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@apoorvdarshan)
+[![Hackernoon](https://img.shields.io/badge/-Hackernoon-66FF66?style=flat-square&logo=hackernoon&logoColor=000000)](https://hackernoon.com/u/apoorvdarshan)
+[![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
 ---
