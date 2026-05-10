@@ -160,7 +160,7 @@
 [![Hackernoon](https://img.shields.io/badge/-Hackernoon-66FF66?style=flat-square&logo=hackernoon&logoColor=000000)](https://hackernoon.com/u/apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
 [![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/apoorvdarshan)
+[![Support me on Ko-Fi](https://img.shields.io/badge/-Support%20me%20on%20Ko--Fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/apoorvdarshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 
 ---
