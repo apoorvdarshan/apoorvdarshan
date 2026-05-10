@@ -150,6 +150,7 @@
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/apoorvdev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apoorvdarshan)
 [![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@apoorvdarshan)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/apoorvdarshan)
 [![TrustMRR](https://img.shields.io/badge/-%E2%98%85%20TrustMRR-5865F2?style=flat-square)](https://trustmrr.com/founder/apoorvdarshan)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.com)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@apoorvdarshan)
