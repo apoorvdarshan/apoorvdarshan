@@ -36,7 +36,7 @@
   <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - AI-powered calorie and nutrition tracker app (3K+ downloads)</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/verceltics?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - iOS app to view your Vercel web analytics</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
-  <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> - AI personal assistant that sees you</li>
+  <li>🤖 <strong><a href="https://scowld.xyz">scowld</a></strong> <em>(closed source)</em> - AI personal assistant that sees you</li>
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
