@@ -124,7 +124,7 @@
 
 ## GitHub Activity
 
-<img src="https://github-contribution-merger.vercel.app/api/merge?users=apoorvdarshan%2Capoorvxircls&mode=overlay&colors=39d353%2C58a6ff" alt="Merged contributions" />
+<img src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan%2Capoorvxircls&mode=overlay&colors=39d353%2C58a6ff" alt="Merged contributions" />
 
 ## What I'm Doing
 
