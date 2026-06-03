@@ -33,7 +33,7 @@
 
 ## Projects
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - AI-powered calorie and nutrition tracker app (3K+ downloads)</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/fud-ai?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - AI-powered calorie and nutrition tracker app (4K+ downloads)</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/verceltics?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - iOS app to view your Vercel web analytics</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
   <li>🤖 <strong><a href="https://scowld.xyz">scowld</a></strong> <em>(closed source)</em> - AI personal assistant that sees you</li>
@@ -168,7 +168,7 @@
 
 - President's List on the University of the People (CGPA 3.85–4.00, B.S. CS, Term 3)
 - Over 11K+ subscribers on LinkedIn
-- Fud AI app reached 3K+ downloads
+- Fud AI app reached 4K+ downloads
 - Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 2)
 - LOR for outstanding performance in Mathematics from Mr. Eddy Kamboh, University of the People
 - Diamond Badge on CodeChef
