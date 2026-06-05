@@ -40,11 +40,11 @@
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
   <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
-  <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/apoorvdarshan/github-readme-contribution-merger?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - Merge multiple GitHub contribution graphs into one SVG heatmap</li>
+  <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
   <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
