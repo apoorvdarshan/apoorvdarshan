@@ -37,7 +37,7 @@
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/verceltics"> - iOS app to view your Vercel web analytics</li>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
-  <li>🤖 <strong><a href="https://scowld.xyz">scowld</a></strong> <em>(closed source)</em> - AI personal assistant that sees you</li>
+  <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> - Open-source iOS AI companion with a live VRM avatar that sees you</li>
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
   <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
