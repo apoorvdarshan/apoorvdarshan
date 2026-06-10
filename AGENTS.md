@@ -60,3 +60,4 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 - Always commit and push after every change — do not batch or wait to be asked
 - No co-author lines in commits
 - Keep commit messages concise (one line)
+- Keep `AGENTS.md` and `CLAUDE.md` parallel: when changing repository guidance, update both files together so their instructions stay in sync
