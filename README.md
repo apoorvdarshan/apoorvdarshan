@@ -164,6 +164,7 @@
 [![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/apoorvdarshan)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/apoorvdarshan/_created)
+[![Hacker News](https://img.shields.io/badge/-Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=apoorvdarshan)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
