@@ -162,16 +162,16 @@
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.com)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@apoorvdarshan)
 [![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/apoorvdarshan)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/apoorvdarshan/_created)
-[![Hacker News](https://img.shields.io/badge/-Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=apoorvdarshan)
-[![Nostr](https://img.shields.io/badge/-Nostr-8E30EB?style=flat-square&logo=nostr&logoColor=white)](https://njump.me/npub1syajr8tyvgna50n3fqvh3n75dlsejl3qj6598yamq6dxlqu7vn9sydxp27)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
 [![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
 [![Support me on Ko-Fi](https://img.shields.io/badge/-Support%20me%20on%20Ko--Fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/apoorvdarshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/apoorvdarshan)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/apoorvdarshan/_created)
+[![Hacker News](https://img.shields.io/badge/-Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=apoorvdarshan)
+[![Nostr](https://img.shields.io/badge/-Nostr-8E30EB?style=flat-square&logo=nostr&logoColor=white)](https://njump.me/npub1syajr8tyvgna50n3fqvh3n75dlsejl3qj6598yamq6dxlqu7vn9sydxp27)
 
 ---
 
