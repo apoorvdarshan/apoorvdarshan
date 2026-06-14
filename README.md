@@ -162,6 +162,8 @@
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.com)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@apoorvdarshan)
 [![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/apoorvdarshan)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/apoorvdarshan)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/apoorvdarshan/_created)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
