@@ -143,7 +143,7 @@
 ## Writing
 
 - **[Blog](https://apoorvdarshan.com)** - Personal blog about my life, tech, and project journey
-- **[Medium](https://medium.com/@apoorvdarshan)** - Long-form articles on tech, projects, and ideas
+- **[Medium](https://medium.com/@apoorvdarshan)** - My hot takes on the latest in tech and AI, fresh off the press
 
 ## Connect
 
