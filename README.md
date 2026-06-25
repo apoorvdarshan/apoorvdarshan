@@ -178,7 +178,7 @@
 ### Recognition
 
 - President's List on the University of the People (CGPA 3.85–4.00, B.S. CS, Term 3)
-- Over 11K+ followers on LinkedIn
+- Over 12K+ followers on LinkedIn
 - Fud AI app reached 4K+ downloads
 - Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 2)
 - LOR for outstanding performance in Mathematics from Mr. Eddy Kamboh, University of the People
