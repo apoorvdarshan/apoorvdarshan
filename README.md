@@ -143,8 +143,6 @@
 ## Writing
 
 - **[Blog](https://apoorvdarshan.com)** - Personal blog about my life, tech, and project journey
-- **[Tech & Innovation Newsletter](https://www.linkedin.com/newsletters/tech-innovation-7420271393961009153/)** - Weekly updates on LinkedIn (3,000+ subscribers)
-- **[Articles on X](https://x.com/apoorvdarshan/articles)** - Sharing insights on tech innovation and emerging trends
 - **[Medium](https://medium.com/@apoorvdarshan)** - Long-form articles on tech, projects, and ideas
 
 ## Connect
