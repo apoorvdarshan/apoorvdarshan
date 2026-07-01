@@ -35,7 +35,6 @@
 <ul>
   <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/fud-ai"> - AI-powered calorie and nutrition tracker app (4K+ downloads)</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/verceltics"> - iOS app to view your Vercel web analytics</li>
-  <li>🏋️ <strong><a href="https://github.com/apoorvdarshan/delts">delts</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/delts"> - iPhone gym tracker with workout logging, HealthKit, and AI coach</li>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/crossposter"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
   <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/TetherShot"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/scowld"> - iOS AI companion with a live VRM avatar that sees you</li>
@@ -48,10 +47,10 @@
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
+  <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
   <li>
     <details>
       <summary>Show More</summary>
-      <div>&bull; 💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</div>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/github-readme-contribution-merger"> - Merge multiple GitHub contribution graphs into one SVG heatmap</div>
       <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
       <div>&bull; 🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</div>
