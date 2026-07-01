@@ -43,10 +43,10 @@
   <li>🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</li>
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
   <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country and role at a human-like pace</li>
-  <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
+  <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
   <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
   <li>
     <details>
