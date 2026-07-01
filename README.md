@@ -52,12 +52,12 @@
     <details>
       <summary>Show More</summary>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/github-readme-contribution-merger"> - Merge multiple GitHub contribution graphs into one SVG heatmap</div>
-      <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
       <div>&bull; 🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</div>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
       <div>&bull; 🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</div>
       <div>&bull; 🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/dob-selector"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</div>
       <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
+      <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
       <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
       <div>&bull; 📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
