@@ -140,6 +140,7 @@
 - **Building iOS apps** - Building with Swift and SwiftUI
 - **Building Android apps** - Building with Kotlin and Jetpack Compose
 - **Building full-stack apps** - From frontend to backend, databases to deployment
+- **Building Chrome extensions** - Little tools that fix everyday browsing annoyances
 - **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, and X
 - **Contributing to open source** - Giving back to the community
 
