@@ -31,16 +31,24 @@
 
 > Writing clean, maintainable code and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
 
-## Projects
+## Apps
 <ul>
   <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/fud-ai"> - AI-powered calorie and nutrition tracker app (4K+ downloads)</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/verceltics"> - iOS app to view your Vercel web analytics</li>
-  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/crossposter"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
-  <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/TetherShot"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/scowld"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
+</ul>
+
+## Chrome Extensions
+<ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
   <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> - Chrome extension that auto-pauses Netflix &amp; Prime Video when you switch away</li>
+</ul>
+
+## Projects
+<ul>
+  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/crossposter"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
+  <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/TetherShot"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose</li>
   <li>🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</li>
   <li>✍️ <strong><a href="https://github.com/apoorvdarshan/blog">blog</a></strong> - A personal blog about me :D</li>
   <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country and role at a human-like pace</li>
@@ -53,15 +61,15 @@
   <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/dob-selector"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
+  <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
+  <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
+  <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
+  <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
+  <li>📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</li>
   <li>
     <details>
       <summary>Show More</summary>
-      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
-      <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
-      <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
-      <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
-      <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
-      <div>&bull; 📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
       <div>&bull; 🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</div>
       <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
       <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
