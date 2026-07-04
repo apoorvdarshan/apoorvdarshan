@@ -62,14 +62,14 @@
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=apoorvdarshan/dob-selector"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
   <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
-  <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</li>
-  <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
-  <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
-  <li>📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
+      <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
+      <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
+      <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
+      <div>&bull; 📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
       <div>&bull; 🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</div>
       <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
       <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
@@ -91,7 +91,6 @@
     </details>
   </li>
 </ul>
-
 ### Open Source Contributions
 
 <ul>
@@ -110,14 +109,14 @@
   <li>🎵 <strong><a href="https://github.com/spotify/luigi/pull/3410">luigi</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=spotify/luigi"> - fix: replace deprecated datetime.utcfromtimestamp() calls (by <a href="https://github.com/spotify"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&amp;logo=spotify&amp;logoColor=white"></a>)</li>
   <li>🔷 <strong><a href="https://github.com/dotnet/runtime/pull/124498">runtime</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=dotnet/runtime"> - fix: fractional-token AttemptAcquire(0) behavior (by <a href="https://github.com/dotnet"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white"></a>)</li>
   <li>🛠️ <strong><a href="https://github.com/steipete/CodexBar/pull/344/commits">CodexBar</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=steipete/CodexBar"> - fix: region-specific API endpoint for MiniMax (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</li>
-  <li>🎨 <strong><a href="https://github.com/adobe/react-spectrum/pull/9678">react-spectrum</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=adobe/react-spectrum"> - fix: incorrect timezone conversion when setLocalTimeZone is used (by <a href="https://github.com/adobe"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&amp;logo=adobe&amp;logoColor=white"></a>)</li>
-  <li>📓 <strong><a href="https://github.com/jupyterlab/jupyterlab/pull/18530">jupyterlab</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=jupyterlab/jupyterlab"> - fix: theme settings in non-English locales (by <a href="https://github.com/jupyterlab"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"></a>)</li>
-  <li>🛡️ <strong><a href="https://github.com/prowler-cloud/prowler/pull/10102">prowler</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=prowler-cloud/prowler"> - fix: remove return statements from finally blocks</li>
-  <li>❄️ <strong><a href="https://github.com/sqlfluff/sqlfluff/pull/8061">sqlfluff</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=sqlfluff/sqlfluff"> - feat: support WITH TAG clause in Snowflake CREATE TASK</li>
-  <li>🦞 <strong><a href="https://github.com/openclaw/clawhub/pull/421">clawhub</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=openclaw/clawhub"> - fix: use relative delay for Retry-After header on 429 (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 🎨 <strong><a href="https://github.com/adobe/react-spectrum/pull/9678">react-spectrum</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=adobe/react-spectrum"> - fix: incorrect timezone conversion when setLocalTimeZone is used (by <a href="https://github.com/adobe"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&amp;logo=adobe&amp;logoColor=white"></a>)</div>
+      <div>&bull; 📓 <strong><a href="https://github.com/jupyterlab/jupyterlab/pull/18530">jupyterlab</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=jupyterlab/jupyterlab"> - fix: theme settings in non-English locales (by <a href="https://github.com/jupyterlab"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"></a>)</div>
+      <div>&bull; 🛡️ <strong><a href="https://github.com/prowler-cloud/prowler/pull/10102">prowler</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=prowler-cloud/prowler"> - fix: remove return statements from finally blocks</div>
+      <div>&bull; ❄️ <strong><a href="https://github.com/sqlfluff/sqlfluff/pull/8061">sqlfluff</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=sqlfluff/sqlfluff"> - feat: support WITH TAG clause in Snowflake CREATE TASK</div>
+      <div>&bull; 🦞 <strong><a href="https://github.com/openclaw/clawhub/pull/421">clawhub</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=openclaw/clawhub"> - fix: use relative delay for Retry-After header on 429 (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</div>
       <div>&bull; 🔧 <strong><a href="https://github.com/gitextensions/gitextensions/pull/12841">gitextensions</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=gitextensions/gitextensions"> - fix: console launch fails when Windows username contains spaces</div>
       <div>&bull; 🐍 <strong><a href="https://github.com/boa-dev/boa/pull/4631">boa</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=boa-dev/boa"> - feat: implement BOM stripping and ignoreBOM option in TextDecoder</div>
       <div>&bull; 🆙 <strong><a href="https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=author%3Aapoorvdarshan">up-for-grabs.net</a></strong> <img alt="Stars" src="https://github-star-badge-three.vercel.app/api/stars?repo=up-for-grabs/up-for-grabs.net"> - 8 merged PRs: add projects + fix forks badge cursor</div>
@@ -138,7 +137,6 @@
     </details>
   </li>
 </ul>
-
 ## GitHub Activity
 
 <img src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan%2Capoorvxircls&mode=overlay&colors=39d353%2C58a6ff" alt="Merged contributions" />
