@@ -157,8 +157,7 @@
 
 ## Writing
 
-- [![Blog](https://img.shields.io/badge/-Blog-0D7C37?style=flat-square&logo=google-chrome&logoColor=white)](https://apoorvdarshan.com) - Personal blog about my life, tech, and project journey
-- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@apoorvdarshan) - My hot takes on the latest in tech and AI, fresh off the press
+- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://apoorvdarshan.com) - My hot takes on the latest in tech and AI, fresh off the press
 
 ## Connect
 
