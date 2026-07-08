@@ -43,7 +43,7 @@
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
   <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> - Chrome extension that auto-pauses Netflix &amp; Prime Video when you switch away</li>
-  <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian shows from Netflix &amp; Prime Video (personal preference)</li>
+  <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian shows from Netflix &amp; Prime Video (personal preference, not a judgment)</li>
 </ul>
 
 ## Projects
