@@ -1,0 +1,35 @@
+name: Deploy star badge worker
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "star-badge-worker/**"
+      - ".github/workflows/deploy-star-badge-worker.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-star-badge-worker
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Deploy to Cloudflare Workers
+        run: npx --yes wrangler@4.110.0 deploy --config star-badge-worker/wrangler.toml
+        env:
+          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
+          CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
