@@ -172,6 +172,7 @@
 
 ## Connect
 
+[![Profile](https://img.shields.io/badge/-Profile-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://apoorvdarshan.com)
 [![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
