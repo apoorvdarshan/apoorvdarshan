@@ -48,7 +48,7 @@
 
 ## Projects
 <ul>
-  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - Personal profile and portfolio website for Apoorv Darshan</li>
+  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/crossposter"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
   <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/TetherShot"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose</li>
   <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook: never sleep, lid closed, display off, fully reversible</li>
