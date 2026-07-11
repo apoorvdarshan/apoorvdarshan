@@ -48,6 +48,7 @@
 
 ## Projects
 <ul>
+  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - Personal profile and portfolio website for Apoorv Darshan</li>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/crossposter"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
   <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/TetherShot"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose</li>
   <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook: never sleep, lid closed, display off, fully reversible</li>
@@ -62,10 +63,10 @@
   <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/dob-selector"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
-  <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
       <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
       <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
