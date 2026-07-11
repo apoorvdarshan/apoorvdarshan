@@ -168,7 +168,7 @@
 
 ## Writing
 
-- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://apoorvdarshan.com) - My hot takes on the latest in tech and AI, fresh off the press
+- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://apoorvdarshan.medium.com) - My hot takes on the latest in tech and AI, fresh off the press
 
 ## Connect
 
