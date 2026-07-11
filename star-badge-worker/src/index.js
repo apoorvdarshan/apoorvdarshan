@@ -2,6 +2,7 @@ const GITHUB_API = "https://api.github.com/repos/";
 const USER_AGENT = "apoorvdarshan-github-star-badge-worker";
 const CACHE_SECONDS = 60 * 60;
 const STALE_SECONDS = 60 * 60 * 24;
+const CACHE_GENERATION = "2";
 
 export default {
   async fetch(request, env, ctx) {
@@ -22,7 +23,7 @@ export default {
       return svgResponse(renderBadge("bad", "#e05d44", "Invalid repo"), 400, 300);
     }
 
-    const cacheKey = new Request(new URL(`/api/stars?repo=${repo}`, url.origin), request);
+    const cacheKey = createCacheKey(url, repo);
     const cached = await caches.default.match(cacheKey);
     if (cached) {
       return cached;
@@ -50,6 +51,14 @@ export default {
 
 function isValidRepo(repo) {
   return /^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(repo);
+}
+
+function createCacheKey(url, repo) {
+  const cacheUrl = new URL("/api/stars", url.origin);
+  cacheUrl.searchParams.set("repo", repo);
+  cacheUrl.searchParams.set("v", (url.searchParams.get("v") || "1").slice(0, 32));
+  cacheUrl.searchParams.set("generation", CACHE_GENERATION);
+  return new Request(cacheUrl, { method: "GET" });
 }
 
 async function getStarCount(repo, env) {
@@ -94,6 +103,9 @@ async function getShieldsBadge(repo) {
   const svg = await response.text();
   if (!svg.includes("<svg")) {
     throw new Error("Shields response was not an SVG");
+  }
+  if (/<text[^>]*>\s*invalid\s*<\/text>/i.test(svg) || /aria-label=["'][^"']*\binvalid\b/i.test(svg)) {
+    throw new Error("Shields returned an invalid repository badge");
   }
 
   return svgResponse(svg, 200, CACHE_SECONDS, STALE_SECONDS);
