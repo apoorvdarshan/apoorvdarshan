@@ -41,7 +41,7 @@
 
 ## Games
 <ul>
-  <li>🌊 <strong><a href="https://apps.apple.com/app/id6783505799">abysm</a></strong> <em>(closed source)</em> - A calm pixel-art dive to the 10,935 m Challenger Deep with 75 real sea creatures at their true depths</li>
+  <li>🌊 <strong><a href="https://apps.apple.com/app/id6783505799">abysm</a></strong> <em>(closed source)</em> - Calm pixel-art dive to Challenger Deep</li>
 </ul>
 
 ## Chrome Extensions
