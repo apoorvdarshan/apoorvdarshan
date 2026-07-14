@@ -41,7 +41,7 @@
 
 ## Games
 <ul>
-  <li>🌊 <strong><a href="https://apps.apple.com/app/id6783505799">abysm</a></strong> <em>(closed source)</em> - Calm pixel-art dive to Challenger Deep</li>
+  <li>🌊 <strong><a href="https://apps.apple.com/app/id6783505799">abysm</a></strong> <em>(closed source)</em> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
 </ul>
 
 ## Chrome Extensions
