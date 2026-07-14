@@ -38,6 +38,11 @@ The README has these sections in order:
 | Projects | **Ask user where to place** — no automatic top/bottom default |
 | Open Source | **By star count** (descending). Fetch stars: `gh api repos/OWNER/REPO --jq '.stargazers_count'` |
 
+## Description Length
+
+- Descriptions in **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** must be one rendered line maximum at normal GitHub desktop width
+- If a description wraps, shorten it rather than preserving extra detail
+
 ## Formatting Patterns
 
 ### Projects (HTML, inside `<ul>`)
