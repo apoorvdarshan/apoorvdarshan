@@ -11,19 +11,20 @@ This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan
 The README has these sections in order:
 1. **Header** — name, location, badges, tagline
 2. **Apps** — mobile apps (HTML format, same `<li>` patterns as Projects)
-3. **Chrome Extensions** — browser extensions (HTML format, same `<li>` patterns as Projects)
-4. **Projects** — everything else: web apps, tools, bots, experiments (HTML format)
-5. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
-6. **GitHub Activity** — contribution graph
-7. **What I'm Doing** — current focus areas
-8. **Writing** — blog, newsletter, articles
-9. **Connect** — shields.io badge links to social profiles
-10. **Recognition** — awards and achievements
-11. **Philosophy** — quote + random facts
+3. **Games** — games (HTML format, same `<li>` patterns as Projects)
+4. **Chrome Extensions** — browser extensions (HTML format, same `<li>` patterns as Projects)
+5. **Projects** — everything else: web apps, tools, bots, experiments (HTML format)
+6. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
+7. **GitHub Activity** — contribution graph
+8. **What I'm Doing** — current focus areas
+9. **Writing** — blog, newsletter, articles
+10. **Connect** — shields.io badge links to social profiles
+11. **Recognition** — awards and achievements
+12. **Philosophy** — quote + random facts
 
 ## Section Overflow (Show More)
 
-- **Apps**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** show only the first **15 items**
+- **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** show only the first **15 items**
 - Items beyond 15 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
 - Inside "Show More", entries use `<div>&bull; ...</div>` format (not markdown or `<li>`)
 
@@ -32,6 +33,7 @@ The README has these sections in order:
 | Section | Default position |
 |---------|-----------------|
 | Apps | **Ask user where to place** — no automatic top/bottom default |
+| Games | **Ask user where to place** — no automatic top/bottom default |
 | Chrome Extensions | **Ask user where to place** — no automatic top/bottom default |
 | Projects | **Ask user where to place** — no automatic top/bottom default |
 | Open Source | **By star count** (descending). Fetch stars: `gh api repos/OWNER/REPO --jq '.stargazers_count'` |

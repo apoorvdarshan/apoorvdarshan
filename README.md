@@ -39,6 +39,11 @@
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
 </ul>
 
+## Games
+<ul>
+  <li>🌊 <strong><a href="https://apps.apple.com/app/id6783505799">abysm</a></strong> <em>(closed source)</em> - A calm pixel-art dive to the 10,935 m Challenger Deep with 75 real sea creatures at their true depths</li>
+</ul>
+
 ## Chrome Extensions
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
