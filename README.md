@@ -33,8 +33,8 @@
 
 ## Apps
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/fud-ai&amp;v=2"> - AI-powered calorie and nutrition tracker app (4K+ downloads)</li>
-  <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/verceltics"> - Open-source iOS workspace for hosting, domains, deployments, analytics, and uptime</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/fud-ai&amp;v=2"> - AI-powered calorie and nutrition tracker app (5K+ downloads)</li>
+  <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/verceltics"> - Open-source iOS hub for hosting, domains, analytics, and uptime (1K+ downloads)</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/scowld"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
 </ul>
@@ -215,7 +215,6 @@
 
 - President's List on the University of the People (CGPA 3.85–4.00, B.S. CS, Term 3)
 - Over 12K+ followers on LinkedIn
-- Fud AI app reached 4K+ downloads
 - Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 2)
 - LOR for outstanding performance in Mathematics from Mr. Eddy Kamboh, University of the People
 - Diamond Badge on CodeChef
