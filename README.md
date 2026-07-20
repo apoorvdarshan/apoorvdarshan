@@ -214,6 +214,7 @@
 
 ### Recognition
 
+- Graduation Recognition Letter from University of the People President Shai Reshef (B.S. CS, Jul 2026)
 - President's List on the University of the People (CGPA 3.85–4.00, B.S. CS, Term 3)
 - Over 12K+ followers on LinkedIn
 - Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 2)
