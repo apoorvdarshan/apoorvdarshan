@@ -37,6 +37,7 @@
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/verceltics"> - Open-source iOS hub for hosting, domains, analytics, and uptime (1K+ downloads)</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/scowld"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
+  <li>📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Offline handwritten PCM notes for JEE Main, JEE Advanced &amp; NEET on iPhone and iPad</li>
 </ul>
 
 ## Games
@@ -76,7 +77,6 @@
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
       <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
-      <div>&bull; 📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Handwritten notes for IIT JEE prep (100+ organic visitors/month)</div>
       <div>&bull; 🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</div>
       <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
       <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
