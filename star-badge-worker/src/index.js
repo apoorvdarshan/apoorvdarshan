@@ -2,7 +2,7 @@ const GITHUB_API = "https://api.github.com/repos/";
 const USER_AGENT = "apoorvdarshan-github-star-badge-worker";
 const CACHE_SECONDS = 60 * 60;
 const STALE_SECONDS = 60 * 60 * 24;
-const CACHE_GENERATION = "2";
+const CACHE_GENERATION = "3";
 
 export default {
   async fetch(request, env, ctx) {
@@ -104,11 +104,19 @@ async function getShieldsBadge(repo) {
   if (!svg.includes("<svg")) {
     throw new Error("Shields response was not an SVG");
   }
-  if (/<text[^>]*>\s*invalid\s*<\/text>/i.test(svg) || /aria-label=["'][^"']*\binvalid\b/i.test(svg)) {
-    throw new Error("Shields returned an invalid repository badge");
+  if (isShieldsErrorBadge(svg)) {
+    throw new Error("Shields returned an error badge");
   }
 
   return svgResponse(svg, 200, CACHE_SECONDS, STALE_SECONDS);
+}
+
+function isShieldsErrorBadge(svg) {
+  const errorText = /\b(?:invalid|error|unable|rate limit|not found)\b/i;
+  const ariaLabel = svg.match(/aria-label=["']([^"']*)["']/i)?.[1] || "";
+  const textValues = [...svg.matchAll(/<text[^>]*>([^<]*)<\/text>/gi)].map((match) => match[1]);
+
+  return errorText.test(ariaLabel) || textValues.some((value) => errorText.test(value));
 }
 
 function formatStars(stars) {
