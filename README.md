@@ -37,7 +37,7 @@
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> - Open-source iOS hub for hosting, domains, analytics, and uptime (1K+ downloads)</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
-  <li>📚 <strong><a href="https://iitjee.apoorvdarshan.com">iitjee</a></strong> <em>(closed source)</em> - Offline handwritten PCM notes for JEE Main, JEE Advanced &amp; NEET on iPhone and iPad</li>
+  <li>📚 <strong><a href="https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227">iitjee</a></strong> <em>(closed source)</em> - Offline handwritten PCM notes for JEE Main, JEE Advanced &amp; NEET on iPhone and iPad</li>
 </ul>
 
 ## Games
