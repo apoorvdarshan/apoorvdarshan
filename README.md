@@ -61,6 +61,7 @@
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
+  <li>🪐 <strong><a href="https://github.com/apoorvdarshan/helios-01">helios-01</a></strong> - Editable Blender pocket orrery with an animated mechanical solar system</li>
   <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
   <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge multiple GitHub contribution graphs into one SVG heatmap</li>
@@ -68,10 +69,10 @@
   <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
   <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
   <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/dob-selector&amp;v=3"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
-  <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</li>
   <li>
     <details>
       <summary>Show More</summary>
+      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
       <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</div>
       <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
