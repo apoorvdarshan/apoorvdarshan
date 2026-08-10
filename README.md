@@ -67,7 +67,7 @@
 ## Projects
 <ul>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
-  <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> - Private, local cookie and session transfer between Chromium browsers and ChatGPT Codex on macOS</li>
+  <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> - Local cookie and session transfer between Chromium browsers and Codex on macOS</li>
   <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Fully editable, animated mechanical heart reactor built procedurally in Blender</li>
   <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> - Local torrent streamer and downloader with a native engine and browser UI</li>
   <li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex plugin and MCP server for explicit multi-account Gmail access</li>
