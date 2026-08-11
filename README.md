@@ -44,7 +44,7 @@
 
 ## Apps
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> - AI-powered calorie and nutrition tracker app (5K+ downloads)</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> - AI-powered calorie and nutrition tracker app (6K+ downloads)</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> - Open-source iOS hub for hosting, domains, analytics, and uptime (1K+ downloads)</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
