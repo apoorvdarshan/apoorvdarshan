@@ -59,7 +59,7 @@
 ## Chrome Extensions
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
-  <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - Chrome extension for true newest-first YouTube video search using the YouTube Data API</li>
+  <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/newest-youtube-search&amp;v=3"> - Chrome extension for true newest-first YouTube video search using the YouTube Data API</li>
   <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> - Chrome extension that auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian shows from Netflix &amp; Prime Video (personal preference, not a judgment)</li>
 </ul>
@@ -67,11 +67,11 @@
 ## Projects
 <ul>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
-  <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> - Local cookie and session transfer between Chromium browsers and Codex on macOS</li>
+  <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> - Local cookie and session transfer between Chromium browsers and Codex on macOS</li>
   <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Fully editable, animated mechanical heart reactor built procedurally in Blender</li>
   <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> - Local torrent streamer and downloader with a native engine and browser UI</li>
   <li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex plugin and MCP server for explicit multi-account Gmail access</li>
-  <li>🪐 <strong><a href="https://github.com/apoorvdarshan/helios-01">helios-01</a></strong> - Editable Blender pocket orrery with an animated mechanical solar system</li>
+  <li>🪐 <strong><a href="https://github.com/apoorvdarshan/helios-01">helios-01</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/helios-01&amp;v=3"> - Editable Blender pocket orrery with an animated mechanical solar system</li>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more</li>
   <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose</li>
   <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook: never sleep, lid closed, display off, fully reversible</li>
@@ -86,32 +86,32 @@
     <details>
       <summary>Show More</summary>
       <div>&bull; 🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</div>
-      <div>&bull; 🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</div>
+      <div>&bull; 🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/doodle-beats&amp;v=3"> - Doodle-style web music player</div>
       <div>&bull; 🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/dob-selector&amp;v=3"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</div>
-      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> - Slot machine date picker; intentionally bad UI</div>
+      <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/slot-machine-date-picker&amp;v=3"> - Slot machine date picker; intentionally bad UI</div>
       <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</div>
-      <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
+      <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/karasufumi&amp;v=3"> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
       <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm</div>
-      <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
+      <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/zyro&amp;v=3"> - AI news website (GNews.io API, 100 req/day limit)</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
-      <div>&bull; 🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> - Claude Code reimplemented in pure C, the lowest level it's ever been done</div>
+      <div>&bull; 🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/claw-c&amp;v=3"> - Claude Code reimplemented in pure C, the lowest level it's ever been done</div>
       <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
-      <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> - 3D zombie survival FPS with Three.js</div>
-      <div>&bull; 🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> - MediaPipe-powered hands-free virtual keyboard</div>
-      <div>&bull; 🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> - Hand-gesture drawing app</div>
-      <div>&bull; 👁️ <strong><a href="https://github.com/apoorvdarshan/peek-a-pupil">peek-a-pupil</a></strong> - Horror-themed interactive eye with gesture control</div>
-      <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> - Real-time face tracking with sci-fi HUD</div>
-      <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
-      <div>&bull; 🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> - DTU website with cyberpunk UI</div>
-      <div>&bull; 🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> - Red Bull landing page reimagined</div>
-      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> - Fantasy-themed Simon Says memory game</div>
-      <div>&bull; 🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> - Star Wars themed dark/light mode toggle</div>
-      <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> - BMW landing page clone</div>
-      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> - Monster Energy landing page</div>
-      <div>&bull; 🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> - Random dog images powered by Dog CEO API</div>
-      <div>&bull; 🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> - Cat facts powered by catfact.ninja API</div>
-      <div>&bull; 🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> - Harry Potter-themed To-Do app</div>
-      <div>&bull; 🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> - Spotify UI clone</div>
+      <div>&bull; 🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/zombie-game&amp;v=3"> - 3D zombie survival FPS with Three.js</div>
+      <div>&bull; 🖐️ <strong><a href="https://github.com/apoorvdarshan/gesture-keyboard">gesture-keyboard</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/gesture-keyboard&amp;v=3"> - MediaPipe-powered hands-free virtual keyboard</div>
+      <div>&bull; 🎨 <strong><a href="https://github.com/apoorvdarshan/drawtica">drawtica</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/drawtica&amp;v=3"> - Hand-gesture drawing app</div>
+      <div>&bull; 👁️ <strong><a href="https://github.com/apoorvdarshan/peek-a-pupil">peek-a-pupil</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/peek-a-pupil&amp;v=3"> - Horror-themed interactive eye with gesture control</div>
+      <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/headshot-tracker&amp;v=3"> - Real-time face tracking with sci-fi HUD</div>
+      <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/compress-image&amp;v=3"> - Client-side image compression (browser-only, nothing uploaded)</div>
+      <div>&bull; 🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/dtu-clone&amp;v=3"> - DTU website with cyberpunk UI</div>
+      <div>&bull; 🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/redbull&amp;v=3"> - Red Bull landing page reimagined</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/simon-says&amp;v=3"> - Fantasy-themed Simon Says memory game</div>
+      <div>&bull; 🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/toggle-button&amp;v=3"> - Star Wars themed dark/light mode toggle</div>
+      <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/bmw&amp;v=3"> - BMW landing page clone</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/monster-energy&amp;v=3"> - Monster Energy landing page</div>
+      <div>&bull; 🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/random-dog-images&amp;v=3"> - Random dog images powered by Dog CEO API</div>
+      <div>&bull; 🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/random-cat-facts&amp;v=3"> - Cat facts powered by catfact.ninja API</div>
+      <div>&bull; 🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/todo-app&amp;v=3"> - Harry Potter-themed To-Do app</div>
+      <div>&bull; 🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/spotify-clone&amp;v=3"> - Spotify UI clone</div>
     </details>
   </li>
 </ul>
