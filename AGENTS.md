@@ -38,6 +38,18 @@ The README has these sections in order:
 | Projects | **Ask user where to place** — no automatic top/bottom default |
 | Open Source | **By star count** (descending). Fetch stars: `gh api repos/OWNER/REPO --jq '.stargazers_count'` |
 
+## Profile Update Star Audit
+
+- Whenever the user says **update profile** (or asks for any GitHub profile content change), audit every GitHub-hosted entry in **Apps**, **Games**, **Chrome Extensions**, and **Projects** — not only the item being edited.
+- Fetch each repository's current star count with `gh api repos/OWNER/REPO --jq '.stargazers_count'`.
+- If the count is **greater than 0**, ensure the entry includes this live badge immediately after the linked project name:
+  ```html
+  <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=OWNER/REPO&amp;v=3">
+  ```
+- If the count is **0**, do not show a star badge; remove any stale badge already present.
+- Closed-source and non-GitHub entries do not receive GitHub star badges.
+- Before finishing, verify that every positive-star work entry has a badge and every zero-star work entry has none.
+
 ## Description Length
 
 - Descriptions in **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** must be one rendered line maximum at normal GitHub desktop width
