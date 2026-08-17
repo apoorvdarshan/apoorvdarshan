@@ -6,6 +6,13 @@ This file provides guidance to coding agents when working with code in this repo
 
 This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan`). `README.md` renders on the GitHub profile page, and most content work involves editing `README.md`.
 
+## Cross-Repository Profile Synchronization
+
+- Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `apoorvdarshan.com` reflects the same projects, open-source contributions, links, and profile facts.
+- Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md` and `CLAUDE.md`.
+- Keep the private, gitignored resume source and PDF out of this public profile repository. Commit and push each affected tracked repository separately.
+- When a profile update changes resume data, follow the resume instructions for updating LinkedIn's saved resume without asking for separate permission. Do not open foreground apps unexpectedly.
+
 ## README Section Structure
 
 The README has these sections in order:
