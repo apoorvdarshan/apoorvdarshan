@@ -204,6 +204,7 @@
       <div>&bull; 📖 <strong><a href="https://github.com/petertzy/markdown-reader/pull/84">markdown-reader</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=petertzy/markdown-reader&amp;v=3"> - fix: NameError in choose_bg_color when color picker is cancelled</div>
       <div>&bull; 🍎 <strong><a href="https://github.com/abordage/awesome-mac/pulls?q=author%3Aapoorvdarshan">awesome-mac</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=abordage/awesome-mac&amp;v=3"> - 3 merged PRs: add Hash Harbor, MacBook 24x7 Agents, and Browser Cookie Bridge</div>
       <div>&bull; 🤖 <strong><a href="https://github.com/DasterProkio/awesome-ai-companion/pull/10">awesome-ai-companion</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=DasterProkio/awesome-ai-companion&amp;v=3"> - docs: add Scowld companion client</div>
+      <div>&bull; 🦄 <strong><a href="https://github.com/benoitc/gunicorn/pull/3686">gunicorn</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=benoitc/gunicorn&amp;v=3"> - fix: decrement nr_conns on server-initiated close in the ASGI worker (authored commit)</div>
     </details>
   </li>
 </ul>
