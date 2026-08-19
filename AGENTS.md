@@ -24,10 +24,9 @@ The README has these sections in order:
 6. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
 7. **GitHub Activity** — contribution graph
 8. **What I'm Doing** — current focus areas
-9. **Writing** — blog, newsletter, articles
-10. **Connect** — shields.io badge links to social profiles
-11. **Recognition** — awards and achievements
-12. **Philosophy** — quote + random facts
+9. **Connect** — shields.io badge links to social profiles
+10. **Recognition** — awards and achievements
+11. **Philosophy** — quote + random facts
 
 ## Section Overflow (Show More)
 
