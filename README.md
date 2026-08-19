@@ -229,9 +229,9 @@
 ## Connect
 
 [![Profile](https://img.shields.io/badge/-Profile-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://apoorvdarshan.com)
-[![Email 1](https://img.shields.io/badge/-Email_1-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
-[![Email 2](https://img.shields.io/badge/-Email_2-1F8A70?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv@fud-ai.app)
-[![Email 3](https://img.shields.io/badge/-Email_3-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorvdarshan@gmail.com)
+[![Email 1](https://img.shields.io/badge/-Email_1-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorvdarshan@gmail.com)
+[![Email 2](https://img.shields.io/badge/-Email_2-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
+[![Email 3](https://img.shields.io/badge/-Email_3-1F8A70?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv@fud-ai.app)
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
