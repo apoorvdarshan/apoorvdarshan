@@ -237,7 +237,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apoorvdarshan)
 [![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@apoorvdarshan)
 [![TrustMRR](https://img.shields.io/badge/-%E2%98%85%20TrustMRR-5865F2?style=flat-square)](https://trustmrr.com/founder/apoorvdarshan)
-[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
 [![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
 [![Sponsor me on GitHub](https://img.shields.io/badge/-Sponsor_me_on_GitHub-D29922?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/apoorvdarshan)
 [![Support me on Ko-Fi](https://img.shields.io/badge/-Support%20me%20on%20Ko--Fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/apoorvdarshan)
