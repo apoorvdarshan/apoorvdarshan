@@ -246,7 +246,6 @@
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/apoorvdarshan/_created)
 [![Hacker News](https://img.shields.io/badge/-Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=apoorvdarshan)
-[![Nostr](https://img.shields.io/badge/-Nostr-8E30EB?style=flat-square&logo=nostr&logoColor=white)](https://njump.me/npub1syajr8tyvgna50n3fqvh3n75dlsejl3qj6598yamq6dxlqu7vn9sydxp27)
 
 ---
 
