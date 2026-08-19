@@ -242,7 +242,7 @@
 [![TrustMRR](https://img.shields.io/badge/-%E2%98%85%20TrustMRR-5865F2?style=flat-square)](https://trustmrr.com/founder/apoorvdarshan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/apoorvdarshan)
 [![Grokipedia](https://img.shields.io/badge/-Grokipedia-000000?style=flat-square&logo=x&logoColor=white)](https://grokipedia.com/page/Apoorv_Darshan)
-[![Sponsor me on GitHub](https://img.shields.io/badge/-Sponsor_me_on_GitHub-DB61A2?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/apoorvdarshan)
+[![Sponsor me on GitHub](https://img.shields.io/badge/-Sponsor_me_on_GitHub-D29922?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/apoorvdarshan)
 [![Support me on Ko-Fi](https://img.shields.io/badge/-Support%20me%20on%20Ko--Fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/apoorvdarshan)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/apoorvdarshan/_created)
