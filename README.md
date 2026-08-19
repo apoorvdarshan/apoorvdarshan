@@ -230,6 +230,8 @@
 
 [![Profile](https://img.shields.io/badge/-Profile-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://apoorvdarshan.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
+[![Fud AI](https://img.shields.io/badge/-Fud_AI-1F8A70?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv@fud-ai.app)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorvdarshan@gmail.com)
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
