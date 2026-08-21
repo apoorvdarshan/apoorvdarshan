@@ -67,6 +67,7 @@
 ## Projects
 <ul>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
+  <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
   <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> - Local cookie and session transfer between Chromium browsers and Codex on macOS</li>
   <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Fully editable, animated mechanical heart reactor built procedurally in Blender</li>
   <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> - Local torrent streamer and downloader with a native engine and browser UI</li>
