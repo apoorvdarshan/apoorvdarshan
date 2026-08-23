@@ -240,7 +240,7 @@
 [![Email 1](https://img.shields.io/badge/-Email_1-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorvdarshan@gmail.com)
 [![Email 2](https://img.shields.io/badge/-Email_2-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad13dtu@gmail.com)
 [![Email 3](https://img.shields.io/badge/-Email_3-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv@fud-ai.app)
-[![Schedule a Meeting](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/aporv)
+[![Schedule a Meeting](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/aopv3)
 [![Hacker News](https://img.shields.io/badge/-Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=apoorvdarshan)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/aopv3)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lawlmexv2yrccl6xbhxggb6bza)
