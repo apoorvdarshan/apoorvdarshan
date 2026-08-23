@@ -67,7 +67,7 @@
 ## Projects
 <ul>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
-  <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
+  <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
   <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> - Local cookie and session transfer between Chromium browsers and Codex on macOS</li>
   <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Fully editable, animated mechanical heart reactor built procedurally in Blender</li>
   <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> - Local torrent streamer and downloader with a native engine and browser UI</li>
@@ -230,7 +230,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorvdarshan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUyIDM1Ljc2VjUySDQ0VjM3LjgxYzAtNC4zMS0yLjczLTYuMTEtNS02LjExYTUuODIgNS44MiAwIDAgMC02IDYuMjFWNTJIMjVWMjVoNy41M3YzLjc5aC4xMWMuOC0xLjY0IDQuNDQtNC4zNyA5LjEzLTQuMzdTNTIgMjcuNTkgNTIgMzUuNzZaTTE2IDExLjNBNC43IDQuNyAwIDEgMCAyMC43IDE2IDQuNjkgNC42OSAwIDAgMCAxNiAxMS4zWk0xMiA1Mmg4VjI1SDEyWiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/apoorvdarshan)
 [![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@apoorvdarshan)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@apoorvdarshan)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@apoorvv)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/apoorvv)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apoorvdarshan)
 [![TrustMRR](https://img.shields.io/badge/-%E2%98%85%20TrustMRR-5865F2?style=flat-square)](https://trustmrr.com/founder/apoorvdarshan)
