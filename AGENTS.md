@@ -4,7 +4,7 @@ This file provides guidance to coding agents when working with code in this repo
 
 ## Repository Overview
 
-This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan`). `README.md` renders on the GitHub profile page, and most content work involves editing `README.md`.
+This is primarily a **GitHub profile README** repo (`aopv/aopv`). `README.md` renders on the GitHub profile page, and most content work involves editing `README.md`.
 
 ## Cross-Repository Profile Synchronization
 
