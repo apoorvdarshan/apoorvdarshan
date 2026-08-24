@@ -50,7 +50,7 @@ The README has these sections in order:
 - Fetch each repository's current star count with `gh api repos/OWNER/REPO --jq '.stargazers_count'`.
 - If the count is **greater than 0**, ensure the entry includes this live badge immediately after the linked project name:
   ```html
-  <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=OWNER/REPO&amp;v=3">
+  <img alt="Stars" src="https://github-star-badge.aopv.dev/api/stars?repo=OWNER/REPO&amp;v=3">
   ```
 - If the count is **0**, do not show a star badge; remove any stale badge already present.
 - Closed-source and non-GitHub entries do not receive GitHub star badges.
