@@ -4,11 +4,11 @@ This file provides guidance to coding agents when working with code in this repo
 
 ## Repository Overview
 
-This is primarily a **GitHub profile README** repo (`aopv/aopv`). `README.md` renders on the GitHub profile page, and most content work involves editing `README.md`.
+This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan`). `README.md` renders on the GitHub profile page, and most content work involves editing `README.md`.
 
 ## Cross-Repository Profile Synchronization
 
-- Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `aopv.dev` reflects the same projects, open-source contributions, links, and profile facts.
+- Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `apoorvdarshan.com` reflects the same projects, open-source contributions, links, and profile facts.
 - Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md` and `CLAUDE.md`.
 - Keep the private, gitignored resume source and PDF out of this public profile repository. Commit and push each affected tracked repository separately.
 - When a profile update changes resume data, follow the resume instructions for updating LinkedIn's saved resume without asking for separate permission. Do not open foreground apps unexpectedly.
@@ -50,7 +50,7 @@ The README has these sections in order:
 - Fetch each repository's current star count with `gh api repos/OWNER/REPO --jq '.stargazers_count'`.
 - If the count is **greater than 0**, ensure the entry includes this live badge immediately after the linked project name:
   ```html
-  <img alt="Stars" src="https://github-star-badge.aopv.dev/api/stars?repo=OWNER/REPO&amp;v=3">
+  <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=OWNER/REPO&amp;v=3">
   ```
 - If the count is **0**, do not show a star badge; remove any stale badge already present.
 - Closed-source and non-GitHub entries do not receive GitHub star badges.
