@@ -1,5 +1,6 @@
 name = "github-star-badge"
 main = "src/index.js"
 compatibility_date = "2024-09-23"
-workers_dev = true
+workers_dev = false
+preview_urls = false
 routes = [{ pattern = "github-star-badge.aopv.dev", custom_domain = true }]
