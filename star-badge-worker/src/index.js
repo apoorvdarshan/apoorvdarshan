@@ -2,7 +2,7 @@ const GITHUB_API = "https://api.github.com/repos/";
 const USER_AGENT = "apoorvdarshan-github-star-badge-worker";
 const CACHE_SECONDS = 60 * 60;
 const STALE_SECONDS = 60 * 60 * 24;
-const CACHE_GENERATION = "3";
+const CACHE_GENERATION = "4";
 
 export default {
   async fetch(request, env, ctx) {
@@ -19,11 +19,19 @@ export default {
     }
 
     const repo = url.searchParams.get("repo") || "";
+    const responseFormat = url.searchParams.get("format") || "svg";
+    if (responseFormat !== "svg" && responseFormat !== "json") {
+      return new Response("Unsupported format\n", { status: 400 });
+    }
+
     if (!isValidRepo(repo)) {
+      if (responseFormat === "json") {
+        return jsonResponse({ error: "Invalid repo" }, 400, 300);
+      }
       return svgResponse(renderBadge("bad", "#e05d44", "Invalid repo"), 400, 300);
     }
 
-    const cacheKey = createCacheKey(url, repo);
+    const cacheKey = createCacheKey(url, repo, responseFormat);
     const cached = await caches.default.match(cacheKey);
     if (cached) {
       return cached;
@@ -31,11 +39,21 @@ export default {
 
     try {
       const stars = await getStarCount(repo, env);
+      if (responseFormat === "json") {
+        const response = jsonResponse({ repo, stars, formatted: formatStars(stars) }, 200, CACHE_SECONDS, STALE_SECONDS);
+        ctx.waitUntil(caches.default.put(cacheKey, response.clone()));
+        return response;
+      }
+
       const badge = svgResponse(renderBadge(formatStars(stars)), 200, CACHE_SECONDS, STALE_SECONDS);
       ctx.waitUntil(caches.default.put(cacheKey, badge.clone()));
       return badge;
     } catch (error) {
       console.error(`GitHub API star lookup failed for ${repo}:`, error);
+
+      if (responseFormat === "json") {
+        return jsonResponse({ error: "GitHub API error" }, 502, 300);
+      }
 
       try {
         const badge = await getShieldsBadge(repo);
@@ -53,10 +71,11 @@ function isValidRepo(repo) {
   return /^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(repo);
 }
 
-function createCacheKey(url, repo) {
+function createCacheKey(url, repo, responseFormat) {
   const cacheUrl = new URL("/api/stars", url.origin);
   cacheUrl.searchParams.set("repo", repo);
   cacheUrl.searchParams.set("v", (url.searchParams.get("v") || "1").slice(0, 32));
+  cacheUrl.searchParams.set("format", responseFormat);
   cacheUrl.searchParams.set("generation", CACHE_GENERATION);
   return new Request(cacheUrl, { method: "GET" });
 }
@@ -181,6 +200,23 @@ function svgResponse(svg, status = 200, maxAge = CACHE_SECONDS, staleWhileRevali
     headers: {
       "content-type": "image/svg+xml; charset=utf-8",
       "cache-control": cacheControl.join(", "),
+      "x-content-type-options": "nosniff",
+    },
+  });
+}
+
+function jsonResponse(data, status = 200, maxAge = CACHE_SECONDS, staleWhileRevalidate = 0) {
+  const cacheControl = [`public`, `max-age=${maxAge}`];
+  if (staleWhileRevalidate > 0) {
+    cacheControl.push(`stale-while-revalidate=${staleWhileRevalidate}`);
+  }
+
+  return new Response(JSON.stringify(data), {
+    status,
+    headers: {
+      "content-type": "application/json; charset=utf-8",
+      "cache-control": cacheControl.join(", "),
+      "access-control-allow-origin": "*",
       "x-content-type-options": "nosniff",
     },
   });
