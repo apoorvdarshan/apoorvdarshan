@@ -10,6 +10,7 @@ This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan
 
 - Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `apoorvdarshan.com` reflects the same projects, open-source contributions, links, and profile facts.
 - Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md` and `CLAUDE.md`.
+- After that Documents sync, also refresh `/Users/apoorvdarshan/profile/public/Apoorv_Darshan_Resume.pdf` from the compiled resume, commit/push/deploy `profile` so https://apoorvdarshan.com/Apoorv_Darshan_Resume.pdf stays current. Never put the resume PDF in this GitHub profile README repository; never auto-upload to LinkedIn.
 - Keep the private, gitignored resume source and PDF out of this public profile repository. Commit and push each affected tracked repository separately.
 
 ## README Section Structure
