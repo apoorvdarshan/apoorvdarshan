@@ -10,8 +10,9 @@ This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan
 
 - Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `apoorvdarshan.com` reflects the same projects, open-source contributions, links, and profile facts.
 - Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md` and `CLAUDE.md`.
-- After that Documents sync, also refresh `/Users/apoorvdarshan/profile/public/Apoorv_Darshan_Resume.pdf` from the compiled resume, commit/push/deploy `profile` so https://apoorvdarshan.com/resume stays current. Never put the resume PDF in this GitHub profile README repository; never auto-upload to LinkedIn.
-- Keep the private, gitignored resume source and PDF out of this public profile repository. The public share link is `https://apoorvdarshan.com/resume`, which serves the PDF still named `Apoorv_Darshan_Resume.pdf` for download/view (hosted on the profile site at `profile/public/Apoorv_Darshan_Resume.pdf`, not in this repo). Commit and push each affected tracked repository separately.
+
+- After that Documents sync, also refresh `/Users/apoorvdarshan/profile/public/Apoorv_Darshan_Resume.pdf` from the compiled resume, then commit/push/deploy `profile` so https://apoorvdarshan.com/resume stays current (PDF still downloads as `Apoorv_Darshan_Resume.pdf`). Keep this README's **Resume** section and Connect **Resume** badge pointing at that short URL. Never put the resume PDF binary in this repository; never auto-upload to LinkedIn.
+- Keep the private, gitignored resume source and PDF out of this public profile repository. The public share link is `https://apoorvdarshan.com/resume` (hosted on the profile site; file name remains `Apoorv_Darshan_Resume.pdf`). Commit and push each affected tracked repository separately.
 ## README Section Structure
 
 The README has these sections in order:
@@ -23,7 +24,8 @@ The README has these sections in order:
 6. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
 7. **GitHub Activity** — contribution graph
 8. **What I'm Doing** — current focus areas
-9. **Resume** — shields.io badge links to https://apoorvdarshan.com/resume
+
+9. **Resume** — shields.io View/Download badges + Connect Resume badge → https://apoorvdarshan.com/resume
 10. **Connect** — shields.io badge links to social profiles
 11. **Recognition** — awards and achievements
 12. **Philosophy** — quote + random facts
