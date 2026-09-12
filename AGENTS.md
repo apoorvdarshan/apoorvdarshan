@@ -11,8 +11,7 @@ This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan
 - Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `apoorvdarshan.com` reflects the same projects, open-source contributions, links, and profile facts.
 - Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md` and `CLAUDE.md`.
 - After that Documents sync, also refresh `/Users/apoorvdarshan/profile/public/Apoorv_Darshan_Resume.pdf` from the compiled resume, commit/push/deploy `profile` so https://apoorvdarshan.com/Apoorv_Darshan_Resume.pdf stays current. Never put the resume PDF in this GitHub profile README repository; never auto-upload to LinkedIn.
-- Keep the private, gitignored resume source and PDF out of this public profile repository. Commit and push each affected tracked repository separately.
-
+- Keep the private, gitignored resume source and PDF out of this public profile repository. The public download lives at `https://apoorvdarshan.com/Apoorv_Darshan_Resume.pdf` (hosted on the profile site, not in this repo). Commit and push each affected tracked repository separately.
 ## README Section Structure
 
 The README has these sections in order:
@@ -24,9 +23,10 @@ The README has these sections in order:
 6. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
 7. **GitHub Activity** — contribution graph
 8. **What I'm Doing** — current focus areas
-9. **Connect** — shields.io badge links to social profiles
-10. **Recognition** — awards and achievements
-11. **Philosophy** — quote + random facts
+9. **Resume** — shields.io badge links to the public PDF on apoorvdarshan.com
+10. **Connect** — shields.io badge links to social profiles
+11. **Recognition** — awards and achievements
+12. **Philosophy** — quote + random facts
 
 ## Section Overflow (Show More)
 
