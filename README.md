@@ -47,8 +47,8 @@
   <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> - AI-powered calorie and nutrition tracker app (8K+ downloads)</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> - Open-source iOS hub for hosting, domains, analytics, and uptime (1K+ downloads)</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> - iOS AI companion with a live VRM avatar that sees you</li>
-  <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit addictions like smoking, alcohol, social media, and more</li>
-  <li>📚 <strong><a href="https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227">iitjee</a></strong> <em>(closed source)</em> - Offline handwritten PCM notes for JEE Main, JEE Advanced &amp; NEET on iPhone and iPad</li>
+  <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> - iOS app to quit smoking, alcohol, social media, and more</li>
+  <li>📚 <strong><a href="https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227">iitjee</a></strong> <em>(closed source)</em> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
 </ul>
 
 ## Games
@@ -59,30 +59,30 @@
 ## Chrome Extensions
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
-  <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/newest-youtube-search&amp;v=3"> - Chrome extension for true newest-first YouTube video search using the YouTube Data API</li>
-  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> - Chrome extension that auto-pauses Netflix &amp; Prime Video when you switch away</li>
-  <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian shows from Netflix &amp; Prime Video (personal preference, not a judgment)</li>
+  <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/newest-youtube-search&amp;v=3"> - Chrome extension for true newest-first YouTube search</li>
+  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
+  <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 
 ## Projects
 <ul>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
   <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
-  <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> - Local cookie and session transfer between Chromium browsers and Codex on macOS (2K+ downloads)</li>
-  <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Fully editable, animated mechanical heart reactor built procedurally in Blender</li>
-  <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> - Local torrent streamer and downloader with a native engine and browser UI (300+ downloads)</li>
-  <li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex plugin and MCP server for explicit multi-account Gmail access</li>
+  <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> - Local Chromium cookie/session transfer to Codex on macOS (2K+ downloads)</li>
+  <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Editable animated mechanical heart reactor in Blender</li>
+  <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> - Local torrent streamer/downloader with a browser UI (300+ downloads)</li>
+  <li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex/MCP plugin for multi-account Gmail access</li>
   <li>🪐 <strong><a href="https://github.com/apoorvdarshan/helios-01">helios-01</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/helios-01&amp;v=3"> - Editable Blender pocket orrery with an animated mechanical solar system</li>
-  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> - Open-source crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube, and more (4K+ downloads)</li>
-  <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> - macOS menu-bar app that screenshots your USB-connected iPhone straight into a folder you choose (2K+ downloads)</li>
-  <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook: never sleep, lid closed, display off, fully reversible</li>
-  <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country and role at a human-like pace</li>
+  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more (4K+ downloads)</li>
+  <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> - macOS menu-bar iPhone screenshots to a folder you choose (2K+ downloads)</li>
+  <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>
+  <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country/role at a human pace</li>
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
   <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge multiple GitHub contribution graphs into one SVG heatmap</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge GitHub contribution graphs into one SVG heatmap</li>
   <li>
     <details>
       <summary>Show More</summary>
@@ -92,7 +92,7 @@
       <div>&bull; 🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/slot-machine-date-picker&amp;v=3"> - Slot machine date picker; intentionally bad UI</div>
       <div>&bull; 🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</div>
       <div>&bull; 🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/karasufumi&amp;v=3"> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</div>
-      <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X account engagement scorer using the open-source algorithm (300+ downloads)</div>
+      <div>&bull; 📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> - X engagement scorer using the open-source algorithm (300+ downloads)</div>
       <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/zyro&amp;v=3"> - AI news website (GNews.io API, 100 req/day limit)</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
       <div>&bull; 🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&amp;v=3"> - Claude Code reimplemented in pure C, the lowest level it's ever been done</div>

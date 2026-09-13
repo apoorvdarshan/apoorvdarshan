@@ -60,8 +60,11 @@ The README has these sections in order:
 
 ## Description Length
 
-- Descriptions in **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** must be one rendered line maximum at normal GitHub desktop width
-- If a description wraps, shorten it rather than preserving extra detail
+- Descriptions in **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** must stay on **one rendered line** at normal desktop width (GitHub README profile view and apoorvdarshan.com).
+- Never let a description wrap to a second line on desktop. If it would wrap, **shorten the wording** (keep the metric suffix like `(8K+ downloads)` when present).
+- Prefer ~90 characters or fewer for the plain description text after the name/badge.
+- On apoorvdarshan.com, desktop list rows also use CSS ellipsis as a backstop (`white-space: nowrap; overflow: hidden; text-overflow: ellipsis`) — still shorten the source text; do not rely on clipping alone.
+
 
 ## Formatting Patterns
 
