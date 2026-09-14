@@ -241,19 +241,19 @@
 
 ### Hardware
 
-- 💻 MacBook Air 13"
-- 🖥️ ViewSonic VX2779-HD-PRO
-- 📱 iPhone 16
+[![MacBook Air 13"](https://img.shields.io/badge/-MacBook_Air_13%22-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macbook-air/)
+[![ViewSonic VX2779-HD-PRO](https://img.shields.io/badge/-ViewSonic_VX2779--HD--PRO-CC0000?style=flat-square)](https://www.viewsonic.com/)
+[![iPhone 16](https://img.shields.io/badge/-iPhone_16-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/iphone-16/)
 
 ### Software
 
-- 🌐 Google Chrome
-- 🚀 Raycast
-- 📝 Notion
-- ⌨️ cmux
-- ✨ Cursor
-- 🤖 OpenCode
-- 🪄 Grok Bot
+[![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
+[![Raycast](https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white)](https://www.raycast.com/)
+[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.com/)
+[![cmux](https://img.shields.io/badge/-cmux-111111?style=flat-square&logo=gnubash&logoColor=white)](https://cmux.com/)
+[![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
+[![OpenCode](https://img.shields.io/badge/-OpenCode-1a1a1a?style=flat-square&logo=openai&logoColor=white)](https://opencode.ai/)
+[![Grok Bot](https://img.shields.io/badge/-Grok_Bot-000000?style=flat-square&logo=x&logoColor=white)](https://grok.x.ai/)
 
 ## Resume
 
