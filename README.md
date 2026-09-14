@@ -237,6 +237,13 @@
 - **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, X, and Product Hunt
 - **Contributing to open source** - Shipping PRs to [omi](https://github.com/BasedHardware/omi) and other upstreams
 
+## What I Use
+
+- **MacBook Air 13"** - Daily driver for coding and shipping
+- **ViewSonic VX2779-HD-PRO** - 27" FHD 180Hz IPS external display
+- **iPhone 16** - Daily phone
+
+
 ## Resume
 
 PDF resume — view or download.
