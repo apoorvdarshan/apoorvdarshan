@@ -24,7 +24,7 @@ The README has these sections in order:
 6. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
 7. **GitHub Activity** — contribution graph
 8. **What I'm Doing** — current focus areas
-9. **What I Use** — hardware / daily devices (named bullets; syncs to site `uses`)
+9. **What I Use** — Hardware + Software named bullets; syncs to site `uses` (GitHub README + apoorvdarshan.com only — **not** the resume)
 
 10. **Resume** — shields.io View/Download badges + Connect Resume badge → https://apoorvdarshan.com/resume
 11. **Connect** — shields.io badge links to social profiles
