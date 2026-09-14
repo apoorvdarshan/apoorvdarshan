@@ -241,20 +241,19 @@
 
 ### Hardware
 
-- **MacBook Air 13"** - Daily driver for coding and shipping
-- **ViewSonic VX2779-HD-PRO** - 27" FHD 180Hz IPS external display
-- **iPhone 16** - Daily phone
+- 💻 MacBook Air 13"
+- 🖥️ ViewSonic VX2779-HD-PRO
+- 📱 iPhone 16
 
 ### Software
 
-- **Google Chrome** - Browser
-- **Raycast** - Launcher and shortcuts
-- **Notion** - Notes and docs
-- **cmux** - Native macOS terminal for coding agents
-- **Cursor** - AI code editor
-- **OpenCode** - Open-source AI coding agent
-- **Grok Bot** - Desktop AI assistant
-
+- 🌐 Google Chrome
+- 🚀 Raycast
+- 📝 Notion
+- ⌨️ cmux
+- ✨ Cursor
+- 🤖 OpenCode
+- 🪄 Grok Bot
 
 ## Resume
 
