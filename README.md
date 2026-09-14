@@ -295,10 +295,9 @@ PDF resume — view or download.
 <details>
 <summary>Random Facts</summary>
 
-- Using Claude Code and Codex to build faster and ship more
 - Turns out electrons are probability clouds until observed
 - Mathematics, physics, and electronics keep me curious
-- Apple > Windows, no debate
+- Linux > Apple > Windows, no debate
 - Hit the gym when I'm not at the keyboard
 
 </details>
