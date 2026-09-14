@@ -60,7 +60,7 @@
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 10+" src="https://img.shields.io/badge/users-10%2B-8B1A1A?style=flat-square"> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/newest-youtube-search&amp;v=3"> - Chrome extension for true newest-first YouTube search</li>
-  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
+  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 4" src="https://img.shields.io/badge/users-4-8B1A1A?style=flat-square"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 

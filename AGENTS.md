@@ -63,7 +63,7 @@ The README has these sections in order:
 - App Store Connect snapshot lives at `~/Documents/asc_downloads.json`. Marketing download figures use **first-time** downloads only (not all-events totals that include auto/manual updates).
 - **Fud AI 8K+** = ASC first-time (~6K as of 2026-09-11) + Play/other — never swap in the ~37K ASC all-events total.
 - In this README, show download counts as **maroon/blood-red shields.io flat-square tiles** beside the star badges (or right after `</strong>` / status if no stars), e.g. `<img alt="Downloads: 8K+" src="https://img.shields.io/badge/%E2%86%93-8K%2B-8B1A1A?style=flat-square">` (encode `+` as `%2B`, color `8B1A1A`).
-- Chrome Web Store extensions use **`Users: N`** maroon shields (public user count, not installs), e.g. `<img alt="Users: 10+" src="https://img.shields.io/badge/users-10%2B-8B1A1A?style=flat-square">`. Only add when the extension is listed publicly and the floor is meaningful.
+- Chrome Web Store extensions use **`Users: N`** maroon shields (public user count, not installs), e.g. `<img alt="Users: 10+" src="https://img.shields.io/badge/users-10%2B-8B1A1A?style=flat-square">`. Only add when the extension is listed publicly. Under 10 users, show the exact count (e.g. `Users: 4`); at 10+ use a floor like `10+`.
 - Do **not** keep trailing `(Nk+ downloads)` parentheticals in README descriptions once download badges exist — the profile site parses `alt="Downloads: …"` and renders plain `↓` text beside ★ (same look as `.star-count`, not a maroon pill).
 
 ## Description Length
