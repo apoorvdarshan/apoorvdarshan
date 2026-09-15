@@ -248,7 +248,7 @@
 
 ### Software
 
-[![Google Chrome](https://img.shields.io/badge/-Google_Chrome-000000?style=flat-square&logo=googlechrome)](https://www.google.com/chrome/)
+[![Brave](https://img.shields.io/badge/-Brave-000000?style=flat-square&logo=brave&logoColor=white)](https://brave.com/)
 [![Raycast](https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white)](https://www.raycast.com/)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.com/)
 [![cmux](https://img.shields.io/badge/-cmux-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDhjMS4yIDAgMi4zLjUgMy4xIDEuNEw0MC42IDMyIDE1LjEgNTQuNkE0LjQgNC40IDAgMCAxIDEyIDU2aDkuMmMxLjIgMCAyLjQtLjUgMy4yLTEuNEw1Mi45IDM0YTIuOCAyLjggMCAwIDAgMC00TDI0LjQgOS40QTQuNCA0LjQgMCAwIDAgMjEuMiA4SDEyeiIvPjwvc3ZnPg%3D%3D)](https://cmux.com/)
