@@ -1,0 +1,28 @@
+name: Assemble brand README
+on:
+  push:
+    branches: [brand/omi-24-pandas]
+    paths:
+      - '.brand-build/readme/**'
+      - '.github/workflows/assemble-readme.yml'
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: brand/omi-24-pandas
+      - name: Assemble README.md from b64 parts
+        run: |
+          set -euo pipefail
+          cat .brand-build/readme/part-*.b64 | tr -d '\n' | base64 -d > README.md
+          rm -rf .brand-build
+          rm -f .github/workflows/assemble-readme.yml
+          rm -f .brand-update-omi24-pandas.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Bump omi to 24 merged PRs; add pandas"
+          git push
