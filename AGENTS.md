@@ -9,7 +9,7 @@ This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan
 ## Cross-Repository Profile Synchronization
 
 - Treat every GitHub profile content update as a synchronized profile update. Mirror relevant changes in `/Users/apoorvdarshan/profile` so `apoorvdarshan.com` reflects the same projects, open-source contributions, links, and profile facts.
-- Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md` and `CLAUDE.md`.
+- Mirror relevant project and open-source changes in `/Users/apoorvdarshan/rekisei/Apoorv_Darshan_Resume.tex`, recompile and visually verify the PDF without opening a viewer, and sync the verified source and PDF to `~/Documents/`. Follow the resume repository's `AGENTS.md`.
 
 - After that Documents sync, also refresh `/Users/apoorvdarshan/profile/public/Apoorv_Darshan_Resume.pdf` from the compiled resume, then commit/push/deploy `profile` so https://apoorvdarshan.com/resume stays current (PDF still downloads as `Apoorv_Darshan_Resume.pdf`). Keep this README's **Resume** section and Connect **Resume** badge pointing at that short URL. Never put the resume PDF binary in this repository.
 - Keep the private, gitignored resume source and PDF out of this public profile repository. The public share link is `https://apoorvdarshan.com/resume` (hosted on the profile site; file name remains `Apoorv_Darshan_Resume.pdf`). Commit and push each affected tracked repository separately.
@@ -103,4 +103,3 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 - Always commit and push after every change — do not batch or wait to be asked
 - No co-author lines in commits
 - Keep commit messages concise (one line)
-- Keep `AGENTS.md` and `CLAUDE.md` parallel: when changing repository guidance, update both files together so their instructions stay in sync
