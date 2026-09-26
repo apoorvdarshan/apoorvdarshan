@@ -73,6 +73,7 @@
 ## Projects
 <ul>
   <li>☁️ <strong><a href="https://github.com/apoorvdarshan/agent-cloud-toolkit">agent-cloud-toolkit</a></strong> - Run AI coding agents in parallel on Modal + Freestyle cloud VMs from a macOS menu bar</li>
+  <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models</li>
   <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
   <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - Local Chromium cookie/session transfer to Codex on macOS</li>
   <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Editable animated mechanical heart reactor in Blender</li>
