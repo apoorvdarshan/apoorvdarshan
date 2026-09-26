@@ -72,7 +72,7 @@
 
 ## Projects
 <ul>
-  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
+  <li>☁️ <strong><a href="https://github.com/apoorvdarshan/agent-cloud-toolkit">agent-cloud-toolkit</a></strong> - Run AI coding agents in parallel on Modal + Freestyle cloud VMs from a macOS menu bar</li>
   <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
   <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - Local Chromium cookie/session transfer to Codex on macOS</li>
   <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Editable animated mechanical heart reactor in Blender</li>
@@ -82,6 +82,7 @@
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://img.shields.io/badge/%E2%86%93-4K%2B-8B1A1A?style=flat-square"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
   <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
   <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>
+  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
   <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country/role at a human pace</li>
   <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
