@@ -20,7 +20,7 @@ The README has these sections in order:
 2. **Apps** — mobile apps (HTML format, same `<li>` patterns as Projects)
 3. **Games** — games (HTML format, same `<li>` patterns as Projects)
 4. **Chrome Extensions** — browser extensions (HTML format, same `<li>` patterns as Projects)
-5. **Projects** — everything else: web apps, tools, bots, experiments (HTML format)
+5. **Projects** — everything else, grouped into category subsections: **AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun** (each an HTML `<ul>` of `<li>` items)
 6. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
 7. **GitHub Activity** — contribution graph
 8. **What I'm Doing** — current focus areas
@@ -33,9 +33,10 @@ The README has these sections in order:
 
 ## Section Overflow (Show More)
 
-- **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** show only the first **15 items**
+- **Apps**, **Games**, **Chrome Extensions**, and **Open Source Contributions** show only the first **15 items**
 - Items beyond 15 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
 - Inside "Show More", entries use `<div>&bull; ...</div>` format (not markdown or `<li>`)
+- **Projects** is split into category subsections, each an HTML `<ul>` showing all of its items (keep each category to 15 or fewer; no Show More)
 
 ## Adding New Items — Placement Rules
 
@@ -44,7 +45,7 @@ The README has these sections in order:
 | Apps | **Ask user where to place** — no automatic top/bottom default |
 | Games | **Ask user where to place** — no automatic top/bottom default |
 | Chrome Extensions | **Ask user where to place** — no automatic top/bottom default |
-| Projects | **Ask user where to place** — no automatic top/bottom default |
+| Projects | **Ask user which category + position** — no automatic default |
 | Open Source | **By star count** (descending). Fetch stars: `gh api repos/OWNER/REPO --jq '.stargazers_count'` |
 
 ## Profile Update Star Audit
@@ -77,8 +78,8 @@ The README has these sections in order:
 
 ## Formatting Patterns
 
-### Projects (HTML, inside `<ul>`)
-Top 15 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
+### Projects (HTML, grouped by `### Category`)
+Each category is a `### 🧠 AI & Agents` / `### 🖥️ Apps & Utilities` / `### 🌐 Web Apps & Tools` / `### 🎨 Creative, 3D & Vision` / `### 🧪 Experiments & Fun` heading followed by a `<ul>` of `<li>` items (no Show More):
 ```html
 <li>EMOJI <strong><a href="URL">name</a></strong> - description</li>
 <li>EMOJI <strong><a href="URL">name</a></strong> <em>(closed source)</em> - description</li>
