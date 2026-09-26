@@ -70,9 +70,7 @@
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 
-## Projects
-
-### 🧠 AI & Agents
+## 🧠 AI & Agents
 <ul>
 <li>☁️ <strong><a href="https://github.com/apoorvdarshan/agent-cloud-toolkit">agent-cloud-toolkit</a></strong> - Run AI coding agents in parallel on Modal + Freestyle cloud VMs from a macOS menu bar</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models</li>
@@ -85,7 +83,7 @@
 <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&amp;v=3"> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
 </ul>
 
-### 🖥️ Apps & Utilities
+## 🖥️ Apps & Utilities
 <ul>
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
 <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - Local Chromium cookie/session transfer to Codex on macOS</li>
@@ -93,7 +91,7 @@
 <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
 </ul>
 
-### 🌐 Web Apps & Tools
+## 🌐 Web Apps & Tools
 <ul>
 <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://img.shields.io/badge/%E2%86%93-4K%2B-8B1A1A?style=flat-square"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
 <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
@@ -108,7 +106,7 @@
 <li>🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/todo-app&amp;v=3"> - Harry Potter-themed To-Do app</li>
 </ul>
 
-### 🎨 Creative, 3D & Vision
+## 🎨 Creative, 3D & Vision
 <ul>
 <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Editable animated mechanical heart reactor in Blender</li>
 <li>🪐 <strong><a href="https://github.com/apoorvdarshan/helios-01">helios-01</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/helios-01&amp;v=3"> - Editable Blender pocket orrery with an animated mechanical solar system</li>
@@ -119,7 +117,7 @@
 <li>🎯 <strong><a href="https://github.com/apoorvdarshan/headshot-tracker">headshot-tracker</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/headshot-tracker&amp;v=3"> - Real-time face tracking with sci-fi HUD</li>
 </ul>
 
-### 🧪 Experiments & Fun
+## 🧪 Experiments & Fun
 <ul>
 <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
 <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
