@@ -72,7 +72,6 @@
 
 ## AI & Agents
 <ul>
-<li>☁️ <strong><a href="https://github.com/apoorvdarshan/agent-cloud-toolkit">agent-cloud-toolkit</a></strong> - Run AI coding agents in parallel on Modal + Freestyle cloud VMs from a macOS menu bar</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models</li>
 <li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex/MCP plugin for multi-account Gmail access</li>
 <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>
@@ -93,17 +92,25 @@
 
 ## Web Apps & Tools
 <ul>
-<li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://img.shields.io/badge/%E2%86%93-4K%2B-8B1A1A?style=flat-square"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
-<li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
-<li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
-<li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
-<li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge GitHub contribution graphs into one SVG heatmap</li>
-<li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 300+" src="https://img.shields.io/badge/%E2%86%93-300%2B-8B1A1A?style=flat-square"> - X engagement scorer using the open-source algorithm</li>
-<li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/zyro&amp;v=3"> - AI news website (GNews.io API, 100 req/day limit)</li>
-<li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
-<li>📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</li>
-<li>🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/compress-image&amp;v=3"> - Client-side image compression (browser-only, nothing uploaded)</li>
-<li>🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/todo-app&amp;v=3"> - Harry Potter-themed To-Do app</li>
+  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://img.shields.io/badge/%E2%86%93-4K%2B-8B1A1A?style=flat-square"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
+  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
+  <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
+  <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge GitHub contribution graphs into one SVG heatmap</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 300+" src="https://img.shields.io/badge/%E2%86%93-300%2B-8B1A1A?style=flat-square"> - X engagement scorer using the open-source algorithm</li>
+  <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/zyro&amp;v=3"> - AI news website (GNews.io API, 100 req/day limit)</li>
+  <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
+  <li>📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</li>
+  <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/compress-image&amp;v=3"> - Client-side image compression (browser-only, nothing uploaded)</li>
+
+  <li>
+    <details>
+      <summary>Show More</summary>
+      <div>
+      <div>&bull; 🧙 <strong><a href="https://github.com/apoorvdarshan/todo-app">todo-app</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/todo-app&amp;v=3"> - Harry Potter-themed To-Do app</div>
+      </div>
+    </details>
+  </li>
 </ul>
 
 ## Creative, 3D & Vision
@@ -119,21 +126,29 @@
 
 ## Experiments & Fun
 <ul>
-<li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
-<li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
-<li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
-<li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/dob-selector&amp;v=3"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
-<li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/slot-machine-date-picker&amp;v=3"> - Slot machine date picker; intentionally bad UI</li>
-<li>🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/zombie-game&amp;v=3"> - 3D zombie survival FPS with Three.js</li>
-<li>🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/dtu-clone&amp;v=3"> - DTU website with cyberpunk UI</li>
-<li>🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/redbull&amp;v=3"> - Red Bull landing page reimagined</li>
-<li>🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/simon-says&amp;v=3"> - Fantasy-themed Simon Says memory game</li>
-<li>🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/toggle-button&amp;v=3"> - Star Wars themed dark/light mode toggle</li>
-<li>🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/bmw&amp;v=3"> - BMW landing page clone</li>
-<li>🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/monster-energy&amp;v=3"> - Monster Energy landing page</li>
-<li>🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/random-dog-images&amp;v=3"> - Random dog images powered by Dog CEO API</li>
-<li>🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/random-cat-facts&amp;v=3"> - Cat facts powered by catfact.ninja API</li>
-<li>🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/spotify-clone&amp;v=3"> - Spotify UI clone</li>
+  <li>💸 <strong><a href="https://github.com/apoorvdarshan/how-rich-are-you">how-rich-are-you</a></strong> - 90s-style income rank calculator with broke/rich meme GIF reactions</li>
+  <li>💰 <strong><a href="https://github.com/apoorvdarshan/billionaire-smash">billionaire-smash</a></strong> - Facemash for Forbes billionaires, vote on who wins head-to-head</li>
+  <li>🧾 <strong><a href="https://github.com/apoorvdarshan/daxerly">daxerly</a></strong> - Proof of work, formatted as a receipt with a price tag on it</li>
+  <li>🌍 <strong><a href="https://github.com/apoorvdarshan/dob-selector">dob-selector</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/dob-selector&amp;v=3"> - Intentionally bad UI date picker; viral on Reddit (130K+ views)</li>
+  <li>🎰 <strong><a href="https://github.com/apoorvdarshan/slot-machine-date-picker">slot-machine-date-picker</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/slot-machine-date-picker&amp;v=3"> - Slot machine date picker; intentionally bad UI</li>
+  <li>🎮 <strong><a href="https://github.com/apoorvdarshan/zombie-game">zombie-game</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/zombie-game&amp;v=3"> - 3D zombie survival FPS with Three.js</li>
+  <li>🏫 <strong><a href="https://github.com/apoorvdarshan/dtu-clone">dtu-clone</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/dtu-clone&amp;v=3"> - DTU website with cyberpunk UI</li>
+  <li>🐂 <strong><a href="https://github.com/apoorvdarshan/redbull">redbull</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/redbull&amp;v=3"> - Red Bull landing page reimagined</li>
+  <li>🐉 <strong><a href="https://github.com/apoorvdarshan/simon-says">simon-says</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/simon-says&amp;v=3"> - Fantasy-themed Simon Says memory game</li>
+  <li>🌓 <strong><a href="https://github.com/apoorvdarshan/toggle-button">toggle-button</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/toggle-button&amp;v=3"> - Star Wars themed dark/light mode toggle</li>
+
+  <li>
+    <details>
+      <summary>Show More</summary>
+      <div>
+      <div>&bull; 🚗 <strong><a href="https://github.com/apoorvdarshan/bmw">bmw</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/bmw&amp;v=3"> - BMW landing page clone</div>
+      <div>&bull; 🐉 <strong><a href="https://github.com/apoorvdarshan/monster-energy">monster-energy</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/monster-energy&amp;v=3"> - Monster Energy landing page</div>
+      <div>&bull; 🐕 <strong><a href="https://github.com/apoorvdarshan/random-dog-images">random-dog-images</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/random-dog-images&amp;v=3"> - Random dog images powered by Dog CEO API</div>
+      <div>&bull; 🐱 <strong><a href="https://github.com/apoorvdarshan/random-cat-facts">random-cat-facts</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/random-cat-facts&amp;v=3"> - Cat facts powered by catfact.ninja API</div>
+      <div>&bull; 🎧 <strong><a href="https://github.com/apoorvdarshan/spotify-clone">spotify-clone</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/spotify-clone&amp;v=3"> - Spotify UI clone</div>
+      </div>
+    </details>
+  </li>
 </ul>
 
 ### Open Source Contributions
@@ -149,17 +164,17 @@
   <li>🍃 <strong><a href="https://github.com/spring-projects/spring-boot/pull/49261">spring-boot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=spring-projects/spring-boot&amp;v=3"> - fix: align TestRestTemplate cookie handling with RestTemplate (by <a href="https://github.com/spring-projects"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white"></a>)</li>
   <li>⚙️ <strong><a href="https://github.com/ansible/ansible/pull/87212">ansible</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=ansible/ansible&amp;v=3"> - ansible-config: default to checking all plugin configs</li>
   <li>💲 <strong><a href="https://github.com/jquery/jquery/pull/5775">jquery</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=jquery/jquery&amp;v=3"> - fix: use createElementNS for XSLT documents (by <a href="https://github.com/jquery"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white"></a>)</li>
-  <li>📱 <strong><a href="https://github.com/dkhamsing/open-source-ios-apps/pull/2313">open-source-ios-apps</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=dkhamsing/open-source-ios-apps&amp;v=3"> - add Scowld to the open-source iOS app catalog</li>
-  <li>🐼 <strong><a href="https://github.com/pandas-dev/pandas/pull/66117">pandas</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=pandas-dev/pandas&amp;v=3"> - fix: interpolate leaving NAs unfilled for pyarrow dtypes (by <a href="https://github.com/pandas-dev"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"></a>)</li>
-  <li>🟣 <strong><a href="https://github.com/JuliaLang/julia/pull/61054">julia</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=JuliaLang/julia&amp;v=3"> - fix: quote Symbol values in @test failure output (by <a href="https://github.com/JuliaLang"><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&amp;logo=julia&amp;logoColor=white"></a>)</li>
-  <li>🐚 <strong><a href="https://github.com/google/zx/pulls?q=author%3Aapoorvdarshan">zx</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=google/zx&amp;v=3"> - 2 merged PRs: cwd validation + remote script error handling (by <a href="https://github.com/google"><img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white"></a>)</li>
-  <li>🔍 <strong><a href="https://github.com/soxoj/maigret/pull/3046">maigret</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=soxoj/maigret&amp;v=3"> - fix graph reports for non-string identity values</li>
-  <li>🔷 <strong><a href="https://github.com/dotnet/core/pull/10349">core</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/core&amp;v=3"> - add F# release notes for .NET 11 Preview 3 (by <a href="https://github.com/dotnet"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white"></a>)</li>
 
   <li>
     <details>
       <summary>Show More</summary>
       <div>
+      <div>&bull; 📱 <strong><a href="https://github.com/dkhamsing/open-source-ios-apps/pull/2313">open-source-ios-apps</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=dkhamsing/open-source-ios-apps&amp;v=3"> - add Scowld to the open-source iOS app catalog</div>
+      <div>&bull; 🐼 <strong><a href="https://github.com/pandas-dev/pandas/pull/66117">pandas</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=pandas-dev/pandas&amp;v=3"> - fix: interpolate leaving NAs unfilled for pyarrow dtypes (by <a href="https://github.com/pandas-dev"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"></a>)</div>
+      <div>&bull; 🟣 <strong><a href="https://github.com/JuliaLang/julia/pull/61054">julia</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=JuliaLang/julia&amp;v=3"> - fix: quote Symbol values in @test failure output (by <a href="https://github.com/JuliaLang"><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&amp;logo=julia&amp;logoColor=white"></a>)</div>
+      <div>&bull; 🐚 <strong><a href="https://github.com/google/zx/pulls?q=author%3Aapoorvdarshan">zx</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=google/zx&amp;v=3"> - 2 merged PRs: cwd validation + remote script error handling (by <a href="https://github.com/google"><img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white"></a>)</div>
+      <div>&bull; 🔍 <strong><a href="https://github.com/soxoj/maigret/pull/3046">maigret</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=soxoj/maigret&amp;v=3"> - fix graph reports for non-string identity values</div>
+      <div>&bull; 🔷 <strong><a href="https://github.com/dotnet/core/pull/10349">core</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/core&amp;v=3"> - add F# release notes for .NET 11 Preview 3 (by <a href="https://github.com/dotnet"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white"></a>)</div>
       <div>&bull; 🛠️ <strong><a href="https://github.com/steipete/CodexBar/pull/344/commits">CodexBar</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=steipete/CodexBar&amp;v=3"> - fix: region-specific API endpoint for MiniMax (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</div>
       <div>&bull; 🎵 <strong><a href="https://github.com/spotify/luigi/pull/3410">luigi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=spotify/luigi&amp;v=3"> - fix: replace deprecated datetime.utcfromtimestamp() calls (by <a href="https://github.com/spotify"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&amp;logo=spotify&amp;logoColor=white"></a>)</div>
       <div>&bull; 🔷 <strong><a href="https://github.com/dotnet/runtime/pull/124498">runtime</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/runtime&amp;v=3"> - fix: fractional-token AttemptAcquire(0) behavior (by <a href="https://github.com/dotnet"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white"></a>)</div>

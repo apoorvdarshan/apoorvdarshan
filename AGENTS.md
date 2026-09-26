@@ -39,8 +39,8 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Mobi
 
 ## Section Overflow (Show More)
 
-- **Mobile Apps**, **Games**, **Chrome Extensions**, **AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**, and **Open Source Contributions** show only the first **15 items**
-- Items beyond 15 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
+- **Mobile Apps**, **Games**, **Chrome Extensions**, **AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**, and **Open Source Contributions** show only the first **10 items**
+- Items beyond 10 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
 - Inside "Show More", entries use `<div>&bull; ...</div>` format (not markdown or `<li>`)
 
 ## Adding New Items — Placement Rules
@@ -84,7 +84,7 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Mobi
 ## Formatting Patterns
 
 ### Project sections (HTML, inside `<ul>`)
-**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, and **Experiments & Fun** are top-level `##` sections (peers to Mobile Apps/Games/Chrome Extensions), each a `<ul>` of `<li>` items:
+**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, and **Experiments & Fun** are top-level `##` sections (peers to Mobile Apps/Games/Chrome Extensions); first 10 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
 ```html
 <li>EMOJI <strong><a href="URL">name</a></strong> - description</li>
 <li>EMOJI <strong><a href="URL">name</a></strong> <em>(closed source)</em> - description</li>
@@ -93,7 +93,7 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Mobi
 ```
 
 ### Open Source Contributions (HTML, inside `<ul>`)
-Top 15 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
+Top 10 as `<li>`, rest inside `<details>` as `<div>&bull; ...`:
 ```html
 <li>EMOJI <strong><a href="PR-URL">repo-name</a></strong> <img alt="Stars" src="https://img.shields.io/github/stars/OWNER/REPO?v=2&amp;style=flat-square&amp;label=%E2%98%85&amp;color=0D7C37"> - description</li>
 ```
