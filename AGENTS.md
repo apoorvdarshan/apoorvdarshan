@@ -17,7 +17,7 @@ This is primarily a **GitHub profile README** repo (`apoorvdarshan/apoorvdarshan
 
 The README has these sections in order:
 1. **Header** — name, location, badges, tagline
-2. **Apps** — mobile apps (HTML format, same `<li>` patterns as Projects)
+2. **Mobile Apps** — Android/iOS apps (HTML format, same `<li>` patterns as Projects)
 3. **Games** — games (HTML format, same `<li>` patterns as Projects)
 4. **Chrome Extensions** — browser extensions (HTML format, same `<li>` patterns as Projects)
 5. **AI & Agents** — AI/agent tooling, MCP servers, skills, automation (HTML `<ul>` of `<li>`)
@@ -35,11 +35,11 @@ The README has these sections in order:
 16. **Recognition** — awards and achievements
 17. **Philosophy** — quote + random facts
 
-The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Apps**, **Games**, and **Chrome Extensions** — there is no longer a **Projects** heading.
+The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Mobile Apps**, **Games**, and **Chrome Extensions** — there is no longer a **Projects** heading.
 
 ## Section Overflow (Show More)
 
-- **Apps**, **Games**, **Chrome Extensions**, **AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**, and **Open Source Contributions** show only the first **15 items**
+- **Mobile Apps**, **Games**, **Chrome Extensions**, **AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**, and **Open Source Contributions** show only the first **15 items**
 - Items beyond 15 go inside a `<details><summary>Show More</summary>...</details>` collapsible block
 - Inside "Show More", entries use `<div>&bull; ...</div>` format (not markdown or `<li>`)
 
@@ -47,7 +47,7 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Apps
 
 | Section | Default position |
 |---------|-----------------|
-| Apps | **Ask user where to place** — no automatic top/bottom default |
+| Mobile Apps | **Ask user where to place** — no automatic top/bottom default |
 | Games | **Ask user where to place** — no automatic top/bottom default |
 | Chrome Extensions | **Ask user where to place** — no automatic top/bottom default |
 | AI & Agents / Apps & Utilities / Web Apps & Tools / Creative, 3D & Vision / Experiments & Fun | **Ask user which section + position** — no automatic default |
@@ -55,7 +55,7 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Apps
 
 ## Profile Update Star Audit
 
-- Whenever the user says **update profile** (or asks for any GitHub profile content change), audit every GitHub-hosted entry in **Apps**, **Games**, **Chrome Extensions**, and the project sections (**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**) — not only the item being edited.
+- Whenever the user says **update profile** (or asks for any GitHub profile content change), audit every GitHub-hosted entry in **Mobile Apps**, **Games**, **Chrome Extensions**, and the project sections (**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**) — not only the item being edited.
 - Fetch each repository's current star count with `gh api repos/OWNER/REPO --jq '.stargazers_count'`.
 - If the count is **greater than 0**, ensure the entry includes this live badge immediately after the linked project name:
   ```html
@@ -75,7 +75,7 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Apps
 
 ## Description Length
 
-- Descriptions in **Apps**, **Games**, **Chrome Extensions**, the five project sections, and **Open Source Contributions** must stay on **one rendered line** at normal desktop width (GitHub README profile view and apoorvdarshan.com).
+- Descriptions in **Mobile Apps**, **Games**, **Chrome Extensions**, the five project sections, and **Open Source Contributions** must stay on **one rendered line** at normal desktop width (GitHub README profile view and apoorvdarshan.com).
 - Never let a description wrap to a second line on desktop. If it would wrap, **shorten the wording** (keep download shield badges when present).
 - Prefer ~90 characters or fewer for the plain description text after the name/badge.
 - On apoorvdarshan.com, desktop list rows also use CSS ellipsis as a backstop (`white-space: nowrap; overflow: hidden; text-overflow: ellipsis`) — still shorten the source text; do not rely on clipping alone.
@@ -84,7 +84,7 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Apps
 ## Formatting Patterns
 
 ### Project sections (HTML, inside `<ul>`)
-**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, and **Experiments & Fun** are top-level `##` sections (peers to Apps/Games/Chrome Extensions), each a `<ul>` of `<li>` items:
+**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, and **Experiments & Fun** are top-level `##` sections (peers to Mobile Apps/Games/Chrome Extensions), each a `<ul>` of `<li>` items:
 ```html
 <li>EMOJI <strong><a href="URL">name</a></strong> - description</li>
 <li>EMOJI <strong><a href="URL">name</a></strong> <em>(closed source)</em> - description</li>
