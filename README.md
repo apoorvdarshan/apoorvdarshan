@@ -280,7 +280,7 @@
 
 ### Hardware
 
-[![MacBook Air 13"](https://img.shields.io/badge/-MacBook_Air_13%22-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macbook-air/)
+[![MacBook Air M4](https://img.shields.io/badge/-MacBook_Air_M4-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macbook-air/)
 [![ViewSonic VX2779-HD-PRO](https://img.shields.io/badge/-ViewSonic_VX2779--HD--PRO-111111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzAiIGZpbGw9IiNDQzAwMDAiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTggMThoMTBsNCAyMCA0LTIwaDEwTDM4IDQ2SDI2TDE4IDE4eiIvPjwvc3ZnPg%3D%3D)](https://www.viewsonic.com/)
 [![iPhone 16](https://img.shields.io/badge/-iPhone_16-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/iphone-16/)
 
