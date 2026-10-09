@@ -15,7 +15,7 @@
 ![Chrome Extensions](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
-> Writing clean, maintainable code and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
+> I build things people actually use: apps, tools, and open-source fixes.
 
 ## Mobile Apps
 <ul>
