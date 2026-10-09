@@ -1,6 +1,6 @@
 # Hi, I'm Apoorv 👋
 
-📍 **Delhi** | 🤖 **AI-powered builder** | 🚀 **Building web, apps, bots, APIs, and everything in between**
+📍 **Delhi** | 🤖 **Agentic engineering** | 🚀 **Building web, apps, bots, APIs, and everything in between**
 
 > I build things people actually use: apps, tools, and open-source fixes.
 
