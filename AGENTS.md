@@ -47,11 +47,10 @@ The five AI/Apps/Web/Creative/Experiments headings are top-level peers to **Mobi
 
 | Section | Default position |
 |---------|-----------------|
-| Mobile Apps | **Ask user where to place** — no automatic top/bottom default |
-| Games | **Ask user where to place** — no automatic top/bottom default |
-| Chrome Extensions | **Ask user where to place** — no automatic top/bottom default |
-| AI & Agents / Apps & Utilities / Web Apps & Tools / Creative, 3D & Vision / Experiments & Fun | **Ask user which section + position** — no automatic default |
+| Mobile Apps / Games / Chrome Extensions / AI & Agents / Apps & Utilities / Web Apps & Tools / Creative, 3D & Vision / Experiments & Fun | **Top of the category** unless the user says otherwise. If no category is given, pick the best fit. |
 | Open Source | **By star count** (descending). Fetch stars: `gh api repos/OWNER/REPO --jq '.stargazers_count'` |
+
+When a new top item pushes a section past 10 `<li>` entries, move the last `<li>` into the top of its **Show More** block as a `<div>&bull; ...</div>`.
 
 ## Profile Update Star Audit
 
