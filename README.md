@@ -235,6 +235,15 @@
 - **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, X, and Product Hunt
 - **Contributing to open source** - Shipping PRs to [omi](https://github.com/BasedHardware/omi) and other upstreams
 
+## My Agent Setup
+
+- **Harnesses** - [Claude Code](https://claude.com/product/claude-code), [Codex](https://openai.com/codex/), and [Pi](https://pi.dev/); [OpenCode](https://opencode.ai/) as a backup
+- **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
+- **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
+- **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
+- **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
+- **Rules** - every change gets committed and pushed, and app changes get built and installed on my phones
+
 ## What I Use
 
 ### Hardware
