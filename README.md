@@ -235,6 +235,15 @@
 - **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, X, and Product Hunt
 - **Contributing to open source** - Shipping PRs to [omi](https://github.com/BasedHardware/omi) and other upstreams
 
+## My Agent Setup
+
+- **Harnesses** - [Claude Code](https://claude.com/product/claude-code), [Codex](https://openai.com/codex/), and [Pi](https://pi.dev/); [OpenCode](https://opencode.ai/) as a backup
+- **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
+- **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
+- **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
+- **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
+- **Rules** - every change gets committed and pushed, and app changes get built and installed on my phones
+
 ## What I Use
 
 ### Hardware
@@ -261,15 +270,6 @@
 [![Spark Mail](https://img.shields.io/badge/-Spark_Mail-FFFFFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAOMSURBVHgBvVdLSFRRGP6ONzOZTINIeixsERUUGNFzY7RpVy2CdhVEi1ZFq3baqhZFUpBkD4W0KAlcmyARQWrqVEZlUZqPsgxnxkeO93H6z2NmrqYz9wzaN3xzztx77vn%2F%2F%2Fv%2Fe%2BYchjTgnJdSc5i4n1iiGQQRYpj4jFjLGOuFCchwCbGFLxxqxJxBjZ8ljvLFwblMxstNZhv3FA1Rni5yI5wY8iSzQFKJnETOqamEAZ5OcCzPYbLfTH1DlGubygFCBQxRHwNCjEOYrovBFEXEGumA9uSEwcMy%2BmEH0ngBiSD6zRMwxX6yXSoUOAlD1OuIGX1CVsqpLHBEOFBm8kQieoFiiysZCG%2FiioYoEw6UmjxRFxFFO4se0aV7o8YqlAgHioKObhrj%2BD7F4U4remQ0n%2BhQX7AzxvF60siJkhyT0Q0jPGlM0HU58um667t274eZCkuCDgyPc%2FSQApyn8u7pWhCGoS93UL9rjGF7AQs0b2AF7gx6OkoyaEO2xRaD6%2FgU0bz9zQ06bTAHOqMcr36TA%2FGUEVUDHCGIFMCXGqBtxENHJFgqAjlw66urIrTJgK0M2boIQwz6nlIl0a%2F67ASZOnMNDP3haPvlytdNIlEC9CUUEJA1oK%2FJhga3DgPtIxZ2rkofY0YFbvY4sOM6%2BkSE1IrfQgHBREqStWCrcTfeZ1YhrQKD9E4%2F%2BeL6okuGCPFZkweM2UymBXpR8uPlkIvWnx52r54%2FzrQKXO92UpHZvjVA98UKWGDBF7lPibhqK8PTyKRAL%2BbYbA7Qe9%2FQYyeDniFCQgixBEOlRAuDVJGo3y%2F6XQzQ%2BrF%2B7nUhMq8D17psGU1qYmDFUoZT25YgStHdfevgaruwzGSk53fkyjGPPzroj6WKUjh4pT2OygPL5nIgzKhiK6hT7r%2FaTx7vfTCpVj3C3rUWTm%2FLxcENqmRi5MCu%2B5PSEQERXfvxUPL5Rx9sVFMA3ZR%2FrhX5dGY5CvP%2BUeGimLFxtgOFS4FNhQxbV1k4tiUX%2B9ZZM55aQRMd3WihutOWau8pnlnLxzbnSgr5H74jR4Y9cpbmzZttH7VKqSzOAM%2F7HL7ycpQXXYryvojLs0ANZAKR3JR2weCvWeBC0xSi9PdcdSgfWWDDjBOT2Crz%2F4e5Dyh0o4IvPirS6sIXTwlx3DsXKDlcHU5r%2BcKhhc9zOGWZHIHatpdBbV6DFmmvpjieN1Kxhecb%2BBcIj4pZwZrhLQAAAABJRU5ErkJggg%3D%3D)](https://sparkmailapp.com/)
 [![1Password](https://img.shields.io/badge/-1Password-3B66BC?style=flat-square&logo=1password&logoColor=white)](https://1password.com/)
 [![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
-
-## My Agent Setup
-
-- **Harnesses** - [Claude Code](https://claude.com/product/claude-code), [Codex](https://openai.com/codex/), and [Pi](https://pi.dev/); [OpenCode](https://opencode.ai/) as a backup
-- **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
-- **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
-- **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
-- **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
-- **Rules** - every change gets committed and pushed, and app changes get built and installed on my phones
 
 ## Resume
 
