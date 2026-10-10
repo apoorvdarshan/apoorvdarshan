@@ -264,8 +264,8 @@
 
 ## My Agent Setup
 
-- **Harness** - [Pi](https://pi.dev/), running [Claude Code](https://claude.com/product/claude-code) ([Opus 5.5](https://www.anthropic.com/claude/opus)) through [pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
-- **Models** - [Codex](https://openai.com/codex/), [xAI](https://x.ai/) [Grok](https://grok.com/), [OpenCode Go](https://opencode.ai/go), and [LithosAI](https://lithosai.com/) ([DeepSeek](https://www.deepseek.com/), [Kimi](https://www.kimi.com/), [GLM](https://z.ai/)), all plugged into Pi
+- **Harness** - [Pi](https://pi.dev/), running [Claude Code](https://claude.com/product/claude-code) through [pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
+- **Models** - [Claude Code](https://claude.com/product/claude-code) ([Opus 5.5](https://www.anthropic.com/claude/opus)), [Codex](https://openai.com/codex/), [xAI](https://x.ai/) [Grok](https://grok.com/), [OpenCode Go](https://opencode.ai/go), and [LithosAI](https://lithosai.com/) ([DeepSeek](https://www.deepseek.com/), [Kimi](https://www.kimi.com/), [GLM](https://z.ai/)), all plugged into Pi
 - **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
 - **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
 - **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
