@@ -264,7 +264,7 @@
 
 ## My Agent Setup
 
-- **Harnesses** - [Claude Code](https://claude.com/product/claude-code), [Codex](https://openai.com/codex/), and [Pi](https://pi.dev/); [OpenCode](https://opencode.ai/) as a backup
+- **Harness** - [Pi](https://pi.dev/), running [Claude Code](https://claude.com/product/claude-code) through [pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge), plus [Codex](https://openai.com/codex/) and [xAI](https://x.ai/); [OpenCode](https://opencode.ai/) as a backup
 - **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
 - **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
 - **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
