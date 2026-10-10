@@ -50,6 +50,7 @@
 ## Web Apps & Tools
 <ul>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://img.shields.io/badge/%E2%86%93-4K%2B-8B1A1A?style=flat-square"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
+  <li>🔔 <strong><a href="https://github.com/apoorvdarshan/ringtone-cropper">ringtone-cropper</a></strong> - Crop any audio into an iPhone ringtone (.m4r) in your browser</li>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
