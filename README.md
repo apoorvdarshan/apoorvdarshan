@@ -1,5 +1,8 @@
 # Hi, I'm Apoorv 👋
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15391/badge)](https://www.bestpractices.dev/projects/15391)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/apoorvdarshan/apoorvdarshan/badge)](https://scorecard.dev/viewer/?uri=github.com/apoorvdarshan/apoorvdarshan)
+
 📍 **Delhi** | 🤖 **Agentic engineering** | 🚀 **Building web, apps, bots, APIs, and everything in between**
 
 > I build things people actually use: apps, tools, and open-source fixes.
