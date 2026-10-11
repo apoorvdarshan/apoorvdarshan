@@ -230,7 +230,6 @@
 ## My Agent Setup
 
 - **Harnesses** - Separate TUIs: [Claude Code](https://claude.com/product/claude-code) for Claude, [Codex](https://openai.com/codex/) for GPT, and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI
-- **Models** - Claude, GPT, [OpenCode Go](https://opencode.ai/go), and [LithosAI](https://lithosai.com/) (mostly [DeepSeek](https://www.deepseek.com/))
 - **Workspace** - [cmux](https://cmux.com/)
 - **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
 - **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
