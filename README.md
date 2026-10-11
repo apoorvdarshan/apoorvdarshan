@@ -235,10 +235,8 @@
 - **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
 - **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
 - **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
-- **Marketing** - agents promote my apps on request through X, YouTube, Product Hunt, Hacker News, directories and creator outreach, with duplicate checks and promo codes for complimentary access.
-- **Security** - On request, complete OpenSSF Best Practices and Scorecard setup, fix actionable findings, and verify live badges—with solo-maintainer-friendly protections.
 - **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
-- **Rules** - every change gets committed and pushed, and app changes get built and installed on my phones
+- **Instructions** - [My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for five agents, covering development, marketing, security, and releases.
 
 ## What I Use
 
