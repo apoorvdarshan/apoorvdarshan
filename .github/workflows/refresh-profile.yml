@@ -194,6 +194,14 @@ jobs:
         env:
           CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
           CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
+      - name: Report incomplete download refresh
+        # Publish valid updates first, then expose failures instead of a green fallback run.
+        if: ${{ !cancelled() && (steps.play-auth.outcome == 'failure' || steps.android-downloads.outcome == 'failure' || steps.ios-downloads.outcome == 'failure' || steps.npm-downloads.outcome == 'failure') }}
+        run: |
+          echo '::error::Download refresh incomplete. Failed sources retain their last verified counts; the next scheduled run retries. See the earlier steps for the affected source and build/deployment status.'
+          echo '## Download refresh needs attention' >> "$GITHUB_STEP_SUMMARY"
+          echo 'At least one download source failed. Its last verified counts were retained. Other valid updates were allowed to continue; see the build and deployment steps for their result. The next scheduled run retries automatically.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
       - name: Remove temporary signing key
         if: always()
         run: rm -f "$RUNNER_TEMP/profile-commit-signing-key" "$RUNNER_TEMP/profile-commit-signing-key.pub"
