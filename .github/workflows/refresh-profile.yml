@@ -13,6 +13,10 @@ on:
         description: Recheck npm lifetime counts even if already checked today
         type: boolean
         default: false
+      refresh_distribution_counts:
+        description: Recheck GitHub release downloads and public Chrome users today
+        type: boolean
+        default: false
       refresh_android_downloads:
         description: Recheck Google Play reports even if already checked today
         type: boolean
@@ -119,6 +123,13 @@ jobs:
         run: |
           echo '::warning::npm download check failed. Previous verified counts are preserved; other profile updates continue. The next run will retry.'
           echo 'npm download check failed; retained previous verified counts. See the npm step for details.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Refresh release downloads and Chrome users once per day
+        id: distribution-counts
+        continue-on-error: true
+        run: python3 scripts/automation/distribution_counts.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DISTRIBUTION_FORCE: ${{ inputs.refresh_distribution_counts && 'true' || 'false' }}
       - name: Install resume build tools
         run: |
           sudo apt-get update -qq
@@ -185,7 +196,7 @@ jobs:
               git -C "$repo" push origin HEAD:main
             fi
           }
-          commit_files profile-readme 'Refresh verified contributions, stars and downloads' README.md profile-automation/contributions.json profile-automation/npm-downloads.json
+          commit_files profile-readme 'Refresh verified contributions, stars and downloads' README.md profile-automation/contributions.json profile-automation/npm-downloads.json profile-automation/distribution-counts.json
           commit_files resume-source 'Refresh resume and verified download history' Apoorv_Darshan_Resume.tex Apoorv_Darshan_Resume.pdf build.json ios-download-history.json ios-downloads.json android-downloads.json
           commit_files . 'Sync automatic profile and resume refresh' src/profileData.generated.json public/Apoorv_Darshan_Resume.pdf
       - name: Publish verified build to Cloudflare
@@ -196,7 +207,7 @@ jobs:
           CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
       - name: Report incomplete download refresh
         # Publish valid updates first, then expose failures instead of a green fallback run.
-        if: ${{ !cancelled() && (steps.play-auth.outcome == 'failure' || steps.android-downloads.outcome == 'failure' || steps.ios-downloads.outcome == 'failure' || steps.npm-downloads.outcome == 'failure') }}
+        if: ${{ !cancelled() && (steps.play-auth.outcome == 'failure' || steps.android-downloads.outcome == 'failure' || steps.ios-downloads.outcome == 'failure' || steps.npm-downloads.outcome == 'failure' || steps.distribution-counts.outcome == 'failure') }}
         run: |
           echo '::error::Download refresh incomplete. Failed sources retain their last verified counts; the next scheduled run retries. See the earlier steps for the affected source and build/deployment status.'
           echo '## Download refresh needs attention' >> "$GITHUB_STEP_SUMMARY"

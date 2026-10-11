@@ -1,0 +1,1064 @@
+{
+  "version": 1,
+  "sources": {
+    "releases:apoorvdarshan/fud-ai": {
+      "count": 1050,
+      "assets": [
+        {
+          "id": 623024405,
+          "name": "fudai-v7.2.apk",
+          "tag": "android-v7.2",
+          "downloads": 69,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.2/fudai-v7.2.apk"
+        },
+        {
+          "id": 588720871,
+          "name": "fudai-v7.1.1.apk",
+          "tag": "android-v7.1.1",
+          "downloads": 123,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.1.1/fudai-v7.1.1.apk"
+        },
+        {
+          "id": 587916243,
+          "name": "fudai-v7.1.apk",
+          "tag": "android-v7.1",
+          "downloads": 11,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.1/fudai-v7.1.apk"
+        },
+        {
+          "id": 565546274,
+          "name": "fudai-v7.0.1.apk",
+          "tag": "android-v7.0.1",
+          "downloads": 108,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.0.1/fudai-v7.0.1.apk"
+        },
+        {
+          "id": 563579435,
+          "name": "fudai-v7.0.apk",
+          "tag": "android-v7.0",
+          "downloads": 40,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.0/fudai-v7.0.apk"
+        },
+        {
+          "id": 504889320,
+          "name": "fudai-v6.1.apk",
+          "tag": "android-v6.1",
+          "downloads": 284,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v6.1/fudai-v6.1.apk"
+        },
+        {
+          "id": 485104822,
+          "name": "fudai-v6.0.apk",
+          "tag": "android-v6.0",
+          "downloads": 119,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v6.0/fudai-v6.0.apk"
+        },
+        {
+          "id": 476012440,
+          "name": "fudai-v3.1.apk",
+          "tag": "android-v3.1",
+          "downloads": 55,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v3.1/fudai-v3.1.apk"
+        },
+        {
+          "id": 471237155,
+          "name": "fudai-v2.3.0.apk",
+          "tag": "android-v2.3.0",
+          "downloads": 224,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v2.3.0/fudai-v2.3.0.apk"
+        },
+        {
+          "id": 471237016,
+          "name": "fudai-v2.2.2.apk",
+          "tag": "android-v2.2.2",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v2.2.2/fudai-v2.2.2.apk"
+        },
+        {
+          "id": 471236874,
+          "name": "fudai-v2.2.1.apk",
+          "tag": "android-v2.2.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v2.2.1/fudai-v2.2.1.apk"
+        },
+        {
+          "id": 471236740,
+          "name": "fudai-v2.2.apk",
+          "tag": "android-v2.2",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v2.2/fudai-v2.2.apk"
+        },
+        {
+          "id": 471236672,
+          "name": "fudai-v2.1.0.apk",
+          "tag": "android-v2.1.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v2.1.0/fudai-v2.1.0.apk"
+        },
+        {
+          "id": 471236592,
+          "name": "fudai-v2.0.0.apk",
+          "tag": "android-v2.0.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v2.0.0/fudai-v2.0.0.apk"
+        },
+        {
+          "id": 471236509,
+          "name": "fudai-v1.2.apk",
+          "tag": "android-v1.2",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.2/fudai-v1.2.apk"
+        },
+        {
+          "id": 471236418,
+          "name": "fudai-v1.1.1.apk",
+          "tag": "android-v1.1.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.1.1/fudai-v1.1.1.apk"
+        },
+        {
+          "id": 471236302,
+          "name": "fudai-v1.1.0.apk",
+          "tag": "android-v1.1.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.1.0/fudai-v1.1.0.apk"
+        },
+        {
+          "id": 471235387,
+          "name": "fudai-v1.0.10.apk",
+          "tag": "android-v1.0.10",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.10/fudai-v1.0.10.apk"
+        },
+        {
+          "id": 471236231,
+          "name": "fudai-v1.0.9.apk",
+          "tag": "android-v1.0.9",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.9/fudai-v1.0.9.apk"
+        },
+        {
+          "id": 471236165,
+          "name": "fudai-v1.0.8.apk",
+          "tag": "android-v1.0.8",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.8/fudai-v1.0.8.apk"
+        },
+        {
+          "id": 471236036,
+          "name": "fudai-v1.0.7.apk",
+          "tag": "android-v1.0.7",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.7/fudai-v1.0.7.apk"
+        },
+        {
+          "id": 471235943,
+          "name": "fudai-v1.0.6.apk",
+          "tag": "android-v1.0.6",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.6/fudai-v1.0.6.apk"
+        },
+        {
+          "id": 471235775,
+          "name": "fudai-v1.0.5.apk",
+          "tag": "android-v1.0.5",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.5/fudai-v1.0.5.apk"
+        },
+        {
+          "id": 471235685,
+          "name": "fudai-v1.0.4.apk",
+          "tag": "android-v1.0.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.4/fudai-v1.0.4.apk"
+        },
+        {
+          "id": 471235587,
+          "name": "fudai-v1.0.3.apk",
+          "tag": "android-v1.0.3",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.3/fudai-v1.0.3.apk"
+        },
+        {
+          "id": 471235473,
+          "name": "fudai-v1.0.2.apk",
+          "tag": "android-v1.0.2",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.2/fudai-v1.0.2.apk"
+        },
+        {
+          "id": 471235307,
+          "name": "fudai-v1.0.1.apk",
+          "tag": "android-v1.0.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.1/fudai-v1.0.1.apk"
+        },
+        {
+          "id": 471235235,
+          "name": "fudai-v1.0.0.apk",
+          "tag": "android-v1.0.0",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v1.0.0/fudai-v1.0.0.apk"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/fud-ai/releases",
+      "checked_on": "2026-10-11",
+      "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
+      "display_total": 10829,
+      "badge": "10K+",
+      "breakdown": {
+        "github_release_downloads": 1050,
+        "store_first_time_downloads": 9779
+      }
+    },
+    "releases:apoorvdarshan/lithosai-bar": {
+      "count": 1,
+      "assets": [
+        {
+          "id": 592766463,
+          "name": "LithosAI.Bar.1.1.0.dmg",
+          "tag": "v1.1.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/lithosai-bar/releases/download/v1.1.0/LithosAI.Bar.1.1.0.dmg"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/lithosai-bar/releases",
+      "checked_on": "2026-10-11",
+      "config_sha256": "cee05da977f2d8a121aba20364494bef10299302aaf794aca3d65d7dd1a99893",
+      "display_total": 1,
+      "badge": "1",
+      "breakdown": {
+        "github_release_downloads": 1
+      }
+    },
+    "releases:apoorvdarshan/DesktopWorm": {
+      "count": 3,
+      "assets": [
+        {
+          "id": 523992475,
+          "name": "DesktopWorm-v0.9.4-macOS-universal.zip",
+          "tag": "v0.9.4",
+          "downloads": 3,
+          "url": "https://github.com/apoorvdarshan/DesktopWorm/releases/download/v0.9.4/DesktopWorm-v0.9.4-macOS-universal.zip"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/DesktopWorm/releases",
+      "checked_on": "2026-10-11",
+      "config_sha256": "3bd2b395ca5401ae3cfa9b497e267d8fbfc0d0a1f2584b09cb27db00b459fd2b",
+      "display_total": 3,
+      "badge": "3",
+      "breakdown": {
+        "github_release_downloads": 3
+      }
+    },
+    "releases:apoorvdarshan/browser-cookie-bridge": {
+      "count": 238,
+      "assets": [
+        {
+          "id": 567067483,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.10",
+          "downloads": 27,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.10/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 567067480,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.10",
+          "downloads": 7,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.10/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 566880097,
+          "name": "browser-cookie-bridge-1.5.6.tgz",
+          "tag": "v1.5.6",
+          "downloads": 5,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.6/browser-cookie-bridge-1.5.6.tgz"
+        },
+        {
+          "id": 566880099,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.6",
+          "downloads": 4,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.6/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 566880096,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.6",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.6/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 566826034,
+          "name": "browser-cookie-bridge-1.5.5.tgz",
+          "tag": "v1.5.5",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.5/browser-cookie-bridge-1.5.5.tgz"
+        },
+        {
+          "id": 566826035,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.5",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.5/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 566826037,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.5",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.5/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 566810793,
+          "name": "browser-cookie-bridge-1.5.4.tgz",
+          "tag": "v1.5.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.4/browser-cookie-bridge-1.5.4.tgz"
+        },
+        {
+          "id": 566810791,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.4",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.4/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 566810789,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.4/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 553443717,
+          "name": "browser-cookie-bridge-1.5.3.tgz",
+          "tag": "v1.5.3",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.3/browser-cookie-bridge-1.5.3.tgz"
+        },
+        {
+          "id": 553443713,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.3",
+          "downloads": 7,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.3/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 553443714,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.3",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.3/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 551051769,
+          "name": "browser-cookie-bridge-1.5.2.tgz",
+          "tag": "v1.5.2",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.2/browser-cookie-bridge-1.5.2.tgz"
+        },
+        {
+          "id": 551051765,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.2",
+          "downloads": 4,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.2/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 551051767,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.2",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.2/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 547644393,
+          "name": "browser-cookie-bridge-1.5.1.tgz",
+          "tag": "v1.5.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.1/browser-cookie-bridge-1.5.1.tgz"
+        },
+        {
+          "id": 547644387,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.1",
+          "downloads": 16,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.1/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 547644388,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.1/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 545900285,
+          "name": "browser-cookie-bridge-1.5.0.tgz",
+          "tag": "v1.5.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.0/browser-cookie-bridge-1.5.0.tgz"
+        },
+        {
+          "id": 545900286,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.5.0",
+          "downloads": 3,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.0/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 545900283,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.5.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.0/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 539311846,
+          "name": "browser-cookie-bridge-1.4.7.tgz",
+          "tag": "v1.4.7",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.7/browser-cookie-bridge-1.4.7.tgz"
+        },
+        {
+          "id": 539311844,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.7",
+          "downloads": 27,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.7/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 539311848,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.7",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.7/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 513450475,
+          "name": "browser-cookie-bridge-1.4.6.tgz",
+          "tag": "v1.4.6",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.6/browser-cookie-bridge-1.4.6.tgz"
+        },
+        {
+          "id": 513450474,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.6",
+          "downloads": 77,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.6/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 513450478,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.6",
+          "downloads": 5,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.6/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 513438990,
+          "name": "browser-cookie-bridge-1.4.5.tgz",
+          "tag": "v1.4.5",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.5/browser-cookie-bridge-1.4.5.tgz"
+        },
+        {
+          "id": 513438988,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.5",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.5/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 513438981,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.5",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.5/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 513425424,
+          "name": "browser-cookie-bridge-1.4.4.tgz",
+          "tag": "v1.4.4",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.4/browser-cookie-bridge-1.4.4.tgz"
+        },
+        {
+          "id": 513425421,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.4/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 513425429,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.4",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.4/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 513376695,
+          "name": "browser-cookie-bridge-1.4.3.tgz",
+          "tag": "v1.4.3",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.3/browser-cookie-bridge-1.4.3.tgz"
+        },
+        {
+          "id": 513376690,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.3",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.3/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 513376691,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.3",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.3/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 511247363,
+          "name": "browser-cookie-bridge-1.4.2.tgz",
+          "tag": "v1.4.2",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.2/browser-cookie-bridge-1.4.2.tgz"
+        },
+        {
+          "id": 511247359,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.2",
+          "downloads": 19,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.2/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 511247360,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.2",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.2/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 511214738,
+          "name": "browser-cookie-bridge-1.4.1.tgz",
+          "tag": "v1.4.1",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.1/browser-cookie-bridge-1.4.1.tgz"
+        },
+        {
+          "id": 511214736,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.1/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 511214734,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.1",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.1/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 511123350,
+          "name": "browser-cookie-bridge-1.4.0.tgz",
+          "tag": "v1.4.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.0/browser-cookie-bridge-1.4.0.tgz"
+        },
+        {
+          "id": 511123353,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.4.0",
+          "downloads": 4,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.0/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 511123352,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.4.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.4.0/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 510228456,
+          "name": "browser-cookie-bridge-1.3.0.tgz",
+          "tag": "v1.3.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.3.0/browser-cookie-bridge-1.3.0.tgz"
+        },
+        {
+          "id": 510228457,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.3.0",
+          "downloads": 4,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.3.0/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 510228451,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.3.0",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.3.0/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 509631753,
+          "name": "browser-cookie-bridge-1.2.0.tgz",
+          "tag": "v1.2.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.2.0/browser-cookie-bridge-1.2.0.tgz"
+        },
+        {
+          "id": 509631752,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.2.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.2.0/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 509631751,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.2.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.2.0/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 509562999,
+          "name": "browser-cookie-bridge-1.1.0.tgz",
+          "tag": "v1.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.1.0/browser-cookie-bridge-1.1.0.tgz"
+        },
+        {
+          "id": 509562998,
+          "name": "Browser-Cookie-Bridge-arm64.dmg",
+          "tag": "v1.1.0",
+          "downloads": 3,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.1.0/Browser-Cookie-Bridge-arm64.dmg"
+        },
+        {
+          "id": 509562996,
+          "name": "Browser-Cookie-Bridge-x64.dmg",
+          "tag": "v1.1.0",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.1.0/Browser-Cookie-Bridge-x64.dmg"
+        },
+        {
+          "id": 508346226,
+          "name": "browser-cookie-bridge-1.0.0.tgz",
+          "tag": "v1.0.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.0.0/browser-cookie-bridge-1.0.0.tgz"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
+      "checked_on": "2026-10-11",
+      "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
+      "npm_as_of": "2026-10-10",
+      "homebrew": {
+        "package": "apoorvdarshan/tap/browser-cookie-bridge",
+        "counted_via": "github_release_downloads",
+        "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
+      },
+      "display_total": 3529,
+      "badge": "3K+",
+      "breakdown": {
+        "github_release_downloads": 238,
+        "npm_downloads": 3291
+      }
+    },
+    "releases:apoorvdarshan/hash-harbor": {
+      "count": 33,
+      "assets": [
+        {
+          "id": 529612999,
+          "name": "hash-harbor-darwin-amd64",
+          "tag": "v0.1.4",
+          "downloads": 3,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.4/hash-harbor-darwin-amd64"
+        },
+        {
+          "id": 529613000,
+          "name": "hash-harbor-darwin-arm64",
+          "tag": "v0.1.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.4/hash-harbor-darwin-arm64"
+        },
+        {
+          "id": 529613001,
+          "name": "hash-harbor-linux-amd64",
+          "tag": "v0.1.4",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.4/hash-harbor-linux-amd64"
+        },
+        {
+          "id": 529612998,
+          "name": "hash-harbor-linux-arm64",
+          "tag": "v0.1.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.4/hash-harbor-linux-arm64"
+        },
+        {
+          "id": 529613011,
+          "name": "hash-harbor-windows-amd64.exe",
+          "tag": "v0.1.4",
+          "downloads": 4,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.4/hash-harbor-windows-amd64.exe"
+        },
+        {
+          "id": 529613020,
+          "name": "hash-harbor-windows-arm64.exe",
+          "tag": "v0.1.4",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.4/hash-harbor-windows-arm64.exe"
+        },
+        {
+          "id": 490709517,
+          "name": "hash-harbor-darwin-amd64",
+          "tag": "v0.1.3",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.3/hash-harbor-darwin-amd64"
+        },
+        {
+          "id": 490709516,
+          "name": "hash-harbor-darwin-arm64",
+          "tag": "v0.1.3",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.3/hash-harbor-darwin-arm64"
+        },
+        {
+          "id": 490709515,
+          "name": "hash-harbor-linux-amd64",
+          "tag": "v0.1.3",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.3/hash-harbor-linux-amd64"
+        },
+        {
+          "id": 490709513,
+          "name": "hash-harbor-linux-arm64",
+          "tag": "v0.1.3",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.3/hash-harbor-linux-arm64"
+        },
+        {
+          "id": 490709559,
+          "name": "hash-harbor-windows-amd64.exe",
+          "tag": "v0.1.3",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.3/hash-harbor-windows-amd64.exe"
+        },
+        {
+          "id": 490709563,
+          "name": "hash-harbor-windows-arm64.exe",
+          "tag": "v0.1.3",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.3/hash-harbor-windows-arm64.exe"
+        },
+        {
+          "id": 490706505,
+          "name": "hash-harbor-darwin-amd64",
+          "tag": "v0.1.2",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.2/hash-harbor-darwin-amd64"
+        },
+        {
+          "id": 490706504,
+          "name": "hash-harbor-darwin-arm64",
+          "tag": "v0.1.2",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.2/hash-harbor-darwin-arm64"
+        },
+        {
+          "id": 490706507,
+          "name": "hash-harbor-linux-amd64",
+          "tag": "v0.1.2",
+          "downloads": 4,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.2/hash-harbor-linux-amd64"
+        },
+        {
+          "id": 490706506,
+          "name": "hash-harbor-linux-arm64",
+          "tag": "v0.1.2",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.2/hash-harbor-linux-arm64"
+        },
+        {
+          "id": 490706509,
+          "name": "hash-harbor-windows-amd64.exe",
+          "tag": "v0.1.2",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.2/hash-harbor-windows-amd64.exe"
+        },
+        {
+          "id": 490706519,
+          "name": "hash-harbor-windows-arm64.exe",
+          "tag": "v0.1.2",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.2/hash-harbor-windows-arm64.exe"
+        },
+        {
+          "id": 490665725,
+          "name": "hash-harbor-darwin-amd64",
+          "tag": "v0.1.1",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.1/hash-harbor-darwin-amd64"
+        },
+        {
+          "id": 490665724,
+          "name": "hash-harbor-darwin-arm64",
+          "tag": "v0.1.1",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.1/hash-harbor-darwin-arm64"
+        },
+        {
+          "id": 490665720,
+          "name": "hash-harbor-linux-amd64",
+          "tag": "v0.1.1",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.1/hash-harbor-linux-amd64"
+        },
+        {
+          "id": 490665727,
+          "name": "hash-harbor-linux-arm64",
+          "tag": "v0.1.1",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.1/hash-harbor-linux-arm64"
+        },
+        {
+          "id": 490665733,
+          "name": "hash-harbor-windows-amd64.exe",
+          "tag": "v0.1.1",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.1/hash-harbor-windows-amd64.exe"
+        },
+        {
+          "id": 490665749,
+          "name": "hash-harbor-windows-arm64.exe",
+          "tag": "v0.1.1",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.1/hash-harbor-windows-arm64.exe"
+        },
+        {
+          "id": 490663006,
+          "name": "hash-harbor-darwin-amd64",
+          "tag": "v0.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.0/hash-harbor-darwin-amd64"
+        },
+        {
+          "id": 490663002,
+          "name": "hash-harbor-darwin-arm64",
+          "tag": "v0.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.0/hash-harbor-darwin-arm64"
+        },
+        {
+          "id": 490663004,
+          "name": "hash-harbor-linux-amd64",
+          "tag": "v0.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.0/hash-harbor-linux-amd64"
+        },
+        {
+          "id": 490663005,
+          "name": "hash-harbor-linux-arm64",
+          "tag": "v0.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.0/hash-harbor-linux-arm64"
+        },
+        {
+          "id": 490663010,
+          "name": "hash-harbor-windows-amd64.exe",
+          "tag": "v0.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.0/hash-harbor-windows-amd64.exe"
+        },
+        {
+          "id": 490663013,
+          "name": "hash-harbor-windows-arm64.exe",
+          "tag": "v0.1.0",
+          "downloads": 0,
+          "url": "https://github.com/apoorvdarshan/hash-harbor/releases/download/v0.1.0/hash-harbor-windows-arm64.exe"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
+      "checked_on": "2026-10-11",
+      "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
+      "npm_as_of": "2026-10-10",
+      "display_total": 850,
+      "badge": "800+",
+      "breakdown": {
+        "github_release_downloads": 33,
+        "npm_downloads": 817
+      }
+    },
+    "releases:apoorvdarshan/TetherShot": {
+      "count": 193,
+      "assets": [
+        {
+          "id": 605315518,
+          "name": "TetherShot-1.0.21-universal.dmg",
+          "tag": "v1.0.21",
+          "downloads": 17,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.21/TetherShot-1.0.21-universal.dmg"
+        },
+        {
+          "id": 597699767,
+          "name": "TetherShot-1.0.20-universal.dmg",
+          "tag": "v1.0.20",
+          "downloads": 13,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.20/TetherShot-1.0.20-universal.dmg"
+        },
+        {
+          "id": 597679077,
+          "name": "TetherShot-1.0.19-universal.dmg",
+          "tag": "v1.0.19",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.19/TetherShot-1.0.19-universal.dmg"
+        },
+        {
+          "id": 592682114,
+          "name": "TetherShot-1.0.18-universal.dmg",
+          "tag": "v1.0.18",
+          "downloads": 11,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.18/TetherShot-1.0.18-universal.dmg"
+        },
+        {
+          "id": 547609326,
+          "name": "TetherShot-1.0.17-universal.dmg",
+          "tag": "v1.0.17",
+          "downloads": 41,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.17/TetherShot-1.0.17-universal.dmg"
+        },
+        {
+          "id": 539292005,
+          "name": "TetherShot-1.0.16-universal.dmg",
+          "tag": "v1.0.16",
+          "downloads": 19,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.16/TetherShot-1.0.16-universal.dmg"
+        },
+        {
+          "id": 539278206,
+          "name": "TetherShot-1.0.15-universal.dmg",
+          "tag": "v1.0.15",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.15/TetherShot-1.0.15-universal.dmg"
+        },
+        {
+          "id": 538062146,
+          "name": "TetherShot-1.0.14-universal.dmg",
+          "tag": "v1.0.14",
+          "downloads": 10,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.14/TetherShot-1.0.14-universal.dmg"
+        },
+        {
+          "id": 536942991,
+          "name": "TetherShot-1.0.13-universal.dmg",
+          "tag": "v1.0.13",
+          "downloads": 17,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.13/TetherShot-1.0.13-universal.dmg"
+        },
+        {
+          "id": 534104159,
+          "name": "TetherShot-1.0.12-universal.dmg",
+          "tag": "v1.0.12",
+          "downloads": 18,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.12/TetherShot-1.0.12-universal.dmg"
+        },
+        {
+          "id": 533831061,
+          "name": "TetherShot-1.0.11-universal.dmg",
+          "tag": "v1.0.11",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.11/TetherShot-1.0.11-universal.dmg"
+        },
+        {
+          "id": 533819588,
+          "name": "TetherShot-1.0.10-universal.dmg",
+          "tag": "v1.0.10",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.10/TetherShot-1.0.10-universal.dmg"
+        },
+        {
+          "id": 525169627,
+          "name": "TetherShot-1.0.9-universal.dmg",
+          "tag": "v1.0.9",
+          "downloads": 11,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.9/TetherShot-1.0.9-universal.dmg"
+        },
+        {
+          "id": 519482229,
+          "name": "TetherShot-1.0.8-universal.dmg",
+          "tag": "v1.0.8",
+          "downloads": 6,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.8/TetherShot-1.0.8-universal.dmg"
+        },
+        {
+          "id": 511247366,
+          "name": "TetherShot-1.0.7-universal.dmg",
+          "tag": "v1.0.7",
+          "downloads": 22,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.7/TetherShot-1.0.7-universal.dmg"
+        },
+        {
+          "id": 511217862,
+          "name": "TetherShot-1.0.6-universal.dmg",
+          "tag": "v1.0.6",
+          "downloads": 1,
+          "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.6/TetherShot-1.0.6-universal.dmg"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/TetherShot/releases",
+      "checked_on": "2026-10-11",
+      "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
+      "npm_as_of": "2026-10-10",
+      "homebrew": {
+        "package": "apoorvdarshan/tap/tethershot",
+        "counted_via": "github_release_downloads",
+        "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
+      },
+      "display_total": 3911,
+      "badge": "3K+",
+      "breakdown": {
+        "github_release_downloads": 193,
+        "npm_downloads": 3718
+      }
+    },
+    "extensions:apoorvdarshan/x-country-filter": {
+      "count": 48,
+      "lower_bound": false,
+      "metric": "Chrome Web Store users",
+      "url": "https://chromewebstore.google.com/detail/country-filter-for-x-twit/cocohplmilpblbkoikolbhakjipccioa?hl=en",
+      "checked_on": "2026-10-11",
+      "config_sha256": "cc0dfed07c7cae93a165c9eba947046e309e7277bf2f4d0b5800bb63c3acc790",
+      "display_total": 48,
+      "badge": "40+",
+      "breakdown": {
+        "chrome_users": 48
+      }
+    },
+    "extensions:apoorvdarshan/streaming-autopause": {
+      "count": 4,
+      "lower_bound": false,
+      "metric": "Chrome Web Store users",
+      "url": "https://chromewebstore.google.com/detail/streaming-auto-pauseresum/nafnjeielmlkeinkmbfppfecpfebgcbl?hl=en",
+      "checked_on": "2026-10-11",
+      "config_sha256": "bd41a61372303f03bf4d6c157b53904f7cc861b27a0c095a0a28fe638d69560c",
+      "display_total": 4,
+      "badge": "4",
+      "breakdown": {
+        "chrome_users": 4
+      }
+    }
+  },
+  "note": "Download events include repeat, CI and updater requests, not unique users. npm installers may fetch GitHub assets too. Homebrew is included only via shared GitHub assets. Deleted releases cannot be reconstructed. Chrome users are separate."
+}

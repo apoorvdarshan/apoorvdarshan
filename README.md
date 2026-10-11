@@ -6,7 +6,7 @@
 
 ## Mobile Apps
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 9K+" src="https://apoorvdarshan.com/badges/downloads/v1/9K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 10K+" src="https://apoorvdarshan.com/badges/downloads/v1/10K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 400+" src="https://apoorvdarshan.com/badges/downloads/v1/400%2B.svg"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - iOS app to quit smoking, alcohol, social media, and more</li>
@@ -20,7 +20,7 @@
 
 ## Chrome Extensions
 <ul>
-  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 10+" src="https://img.shields.io/badge/users-10%2B-8B1A1A?style=flat-square"> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
+  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 40+" src="https://img.shields.io/badge/users-40%2B-8B1A1A?style=flat-square"> - Chrome extension that hides X (Twitter) posts from countries you pick</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/newest-youtube-search&amp;v=3"> - Chrome extension for true newest-first YouTube search</li>
   <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 4" src="https://img.shields.io/badge/users-4-8B1A1A?style=flat-square"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
@@ -40,8 +40,8 @@
 
 ## Apps & Utilities
 <ul>
-<li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> - macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown</li>
-<li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
+<li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> <img alt="Downloads: 1" src="https://apoorvdarshan.com/badges/downloads/v1/1.svg"> - macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown</li>
+<li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
 <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - Local Chromium cookie/session transfer to Codex on macOS</li>
 <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> <img alt="Downloads: 800+" src="https://apoorvdarshan.com/badges/downloads/v1/800%2B.svg"> - Local torrent streamer/downloader with a browser UI</li>
 <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
