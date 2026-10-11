@@ -1,8 +1,5 @@
 # Hi, I'm Apoorv 👋
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15391/badge)](https://www.bestpractices.dev/projects/15391)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/apoorvdarshan/apoorvdarshan/badge)](https://scorecard.dev/viewer/?uri=github.com/apoorvdarshan/apoorvdarshan)
-
 📍 **Delhi** | 🤖 **Agentic engineering** | 🚀 **Building web, apps, bots, APIs, and everything in between**
 
 > I build things people actually use: apps, tools, and open-source fixes.
@@ -340,3 +337,8 @@ PDF resume — view or download.
 [Build and interfaces](BUILD.md) · [Contributing](CONTRIBUTING.md) · [Security policy](SECURITY.md) · [Changes](CHANGELOG.md)
 
 Software is MIT-licensed; personal content and third-party assets are excluded. See [license scope](LICENSE-SCOPE.md).
+
+### Profile repository health
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15391/badge)](https://www.bestpractices.dev/projects/15391)
+[![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/apoorvdarshan/apoorvdarshan?label=openssf%20scorecard&style=flat)](https://scorecard.dev/viewer/?uri=github.com/apoorvdarshan/apoorvdarshan)
