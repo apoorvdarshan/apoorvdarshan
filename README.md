@@ -42,21 +42,21 @@
 <ul>
 <li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> - macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown</li>
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/DesktopWorm&amp;v=3"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
-<li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - Local Chromium cookie/session transfer to Codex on macOS</li>
-<li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> <img alt="Downloads: 300+" src="https://img.shields.io/badge/%E2%86%93-300%2B-8B1A1A?style=flat-square"> - Local torrent streamer/downloader with a browser UI</li>
-<li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 2K+" src="https://img.shields.io/badge/%E2%86%93-2K%2B-8B1A1A?style=flat-square"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
+<li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - Local Chromium cookie/session transfer to Codex on macOS</li>
+<li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> <img alt="Downloads: 800+" src="https://apoorvdarshan.com/badges/downloads/v1/800%2B.svg"> - Local torrent streamer/downloader with a browser UI</li>
+<li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
 </ul>
 
 ## Web Apps & Tools
 <ul>
   <li>🏆 <strong><a href="https://github.com/apoorvdarshan/omi-leaderboard">omi-leaderboard</a></strong> - Omi contributor rankings, merged PRs, and shareable profiles</li>
   <li>🔔 <strong><a href="https://github.com/apoorvdarshan/ringtone-cropper">ringtone-cropper</a></strong> - Audio/YouTube to Android/iPhone ringtones</li>
-  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://img.shields.io/badge/%E2%86%93-4K%2B-8B1A1A?style=flat-square"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
+  <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://apoorvdarshan.com/badges/downloads/v1/4K%2B.svg"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
   <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge GitHub contribution graphs into one SVG heatmap</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 300+" src="https://img.shields.io/badge/%E2%86%93-300%2B-8B1A1A?style=flat-square"> - X engagement scorer using the open-source algorithm</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - X engagement scorer using the open-source algorithm</li>
   <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/zyro&amp;v=3"> - AI news website (GNews.io API, 100 req/day limit)</li>
   <li>💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</li>
 
