@@ -56,13 +56,13 @@ When a new top item pushes a section past 10 `<li>` entries, move the last `<li>
 
 - Whenever the user says **update profile** (or asks for any GitHub profile content change), audit every GitHub-hosted entry in **Mobile Apps**, **Games**, **Chrome Extensions**, and the project sections (**AI & Agents**, **Apps & Utilities**, **Web Apps & Tools**, **Creative, 3D & Vision**, **Experiments & Fun**) — not only the item being edited.
 - Fetch each repository's current star count with `gh api repos/OWNER/REPO --jq '.stargazers_count'`.
-- If the count is **greater than 0**, ensure the entry includes this live badge immediately after the linked project name:
+- For own projects, if the count is **5 or greater**, ensure the entry includes this live badge immediately after the linked project name:
   ```html
   <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=OWNER/REPO&amp;v=3">
   ```
-- If the count is **0**, do not show a star badge; remove any stale badge already present.
+- For own projects, if the count is **below 5**, do not show a star badge; remove any stale badge already present.
 - Closed-source and non-GitHub entries do not receive GitHub star badges.
-- Before finishing, verify that every positive-star work entry has a badge and every zero-star work entry has none.
+- Before finishing, verify that every own-project entry with 5+ stars has a badge and every own-project entry below 5 has none.
 
 ## Download counts
 
@@ -124,3 +124,5 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 - `distribution_counts.py` runs after mobile/npm refresh: six explicitly mapped release repositories and two public Chrome store listings. GitHub assets are allowlisted (no checksums, signatures, AABs, drafts or prereleases), paginated and summed once per asset. Combined download events are not unique installs; Fud AI adds APK events to the unchanged first-time store subtotal. Homebrew casks for TetherShot and Browser Cookie Bridge use GitHub assets: never sum those installs again. Chrome users remain a separate metric and may decrease. Public audit: `profile-automation/distribution-counts.json`. Failed sources keep their previous verified snapshot; missing first snapshots leave existing copy untouched and fail the health check. Newest YouTube Search and Streaming Indian Filter have no store listings or release assets; do not invent counts.
 
 - Chrome user badges use `/badges/users/v1/<encoded-label>.svg` on apoorvdarshan.com, with a `users` label; never restore Shields URLs. The Worker serves these independently, just like download tiles. New count URLs avoid reusing a previously broken image URL.
+
+- Own projects (`apoorvdarshan/*`) show stars only at **5 or more** across README, site and resume. Keep exact counts in the audit snapshot even when hidden. External OSS contribution star display and descending sorting stay unchanged. The updater must preserve this threshold on every refresh.
