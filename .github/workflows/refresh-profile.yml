@@ -64,18 +64,56 @@ jobs:
         run: python3 scripts/automation/build-resume.py
       - name: Sync and build website from this exact README and star snapshot
         run: npm run build
+      - name: Prepare commit signing
+        env:
+          PROFILE_COMMIT_SIGNING_KEY: ${{ secrets.PROFILE_COMMIT_SIGNING_KEY }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$PROFILE_COMMIT_SIGNING_KEY" ]]; then
+            echo '::warning::Signing key unavailable; updates will continue unsigned.'
+            exit 0
+          fi
+          umask 077
+          key="$RUNNER_TEMP/profile-commit-signing-key"
+          printf '%s\n' "$PROFILE_COMMIT_SIGNING_KEY" > "$key"
+          if ! ssh-keygen -y -P '' -f "$key" > "$key.pub" 2>/dev/null; then
+            echo '::warning::Signing key could not be loaded; updates will continue unsigned.'
+            rm -f "$key" "$key.pub"
+            exit 0
+          fi
+          if [[ "$(awk '{print $1, $2}' "$key.pub")" != "$(awk '{print $1, $2}' profile-readme/.github/profile-signing.pub)" ]]; then
+            echo '::warning::Signing key does not match the registered public key; updates will continue unsigned.'
+            rm -f "$key" "$key.pub"
+            exit 0
+          fi
+          printf 'PROFILE_SIGNING_KEY_FILE=%s\n' "$key" >> "$GITHUB_ENV"
       - name: Commit and push only managed files
         run: |
           set -euo pipefail
           commit_files() {
             local repo="$1" message="$2"
             shift 2
-            git -C "$repo" config user.name 'github-actions[bot]'
-            git -C "$repo" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git -C "$repo" config user.name 'Apoorv Darshan'
+            git -C "$repo" config user.email '90602809+apoorvdarshan@users.noreply.github.com'
             git -C "$repo" add -- "$@"
             if ! git -C "$repo" diff --cached --quiet; then
-              # Credit Apoorv as author; record the automation as committer.
-              git -C "$repo" commit --author='Apoorv Darshan <90602809+apoorvdarshan@users.noreply.github.com>' -m "$message"
+              local signed=false
+              local -a args=(
+                --author='Apoorv Darshan <90602809+apoorvdarshan@users.noreply.github.com>'
+                -m "$message"
+                -m 'Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
+              )
+              if [[ -n "${PROFILE_SIGNING_KEY_FILE:-}" ]]; then
+                if git -C "$repo" -c gpg.format=ssh -c user.signingkey="$PROFILE_SIGNING_KEY_FILE" commit -S "${args[@]}"; then
+                  signed=true
+                else
+                  echo "::warning::Commit signing failed in $repo; continuing unsigned."
+                fi
+              fi
+              # A signing failure must not block an otherwise valid refresh.
+              if [[ "$signed" != true ]]; then
+                git -C "$repo" -c commit.gpgsign=false commit "${args[@]}"
+              fi
               git -C "$repo" push origin HEAD:main
             fi
           }
@@ -88,3 +126,6 @@ jobs:
         env:
           CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
           CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
+      - name: Remove temporary signing key
+        if: always()
+        run: rm -f "$RUNNER_TEMP/profile-commit-signing-key" "$RUNNER_TEMP/profile-commit-signing-key.pub"
