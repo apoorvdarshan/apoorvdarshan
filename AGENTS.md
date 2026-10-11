@@ -108,3 +108,7 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 - Always commit and push after every change — do not batch or wait to be asked
 - No co-author lines in commits
 - Keep commit messages concise (one line)
+
+## Merge checks and automation
+
+- Check merged PRs only for `apoorvdarshan`. Use only this account for contribution discovery and future merge-check automation.
