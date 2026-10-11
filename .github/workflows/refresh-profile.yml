@@ -23,8 +23,7 @@ on:
         default: false
 
 permissions:
-  contents: write
-  id-token: write
+  contents: read
 
 concurrency:
   group: automatic-profile-refresh
@@ -32,6 +31,9 @@ concurrency:
 
 jobs:
   refresh:
+    permissions:
+      contents: write
+      id-token: write
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:

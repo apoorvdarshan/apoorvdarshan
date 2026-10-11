@@ -68,7 +68,7 @@ export default {
 };
 
 function isValidRepo(repo) {
-  return /^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(repo);
+  return /^[A-Za-z0-9][A-Za-z0-9-]{0,38}\/[A-Za-z0-9_.-]{1,100}$/.test(repo) && ![".", ".."].includes(repo.split("/")[1]);
 }
 
 function createCacheKey(url, repo, responseFormat) {
@@ -97,7 +97,7 @@ async function getStarCount(repo, env) {
   }
 
   const data = await response.json();
-  if (typeof data.stargazers_count !== "number") {
+  if (!Number.isSafeInteger(data.stargazers_count) || data.stargazers_count < 0) {
     throw new Error("GitHub API response did not include stargazers_count");
   }
 

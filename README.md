@@ -331,3 +331,9 @@ PDF resume — view or download.
 
 </details>
 
+
+## Repository maintenance
+
+[Build and interfaces](BUILD.md) · [Contributing](CONTRIBUTING.md) · [Security policy](SECURITY.md) · [Changes](CHANGELOG.md)
+
+Software is MIT-licensed; personal content and third-party assets are excluded. See [license scope](LICENSE-SCOPE.md).
