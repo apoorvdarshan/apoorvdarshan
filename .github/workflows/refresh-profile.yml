@@ -74,7 +74,8 @@ jobs:
             git -C "$repo" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git -C "$repo" add -- "$@"
             if ! git -C "$repo" diff --cached --quiet; then
-              git -C "$repo" commit -m "$message"
+              # Credit Apoorv as author; record the automation as committer.
+              git -C "$repo" commit --author='Apoorv Darshan <90602809+apoorvdarshan@users.noreply.github.com>' -m "$message"
               git -C "$repo" push origin HEAD:main
             fi
           }

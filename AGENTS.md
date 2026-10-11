@@ -107,6 +107,7 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 
 - Always commit and push after every change — do not batch or wait to be asked
 - No co-author lines in commits
+- Automatic profile refresh commits use Apoorv Darshan as author with `90602809+apoorvdarshan@users.noreply.github.com`, and `github-actions[bot]` as committer. The bot's role is recorded as committer rather than a co-author trailer. Commit only when managed files change.
 - Keep commit messages concise (one line)
 
 ## Merge checks and automation
