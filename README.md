@@ -341,4 +341,4 @@ Software is MIT-licensed; personal content and third-party assets are excluded. 
 ### Profile repository health
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15391/badge)](https://www.bestpractices.dev/projects/15391)
-[![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/apoorvdarshan/apoorvdarshan?label=openssf%20scorecard&style=flat)](https://scorecard.dev/viewer/?uri=github.com/apoorvdarshan/apoorvdarshan)
+[![OpenSSF Scorecard](https://apoorvdarshan.com/badges/scorecard/v1/apoorvdarshan.svg)](https://scorecard.dev/viewer/?uri=github.com/apoorvdarshan/apoorvdarshan)
