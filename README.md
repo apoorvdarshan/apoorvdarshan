@@ -6,16 +6,16 @@
 
 ## Mobile Apps
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 9K+" src="https://img.shields.io/badge/%E2%86%93-9K%2B-8B1A1A?style=flat-square"> - AI-powered calorie and nutrition tracker app</li>
-  <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://img.shields.io/badge/%E2%86%93-1K%2B-8B1A1A?style=flat-square"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
-  <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 400+" src="https://img.shields.io/badge/%E2%86%93-400%2B-8B1A1A?style=flat-square"> - iOS AI companion with a live VRM avatar that sees you</li>
-  <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> <img alt="Downloads: 100+" src="https://img.shields.io/badge/%E2%86%93-100%2B-8B1A1A?style=flat-square"> - iOS app to quit smoking, alcohol, social media, and more</li>
-  <li>📚 <strong><a href="https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227">iitjee</a></strong> <em>(closed source)</em> <img alt="Downloads: 70+" src="https://img.shields.io/badge/%E2%86%93-70%2B-8B1A1A?style=flat-square"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 9K+" src="https://apoorvdarshan.com/badges/downloads/v1/9K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
+  <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
+  <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 400+" src="https://apoorvdarshan.com/badges/downloads/v1/400%2B.svg"> - iOS AI companion with a live VRM avatar that sees you</li>
+  <li>🚫 <strong><a href="https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934">quit-all</a></strong> <em>(closed source)</em> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - iOS app to quit smoking, alcohol, social media, and more</li>
+  <li>📚 <strong><a href="https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227">iitjee</a></strong> <em>(closed source)</em> <img alt="Downloads: 70+" src="https://apoorvdarshan.com/badges/downloads/v1/70%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
 </ul>
 
 ## Games
 <ul>
-  <li>🌊 <strong><a href="https://apps.apple.com/us/app/abysm-dive-the-deep-sea/id6783505799">abysm</a></strong> <em>(closed source)</em> <img alt="Downloads: 40+" src="https://img.shields.io/badge/%E2%86%93-40%2B-8B1A1A?style=flat-square"> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
+  <li>🌊 <strong><a href="https://apps.apple.com/us/app/abysm-dive-the-deep-sea/id6783505799">abysm</a></strong> <em>(closed source)</em> <img alt="Downloads: 40+" src="https://apoorvdarshan.com/badges/downloads/v1/40%2B.svg"> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
 </ul>
 
 ## Chrome Extensions
