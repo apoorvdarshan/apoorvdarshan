@@ -84,6 +84,7 @@ jobs:
         run: python3 scripts/automation/android_downloads.py
         env:
           PLAY_REPORTS_ACCESS_TOKEN: ${{ steps.play-auth.outputs.access_token }}
+          PLAY_REPORTS_IDENTITY: profile-reporting@fudai-play-publisher-2026.iam.gserviceaccount.com
           PLAY_DOWNLOADS_FORCE: ${{ inputs.refresh_android_downloads && 'true' || 'false' }}
       - name: Keep previous Android counts if Google reports are unavailable
         if: steps.android-downloads.outcome == 'failure' || steps.play-auth.outcome == 'failure'
