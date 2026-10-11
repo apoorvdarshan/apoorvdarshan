@@ -1,0 +1,1255 @@
+{
+  "version": 1,
+  "author": "apoorvdarshan",
+  "pullRequests": [
+    {
+      "repo": "abordage/awesome-mac",
+      "number": 12,
+      "title": "Add Hash Harbor",
+      "url": "https://github.com/abordage/awesome-mac/pull/12",
+      "mergedAt": "2026-07-27T06:32:10Z"
+    },
+    {
+      "repo": "abordage/awesome-mac",
+      "number": 16,
+      "title": "Add MacBook 24x7 Agents",
+      "url": "https://github.com/abordage/awesome-mac/pull/16",
+      "mergedAt": "2026-08-12T15:01:01Z"
+    },
+    {
+      "repo": "abordage/awesome-mac",
+      "number": 18,
+      "title": "Add Browser Cookie Bridge",
+      "url": "https://github.com/abordage/awesome-mac/pull/18",
+      "mergedAt": "2026-08-12T15:00:45Z"
+    },
+    {
+      "repo": "abordage/awesome-mac",
+      "number": 23,
+      "title": "docs(list): add TetherShot to screen capture",
+      "url": "https://github.com/abordage/awesome-mac/pull/23",
+      "mergedAt": "2026-09-14T06:47:10Z"
+    },
+    {
+      "repo": "adbar/htmldate",
+      "number": 194,
+      "title": "Preserve time and timezone for regex-extracted dates (#174)",
+      "url": "https://github.com/adbar/htmldate/pull/194",
+      "mergedAt": "2026-07-30T15:17:36Z"
+    },
+    {
+      "repo": "adobe/react-spectrum",
+      "number": 9678,
+      "title": "fix: skip native Date fast path when local timezone is overridden via setLocalTimeZone",
+      "url": "https://github.com/adobe/react-spectrum/pull/9678",
+      "mergedAt": "2026-02-20T19:45:57Z"
+    },
+    {
+      "repo": "akkadotnet/akka.net",
+      "number": 8048,
+      "title": "Downgrade VirtualPathContainer RemoveChild log from Warning to Debug",
+      "url": "https://github.com/akkadotnet/akka.net/pull/8048",
+      "mergedAt": "2026-02-24T22:08:08Z"
+    },
+    {
+      "repo": "alecthomas/voluptuous",
+      "number": 546,
+      "title": "Add __repr__ to Invalid so it surfaces the path and error type (#358)",
+      "url": "https://github.com/alecthomas/voluptuous/pull/546",
+      "mergedAt": "2026-07-05T00:00:59Z"
+    },
+    {
+      "repo": "alvinreal/awesome-opensource-ai",
+      "number": 664,
+      "title": "Add Scowld mobile AI companion",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai/pull/664",
+      "mergedAt": "2026-08-07T13:26:34Z"
+    },
+    {
+      "repo": "andialbrecht/sqlparse",
+      "number": 860,
+      "title": "Recognize ROW_FORMAT as a keyword (issue773)",
+      "url": "https://github.com/andialbrecht/sqlparse/pull/860",
+      "mergedAt": "2026-07-25T09:37:40Z"
+    },
+    {
+      "repo": "ansible/ansible",
+      "number": 87212,
+      "title": "ansible-config: default to checking all plugin configs",
+      "url": "https://github.com/ansible/ansible/pull/87212",
+      "mergedAt": "2026-07-17T18:34:18Z"
+    },
+    {
+      "repo": "aregtech/areg-sdk",
+      "number": 675,
+      "title": "Add comprehensive unit tests for String class (#122)",
+      "url": "https://github.com/aregtech/areg-sdk/pull/675",
+      "mergedAt": "2026-08-24T01:22:00Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 7323,
+      "title": "fix(backend): notify users about BYOK LLM key failures",
+      "url": "https://github.com/BasedHardware/omi/pull/7323",
+      "mergedAt": "2026-07-07T21:49:27Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 12893,
+      "title": "fix(app,backend): disconnect nags, WAL opus sync, speech-profile identity",
+      "url": "https://github.com/BasedHardware/omi/pull/12893",
+      "mergedAt": "2026-09-09T16:38:21Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 12933,
+      "title": "fix(app): breathing room above conversation markdown headers",
+      "url": "https://github.com/BasedHardware/omi/pull/12933",
+      "mergedAt": "2026-09-08T14:39:49Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 12936,
+      "title": "fix(app): warn and retry when conversation processing stalls",
+      "url": "https://github.com/BasedHardware/omi/pull/12936",
+      "mergedAt": "2026-09-09T14:47:46Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13059,
+      "title": "Fix external integration URL updates not reflecting without app restart",
+      "url": "https://github.com/BasedHardware/omi/pull/13059",
+      "mergedAt": "2026-09-09T14:49:57Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13173,
+      "title": "fix(app,backend): BigText chat-answer notifications + chat deep-link",
+      "url": "https://github.com/BasedHardware/omi/pull/13173",
+      "mergedAt": "2026-09-11T14:41:40Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13462,
+      "title": "fix(python-cli): abort retries when Retry-After exceeds 60s",
+      "url": "https://github.com/BasedHardware/omi/pull/13462",
+      "mergedAt": "2026-09-11T14:43:21Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13588,
+      "title": "fix(desktop): route automation sidebar targets through hub-view adapter",
+      "url": "https://github.com/BasedHardware/omi/pull/13588",
+      "mergedAt": "2026-09-13T14:42:12Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13593,
+      "title": "fix(react-native): remove stale JS entrypoints shadowing TypeScript SDK",
+      "url": "https://github.com/BasedHardware/omi/pull/13593",
+      "mergedAt": "2026-09-12T14:42:22Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13594,
+      "title": "fix(python-cli): treat empty HTTP error bodies as failures",
+      "url": "https://github.com/BasedHardware/omi/pull/13594",
+      "mergedAt": "2026-09-12T14:43:39Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13595,
+      "title": "fix(ci): unwrap bash -c payloads in structured-string sink checker",
+      "url": "https://github.com/BasedHardware/omi/pull/13595",
+      "mergedAt": "2026-09-13T06:03:10Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13596,
+      "title": "test(sdk): BLE callback exception propagation for listen paths",
+      "url": "https://github.com/BasedHardware/omi/pull/13596",
+      "mergedAt": "2026-09-13T06:01:52Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13598,
+      "title": "fix(desktop): keep Claude Code export row on one line",
+      "url": "https://github.com/BasedHardware/omi/pull/13598",
+      "mergedAt": "2026-09-12T14:46:11Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13684,
+      "title": "fix(web): consolidate app-store hardware product branding (#5855)",
+      "url": "https://github.com/BasedHardware/omi/pull/13684",
+      "mergedAt": "2026-09-13T14:44:51Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13685,
+      "title": "fix(plugins): bind mentor transcript buffer to authenticated uid",
+      "url": "https://github.com/BasedHardware/omi/pull/13685",
+      "mergedAt": "2026-09-13T14:44:49Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13686,
+      "title": "fix(ci): shell-comparable JSON boolean for Agent VM SHA reuse guard",
+      "url": "https://github.com/BasedHardware/omi/pull/13686",
+      "mergedAt": "2026-09-13T14:44:46Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13687,
+      "title": "fix(desktop): record served model ids for single-model chat providers",
+      "url": "https://github.com/BasedHardware/omi/pull/13687",
+      "mergedAt": "2026-09-14T14:35:47Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13688,
+      "title": "fix(app): correct offline sync processing counter and percent display",
+      "url": "https://github.com/BasedHardware/omi/pull/13688",
+      "mergedAt": "2026-09-14T14:45:08Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13703,
+      "title": "fix(backend): fold cross-device duplicate captures at finalization (#3244)",
+      "url": "https://github.com/BasedHardware/omi/pull/13703",
+      "mergedAt": "2026-09-13T14:41:17Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13856,
+      "title": "fix: reject zero-byte data export downloads (#4678)",
+      "url": "https://github.com/BasedHardware/omi/pull/13856",
+      "mergedAt": "2026-09-15T15:02:47Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13857,
+      "title": "fix: wire device timezone into AI chat for relative times (Fixes #4643)",
+      "url": "https://github.com/BasedHardware/omi/pull/13857",
+      "mergedAt": "2026-09-15T15:02:43Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13858,
+      "title": "fix(desktop-windows): guard packaged startup before auto-update handoff",
+      "url": "https://github.com/BasedHardware/omi/pull/13858",
+      "mergedAt": "2026-10-01T10:58:40Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13859,
+      "title": "fix(desktop): preserve Claude Code sessions across re-auth",
+      "url": "https://github.com/BasedHardware/omi/pull/13859",
+      "mergedAt": "2026-09-15T15:02:39Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 13869,
+      "title": "chore(failure-class): desktop/windows scope hint for FC-runtime-image-boundary",
+      "url": "https://github.com/BasedHardware/omi/pull/13869",
+      "mergedAt": "2026-09-15T15:02:29Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 14158,
+      "title": "fix(app): detect stale iOS bond after CV1 DFU and stop reconnect loops",
+      "url": "https://github.com/BasedHardware/omi/pull/14158",
+      "mergedAt": "2026-09-16T14:44:41Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 14291,
+      "title": "fix(app): correct Limitless flash timestamps for clock drift (#5734)",
+      "url": "https://github.com/BasedHardware/omi/pull/14291",
+      "mergedAt": "2026-09-17T14:54:12Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 14296,
+      "title": "fix(app): keep Android recording sync alive while the screen is off",
+      "url": "https://github.com/BasedHardware/omi/pull/14296",
+      "mergedAt": "2026-09-20T14:43:21Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 14300,
+      "title": "fix(backend): meter custom-STT LLM post-processing without skipping STT-credit bypass",
+      "url": "https://github.com/BasedHardware/omi/pull/14300",
+      "mergedAt": "2026-09-19T14:47:32Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 18878,
+      "title": "fix(app): discover NotePin S from the advertisement name",
+      "url": "https://github.com/BasedHardware/omi/pull/18878",
+      "mergedAt": "2026-09-27T14:42:26Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 18879,
+      "title": "fix(docs): point Discord links at the invite that answers on HTTPS",
+      "url": "https://github.com/BasedHardware/omi/pull/18879",
+      "mergedAt": "2026-09-26T14:45:48Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 18880,
+      "title": "fix(app): show the app's real install count",
+      "url": "https://github.com/BasedHardware/omi/pull/18880",
+      "mergedAt": "2026-09-26T14:41:33Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 18881,
+      "title": "fix(backend): drop a speaker profile when its teaching sample is deleted",
+      "url": "https://github.com/BasedHardware/omi/pull/18881",
+      "mergedAt": "2026-09-28T14:42:27Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 18882,
+      "title": "fix(web): repair the footer support email link",
+      "url": "https://github.com/BasedHardware/omi/pull/18882",
+      "mergedAt": "2026-09-26T14:41:30Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20355,
+      "title": "fix(mobile): preserve appearance preferences across upgrades",
+      "url": "https://github.com/BasedHardware/omi/pull/20355",
+      "mergedAt": "2026-10-04T14:43:06Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20370,
+      "title": "fix(app): keep recent device diagnostics within seven days",
+      "url": "https://github.com/BasedHardware/omi/pull/20370",
+      "mergedAt": "2026-10-04T14:43:12Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20372,
+      "title": "fix(mobile): attribute BLE recovery latency to the original disconnect",
+      "url": "https://github.com/BasedHardware/omi/pull/20372",
+      "mergedAt": "2026-10-03T14:43:37Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20373,
+      "title": "fix(android): correct Bluetooth diagnostic reason labels",
+      "url": "https://github.com/BasedHardware/omi/pull/20373",
+      "mergedAt": "2026-10-04T14:43:17Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20384,
+      "title": "fix(app): prevent handled HTTP failures from escaping cleanup",
+      "url": "https://github.com/BasedHardware/omi/pull/20384",
+      "mergedAt": "2026-10-03T14:43:20Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20388,
+      "title": "fix(app): keep voice introduction below onboarding navigation",
+      "url": "https://github.com/BasedHardware/omi/pull/20388",
+      "mergedAt": "2026-10-03T05:05:30Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 20419,
+      "title": "fix(app): make Offline Sync storage cards readable in light and dark mode",
+      "url": "https://github.com/BasedHardware/omi/pull/20419",
+      "mergedAt": "2026-10-03T09:29:36Z"
+    },
+    {
+      "repo": "boa-dev/boa",
+      "number": 4631,
+      "title": "Implement BOM stripping and `ignoreBOM` option in TextDecoder",
+      "url": "https://github.com/boa-dev/boa/pull/4631",
+      "mergedAt": "2026-02-22T15:44:42Z"
+    },
+    {
+      "repo": "CCExtractor/ccextractor",
+      "number": 2136,
+      "title": "Fix configuration file parsing bugs and typos",
+      "url": "https://github.com/CCExtractor/ccextractor/pull/2136",
+      "mergedAt": "2026-02-25T22:17:24Z"
+    },
+    {
+      "repo": "CCExtractor/ccextractor",
+      "number": 2171,
+      "title": "Fix null pointer dereference in Matroska parser on file open failure",
+      "url": "https://github.com/CCExtractor/ccextractor/pull/2171",
+      "mergedAt": "2026-03-14T17:03:39Z"
+    },
+    {
+      "repo": "click-contrib/click-repl",
+      "number": 136,
+      "title": "Do not offer value completions for boolean flags (fixes #116)",
+      "url": "https://github.com/click-contrib/click-repl/pull/136",
+      "mergedAt": "2026-08-04T07:30:25Z"
+    },
+    {
+      "repo": "DasterProkio/awesome-ai-companion",
+      "number": 10,
+      "title": "Add Scowld companion client",
+      "url": "https://github.com/DasterProkio/awesome-ai-companion/pull/10",
+      "mergedAt": "2026-08-12T12:54:23Z"
+    },
+    {
+      "repo": "django-oauth/django-oauth-toolkit",
+      "number": 1750,
+      "title": "Fix wildcard redirect URI validation for Netlify double-dash deploy previews",
+      "url": "https://github.com/django-oauth/django-oauth-toolkit/pull/1750",
+      "mergedAt": "2026-07-23T22:45:00Z"
+    },
+    {
+      "repo": "djlint/djLint",
+      "number": 2206,
+      "title": "fix: keep template variable in HTML attribute name on one line (#1185)",
+      "url": "https://github.com/djlint/djLint/pull/2206",
+      "mergedAt": "2026-07-11T18:52:27Z"
+    },
+    {
+      "repo": "dkhamsing/open-source-ios-apps",
+      "number": 2313,
+      "title": "Add Scowld by @apoorvdarshan",
+      "url": "https://github.com/dkhamsing/open-source-ios-apps/pull/2313",
+      "mergedAt": "2026-08-08T09:58:14Z"
+    },
+    {
+      "repo": "dkhamsing/open-source-ios-apps",
+      "number": 2421,
+      "title": "Add Verceltics by @apoorvdarshan",
+      "url": "https://github.com/dkhamsing/open-source-ios-apps/pull/2421",
+      "mergedAt": "2026-10-08T19:26:12Z"
+    },
+    {
+      "repo": "dotnet/docs-desktop",
+      "number": 2197,
+      "title": "Fix MD001 heading level violations in winforms/advanced",
+      "url": "https://github.com/dotnet/docs-desktop/pull/2197",
+      "mergedAt": "2026-02-26T21:28:17Z"
+    },
+    {
+      "repo": "dotnet/fsharp",
+      "number": 19317,
+      "title": "Fix Seq.empty rendering as \"EmptyEnumerable\" in serializers",
+      "url": "https://github.com/dotnet/fsharp/pull/19317",
+      "mergedAt": "2026-03-04T15:18:32Z"
+    },
+    {
+      "repo": "dotnet/runtime",
+      "number": 124498,
+      "title": "Fix TokenBucketRateLimiter AttemptAcquire(0) with fractional tokens",
+      "url": "https://github.com/dotnet/runtime/pull/124498",
+      "mergedAt": "2026-03-26T03:41:05Z"
+    },
+    {
+      "repo": "dry-python/returns",
+      "number": 2446,
+      "title": "Fix partial mypy plugin: make positionals keyword-only after a keyword-bound positional (#2191)",
+      "url": "https://github.com/dry-python/returns/pull/2446",
+      "mergedAt": "2026-08-02T07:58:22Z"
+    },
+    {
+      "repo": "dynaconf/dynaconf",
+      "number": 1421,
+      "title": "Support list values for env (#1278)",
+      "url": "https://github.com/dynaconf/dynaconf/pull/1421",
+      "mergedAt": "2026-07-29T07:14:44Z"
+    },
+    {
+      "repo": "Effect-TS/effect",
+      "number": 7533,
+      "title": "fix(atom-solid): forward default idle TTL",
+      "url": "https://github.com/Effect-TS/effect/pull/7533",
+      "mergedAt": "2026-09-06T03:58:19Z"
+    },
+    {
+      "repo": "flutter/flutter",
+      "number": 182546,
+      "title": "Remove material imports from navigator_on_did_remove_page_test and scrollable_in_overlay_test",
+      "url": "https://github.com/flutter/flutter/pull/182546",
+      "mergedAt": "2026-05-01T07:15:53Z"
+    },
+    {
+      "repo": "Flux159/mcp-server-kubernetes",
+      "number": 320,
+      "title": "fix: sync server metadata version",
+      "url": "https://github.com/Flux159/mcp-server-kubernetes/pull/320",
+      "mergedAt": "2026-06-11T19:03:51Z"
+    },
+    {
+      "repo": "fork-commit-merge/fork-commit-merge",
+      "number": 6370,
+      "title": "Solve Easy Issue 2: Filter even numbers from array",
+      "url": "https://github.com/fork-commit-merge/fork-commit-merge/pull/6370",
+      "mergedAt": "2026-02-17T11:26:49Z"
+    },
+    {
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "number": 66544,
+      "title": "fix(curriculum): correct example for ochenta y uno gender rule",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/66544",
+      "mergedAt": "2026-03-23T15:09:23Z"
+    },
+    {
+      "repo": "geopy/geopy",
+      "number": 610,
+      "title": "Guard Point.from_string against ReDoS on very long inputs (#608)",
+      "url": "https://github.com/geopy/geopy/pull/610",
+      "mergedAt": "2026-07-10T03:10:20Z"
+    },
+    {
+      "repo": "giselles-ai/giselle",
+      "number": 2739,
+      "title": "fix: use continue instead of return in handleEdgesChange",
+      "url": "https://github.com/giselles-ai/giselle/pull/2739",
+      "mergedAt": "2026-02-27T02:08:26Z"
+    },
+    {
+      "repo": "gitextensions/gitextensions",
+      "number": 12841,
+      "title": "Fix: Console launch fails when Windows username contains spaces",
+      "url": "https://github.com/gitextensions/gitextensions/pull/12841",
+      "mergedAt": "2026-02-18T22:38:36Z"
+    },
+    {
+      "repo": "google/zx",
+      "number": 1407,
+      "title": "feat: provide clear error when cwd directory does not exist",
+      "url": "https://github.com/google/zx/pull/1407",
+      "mergedAt": "2026-02-21T08:38:17Z"
+    },
+    {
+      "repo": "google/zx",
+      "number": 1408,
+      "title": "refactor(cli): improve error handling for remote script fetch",
+      "url": "https://github.com/google/zx/pull/1408",
+      "mergedAt": "2026-02-22T08:21:59Z"
+    },
+    {
+      "repo": "gristlabs/asttokens",
+      "number": 174,
+      "title": "Fix IndexError on source mixing lone CR with LF line endings (#105)",
+      "url": "https://github.com/gristlabs/asttokens/pull/174",
+      "mergedAt": "2026-07-12T01:59:42Z"
+    },
+    {
+      "repo": "guibranco/BancosBrasileiros",
+      "number": 895,
+      "title": "Fix redirected bank URLs reported by link checker",
+      "url": "https://github.com/guibranco/BancosBrasileiros/pull/895",
+      "mergedAt": "2026-02-17T13:34:46Z"
+    },
+    {
+      "repo": "hgrecco/pint",
+      "number": 2330,
+      "title": "Support superscript decimal point and fraction slash in exponents (#2250)",
+      "url": "https://github.com/hgrecco/pint/pull/2330",
+      "mergedAt": "2026-07-26T11:15:19Z"
+    },
+    {
+      "repo": "ikamensh/flynt",
+      "number": 254,
+      "title": "Don't convert %c percent formatting to f-strings (fixes #253)",
+      "url": "https://github.com/ikamensh/flynt/pull/254",
+      "mergedAt": "2026-07-16T21:32:18Z"
+    },
+    {
+      "repo": "jaywcjlove/awesome-swift-macos-apps",
+      "number": 101,
+      "title": "Add TetherShot",
+      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps/pull/101",
+      "mergedAt": "2026-08-23T04:25:28Z"
+    },
+    {
+      "repo": "jd/tenacity",
+      "number": 653,
+      "title": "Keep statistics visible when @retry is further wrapped (fixes #519)",
+      "url": "https://github.com/jd/tenacity/pull/653",
+      "mergedAt": "2026-07-11T20:26:02Z"
+    },
+    {
+      "repo": "jquery/jquery",
+      "number": 5775,
+      "title": "CSS: Use createElementNS to support XSLT documents",
+      "url": "https://github.com/jquery/jquery/pull/5775",
+      "mergedAt": "2026-02-23T21:57:57Z"
+    },
+    {
+      "repo": "jsonpickle/jsonpickle",
+      "number": 612,
+      "title": "Fix numpy view py/id desync when base is shared (#449)",
+      "url": "https://github.com/jsonpickle/jsonpickle/pull/612",
+      "mergedAt": "2026-07-21T18:54:33Z"
+    },
+    {
+      "repo": "JuliaLang/julia",
+      "number": 61054,
+      "title": "Test: quote Symbol values in @test failure pretty printing",
+      "url": "https://github.com/JuliaLang/julia/pull/61054",
+      "mergedAt": "2026-02-25T09:42:20Z"
+    },
+    {
+      "repo": "jupyterlab/jupyterlab",
+      "number": 18530,
+      "title": "Fix theme settings broken in non-English locales",
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/18530",
+      "mergedAt": "2026-02-20T19:36:47Z"
+    },
+    {
+      "repo": "kislyuk/argcomplete",
+      "number": 553,
+      "title": "Expand ~ in DirectoriesCompleter (fixes #529)",
+      "url": "https://github.com/kislyuk/argcomplete/pull/553",
+      "mergedAt": "2026-07-20T01:33:42Z"
+    },
+    {
+      "repo": "koordinates/kart",
+      "number": 1120,
+      "title": "Fix export crash for generic GEOMETRY Z/M/ZM geometry types (#1063)",
+      "url": "https://github.com/koordinates/kart/pull/1120",
+      "mergedAt": "2026-07-10T03:11:46Z"
+    },
+    {
+      "repo": "kornia/kornia",
+      "number": 4121,
+      "title": "fix(geometry): validate nms box shape",
+      "url": "https://github.com/kornia/kornia/pull/4121",
+      "mergedAt": "2026-09-01T05:09:44Z"
+    },
+    {
+      "repo": "Kozea/WeasyPrint",
+      "number": 2831,
+      "title": "Fix line_height() crash on calc() values",
+      "url": "https://github.com/Kozea/WeasyPrint/pull/2831",
+      "mergedAt": "2026-07-11T11:50:09Z"
+    },
+    {
+      "repo": "kubernetes/kubernetes",
+      "number": 137095,
+      "title": "Migrate ClusterTrustBundle.Spec.SignerName to +k8s:immutable declarative validation",
+      "url": "https://github.com/kubernetes/kubernetes/pull/137095",
+      "mergedAt": "2026-05-08T01:21:16Z"
+    },
+    {
+      "repo": "langgenius/dify",
+      "number": 32386,
+      "title": "refactor(web): replace String.match() with RegExp.exec() for non-global regex",
+      "url": "https://github.com/langgenius/dify/pull/32386",
+      "mergedAt": "2026-02-18T08:46:38Z"
+    },
+    {
+      "repo": "laravel/laravel",
+      "number": 6755,
+      "title": "[12.x] Add `APP_NAME` fallback in mail config",
+      "url": "https://github.com/laravel/laravel/pull/6755",
+      "mergedAt": "2026-02-18T20:24:46Z"
+    },
+    {
+      "repo": "lark-parser/lark",
+      "number": 1619,
+      "title": "Fix lexer_callbacks silently dropped for keyword terminals (#1618)",
+      "url": "https://github.com/lark-parser/lark/pull/1619",
+      "mergedAt": "2026-07-19T07:41:13Z"
+    },
+    {
+      "repo": "lexiforest/curl_cffi",
+      "number": 796,
+      "title": "fix(requests): fall back to stdlib json in Response.json() when kwargs are passed (#639)",
+      "url": "https://github.com/lexiforest/curl_cffi/pull/796",
+      "mergedAt": "2026-09-17T07:55:59Z"
+    },
+    {
+      "repo": "MagicStack/asyncpg",
+      "number": 1333,
+      "title": "Fix segfault in Record.get() with invalid positional argument count",
+      "url": "https://github.com/MagicStack/asyncpg/pull/1333",
+      "mergedAt": "2026-09-21T05:58:20Z"
+    },
+    {
+      "repo": "micheles/decorator",
+      "number": 186,
+      "title": "Fix FunctionMaker.create() with return type annotation (#138)",
+      "url": "https://github.com/micheles/decorator/pull/186",
+      "mergedAt": "2026-07-09T15:54:03Z"
+    },
+    {
+      "repo": "mjs/imapclient",
+      "number": 644,
+      "title": "Reset IMAP state to AUTH after unselect_folder() (fixes #639)",
+      "url": "https://github.com/mjs/imapclient/pull/644",
+      "mergedAt": "2026-09-05T10:16:09Z"
+    },
+    {
+      "repo": "moinwiki/moin",
+      "number": 2166,
+      "title": "Fix markdown parser crash on emphasized text inside HTML tags",
+      "url": "https://github.com/moinwiki/moin/pull/2166",
+      "mergedAt": "2026-02-23T22:12:22Z"
+    },
+    {
+      "repo": "mpmath/mpmath",
+      "number": 1123,
+      "title": "Close leftover figure in plot/cplot/splot on error (fixes #1007)",
+      "url": "https://github.com/mpmath/mpmath/pull/1123",
+      "mergedAt": "2026-07-10T01:57:24Z"
+    },
+    {
+      "repo": "netromdk/vermin",
+      "number": 344,
+      "title": "Fix kwarg detection for chained receivers (issue #327)",
+      "url": "https://github.com/netromdk/vermin/pull/344",
+      "mergedAt": "2026-08-25T05:42:54Z"
+    },
+    {
+      "repo": "onmyway133/awesome-swiftui",
+      "number": 59,
+      "title": "Add Verceltics to iOS open source apps",
+      "url": "https://github.com/onmyway133/awesome-swiftui/pull/59",
+      "mergedAt": "2026-10-08T22:08:39Z"
+    },
+    {
+      "repo": "opcotech/elemo",
+      "number": 394,
+      "title": "feat: add project endpoints to OpenAPI spec",
+      "url": "https://github.com/opcotech/elemo/pull/394",
+      "mergedAt": "2026-08-06T08:38:07Z"
+    },
+    {
+      "repo": "openclaw/clawhub",
+      "number": 421,
+      "title": "fix: use relative delay for Retry-After header on 429",
+      "url": "https://github.com/openclaw/clawhub/pull/421",
+      "mergedAt": "2026-02-25T12:19:10Z"
+    },
+    {
+      "repo": "OpenRouterTeam/awesome-openrouter",
+      "number": 103,
+      "title": "Add Fud AI",
+      "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
+      "mergedAt": "2026-08-25T17:41:14Z"
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "number": 66117,
+      "title": "BUG: interpolate leaving NAs unfilled for pyarrow dtypes",
+      "url": "https://github.com/pandas-dev/pandas/pull/66117",
+      "mergedAt": "2026-09-16T20:27:41Z"
+    },
+    {
+      "repo": "payloadcms/payload",
+      "number": 18057,
+      "title": "fix: return 404 for version operations when versions are disabled",
+      "url": "https://github.com/payloadcms/payload/pull/18057",
+      "mergedAt": "2026-10-08T15:20:11Z"
+    },
+    {
+      "repo": "petertzy/markdown-reader",
+      "number": 84,
+      "title": "Fix NameError in choose_bg_color when color picker is cancelled",
+      "url": "https://github.com/petertzy/markdown-reader/pull/84",
+      "mergedAt": "2026-02-18T08:05:31Z"
+    },
+    {
+      "repo": "prowler-cloud/prowler",
+      "number": 10102,
+      "title": "fix: remove return statements from finally blocks",
+      "url": "https://github.com/prowler-cloud/prowler/pull/10102",
+      "mergedAt": "2026-03-27T08:23:16Z"
+    },
+    {
+      "repo": "pwaller/pyfiglet",
+      "number": 161,
+      "title": "Return False from isValidFont for a missing font (#156)",
+      "url": "https://github.com/pwaller/pyfiglet/pull/161",
+      "mergedAt": "2026-08-02T21:51:18Z"
+    },
+    {
+      "repo": "py-pdf/fpdf2",
+      "number": 1883,
+      "title": "Handle escaped markdown markers inside markdown links",
+      "url": "https://github.com/py-pdf/fpdf2/pull/1883",
+      "mergedAt": "2026-09-02T12:17:12Z"
+    },
+    {
+      "repo": "PyCQA/docformatter",
+      "number": 360,
+      "title": "fix: prevent ValueError crash on blank lines with trailing whitespace (#355)",
+      "url": "https://github.com/PyCQA/docformatter/pull/360",
+      "mergedAt": "2026-07-14T03:22:27Z"
+    },
+    {
+      "repo": "PyCQA/isort",
+      "number": 2574,
+      "title": "Honor `# isort: skip` when a __future__ import is present (#2092)",
+      "url": "https://github.com/PyCQA/isort/pull/2574",
+      "mergedAt": "2026-07-04T16:53:02Z"
+    },
+    {
+      "repo": "pygments/pygments",
+      "number": 3179,
+      "title": "Add 'yml' as an alias for the YAML lexer",
+      "url": "https://github.com/pygments/pygments/pull/3179",
+      "mergedAt": "2026-07-05T07:47:45Z"
+    },
+    {
+      "repo": "pygments/pygments",
+      "number": 3197,
+      "title": "Mathematica: recognize \\[Name] named-character escapes",
+      "url": "https://github.com/pygments/pygments/pull/3197",
+      "mergedAt": "2026-07-09T15:21:42Z"
+    },
+    {
+      "repo": "pygraphviz/pygraphviz",
+      "number": 639,
+      "title": "Fix graph-level attribute masking node/edge default (gh-563)",
+      "url": "https://github.com/pygraphviz/pygraphviz/pull/639",
+      "mergedAt": "2026-07-09T15:50:13Z"
+    },
+    {
+      "repo": "python-poetry/poetry-core",
+      "number": 953,
+      "title": "Fix `Version.difference` with a local variant of the same version",
+      "url": "https://github.com/python-poetry/poetry-core/pull/953",
+      "mergedAt": "2026-08-09T09:37:15Z"
+    },
+    {
+      "repo": "python-websockets/websockets",
+      "number": 1726,
+      "title": "Handle rejected handshakes cleanly in the threading server",
+      "url": "https://github.com/python-websockets/websockets/pull/1726",
+      "mergedAt": "2026-07-13T07:51:56Z"
+    },
+    {
+      "repo": "python/typeshed",
+      "number": 15977,
+      "title": "Add `functools.partial.__get__` for Python 3.14",
+      "url": "https://github.com/python/typeshed/pull/15977",
+      "mergedAt": "2026-09-06T14:54:05Z"
+    },
+    {
+      "repo": "python/typeshed",
+      "number": 15989,
+      "title": "Fix frozendict constructor: drop the argument-less __init__ (#15985)",
+      "url": "https://github.com/python/typeshed/pull/15989",
+      "mergedAt": "2026-07-08T18:40:18Z"
+    },
+    {
+      "repo": "radis/radis",
+      "number": 918,
+      "title": "Fix inconsistent spectral_points reporting",
+      "url": "https://github.com/radis/radis/pull/918",
+      "mergedAt": "2026-02-20T21:22:21Z"
+    },
+    {
+      "repo": "resend/resend-mcp",
+      "number": 166,
+      "title": "feat: better order of validation for command running",
+      "url": "https://github.com/resend/resend-mcp/pull/166",
+      "mergedAt": "2026-07-10T12:23:31Z"
+    },
+    {
+      "repo": "RipMeApp/ripme",
+      "number": 2172,
+      "title": "Add configurable API key support for Rule34Ripper #2145",
+      "url": "https://github.com/RipMeApp/ripme/pull/2172",
+      "mergedAt": "2026-08-08T02:13:10Z"
+    },
+    {
+      "repo": "simplejson/simplejson",
+      "number": 381,
+      "title": "Handle non-finite Decimals like floats in the encoder (fixes #149)",
+      "url": "https://github.com/simplejson/simplejson/pull/381",
+      "mergedAt": "2026-08-06T16:18:10Z"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "number": 3046,
+      "title": "Fix graph reports for non-string identity values",
+      "url": "https://github.com/soxoj/maigret/pull/3046",
+      "mergedAt": "2026-08-31T08:31:52Z"
+    },
+    {
+      "repo": "SpamScope/mail-parser",
+      "number": 161,
+      "title": "fix: feature-detect getaddresses(strict=) so address parsing works on Python < 3.13",
+      "url": "https://github.com/SpamScope/mail-parser/pull/161",
+      "mergedAt": "2026-07-29T21:37:00Z"
+    },
+    {
+      "repo": "spotify/luigi",
+      "number": 3410,
+      "title": "Fix deprecated datetime.utcfromtimestamp() calls",
+      "url": "https://github.com/spotify/luigi/pull/3410",
+      "mergedAt": "2026-04-06T17:24:13Z"
+    },
+    {
+      "repo": "spring-projects/spring-boot",
+      "number": 49261,
+      "title": "Update TestRestTemplate's default cookie handling to match RestTemplate's",
+      "url": "https://github.com/spring-projects/spring-boot/pull/49261",
+      "mergedAt": "2026-03-12T13:41:35Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8061,
+      "title": "Support WITH TAG clause in Snowflake CREATE TASK",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8061",
+      "mergedAt": "2026-07-03T12:19:20Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8065,
+      "title": "clickhouse: parse ORDER BY ... WITH FILL ... INTERPOLATE (#8029)",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8065",
+      "mergedAt": "2026-07-09T05:06:48Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8099,
+      "title": "Oracle: parse FOR UPDATE ... NOWAIT / WAIT n / SKIP LOCKED (#8097)",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8099",
+      "mergedAt": "2026-07-09T14:03:50Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8100,
+      "title": "ClickHouse: parse ORDER BY / LIMIT / SETTINGS on non-final union members (#8031)",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8100",
+      "mergedAt": "2026-07-10T14:06:02Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8101,
+      "title": "ClickHouse: parse GROUP BY WITH ROLLUP / CUBE / TOTALS (#8037)",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8101",
+      "mergedAt": "2026-07-10T21:00:27Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8103,
+      "title": "Read Jinja macro files with the configured encoding (#6633)",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8103",
+      "mergedAt": "2026-07-11T02:52:12Z"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "number": 8105,
+      "title": "ClickHouse: parse multi-column LIMIT n BY a, b (#8030)",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8105",
+      "mergedAt": "2026-07-10T14:40:10Z"
+    },
+    {
+      "repo": "styled-components/styled-components-website",
+      "number": 993,
+      "title": "fix: improve accessibility across site",
+      "url": "https://github.com/styled-components/styled-components-website/pull/993",
+      "mergedAt": "2026-03-19T06:57:43Z"
+    },
+    {
+      "repo": "sveltejs/svelte",
+      "number": 17745,
+      "title": "fix: keep select.__value current when effect is deferred",
+      "url": "https://github.com/sveltejs/svelte/pull/17745",
+      "mergedAt": "2026-03-13T02:07:57Z"
+    },
+    {
+      "repo": "TEAMMATES/teammates",
+      "number": 13553,
+      "title": "[#13481] Replace file-saver with native browser APIs",
+      "url": "https://github.com/TEAMMATES/teammates/pull/13553",
+      "mergedAt": "2026-02-19T08:11:18Z"
+    },
+    {
+      "repo": "tefra/xsdata",
+      "number": 1224,
+      "title": "Fix wrapper binding when collection item element name is reused",
+      "url": "https://github.com/tefra/xsdata/pull/1224",
+      "mergedAt": "2026-07-10T03:33:29Z"
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "number": 110665,
+      "title": "Fix resource misclassification for unsorted _read_only_resource_inputs",
+      "url": "https://github.com/tensorflow/tensorflow/pull/110665",
+      "mergedAt": "2026-06-29T11:57:05Z"
+    },
+    {
+      "repo": "The-PR-Agent/pr-agent",
+      "number": 2895,
+      "title": "fix: share language matcher with plain diff provider",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/2895",
+      "mergedAt": "2026-08-31T06:41:33Z"
+    },
+    {
+      "repo": "tomasz-buczek/awesome-ai-companions",
+      "number": 18,
+      "title": "Add Scowld to open-source companions",
+      "url": "https://github.com/tomasz-buczek/awesome-ai-companions/pull/18",
+      "mergedAt": "2026-09-14T10:20:58Z"
+    },
+    {
+      "repo": "tortoise/tortoise-orm",
+      "number": 2243,
+      "title": "Update the return type hint for `IntEnumField`/`CharEnumField` from `EnumType` to `tortoise.fields.Field[EnumType]` (fixes #2155)",
+      "url": "https://github.com/tortoise/tortoise-orm/pull/2243",
+      "mergedAt": "2026-09-12T10:33:59Z"
+    },
+    {
+      "repo": "tox-dev/tox",
+      "number": 3976,
+      "title": "Don't double-close the child pty fd (fixes parallel Bad file descriptor) (#3975)",
+      "url": "https://github.com/tox-dev/tox/pull/3976",
+      "mergedAt": "2026-07-08T16:56:15Z"
+    },
+    {
+      "repo": "tracel-ai/burn",
+      "number": 5536,
+      "title": "fix(store): exclude adapter-matched tensors from unused",
+      "url": "https://github.com/tracel-ai/burn/pull/5536",
+      "mergedAt": "2026-08-31T15:07:54Z"
+    },
+    {
+      "repo": "trentm/python-markdown2",
+      "number": 713,
+      "title": "Fix header-ids extra generating duplicate ids (#661)",
+      "url": "https://github.com/trentm/python-markdown2/pull/713",
+      "mergedAt": "2026-07-20T23:48:33Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5560,
+      "title": "Fix forks badge cursor to not appear clickable",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5560",
+      "mergedAt": "2026-03-16T00:05:41Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5561,
+      "title": "Add GitHub Readme Contribution Merger project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5561",
+      "mergedAt": "2026-03-16T00:06:04Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5647,
+      "title": "Add Scowld project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5647",
+      "mergedAt": "2026-03-21T14:43:42Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5648,
+      "title": "Add Billionaire Smash project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5648",
+      "mergedAt": "2026-03-21T14:43:42Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5649,
+      "title": "Add Daxerly project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5649",
+      "mergedAt": "2026-03-21T14:43:25Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5667,
+      "title": "Add Nornlore project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5667",
+      "mergedAt": "2026-03-27T13:39:08Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5695,
+      "title": "Add Fud AI project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5695",
+      "mergedAt": "2026-04-02T15:38:50Z"
+    },
+    {
+      "repo": "up-for-grabs/up-for-grabs.net",
+      "number": 5708,
+      "title": "Add Verceltics project",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pull/5708",
+      "mergedAt": "2026-04-05T18:28:14Z"
+    },
+    {
+      "repo": "yukinarit/pyserde",
+      "number": 775,
+      "title": "Fix nested generic dataclass deserialization (#464)",
+      "url": "https://github.com/yukinarit/pyserde/pull/775",
+      "mergedAt": "2026-07-29T02:52:05Z"
+    },
+    {
+      "repo": "zenml-io/zenml",
+      "number": 4496,
+      "title": "Include git submodule files in code archive",
+      "url": "https://github.com/zenml-io/zenml/pull/4496",
+      "mergedAt": "2026-03-03T12:43:29Z"
+    }
+  ],
+  "stars": {
+    "abordage/awesome-mac": 26,
+    "adbar/htmldate": 157,
+    "adobe/react-spectrum": 15933,
+    "akkadotnet/akka.net": 5088,
+    "alecthomas/voluptuous": 1852,
+    "alvinreal/awesome-opensource-ai": 4861,
+    "andialbrecht/sqlparse": 4020,
+    "ansible/ansible": 70952,
+    "apoorvdarshan/billionaire-smash": 0,
+    "apoorvdarshan/bmw": 1,
+    "apoorvdarshan/browser-cookie-bridge": 8,
+    "apoorvdarshan/claw-c": 5,
+    "apoorvdarshan/compress-image": 1,
+    "apoorvdarshan/crossposter": 38,
+    "apoorvdarshan/daxerly": 0,
+    "apoorvdarshan/desktopworm": 1,
+    "apoorvdarshan/dob-selector": 9,
+    "apoorvdarshan/doodle-beats": 1,
+    "apoorvdarshan/drawtica": 1,
+    "apoorvdarshan/dtu-clone": 2,
+    "apoorvdarshan/fud-ai": 467,
+    "apoorvdarshan/gesture-keyboard": 1,
+    "apoorvdarshan/github-readme-contribution-merger": 15,
+    "apoorvdarshan/hash-harbor": 0,
+    "apoorvdarshan/headshot-tracker": 6,
+    "apoorvdarshan/helios-01": 1,
+    "apoorvdarshan/how-rich-are-you": 0,
+    "apoorvdarshan/karasufumi": 1,
+    "apoorvdarshan/linkedin-connection-sender": 1,
+    "apoorvdarshan/lithosai-bar": 0,
+    "apoorvdarshan/macbook-24x7-agents": 0,
+    "apoorvdarshan/machina-cordis": 0,
+    "apoorvdarshan/monster-energy": 1,
+    "apoorvdarshan/multi-account-gmail-mcp": 0,
+    "apoorvdarshan/newest-youtube-search": 3,
+    "apoorvdarshan/nornlore": 0,
+    "apoorvdarshan/omi-leaderboard": 0,
+    "apoorvdarshan/opencode-gemini-imagegen-plugin": 0,
+    "apoorvdarshan/opengraph-studio": 0,
+    "apoorvdarshan/peek-a-pupil": 1,
+    "apoorvdarshan/profile": 0,
+    "apoorvdarshan/random-cat-facts": 1,
+    "apoorvdarshan/random-dog-images": 1,
+    "apoorvdarshan/redbull": 1,
+    "apoorvdarshan/rekisei": 0,
+    "apoorvdarshan/resume-codes": 0,
+    "apoorvdarshan/ringtone-cropper": 0,
+    "apoorvdarshan/scowld": 28,
+    "apoorvdarshan/simon-says": 2,
+    "apoorvdarshan/slot-machine-date-picker": 2,
+    "apoorvdarshan/spotify-clone": 3,
+    "apoorvdarshan/streaming-autopause": 0,
+    "apoorvdarshan/streaming-indian-filter": 0,
+    "apoorvdarshan/tethershot": 19,
+    "apoorvdarshan/todo-app": 1,
+    "apoorvdarshan/toggle-button": 2,
+    "apoorvdarshan/verceltics": 37,
+    "apoorvdarshan/wellfound-bot": 0,
+    "apoorvdarshan/x-country-filter": 0,
+    "apoorvdarshan/xscore": 0,
+    "apoorvdarshan/zombie-game": 3,
+    "apoorvdarshan/zyro": 1,
+    "aregtech/areg-sdk": 367,
+    "basedhardware/omi": 13683,
+    "benoitc/gunicorn": 10699,
+    "boa-dev/boa": 7596,
+    "ccextractor/ccextractor": 901,
+    "click-contrib/click-repl": 242,
+    "dasterprokio/awesome-ai-companion": 910,
+    "django-oauth/django-oauth-toolkit": 3343,
+    "djlint/djlint": 950,
+    "dkhamsing/open-source-ios-apps": 52508,
+    "dotnet/core": 22035,
+    "dotnet/docs-desktop": 237,
+    "dotnet/fsharp": 4345,
+    "dotnet/runtime": 18328,
+    "dry-python/returns": 4378,
+    "dynaconf/dynaconf": 4332,
+    "effect-ts/effect": 17207,
+    "flutter/flutter": 179527,
+    "flux159/mcp-server-kubernetes": 1597,
+    "fork-commit-merge/fork-commit-merge": 512,
+    "freecodecamp/freecodecamp": 456834,
+    "geopy/geopy": 4868,
+    "giselles-ai/giselle": 557,
+    "gitextensions/gitextensions": 8591,
+    "google/zx": 45783,
+    "gristlabs/asttokens": 196,
+    "guibranco/bancosbrasileiros": 551,
+    "hgrecco/pint": 2812,
+    "ikamensh/flynt": 732,
+    "jaywcjlove/awesome-swift-macos-apps": 1729,
+    "jd/tenacity": 8802,
+    "jquery/jquery": 59899,
+    "jsonpickle/jsonpickle": 1321,
+    "julialang/julia": 49202,
+    "jupyterlab/jupyterlab": 15353,
+    "kislyuk/argcomplete": 1584,
+    "koordinates/kart": 683,
+    "kornia/kornia": 11415,
+    "kozea/weasyprint": 9672,
+    "kubernetes/kubernetes": 128257,
+    "langgenius/dify": 158101,
+    "laravel/laravel": 85062,
+    "lark-parser/lark": 6007,
+    "lexiforest/curl_cffi": 6697,
+    "magicstack/asyncpg": 8105,
+    "micheles/decorator": 903,
+    "mjs/imapclient": 563,
+    "moinwiki/moin": 374,
+    "mpmath/mpmath": 1220,
+    "netromdk/vermin": 535,
+    "onmyway133/awesome-swiftui": 1075,
+    "opcotech/elemo": 38,
+    "openclaw/clawhub": 9500,
+    "openrouterteam/awesome-openrouter": 506,
+    "pandas-dev/pandas": 49995,
+    "payloadcms/payload": 45179,
+    "petertzy/markdown-reader": 38,
+    "prowler-cloud/prowler": 14998,
+    "pwaller/pyfiglet": 1588,
+    "py-pdf/fpdf2": 1547,
+    "pycqa/docformatter": 599,
+    "pycqa/isort": 6962,
+    "pygments/pygments": 2213,
+    "pygraphviz/pygraphviz": 848,
+    "pylons/webob": 443,
+    "python-poetry/poetry-core": 481,
+    "python-websockets/websockets": 5732,
+    "python/typeshed": 5132,
+    "radis/radis": 285,
+    "resend/resend-mcp": 576,
+    "ripmeapp/ripme": 4131,
+    "simplejson/simplejson": 1711,
+    "soxoj/maigret": 38716,
+    "spamscope/mail-parser": 457,
+    "spotify/luigi": 18783,
+    "spring-projects/spring-boot": 81584,
+    "sqlfluff/sqlfluff": 9942,
+    "steipete/codexbar": 22371,
+    "styled-components/styled-components-website": 619,
+    "sveltejs/svelte": 88415,
+    "teammates/teammates": 1857,
+    "tefra/xsdata": 452,
+    "tensorflow/tensorflow": 200729,
+    "the-pr-agent/pr-agent": 13336,
+    "tomasz-buczek/awesome-ai-companions": 52,
+    "tortoise/tortoise-orm": 5632,
+    "tox-dev/tox": 3943,
+    "tracel-ai/burn": 16094,
+    "trentm/python-markdown2": 2824,
+    "up-for-grabs/up-for-grabs.net": 6027,
+    "whynothugo/python-barcode": 658,
+    "yukinarit/pyserde": 851,
+    "zenml-io/zenml": 5611
+  }
+}
