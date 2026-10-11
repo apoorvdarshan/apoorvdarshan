@@ -31,7 +31,7 @@
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models</li>
 <li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex/MCP plugin for multi-account Gmail access</li>
 <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>
-<li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country/role at a human pace</li>
+<li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/linkedin-connection-sender&amp;v=3"> - Send LinkedIn connection requests by country/role at a human pace</li>
 <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
 <li>🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</li>
 <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/karasufumi&amp;v=3"> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
