@@ -235,6 +235,7 @@
 - **Browser** - [agent-browser](https://agent-browser.dev/) runs headless and logged out by default, and switches to my Chrome profile when a site needs my login
 - **Computer use** - [Cua Driver](https://github.com/trycua/cua) controls Mac apps directly
 - **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
+- **Marketing** - agents promote my apps on request through X, YouTube, Product Hunt, Hacker News, directories and creator outreach, with duplicate checks and promo codes for complimentary access.
 - **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
 - **Rules** - every change gets committed and pushed, and app changes get built and installed on my phones
 
