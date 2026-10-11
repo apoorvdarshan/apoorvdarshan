@@ -1,0 +1,89 @@
+name: Refresh profile and resume
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: automatic-profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      PROFILE_README_PATH: ${{ github.workspace }}/profile-readme/README.md
+      PROFILE_STARS_PATH: ${{ github.workspace }}/profile-readme/profile-automation/contributions.json
+      PROFILE_RESUME_PATH: ${{ github.workspace }}/resume-source/Apoorv_Darshan_Resume.tex
+      CLOUDFLARE_ACCOUNT_ID: 9e5adbe3da178e02dbb5b3c27ac1c761
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          repository: apoorvdarshan/profile
+          ref: main
+          ssh-key: ${{ secrets.PROFILE_SITE_DEPLOY_KEY }}
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          repository: apoorvdarshan/apoorvdarshan
+          ref: main
+          path: profile-readme
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          repository: apoorvdarshan/profile-resume-private
+          ref: main
+          path: resume-source
+          ssh-key: ${{ secrets.RESUME_SOURCE_DEPLOY_KEY }}
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install and test updater
+        run: |
+          npm ci
+          node --test scripts/automation/*.test.mjs
+          python3 -m unittest discover -s scripts/automation -p 'test_*.py'
+      - name: Read verified GitHub facts and update managed content
+        run: node scripts/automation/update-profile.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Install resume build tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils
+          bash scripts/automation/install-tectonic.sh
+      - uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: ~/.cache/Tectonic
+          key: tectonic-0.17.0-${{ runner.os }}
+      - name: Build and validate resume
+        run: python3 scripts/automation/build-resume.py
+      - name: Sync and build website from this exact README and star snapshot
+        run: npm run build
+      - name: Commit and push only managed files
+        run: |
+          set -euo pipefail
+          commit_files() {
+            local repo="$1" message="$2"
+            shift 2
+            git -C "$repo" config user.name 'github-actions[bot]'
+            git -C "$repo" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git -C "$repo" add -- "$@"
+            if ! git -C "$repo" diff --cached --quiet; then
+              git -C "$repo" commit -m "$message"
+              git -C "$repo" push origin HEAD:main
+            fi
+          }
+          commit_files profile-readme 'Refresh verified contributions and repository stars' README.md profile-automation/contributions.json
+          commit_files resume-source 'Refresh resume contributions and stars' Apoorv_Darshan_Resume.tex Apoorv_Darshan_Resume.pdf build.json
+          commit_files . 'Sync automatic profile and resume refresh' src/profileData.generated.json public/Apoorv_Darshan_Resume.pdf
+      - name: Publish verified build to Cloudflare
+        # Always deploy a valid build, including a retry after a previous deployment failure.
+        run: npx --no-install wrangler deploy
+        env:
+          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
+          CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}

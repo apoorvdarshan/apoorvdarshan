@@ -27,7 +27,7 @@ The README has these sections in order:
 9. **Experiments & Fun** — toy UIs, clones, landing pages, games-lite (HTML `<ul>` of `<li>`)
 10. **Open Source Contributions** — merged PRs to other repos (HTML format with star badges)
 11. **GitHub Activity** — contribution graph
-12. **What I'm Doing** — current focus areas
+12. **My Agent Setup** — harnesses, workspace, tools, and rules
 13. **What I Use** — Hardware + Software shields.io logo tiles (Connect-style); syncs to site `uses` (GitHub + site only — **not** the resume)
 
 14. **Resume** — shields.io View/Download badges + Connect Resume badge → https://apoorvdarshan.com/resume
@@ -112,3 +112,6 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 ## Merge checks and automation
 
 - Check merged PRs only for `apoorvdarshan`. Use only this account for contribution discovery and future merge-check automation.
+- `.github/workflows/refresh-profile.yml` runs every six hours or manually, commits directly without review PRs, and deploys the website after validation. Implementation lives in `apoorvdarshan/profile/scripts/automation/`; verified public data lives in `profile-automation/contributions.json` here.
+- Preserve custom prose and authored-commit credits. New merged contribution repositories get shortened PR titles, counts are grouped by repository, and OSS sorts by current stars. Personal project order and download counts remain editorial.
+- The same run updates/reorders resume OSS, rebuilds and validates its PDF, and publishes both existing resume URLs. Personal source/PDF/build manifest live in private `apoorvdarshan/profile-resume-private`; keep manual edits synchronized there so the next cloud run preserves them. The Mac sync keeps dated backups and refuses to overwrite local edits.
