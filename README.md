@@ -292,6 +292,7 @@ PDF resume — view or download.
 [![Schedule a Meeting](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)](https://cal.com/apoorvdarshan)
 [![Hacker News](https://img.shields.io/badge/-Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=apoorvdarshan)
 [![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://apoorvdarshan.medium.com)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/apoorvdarshan)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lawlmexv2yrccl6xbhxggb6bza)
 
