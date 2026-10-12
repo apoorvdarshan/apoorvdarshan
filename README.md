@@ -29,7 +29,7 @@
 ## AI & Agents
 <ul>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models</li>
-<li>📬 <strong><a href="https://github.com/apoorvdarshan/multi-account-gmail-mcp">multi-account-gmail-mcp</a></strong> - Local Codex/MCP plugin for multi-account Gmail access</li>
+<li>📬 <strong><a href="https://github.com/apoorvdarshan/fud-mail">fud-mail</a></strong> - Multi-account Gmail MCP for Codex, Claude Code, and OpenCode</li>
 <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>
 <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country/role at a human pace</li>
 <li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
@@ -232,7 +232,7 @@
 
 - **Harnesses** - Separate TUIs: [Claude Code](https://claude.com/product/claude-code) for Claude, [Codex](https://openai.com/codex/) for GPT, and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI ([DeepSeek](https://www.deepseek.com/))
 - **Workspace** - [cmux](https://cmux.com/)
-- **Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/multi-account-gmail-mcp) handles all three inboxes
+- **Fud Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/fud-mail) handles all three inboxes
 - **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
 - **Instructions** - [My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for five agents, covering development, marketing, security, and releases.
 
