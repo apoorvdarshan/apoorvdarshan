@@ -232,7 +232,7 @@
 
 - **Harnesses** - Separate TUIs: [Claude Code](https://claude.com/product/claude-code) for Claude, [Codex](https://openai.com/codex/) for GPT, and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI ([DeepSeek](https://www.deepseek.com/))
 - **Workspace** - [cmux](https://cmux.com/)
-- **Fud Mail** - my own [multi-account Gmail MCP](https://github.com/apoorvdarshan/fud-mail) handles all three inboxes
+- **Gmail MCP** - my own [Fud Mail](https://github.com/apoorvdarshan/fud-mail) handles all three inboxes
 - **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
 - **Instructions** - [My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for five agents, covering development, marketing, security, and releases.
 
