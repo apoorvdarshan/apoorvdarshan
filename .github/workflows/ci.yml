@@ -20,5 +20,5 @@ jobs:
           node-version: 24
       - run: npm ci --ignore-scripts
       - run: node --check star-badge-worker/src/index.js
-      - run: node --test star-badge-worker/test/*.test.mjs
+      - run: node --test star-badge-worker/test/*.test.*js
       - run: python3 scripts/validate-profile.py
