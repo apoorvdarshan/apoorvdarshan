@@ -2,13 +2,13 @@
   "version": 1,
   "sources": {
     "releases:apoorvdarshan/fud-ai": {
-      "count": 1050,
+      "count": 1051,
       "assets": [
         {
           "id": 623024405,
           "name": "fudai-v7.2.apk",
           "tag": "android-v7.2",
-          "downloads": 69,
+          "downloads": 70,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.2/fudai-v7.2.apk"
         },
         {
@@ -203,12 +203,12 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/fud-ai/releases",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
-      "display_total": 10829,
+      "display_total": 10830,
       "badge": "10K+",
       "breakdown": {
-        "github_release_downloads": 1050,
+        "github_release_downloads": 1051,
         "store_first_time_downloads": 9779
       }
     },
@@ -225,7 +225,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/lithosai-bar/releases",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "cee05da977f2d8a121aba20364494bef10299302aaf794aca3d65d7dd1a99893",
       "display_total": 1,
       "badge": "1",
@@ -246,7 +246,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/DesktopWorm/releases",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "3bd2b395ca5401ae3cfa9b497e267d8fbfc0d0a1f2584b09cb27db00b459fd2b",
       "display_total": 3,
       "badge": "3",
@@ -659,7 +659,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
       "npm_as_of": "2026-10-10",
       "homebrew": {
@@ -890,7 +890,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
       "npm_as_of": "2026-10-10",
       "display_total": 850,
@@ -1018,7 +1018,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
       "npm_as_of": "2026-10-10",
       "homebrew": {
@@ -1038,7 +1038,7 @@
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/country-filter-for-x-twit/cocohplmilpblbkoikolbhakjipccioa?hl=en",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "cc0dfed07c7cae93a165c9eba947046e309e7277bf2f4d0b5800bb63c3acc790",
       "display_total": 48,
       "badge": "40+",
@@ -1051,7 +1051,7 @@
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/streaming-auto-pauseresum/nafnjeielmlkeinkmbfppfecpfebgcbl?hl=en",
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-12",
       "config_sha256": "bd41a61372303f03bf4d6c157b53904f7cc861b27a0c095a0a28fe638d69560c",
       "display_total": 4,
       "badge": "4",
