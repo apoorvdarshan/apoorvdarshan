@@ -1,2 +1,4 @@
 .wrangler/
 star-badge-worker/.wrangler/
+
+node_modules/

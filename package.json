@@ -1,0 +1,11 @@
+{
+  "name": "apoorvdarshan-profile-checks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test star-badge-worker/test/*.test.mjs"
+  },
+  "devDependencies": {
+    "fast-check": "4.10.2"
+  }
+}

@@ -27,3 +27,11 @@ are monitored with Dependabot and CI audits where a package manifest exists.
 Solo-maintainer policy: zero required approving reviews. Do not require code-owner
 approval or last-push approval. Force pushes/deletions are blocked where the GitHub
 plan supports protections. Automated profile commits must remain possible.
+
+## Generated-input security tests
+Run `npm ci --ignore-scripts` and `npm test`. The fast-check properties exercise
+repository identifiers and reject traversal, query injection, NUL and Unicode
+suffixes before any network call. Valid generated identifiers must reach only
+the expected GitHub API URL. Failures include a seed and shrink path for replay.
+Profile refresh uses the profile site's complete Python dependency lock with
+`--require-hashes`; update that lock in `apoorvdarshan/profile`.

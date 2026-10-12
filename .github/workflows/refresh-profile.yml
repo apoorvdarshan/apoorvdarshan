@@ -65,7 +65,7 @@ jobs:
       - name: Install and test updater
         run: |
           npm ci
-          python3 -m pip install -r scripts/automation/requirements.txt
+          python3 -m pip install --require-hashes -r scripts/automation/requirements.txt
           node --test scripts/automation/*.test.mjs
           python3 -m unittest discover -s scripts/automation -p 'test_*.py'
       - name: Read verified GitHub facts and update managed content
