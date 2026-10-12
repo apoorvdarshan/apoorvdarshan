@@ -234,7 +234,7 @@
 - **Workspace** - [cmux](https://cmux.com/)
 - **Gmail MCP** - my own [Fud Mail](https://github.com/apoorvdarshan/fud-mail) handles all three inboxes
 - **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
-- **Instructions** - [My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for five agents, covering development, marketing, security, and releases.
+- **Instructions** - [My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for my agents, covering development, marketing, security, and releases.
 
 ## What I Use
 
