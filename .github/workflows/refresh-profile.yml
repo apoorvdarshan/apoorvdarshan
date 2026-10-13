@@ -36,22 +36,18 @@ jobs:
       id-token: write
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: website
     env:
-      PROFILE_README_PATH: ${{ github.workspace }}/profile-readme/README.md
-      PROFILE_STARS_PATH: ${{ github.workspace }}/profile-readme/profile-automation/contributions.json
+      PROFILE_README_PATH: ${{ github.workspace }}/README.md
+      PROFILE_STARS_PATH: ${{ github.workspace }}/profile-automation/contributions.json
       PROFILE_RESUME_PATH: ${{ github.workspace }}/resume-source/Apoorv_Darshan_Resume.tex
       CLOUDFLARE_ACCOUNT_ID: 9e5adbe3da178e02dbb5b3c27ac1c761
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          repository: apoorvdarshan/profile
           ref: main
-          ssh-key: ${{ secrets.PROFILE_SITE_DEPLOY_KEY }}
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-        with:
-          repository: apoorvdarshan/apoorvdarshan
-          ref: main
-          path: profile-readme
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           repository: apoorvdarshan/profile-resume-private
@@ -62,6 +58,7 @@ jobs:
         with:
           node-version: 24
           cache: npm
+          cache-dependency-path: website/package-lock.json
       - name: Install and test updater
         run: |
           npm ci
@@ -162,13 +159,14 @@ jobs:
             rm -f "$key" "$key.pub"
             exit 0
           fi
-          if [[ "$(awk '{print $1, $2}' "$key.pub")" != "$(awk '{print $1, $2}' profile-readme/.github/profile-signing.pub)" ]]; then
+          if [[ "$(awk '{print $1, $2}' "$key.pub")" != "$(awk '{print $1, $2}' "$GITHUB_WORKSPACE/.github/profile-signing.pub")" ]]; then
             echo '::warning::Signing key does not match the registered public key; updates will continue unsigned.'
             rm -f "$key" "$key.pub"
             exit 0
           fi
           printf 'PROFILE_SIGNING_KEY_FILE=%s\n' "$key" >> "$GITHUB_ENV"
       - name: Commit and push only managed files
+        working-directory: .
         run: |
           set -euo pipefail
           commit_files() {
@@ -198,9 +196,8 @@ jobs:
               git -C "$repo" push origin HEAD:main
             fi
           }
-          commit_files profile-readme 'Refresh verified contributions, stars and downloads' README.md profile-automation/contributions.json profile-automation/npm-downloads.json profile-automation/distribution-counts.json
           commit_files resume-source 'Refresh resume and verified download history' Apoorv_Darshan_Resume.tex Apoorv_Darshan_Resume.pdf build.json ios-download-history.json ios-downloads.json android-downloads.json
-          commit_files . 'Sync automatic profile and resume refresh' src/profileData.generated.json public/Apoorv_Darshan_Resume.pdf
+          commit_files . 'Refresh profile, website and public resume' README.md profile-automation/contributions.json profile-automation/npm-downloads.json profile-automation/distribution-counts.json website/src/profileData.generated.json website/public/Apoorv_Darshan_Resume.pdf
       - name: Publish verified build to Cloudflare
         # Always deploy a valid build, including a retry after a previous deployment failure.
         run: npx --no-install wrangler deploy

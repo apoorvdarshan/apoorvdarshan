@@ -1,0 +1,22 @@
+{
+  "name": "Apoorv Darshan",
+  "short_name": "Apoorv",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "description": "The personal website of developer and open-source builder Apoorv Darshan.",
+  "background_color": "#f0eee6",
+  "theme_color": "#1f1e1d"
+}

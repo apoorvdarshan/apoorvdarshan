@@ -1,0 +1,187 @@
+%-------------------------
+% Resume in LaTeX
+% Based off of: https://github.com/jakegut/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\usepackage{amssymb}
+\IfFileExists{fontawesome5.sty}{\usepackage{fontawesome5}}{}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generated pdf is machine readable / ATS parseable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \hspace{12pt}#2 \\
+      \textit{\small#3} & \hspace{12pt}\textit{\small #4} \\
+    \end{tabular*}\vspace{-8pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-8pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \hspace{8pt}\small#2 \\
+    \end{tabular*}\vspace{-11pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[nosep, itemsep=1pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\setlength{\parskip}{0pt}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Your Name} \\ \vspace{4pt}
+    \small
+    \fontsize{9}{11}\selectfont
+    +1~000~000~0000~$|$~%
+    \href{mailto:you@example.com}{\underline{you@example.com}}~$|$~%
+    \href{https://yourwebsite.com}{\underline{yourwebsite.com}}~$|$~%
+    \href{https://github.com/yourhandle}{\underline{GitHub}}~$|$~%
+    \href{https://linkedin.com/in/yourhandle}{\underline{LinkedIn}}~$|$~%
+    \href{https://x.com/yourhandle}{\underline{X}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Your University}{Aug 2024 -- Present}
+      {Bachelor of Science in Computer Science}{City, Country}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Software Engineering Intern}{Jun 2025 -- Aug 2025}
+      {Example Company}{City, Country (Remote)}
+      \resumeItemListStart
+        \resumeItem{Built feature X that achieved Y outcome --- describe scope, tech, and impact in one tight sentence per bullet.}
+        \resumeItem{Shipped Z by collaborating with N teammates; reduced metric M by some percent.}
+        \resumeItem{Owned an end-to-end slice of the product, including API, UI, and tests.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Research Assistant}{Jan 2025 -- May 2025}
+      {University Lab}{City, Country}
+      \resumeItemListStart
+        \resumeItem{One-line accomplishment with concrete numbers and the technology used.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading{\textbf{\href{https://github.com/yourhandle/example-app}{example-app}} $|$ {\small $\bigstar$ 1k stars} \textnormal{ -- short one-line description of what it does and why it matters}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/yourhandle/another-tool}{another-tool}} \textnormal{ -- a CLI that does X for Y}}{}
+      \resumeProjectHeading{\textbf{closed-source-thing} \textnormal{(closed source) -- internal project; describe scope, not internals}}{}
+      \resumeProjectHeading{\textbf{learning-project} \textnormal{ -- built to learn N; one-liner about result}}{}
+      \resumeProjectHeading{\textbf{landing-page-clone} \textnormal{ -- recreation of X landing page with modern stack}}{}
+      \resumeProjectHeading{\textbf{api-wrapper} \textnormal{ -- minimal SDK around the X public API}}{}
+
+    \resumeSubHeadingListEnd
+
+%-----------OPEN SOURCE-----------
+\section{Open Source Contributions}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading{\textbf{\href{https://github.com/owner/popular-repo/pull/12345}{popular-repo}} $|$ {\small $\bigstar$ 100k stars} \textnormal{ -- fix: short one-line summary of the merged PR}}{}
+      \resumeProjectHeading{\textbf{another-repo} $|$ {\small $\bigstar$ 10k stars} \textnormal{ -- feat: implement a small but useful improvement}}{}
+      \resumeProjectHeading{\textbf{small-repo} $|$ {\small $\bigstar$ 500 stars} \textnormal{ -- docs: clarify usage section}}{}
+
+    \resumeSubHeadingListEnd
+
+%-----------HONORS & AWARDS-----------
+\section{Honors \& Awards}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+       \textbf{Recent Award} -- short context (issuer, what it was for) & 2026 \\[0pt]
+       \textbf{Dean's List} -- CGPA range, university name & Feb 2026 \\[0pt]
+       \textbf{Hackathon Winner} -- event name, placement & 2025 \\[0pt]
+       \textbf{Older Honor} -- one-line context & 2024 \\
+     \end{tabular*}
+    }}
+ \end{itemize}
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: TypeScript, Python, Go, Rust, SQL} \\
+     \textbf{Frameworks \& Libraries}{: React, Next.js, Node, FastAPI, Tailwind} \\
+     \textbf{Databases \& Tools}{: Postgres, Redis, Docker, Git, AWS, Vercel} \\
+     \textbf{AI Tools}{: Claude, Claude Code, ChatGPT, Cursor} \\
+     \textbf{Platforms}{: Web, iOS, Android, CLI, Linux}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

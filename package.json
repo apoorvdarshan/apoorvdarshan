@@ -3,7 +3,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test star-badge-worker/test/*.test.*js"
+    "test": "node --test star-badge-worker/test/*.test.*js",
+    "sync-profile": "npm --prefix website run sync-profile",
+    "build": "npm --prefix website run build",
+    "deploy": "npm --prefix website run deploy",
+    "lint": "npm --prefix website run lint"
   },
   "devDependencies": {
     "fast-check": "4.10.2"

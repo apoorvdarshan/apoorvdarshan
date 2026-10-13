@@ -1,0 +1,36 @@
+{
+  "metric": "first-time App Store downloads",
+  "apps": [
+    {
+      "id": "6758935726",
+      "name": "fud-ai",
+      "link": "https://github.com/apoorvdarshan/fud-ai",
+      "android_package": "com.apoorvdarshan.calorietracker"
+    },
+    {
+      "id": "6761645656",
+      "name": "verceltics",
+      "link": "https://github.com/apoorvdarshan/verceltics"
+    },
+    {
+      "id": "6760672848",
+      "name": "scowld",
+      "link": "https://github.com/apoorvdarshan/scowld"
+    },
+    {
+      "id": "6760978934",
+      "name": "quit-all",
+      "link": "https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934"
+    },
+    {
+      "id": "6792598227",
+      "name": "iitjee",
+      "link": "https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227"
+    },
+    {
+      "id": "6783505799",
+      "name": "abysm",
+      "link": "https://apps.apple.com/us/app/abysm-dive-the-deep-sea/id6783505799"
+    }
+  ]
+}

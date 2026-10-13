@@ -1,0 +1,54 @@
+{
+  "releases": [
+    {
+      "name": "fud-ai",
+      "repo": "apoorvdarshan/fud-ai",
+      "asset_pattern": ".*\\.apk$",
+      "mobile": true
+    },
+    {
+      "name": "lithosai-bar",
+      "repo": "apoorvdarshan/lithosai-bar",
+      "asset_pattern": ".*\\.dmg$"
+    },
+    {
+      "name": "DesktopWorm",
+      "repo": "apoorvdarshan/DesktopWorm",
+      "asset_pattern": "DesktopWorm-.*\\.zip$"
+    },
+    {
+      "name": "browser-cookie-bridge",
+      "repo": "apoorvdarshan/browser-cookie-bridge",
+      "asset_pattern": ".*\\.(dmg|tgz)$",
+      "npm": "browser-cookie-bridge",
+      "homebrew": "apoorvdarshan/tap/browser-cookie-bridge"
+    },
+    {
+      "name": "hash-harbor",
+      "repo": "apoorvdarshan/hash-harbor",
+      "asset_pattern": "hash-harbor-(darwin|linux|windows)-(amd64|arm64)(\\.exe)?$",
+      "npm": "hash-harbor"
+    },
+    {
+      "name": "TetherShot",
+      "repo": "apoorvdarshan/TetherShot",
+      "asset_pattern": ".*\\.dmg$",
+      "npm": "tethershot",
+      "homebrew": "apoorvdarshan/tap/tethershot"
+    }
+  ],
+  "extensions": [
+    {
+      "name": "x-country-filter",
+      "repo": "apoorvdarshan/x-country-filter",
+      "id": "cocohplmilpblbkoikolbhakjipccioa",
+      "slug": "country-filter-for-x-twit"
+    },
+    {
+      "name": "streaming-autopause",
+      "repo": "apoorvdarshan/streaming-autopause",
+      "id": "nafnjeielmlkeinkmbfppfecpfebgcbl",
+      "slug": "streaming-auto-pauseresum"
+    }
+  ]
+}

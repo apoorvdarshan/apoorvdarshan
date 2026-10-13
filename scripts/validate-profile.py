@@ -8,5 +8,5 @@ for section in ['My Agent Setup', 'Mobile Apps', 'Open Source Contributions']:
 for p in Path('profile-automation').glob('*.json'):
     json.loads(p.read_text())
 tracked=subprocess.check_output(['git','ls-files'],text=True).splitlines()
-assert not any(p.endswith('.tex') or 'private_key' in p.lower() for p in tracked)
+assert not any((p.endswith('.tex') and p != 'resume/template/resume.tex') or 'private_key' in p.lower() for p in tracked)
 print('Public profile structure and snapshots validated.')

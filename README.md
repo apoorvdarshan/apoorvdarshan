@@ -32,7 +32,6 @@
 <li>📬 <strong><a href="https://github.com/apoorvdarshan/fud-mail">fud-mail</a></strong> - Multi-account Gmail MCP for Codex, Claude Code, and OpenCode</li>
 <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>
 <li>🤝 <strong><a href="https://github.com/apoorvdarshan/linkedin-connection-sender">linkedin-connection-sender</a></strong> - Send LinkedIn connection requests by country/role at a human pace</li>
-<li>📝 <strong><a href="https://github.com/apoorvdarshan/rekisei">rekisei</a></strong> - Edit a clean, concise LaTeX resume by chatting with Claude or Codex</li>
 <li>🎯 <strong><a href="https://github.com/apoorvdarshan/wellfound-bot">wellfound-bot</a></strong> - Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation</li>
 <li>🐦‍⬛ <strong><a href="https://github.com/apoorvdarshan/karasufumi">karasufumi</a></strong> - Automated job hunt via Claude Code/Codex with Gmail MCP outreach</li>
 <li>🦀 <strong><a href="https://github.com/apoorvdarshan/claw-c">claw-c</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&amp;v=3"> - Claude Code reimplemented in pure C, the lowest level it's ever been done</li>
@@ -52,7 +51,7 @@
   <li>🏆 <strong><a href="https://github.com/apoorvdarshan/omi-leaderboard">omi-leaderboard</a></strong> - Omi contributor rankings, merged PRs, and shareable profiles</li>
   <li>🔔 <strong><a href="https://github.com/apoorvdarshan/ringtone-cropper">ringtone-cropper</a></strong> - Audio/YouTube to Android/iPhone ringtones</li>
   <li>📣 <strong><a href="https://github.com/apoorvdarshan/crossposter">crossposter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&amp;v=3"> <img alt="Downloads: 4K+" src="https://apoorvdarshan.com/badges/downloads/v1/4K%2B.svg"> - Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more</li>
-  <li>👤 <strong><a href="https://github.com/apoorvdarshan/profile">profile</a></strong> - My corner of the internet</li>
+  <li>👤 <strong><a href="https://github.com/apoorvdarshan/apoorvdarshan">apoorvdarshan</a></strong> - My GitHub profile, website, and résumé</li>
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Live OpenGraph metadata editor and previewer for social platforms</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Merge GitHub contribution graphs into one SVG heatmap</li>

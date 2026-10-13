@@ -1,0 +1,2090 @@
+{
+  "source": {
+    "label": "GitHub profile README",
+    "url": "https://github.com/apoorvdarshan",
+    "rawUrl": "https://raw.githubusercontent.com/apoorvdarshan/apoorvdarshan/main/README.md"
+  },
+  "intro": {
+    "title": "Hi, I'm Apoorv 👋",
+    "location": "Delhi",
+    "tagline": "📍 Delhi | 🤖 Agentic engineering | 🚀 Building web, apps, bots, APIs, and everything in between",
+    "statement": "I build things people actually use: apps, tools, and open-source fixes."
+  },
+  "technologies": [],
+  "apps": [
+    {
+      "name": "fud-ai",
+      "url": "https://github.com/apoorvdarshan/fud-ai",
+      "description": "AI-powered calorie and nutrition tracker app",
+      "status": "",
+      "marker": "🥦",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
+      "downloads": "10K+",
+      "metric": "downloads",
+      "starCount": "470"
+    },
+    {
+      "name": "verceltics",
+      "url": "https://github.com/apoorvdarshan/verceltics",
+      "description": "Open-source iOS hub for hosting, domains, analytics, and uptime",
+      "status": "",
+      "marker": "📈",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&v=3",
+      "downloads": "1K+",
+      "metric": "downloads",
+      "starCount": "38"
+    },
+    {
+      "name": "scowld",
+      "url": "https://github.com/apoorvdarshan/scowld",
+      "description": "iOS AI companion with a live VRM avatar that sees you",
+      "status": "",
+      "marker": "🤖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&v=3",
+      "downloads": "400+",
+      "metric": "downloads",
+      "starCount": "29"
+    },
+    {
+      "name": "quit-all",
+      "url": "https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934",
+      "description": "iOS app to quit smoking, alcohol, social media, and more",
+      "status": "closed source",
+      "marker": "🚫",
+      "starBadgeUrl": "",
+      "downloads": "100+",
+      "metric": "downloads"
+    },
+    {
+      "name": "iitjee",
+      "url": "https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227",
+      "description": "Offline PCM notes for JEE Main/Advanced & NEET (iPhone/iPad)",
+      "status": "closed source",
+      "marker": "📚",
+      "starBadgeUrl": "",
+      "downloads": "70+",
+      "metric": "downloads"
+    }
+  ],
+  "games": [
+    {
+      "name": "abysm",
+      "url": "https://apps.apple.com/us/app/abysm-dive-the-deep-sea/id6783505799",
+      "description": "Calm pixel-art dive past 75 real sea creatures to Challenger Deep",
+      "status": "closed source",
+      "marker": "🌊",
+      "starBadgeUrl": "",
+      "downloads": "40+",
+      "metric": "downloads"
+    }
+  ],
+  "extensions": [
+    {
+      "name": "x-country-filter",
+      "url": "https://github.com/apoorvdarshan/x-country-filter",
+      "description": "Chrome extension that hides X (Twitter) posts from countries you pick",
+      "status": "",
+      "marker": "🗺️",
+      "starBadgeUrl": "",
+      "downloads": "50+",
+      "metric": "users"
+    },
+    {
+      "name": "newest-youtube-search",
+      "url": "https://github.com/apoorvdarshan/newest-youtube-search",
+      "description": "Chrome extension for true newest-first YouTube search",
+      "status": "",
+      "marker": "🆕",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "streaming-autopause",
+      "url": "https://github.com/apoorvdarshan/streaming-autopause",
+      "description": "Auto-pauses Netflix & Prime Video when you switch away",
+      "status": "",
+      "marker": "⏸️",
+      "starBadgeUrl": "",
+      "downloads": "4",
+      "metric": "users"
+    },
+    {
+      "name": "streaming-indian-filter",
+      "url": "https://github.com/apoorvdarshan/streaming-indian-filter",
+      "description": "Hides Indian Netflix & Prime Video titles (personal preference)",
+      "status": "",
+      "marker": "🎬",
+      "starBadgeUrl": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "opencode-gemini-imagegen-plugin",
+      "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
+      "description": "OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models",
+      "status": "",
+      "marker": "🖼️",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "fud-mail",
+      "url": "https://github.com/apoorvdarshan/fud-mail",
+      "description": "Multi-account Gmail MCP for Codex, Claude Code, and OpenCode",
+      "status": "",
+      "marker": "📬",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "macbook-24x7-agents",
+      "url": "https://github.com/apoorvdarshan/macbook-24x7-agents",
+      "description": "Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)",
+      "status": "",
+      "marker": "🌙",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "linkedin-connection-sender",
+      "url": "https://github.com/apoorvdarshan/linkedin-connection-sender",
+      "description": "Send LinkedIn connection requests by country/role at a human pace",
+      "status": "",
+      "marker": "🤝",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "wellfound-bot",
+      "url": "https://github.com/apoorvdarshan/wellfound-bot",
+      "description": "Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation",
+      "status": "",
+      "marker": "🎯",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "karasufumi",
+      "url": "https://github.com/apoorvdarshan/karasufumi",
+      "description": "Automated job hunt via Claude Code/Codex with Gmail MCP outreach",
+      "status": "",
+      "marker": "🐦‍⬛",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "claw-c",
+      "url": "https://github.com/apoorvdarshan/claw-c",
+      "description": "Claude Code reimplemented in pure C, the lowest level it's ever been done",
+      "status": "",
+      "marker": "🦀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&v=3",
+      "starCount": "5"
+    },
+    {
+      "name": "lithosai-bar",
+      "url": "https://github.com/apoorvdarshan/lithosai-bar",
+      "description": "macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown",
+      "status": "",
+      "marker": "📊",
+      "starBadgeUrl": "",
+      "downloads": "1",
+      "metric": "downloads"
+    },
+    {
+      "name": "DesktopWorm",
+      "url": "https://github.com/apoorvdarshan/DesktopWorm",
+      "description": "Native macOS desktop C. elegans driven by the OpenWorm c302 connectome",
+      "status": "",
+      "marker": "🪱",
+      "starBadgeUrl": "",
+      "downloads": "3",
+      "metric": "downloads"
+    },
+    {
+      "name": "browser-cookie-bridge",
+      "url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
+      "description": "Local Chromium cookie/session transfer to Codex on macOS",
+      "status": "",
+      "marker": "🍪",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&v=3",
+      "downloads": "3K+",
+      "metric": "downloads",
+      "starCount": "9"
+    },
+    {
+      "name": "hash-harbor",
+      "url": "https://github.com/apoorvdarshan/hash-harbor",
+      "description": "Local torrent streamer/downloader with a browser UI",
+      "status": "",
+      "marker": "⚓",
+      "starBadgeUrl": "",
+      "downloads": "800+",
+      "metric": "downloads"
+    },
+    {
+      "name": "TetherShot",
+      "url": "https://github.com/apoorvdarshan/TetherShot",
+      "description": "macOS menu-bar iPhone screenshots to a folder you choose",
+      "status": "",
+      "marker": "📸",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
+      "downloads": "3K+",
+      "metric": "downloads",
+      "starCount": "19"
+    },
+    {
+      "name": "omi-leaderboard",
+      "url": "https://github.com/apoorvdarshan/omi-leaderboard",
+      "description": "Omi contributor rankings, merged PRs, and shareable profiles",
+      "status": "",
+      "marker": "🏆",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "ringtone-cropper",
+      "url": "https://github.com/apoorvdarshan/ringtone-cropper",
+      "description": "Audio/YouTube to Android/iPhone ringtones",
+      "status": "",
+      "marker": "🔔",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "crossposter",
+      "url": "https://github.com/apoorvdarshan/crossposter",
+      "description": "Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more",
+      "status": "",
+      "marker": "📣",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&v=3",
+      "downloads": "4K+",
+      "metric": "downloads",
+      "starCount": "38"
+    },
+    {
+      "name": "apoorvdarshan",
+      "url": "https://github.com/apoorvdarshan/apoorvdarshan",
+      "description": "My GitHub profile, website, and résumé",
+      "status": "",
+      "marker": "👤",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "opengraph-studio",
+      "url": "https://github.com/apoorvdarshan/opengraph-studio",
+      "description": "Live OpenGraph metadata editor and previewer for social platforms",
+      "status": "",
+      "marker": "🌐",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "nornlore",
+      "url": "https://github.com/apoorvdarshan/nornlore",
+      "description": "Discover what the universe was doing the day you were born",
+      "status": "",
+      "marker": "🌌",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "github-readme-contribution-merger",
+      "url": "https://github.com/apoorvdarshan/github-readme-contribution-merger",
+      "description": "Merge GitHub contribution graphs into one SVG heatmap",
+      "status": "",
+      "marker": "📊",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&v=3",
+      "starCount": "15"
+    },
+    {
+      "name": "Xscore",
+      "url": "https://github.com/apoorvdarshan/Xscore",
+      "description": "X engagement scorer using the open-source algorithm",
+      "status": "",
+      "marker": "📊",
+      "starBadgeUrl": "",
+      "downloads": "300+",
+      "metric": "downloads"
+    },
+    {
+      "name": "zyro",
+      "url": "https://github.com/apoorvdarshan/zyro",
+      "description": "AI news website (GNews.io API, 100 req/day limit)",
+      "status": "",
+      "marker": "📰",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "axentra-os-affiliate",
+      "url": "https://affiliate.axentraos.com/",
+      "description": "CRM platform built during internship at XIRCLS",
+      "status": "closed source",
+      "marker": "💼",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "resume-codes",
+      "url": "https://github.com/apoorvdarshan/resume-codes",
+      "description": "Resume builder with live preview",
+      "status": "",
+      "marker": "📄",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "compress-image",
+      "url": "https://github.com/apoorvdarshan/compress-image",
+      "description": "Client-side image compression (browser-only, nothing uploaded)",
+      "status": "",
+      "marker": "🖼️",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "todo-app",
+      "url": "https://github.com/apoorvdarshan/todo-app",
+      "description": "Harry Potter-themed To-Do app",
+      "status": "",
+      "marker": "🧙",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "machina-cordis",
+      "url": "https://github.com/apoorvdarshan/machina-cordis",
+      "description": "Editable animated mechanical heart reactor in Blender",
+      "status": "",
+      "marker": "🫀",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "helios-01",
+      "url": "https://github.com/apoorvdarshan/helios-01",
+      "description": "Editable Blender pocket orrery with an animated mechanical solar system",
+      "status": "",
+      "marker": "🪐",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "doodle-beats",
+      "url": "https://github.com/apoorvdarshan/doodle-beats",
+      "description": "Doodle-style web music player",
+      "status": "",
+      "marker": "🎵",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "gesture-keyboard",
+      "url": "https://github.com/apoorvdarshan/gesture-keyboard",
+      "description": "MediaPipe-powered hands-free virtual keyboard",
+      "status": "",
+      "marker": "🖐️",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "drawtica",
+      "url": "https://github.com/apoorvdarshan/drawtica",
+      "description": "Hand-gesture drawing app",
+      "status": "",
+      "marker": "🎨",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "peek-a-pupil",
+      "url": "https://github.com/apoorvdarshan/peek-a-pupil",
+      "description": "Horror-themed interactive eye with gesture control",
+      "status": "",
+      "marker": "👁️",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "headshot-tracker",
+      "url": "https://github.com/apoorvdarshan/headshot-tracker",
+      "description": "Real-time face tracking with sci-fi HUD",
+      "status": "",
+      "marker": "🎯",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/headshot-tracker&v=3",
+      "starCount": "6"
+    },
+    {
+      "name": "how-rich-are-you",
+      "url": "https://github.com/apoorvdarshan/how-rich-are-you",
+      "description": "90s-style income rank calculator with broke/rich meme GIF reactions",
+      "status": "",
+      "marker": "💸",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "billionaire-smash",
+      "url": "https://github.com/apoorvdarshan/billionaire-smash",
+      "description": "Facemash for Forbes billionaires, vote on who wins head-to-head",
+      "status": "",
+      "marker": "💰",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "daxerly",
+      "url": "https://github.com/apoorvdarshan/daxerly",
+      "description": "Proof of work, formatted as a receipt with a price tag on it",
+      "status": "",
+      "marker": "🧾",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "dob-selector",
+      "url": "https://github.com/apoorvdarshan/dob-selector",
+      "description": "Intentionally bad UI date picker; viral on Reddit (130K+ views)",
+      "status": "",
+      "marker": "🌍",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/dob-selector&v=3",
+      "starCount": "9"
+    },
+    {
+      "name": "slot-machine-date-picker",
+      "url": "https://github.com/apoorvdarshan/slot-machine-date-picker",
+      "description": "Slot machine date picker; intentionally bad UI",
+      "status": "",
+      "marker": "🎰",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "zombie-game",
+      "url": "https://github.com/apoorvdarshan/zombie-game",
+      "description": "3D zombie survival FPS with Three.js",
+      "status": "",
+      "marker": "🎮",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "dtu-clone",
+      "url": "https://github.com/apoorvdarshan/dtu-clone",
+      "description": "DTU website with cyberpunk UI",
+      "status": "",
+      "marker": "🏫",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "redbull",
+      "url": "https://github.com/apoorvdarshan/redbull",
+      "description": "Red Bull landing page reimagined",
+      "status": "",
+      "marker": "🐂",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "simon-says",
+      "url": "https://github.com/apoorvdarshan/simon-says",
+      "description": "Fantasy-themed Simon Says memory game",
+      "status": "",
+      "marker": "🐉",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "toggle-button",
+      "url": "https://github.com/apoorvdarshan/toggle-button",
+      "description": "Star Wars themed dark/light mode toggle",
+      "status": "",
+      "marker": "🌓",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "bmw",
+      "url": "https://github.com/apoorvdarshan/bmw",
+      "description": "BMW landing page clone",
+      "status": "",
+      "marker": "🚗",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "monster-energy",
+      "url": "https://github.com/apoorvdarshan/monster-energy",
+      "description": "Monster Energy landing page",
+      "status": "",
+      "marker": "🐉",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "random-dog-images",
+      "url": "https://github.com/apoorvdarshan/random-dog-images",
+      "description": "Random dog images powered by Dog CEO API",
+      "status": "",
+      "marker": "🐕",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "random-cat-facts",
+      "url": "https://github.com/apoorvdarshan/random-cat-facts",
+      "description": "Cat facts powered by catfact.ninja API",
+      "status": "",
+      "marker": "🐱",
+      "starBadgeUrl": ""
+    },
+    {
+      "name": "spotify-clone",
+      "url": "https://github.com/apoorvdarshan/spotify-clone",
+      "description": "Spotify UI clone",
+      "status": "",
+      "marker": "🎧",
+      "starBadgeUrl": ""
+    }
+  ],
+  "projectSections": [
+    {
+      "name": "AI & Agents",
+      "items": [
+        {
+          "name": "opencode-gemini-imagegen-plugin",
+          "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
+          "description": "OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models",
+          "status": "",
+          "marker": "🖼️",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "fud-mail",
+          "url": "https://github.com/apoorvdarshan/fud-mail",
+          "description": "Multi-account Gmail MCP for Codex, Claude Code, and OpenCode",
+          "status": "",
+          "marker": "📬",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "macbook-24x7-agents",
+          "url": "https://github.com/apoorvdarshan/macbook-24x7-agents",
+          "description": "Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)",
+          "status": "",
+          "marker": "🌙",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "linkedin-connection-sender",
+          "url": "https://github.com/apoorvdarshan/linkedin-connection-sender",
+          "description": "Send LinkedIn connection requests by country/role at a human pace",
+          "status": "",
+          "marker": "🤝",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "wellfound-bot",
+          "url": "https://github.com/apoorvdarshan/wellfound-bot",
+          "description": "Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation",
+          "status": "",
+          "marker": "🎯",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "karasufumi",
+          "url": "https://github.com/apoorvdarshan/karasufumi",
+          "description": "Automated job hunt via Claude Code/Codex with Gmail MCP outreach",
+          "status": "",
+          "marker": "🐦‍⬛",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "claw-c",
+          "url": "https://github.com/apoorvdarshan/claw-c",
+          "description": "Claude Code reimplemented in pure C, the lowest level it's ever been done",
+          "status": "",
+          "marker": "🦀",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&v=3"
+        }
+      ]
+    },
+    {
+      "name": "Apps & Utilities",
+      "items": [
+        {
+          "name": "lithosai-bar",
+          "url": "https://github.com/apoorvdarshan/lithosai-bar",
+          "description": "macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown",
+          "status": "",
+          "marker": "📊",
+          "starBadgeUrl": "",
+          "downloads": "1",
+          "metric": "downloads"
+        },
+        {
+          "name": "DesktopWorm",
+          "url": "https://github.com/apoorvdarshan/DesktopWorm",
+          "description": "Native macOS desktop C. elegans driven by the OpenWorm c302 connectome",
+          "status": "",
+          "marker": "🪱",
+          "starBadgeUrl": "",
+          "downloads": "3",
+          "metric": "downloads"
+        },
+        {
+          "name": "browser-cookie-bridge",
+          "url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
+          "description": "Local Chromium cookie/session transfer to Codex on macOS",
+          "status": "",
+          "marker": "🍪",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&v=3",
+          "downloads": "3K+",
+          "metric": "downloads"
+        },
+        {
+          "name": "hash-harbor",
+          "url": "https://github.com/apoorvdarshan/hash-harbor",
+          "description": "Local torrent streamer/downloader with a browser UI",
+          "status": "",
+          "marker": "⚓",
+          "starBadgeUrl": "",
+          "downloads": "800+",
+          "metric": "downloads"
+        },
+        {
+          "name": "TetherShot",
+          "url": "https://github.com/apoorvdarshan/TetherShot",
+          "description": "macOS menu-bar iPhone screenshots to a folder you choose",
+          "status": "",
+          "marker": "📸",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
+          "downloads": "3K+",
+          "metric": "downloads"
+        }
+      ]
+    },
+    {
+      "name": "Web Apps & Tools",
+      "items": [
+        {
+          "name": "omi-leaderboard",
+          "url": "https://github.com/apoorvdarshan/omi-leaderboard",
+          "description": "Omi contributor rankings, merged PRs, and shareable profiles",
+          "status": "",
+          "marker": "🏆",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "ringtone-cropper",
+          "url": "https://github.com/apoorvdarshan/ringtone-cropper",
+          "description": "Audio/YouTube to Android/iPhone ringtones",
+          "status": "",
+          "marker": "🔔",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "crossposter",
+          "url": "https://github.com/apoorvdarshan/crossposter",
+          "description": "Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more",
+          "status": "",
+          "marker": "📣",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&v=3",
+          "downloads": "4K+",
+          "metric": "downloads"
+        },
+        {
+          "name": "apoorvdarshan",
+          "url": "https://github.com/apoorvdarshan/apoorvdarshan",
+          "description": "My GitHub profile, website, and résumé",
+          "status": "",
+          "marker": "👤",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "opengraph-studio",
+          "url": "https://github.com/apoorvdarshan/opengraph-studio",
+          "description": "Live OpenGraph metadata editor and previewer for social platforms",
+          "status": "",
+          "marker": "🌐",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "nornlore",
+          "url": "https://github.com/apoorvdarshan/nornlore",
+          "description": "Discover what the universe was doing the day you were born",
+          "status": "",
+          "marker": "🌌",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "github-readme-contribution-merger",
+          "url": "https://github.com/apoorvdarshan/github-readme-contribution-merger",
+          "description": "Merge GitHub contribution graphs into one SVG heatmap",
+          "status": "",
+          "marker": "📊",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&v=3"
+        },
+        {
+          "name": "Xscore",
+          "url": "https://github.com/apoorvdarshan/Xscore",
+          "description": "X engagement scorer using the open-source algorithm",
+          "status": "",
+          "marker": "📊",
+          "starBadgeUrl": "",
+          "downloads": "300+",
+          "metric": "downloads"
+        },
+        {
+          "name": "zyro",
+          "url": "https://github.com/apoorvdarshan/zyro",
+          "description": "AI news website (GNews.io API, 100 req/day limit)",
+          "status": "",
+          "marker": "📰",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "axentra-os-affiliate",
+          "url": "https://affiliate.axentraos.com/",
+          "description": "CRM platform built during internship at XIRCLS",
+          "status": "closed source",
+          "marker": "💼",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "resume-codes",
+          "url": "https://github.com/apoorvdarshan/resume-codes",
+          "description": "Resume builder with live preview",
+          "status": "",
+          "marker": "📄",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "compress-image",
+          "url": "https://github.com/apoorvdarshan/compress-image",
+          "description": "Client-side image compression (browser-only, nothing uploaded)",
+          "status": "",
+          "marker": "🖼️",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "todo-app",
+          "url": "https://github.com/apoorvdarshan/todo-app",
+          "description": "Harry Potter-themed To-Do app",
+          "status": "",
+          "marker": "🧙",
+          "starBadgeUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Creative, 3D & Vision",
+      "items": [
+        {
+          "name": "machina-cordis",
+          "url": "https://github.com/apoorvdarshan/machina-cordis",
+          "description": "Editable animated mechanical heart reactor in Blender",
+          "status": "",
+          "marker": "🫀",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "helios-01",
+          "url": "https://github.com/apoorvdarshan/helios-01",
+          "description": "Editable Blender pocket orrery with an animated mechanical solar system",
+          "status": "",
+          "marker": "🪐",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "doodle-beats",
+          "url": "https://github.com/apoorvdarshan/doodle-beats",
+          "description": "Doodle-style web music player",
+          "status": "",
+          "marker": "🎵",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "gesture-keyboard",
+          "url": "https://github.com/apoorvdarshan/gesture-keyboard",
+          "description": "MediaPipe-powered hands-free virtual keyboard",
+          "status": "",
+          "marker": "🖐️",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "drawtica",
+          "url": "https://github.com/apoorvdarshan/drawtica",
+          "description": "Hand-gesture drawing app",
+          "status": "",
+          "marker": "🎨",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "peek-a-pupil",
+          "url": "https://github.com/apoorvdarshan/peek-a-pupil",
+          "description": "Horror-themed interactive eye with gesture control",
+          "status": "",
+          "marker": "👁️",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "headshot-tracker",
+          "url": "https://github.com/apoorvdarshan/headshot-tracker",
+          "description": "Real-time face tracking with sci-fi HUD",
+          "status": "",
+          "marker": "🎯",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/headshot-tracker&v=3"
+        }
+      ]
+    },
+    {
+      "name": "Experiments & Fun",
+      "items": [
+        {
+          "name": "how-rich-are-you",
+          "url": "https://github.com/apoorvdarshan/how-rich-are-you",
+          "description": "90s-style income rank calculator with broke/rich meme GIF reactions",
+          "status": "",
+          "marker": "💸",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "billionaire-smash",
+          "url": "https://github.com/apoorvdarshan/billionaire-smash",
+          "description": "Facemash for Forbes billionaires, vote on who wins head-to-head",
+          "status": "",
+          "marker": "💰",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "daxerly",
+          "url": "https://github.com/apoorvdarshan/daxerly",
+          "description": "Proof of work, formatted as a receipt with a price tag on it",
+          "status": "",
+          "marker": "🧾",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "dob-selector",
+          "url": "https://github.com/apoorvdarshan/dob-selector",
+          "description": "Intentionally bad UI date picker; viral on Reddit (130K+ views)",
+          "status": "",
+          "marker": "🌍",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/dob-selector&v=3"
+        },
+        {
+          "name": "slot-machine-date-picker",
+          "url": "https://github.com/apoorvdarshan/slot-machine-date-picker",
+          "description": "Slot machine date picker; intentionally bad UI",
+          "status": "",
+          "marker": "🎰",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "zombie-game",
+          "url": "https://github.com/apoorvdarshan/zombie-game",
+          "description": "3D zombie survival FPS with Three.js",
+          "status": "",
+          "marker": "🎮",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "dtu-clone",
+          "url": "https://github.com/apoorvdarshan/dtu-clone",
+          "description": "DTU website with cyberpunk UI",
+          "status": "",
+          "marker": "🏫",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "redbull",
+          "url": "https://github.com/apoorvdarshan/redbull",
+          "description": "Red Bull landing page reimagined",
+          "status": "",
+          "marker": "🐂",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "simon-says",
+          "url": "https://github.com/apoorvdarshan/simon-says",
+          "description": "Fantasy-themed Simon Says memory game",
+          "status": "",
+          "marker": "🐉",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "toggle-button",
+          "url": "https://github.com/apoorvdarshan/toggle-button",
+          "description": "Star Wars themed dark/light mode toggle",
+          "status": "",
+          "marker": "🌓",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "bmw",
+          "url": "https://github.com/apoorvdarshan/bmw",
+          "description": "BMW landing page clone",
+          "status": "",
+          "marker": "🚗",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "monster-energy",
+          "url": "https://github.com/apoorvdarshan/monster-energy",
+          "description": "Monster Energy landing page",
+          "status": "",
+          "marker": "🐉",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "random-dog-images",
+          "url": "https://github.com/apoorvdarshan/random-dog-images",
+          "description": "Random dog images powered by Dog CEO API",
+          "status": "",
+          "marker": "🐕",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "random-cat-facts",
+          "url": "https://github.com/apoorvdarshan/random-cat-facts",
+          "description": "Cat facts powered by catfact.ninja API",
+          "status": "",
+          "marker": "🐱",
+          "starBadgeUrl": ""
+        },
+        {
+          "name": "spotify-clone",
+          "url": "https://github.com/apoorvdarshan/spotify-clone",
+          "description": "Spotify UI clone",
+          "status": "",
+          "marker": "🎧",
+          "starBadgeUrl": ""
+        }
+      ]
+    }
+  ],
+  "openSource": [
+    {
+      "name": "freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/66544",
+      "description": "fix(curriculum): correct example for ochenta y uno gender rule",
+      "status": "",
+      "marker": "🏕️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=freeCodeCamp/freeCodeCamp&v=3",
+      "starCount": "457k"
+    },
+    {
+      "name": "tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow/pull/110665",
+      "description": "fix: resource misclassification for unsorted read-only inputs (by TensorFlow)",
+      "status": "",
+      "marker": "🔶",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tensorflow/tensorflow&v=3",
+      "starCount": "201k"
+    },
+    {
+      "name": "flutter",
+      "url": "https://github.com/flutter/flutter/pull/182546",
+      "description": "remove material imports from navigator and overlay tests (by Flutter)",
+      "status": "",
+      "marker": "🦋",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=flutter/flutter&v=3",
+      "starCount": "180k"
+    },
+    {
+      "name": "dify",
+      "url": "https://github.com/langgenius/dify/pull/32386",
+      "description": "refactor(web): replace String.match() with RegExp.exec() for non-global regex",
+      "status": "",
+      "marker": "🧠",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=langgenius/dify&v=3",
+      "starCount": "158k"
+    },
+    {
+      "name": "kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes/pull/137095",
+      "description": "migrate SignerName to declarative validation (by Kubernetes)",
+      "status": "",
+      "marker": "☸️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kubernetes/kubernetes&v=3",
+      "starCount": "128k"
+    },
+    {
+      "name": "svelte",
+      "url": "https://github.com/sveltejs/svelte/pull/17745",
+      "description": "fix: keep select.__value current when effect is deferred (by Svelte)",
+      "status": "",
+      "marker": "🔥",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=sveltejs/svelte&v=3",
+      "starCount": "88k"
+    },
+    {
+      "name": "laravel",
+      "url": "https://github.com/laravel/laravel/pull/6755",
+      "description": "add APP_NAME fallback in mail config (merged by @taylorotwell, creator of Laravel)",
+      "status": "",
+      "marker": "🔴",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=laravel/laravel&v=3",
+      "starCount": "85k"
+    },
+    {
+      "name": "spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot/pull/49261",
+      "description": "fix: align TestRestTemplate cookie handling with RestTemplate (by Spring)",
+      "status": "",
+      "marker": "🍃",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=spring-projects/spring-boot&v=3",
+      "starCount": "82k"
+    },
+    {
+      "name": "ansible",
+      "url": "https://github.com/ansible/ansible/pull/87212",
+      "description": "ansible-config: default to checking all plugin configs",
+      "status": "",
+      "marker": "⚙️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=ansible/ansible&v=3",
+      "starCount": "71k"
+    },
+    {
+      "name": "jquery",
+      "url": "https://github.com/jquery/jquery/pull/5775",
+      "description": "fix: use createElementNS for XSLT documents (by jQuery)",
+      "status": "",
+      "marker": "💲",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jquery/jquery&v=3",
+      "starCount": "60k"
+    },
+    {
+      "name": "open-source-ios-apps",
+      "url": "https://github.com/dkhamsing/open-source-ios-apps/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Add Verceltics; Add Scowld",
+      "status": "",
+      "marker": "📱",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dkhamsing/open-source-ios-apps&v=3",
+      "starCount": "53k"
+    },
+    {
+      "name": "pandas",
+      "url": "https://github.com/pandas-dev/pandas/pull/66117",
+      "description": "fix: interpolate leaving NAs unfilled for pyarrow dtypes (by pandas)",
+      "status": "",
+      "marker": "🐼",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pandas-dev/pandas&v=3",
+      "starCount": "50k"
+    },
+    {
+      "name": "julia",
+      "url": "https://github.com/JuliaLang/julia/pull/61054",
+      "description": "fix: quote Symbol values in @test failure output (by Julia)",
+      "status": "",
+      "marker": "🟣",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=JuliaLang/julia&v=3",
+      "starCount": "49k"
+    },
+    {
+      "name": "zx",
+      "url": "https://github.com/google/zx/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: improve error handling for…; provide clear error when cwd… (by Google)",
+      "status": "",
+      "marker": "🐚",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=google/zx&v=3",
+      "starCount": "46k"
+    },
+    {
+      "name": "payload",
+      "url": "https://github.com/payloadcms/payload/pull/18057",
+      "description": "fix: return 404 for version operations when versions are disabled",
+      "status": "",
+      "marker": "🧱",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=payloadcms/payload&v=3",
+      "starCount": "45k"
+    },
+    {
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret/pull/3046",
+      "description": "fix graph reports for non-string identity values",
+      "status": "",
+      "marker": "🔍",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=soxoj/maigret&v=3",
+      "starCount": "39k"
+    },
+    {
+      "name": "CodexBar",
+      "url": "https://github.com/steipete/CodexBar/pull/344/commits",
+      "description": "fix: region-specific API endpoint for MiniMax (by @steipete, 🦞 OpenClaw)",
+      "status": "",
+      "marker": "🛠️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=steipete/CodexBar&v=3",
+      "starCount": "22k"
+    },
+    {
+      "name": "core",
+      "url": "https://github.com/dotnet/core/pull/10349",
+      "description": "add F# release notes for .NET 11 Preview 3 (by .NET)",
+      "status": "",
+      "marker": "🔷",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/core&v=3",
+      "starCount": "22k"
+    },
+    {
+      "name": "luigi",
+      "url": "https://github.com/spotify/luigi/pull/3410",
+      "description": "fix: replace deprecated datetime.utcfromtimestamp() calls (by Spotify)",
+      "status": "",
+      "marker": "🎵",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=spotify/luigi&v=3",
+      "starCount": "19k"
+    },
+    {
+      "name": "runtime",
+      "url": "https://github.com/dotnet/runtime/pull/124498",
+      "description": "fix: fractional-token AttemptAcquire(0) behavior (by .NET)",
+      "status": "",
+      "marker": "🔷",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/runtime&v=3",
+      "starCount": "18k"
+    },
+    {
+      "name": "Effect",
+      "url": "https://github.com/Effect-TS/effect/pull/7533",
+      "description": "fix(atom-solid): forward default idle TTL",
+      "status": "",
+      "marker": "⚡",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Effect-TS/effect&v=3",
+      "starCount": "17k"
+    },
+    {
+      "name": "burn",
+      "url": "https://github.com/tracel-ai/burn/pull/5536",
+      "description": "fix(store): exclude adapter-matched tensors from unused",
+      "status": "",
+      "marker": "🦀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tracel-ai/burn&v=3",
+      "starCount": "16k"
+    },
+    {
+      "name": "react-spectrum",
+      "url": "https://github.com/adobe/react-spectrum/pull/9678",
+      "description": "fix: incorrect timezone conversion when setLocalTimeZone is used (by Adobe)",
+      "status": "",
+      "marker": "🎨",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=adobe/react-spectrum&v=3",
+      "starCount": "16k"
+    },
+    {
+      "name": "jupyterlab",
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/18530",
+      "description": "fix: theme settings in non-English locales (by Jupyter)",
+      "status": "",
+      "marker": "📓",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jupyterlab/jupyterlab&v=3",
+      "starCount": "15k"
+    },
+    {
+      "name": "prowler",
+      "url": "https://github.com/prowler-cloud/prowler/pull/10102",
+      "description": "fix: remove return statements from finally blocks",
+      "status": "",
+      "marker": "🛡️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=prowler-cloud/prowler&v=3",
+      "starCount": "15k"
+    },
+    {
+      "name": "omi",
+      "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "40 merged PRs: correct Bluetooth diagnostic reason…; keep recent device diagnostics…",
+      "status": "",
+      "marker": "🎙️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
+      "starCount": "14k"
+    },
+    {
+      "name": "pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/2895",
+      "description": "fix: share language matcher with plain diff provider",
+      "status": "",
+      "marker": "🤖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&v=3",
+      "starCount": "13k"
+    },
+    {
+      "name": "kornia",
+      "url": "https://github.com/kornia/kornia/pull/4121",
+      "description": "fix(geometry): validate NMS box shape",
+      "status": "",
+      "marker": "👁️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kornia/kornia&v=3",
+      "starCount": "11k"
+    },
+    {
+      "name": "gunicorn",
+      "url": "https://github.com/benoitc/gunicorn/pull/3686",
+      "description": "fix: decrement nr_conns on server-initiated close in the ASGI worker (authored commit)",
+      "status": "",
+      "marker": "🦄",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=benoitc/gunicorn&v=3",
+      "starCount": "11k"
+    },
+    {
+      "name": "sqlfluff",
+      "url": "https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "7 merged PRs: Read Jinja macro files with the…; ClickHouse: parse GROUP BY WITH…",
+      "status": "",
+      "marker": "❄️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=sqlfluff/sqlfluff&v=3",
+      "starCount": "9.9k"
+    },
+    {
+      "name": "WeasyPrint",
+      "url": "https://github.com/Kozea/WeasyPrint/pull/2831",
+      "description": "fix: line_height() crash on calc() values",
+      "status": "",
+      "marker": "📄",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Kozea/WeasyPrint&v=3",
+      "starCount": "9.7k"
+    },
+    {
+      "name": "clawhub",
+      "url": "https://github.com/openclaw/clawhub/pull/421",
+      "description": "fix: use relative delay for Retry-After header on 429 (by @steipete, 🦞 OpenClaw)",
+      "status": "",
+      "marker": "🦞",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=openclaw/clawhub&v=3",
+      "starCount": "9.5k"
+    },
+    {
+      "name": "tenacity",
+      "url": "https://github.com/jd/tenacity/pull/653",
+      "description": "fix: keep statistics visible when @retry is further wrapped",
+      "status": "",
+      "marker": "🔁",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jd/tenacity&v=3",
+      "starCount": "8.8k"
+    },
+    {
+      "name": "gitextensions",
+      "url": "https://github.com/gitextensions/gitextensions/pull/12841",
+      "description": "fix: console launch fails when Windows username contains spaces",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=gitextensions/gitextensions&v=3",
+      "starCount": "8.6k"
+    },
+    {
+      "name": "asyncpg",
+      "url": "https://github.com/MagicStack/asyncpg/pull/1333",
+      "description": "fix: segfault in Record.get() with invalid positional argument count",
+      "status": "",
+      "marker": "🐘",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=MagicStack/asyncpg&v=3",
+      "starCount": "8.1k"
+    },
+    {
+      "name": "boa",
+      "url": "https://github.com/boa-dev/boa/pull/4631",
+      "description": "feat: implement BOM stripping and ignoreBOM option in TextDecoder",
+      "status": "",
+      "marker": "🐍",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=boa-dev/boa&v=3",
+      "starCount": "7.6k"
+    },
+    {
+      "name": "isort",
+      "url": "https://github.com/PyCQA/isort/pull/2574",
+      "description": "fix: honor # isort: skip when a __future__ import is present",
+      "status": "",
+      "marker": "🔤",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PyCQA/isort&v=3",
+      "starCount": "7k"
+    },
+    {
+      "name": "curl_cffi",
+      "url": "https://github.com/lexiforest/curl_cffi/pull/796",
+      "description": "fix: fall back to stdlib json in Response.json() when kwargs are passed",
+      "status": "",
+      "marker": "🌀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=lexiforest/curl_cffi&v=3",
+      "starCount": "6.7k"
+    },
+    {
+      "name": "up-for-grabs.net",
+      "url": "https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "8 merged PRs: Add Verceltics project; Add Fud AI project; Add Nornlore project",
+      "status": "",
+      "marker": "🆙",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=up-for-grabs/up-for-grabs.net&v=3",
+      "starCount": "6k"
+    },
+    {
+      "name": "lark",
+      "url": "https://github.com/lark-parser/lark/pull/1619",
+      "description": "fix: preserve lexer callbacks for keyword terminals",
+      "status": "",
+      "marker": "🐦",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=lark-parser/lark&v=3",
+      "starCount": "6k"
+    },
+    {
+      "name": "websockets",
+      "url": "https://github.com/python-websockets/websockets/pull/1726",
+      "description": "fix: handle rejected handshakes cleanly in the threading server",
+      "status": "",
+      "marker": "🔌",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=python-websockets/websockets&v=3",
+      "starCount": "5.7k"
+    },
+    {
+      "name": "tortoise-orm",
+      "url": "https://github.com/tortoise/tortoise-orm/pull/2243",
+      "description": "fix: IntEnumField/CharEnumField return type to Field[EnumType]",
+      "status": "",
+      "marker": "🐢",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tortoise/tortoise-orm&v=3",
+      "starCount": "5.6k"
+    },
+    {
+      "name": "zenml",
+      "url": "https://github.com/zenml-io/zenml/pull/4496",
+      "description": "fix: include git submodule files in code archive",
+      "status": "",
+      "marker": "🔮",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=zenml-io/zenml&v=3",
+      "starCount": "5.6k"
+    },
+    {
+      "name": "typeshed",
+      "url": "https://github.com/python/typeshed/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Add functools.partial.__get__ for…; Fix frozendict constructor: drop…",
+      "status": "",
+      "marker": "🏷️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=python/typeshed&v=3",
+      "starCount": "5.1k"
+    },
+    {
+      "name": "akka.net",
+      "url": "https://github.com/akkadotnet/akka.net/pull/8048",
+      "description": "fix: downgrade RemoveChild log from Warning to Debug",
+      "status": "",
+      "marker": "⚡",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=akkadotnet/akka.net&v=3",
+      "starCount": "5.1k"
+    },
+    {
+      "name": "awesome-opensource-ai",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai/pull/664",
+      "description": "docs: add Scowld mobile AI companion",
+      "status": "",
+      "marker": "🤖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=alvinreal/awesome-opensource-ai&v=3",
+      "starCount": "4.9k"
+    },
+    {
+      "name": "geopy",
+      "url": "https://github.com/geopy/geopy/pull/610",
+      "description": "fix: guard Point.from_string against ReDoS on very long inputs",
+      "status": "",
+      "marker": "📍",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=geopy/geopy&v=3",
+      "starCount": "4.9k"
+    },
+    {
+      "name": "returns",
+      "url": "https://github.com/dry-python/returns/pull/2446",
+      "description": "fix: make partial plugin positionals keyword-only after keyword binding",
+      "status": "",
+      "marker": "↩️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dry-python/returns&v=3",
+      "starCount": "4.4k"
+    },
+    {
+      "name": "fsharp",
+      "url": "https://github.com/dotnet/fsharp/pull/19317",
+      "description": "fix: Seq.empty serializer rendering (by .NET)",
+      "status": "",
+      "marker": "🔷",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/fsharp&v=3",
+      "starCount": "4.3k"
+    },
+    {
+      "name": "dynaconf",
+      "url": "https://github.com/dynaconf/dynaconf/pull/1421",
+      "description": "feat: support list values for environment configuration",
+      "status": "",
+      "marker": "🧰",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dynaconf/dynaconf&v=3",
+      "starCount": "4.3k"
+    },
+    {
+      "name": "ripme",
+      "url": "https://github.com/RipMeApp/ripme/pull/2172",
+      "description": "feat: add configurable API key support for Rule34Ripper",
+      "status": "",
+      "marker": "📥",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=RipMeApp/ripme&v=3",
+      "starCount": "4.1k"
+    },
+    {
+      "name": "sqlparse",
+      "url": "https://github.com/andialbrecht/sqlparse/pull/860",
+      "description": "fix: recognize ROW_FORMAT as a keyword",
+      "status": "",
+      "marker": "🗃️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=andialbrecht/sqlparse&v=3",
+      "starCount": "4k"
+    },
+    {
+      "name": "tox",
+      "url": "https://github.com/tox-dev/tox/pull/3976",
+      "description": "fix: don't double-close the child pty fd (parallel Bad file descriptor)",
+      "status": "",
+      "marker": "🧪",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tox-dev/tox&v=3",
+      "starCount": "3.9k"
+    },
+    {
+      "name": "django-oauth-toolkit",
+      "url": "https://github.com/django-oauth/django-oauth-toolkit/pull/1750",
+      "description": "fix: validate Netlify double-dash wildcard redirect URIs",
+      "status": "",
+      "marker": "🔐",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=django-oauth/django-oauth-toolkit&v=3",
+      "starCount": "3.3k"
+    },
+    {
+      "name": "python-markdown2",
+      "url": "https://github.com/trentm/python-markdown2/pull/713",
+      "description": "fix: prevent duplicate IDs from the header-ids extra",
+      "status": "",
+      "marker": "📝",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=trentm/python-markdown2&v=3",
+      "starCount": "2.8k"
+    },
+    {
+      "name": "Pint",
+      "url": "https://github.com/hgrecco/pint/pull/2330",
+      "description": "feat: support superscript decimal point and fraction slash in exponents",
+      "status": "",
+      "marker": "📐",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=hgrecco/pint&v=3",
+      "starCount": "2.8k"
+    },
+    {
+      "name": "pygments",
+      "url": "https://github.com/pygments/pygments/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Mathematica: recognize \\[Name]…; Add 'yml' as an alias for the YAML…",
+      "status": "",
+      "marker": "🖍️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pygments/pygments&v=3",
+      "starCount": "2.2k"
+    },
+    {
+      "name": "TEAMMATES",
+      "url": "https://github.com/TEAMMATES/teammates/pull/13553",
+      "description": "replace file-saver with native browser APIs",
+      "status": "",
+      "marker": "👥",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=TEAMMATES/teammates&v=3",
+      "starCount": "1.9k"
+    },
+    {
+      "name": "voluptuous",
+      "url": "https://github.com/alecthomas/voluptuous/pull/546",
+      "description": "add __repr__ to Invalid so it surfaces the path and error type",
+      "status": "",
+      "marker": "✅",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=alecthomas/voluptuous&v=3",
+      "starCount": "1.9k"
+    },
+    {
+      "name": "awesome-swift-macos-apps",
+      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps/pull/101",
+      "description": "add TetherShot to the curated Swift macOS apps list",
+      "status": "",
+      "marker": "🍎",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jaywcjlove/awesome-swift-macos-apps&v=3",
+      "starCount": "1.7k"
+    },
+    {
+      "name": "simplejson",
+      "url": "https://github.com/simplejson/simplejson/pull/381",
+      "description": "fix: handle non-finite Decimal values like floats in the encoder",
+      "status": "",
+      "marker": "🔢",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=simplejson/simplejson&v=3",
+      "starCount": "1.7k"
+    },
+    {
+      "name": "mcp-server-kubernetes",
+      "url": "https://github.com/Flux159/mcp-server-kubernetes/pull/320",
+      "description": "fix: sync server metadata version with published package",
+      "status": "",
+      "marker": "☸️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Flux159/mcp-server-kubernetes&v=3",
+      "starCount": "1.6k"
+    },
+    {
+      "name": "pyfiglet",
+      "url": "https://github.com/pwaller/pyfiglet/pull/161",
+      "description": "fix: return False from isValidFont for missing fonts",
+      "status": "",
+      "marker": "🔤",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pwaller/pyfiglet&v=3",
+      "starCount": "1.6k"
+    },
+    {
+      "name": "argcomplete",
+      "url": "https://github.com/kislyuk/argcomplete/pull/553",
+      "description": "fix: expand ~ in DirectoriesCompleter",
+      "status": "",
+      "marker": "⌨️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kislyuk/argcomplete&v=3",
+      "starCount": "1.6k"
+    },
+    {
+      "name": "fpdf2",
+      "url": "https://github.com/py-pdf/fpdf2/pull/1883",
+      "description": "Handle escaped markdown markers inside markdown links",
+      "status": "",
+      "marker": "📄",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=py-pdf/fpdf2&v=3",
+      "starCount": "1.5k"
+    },
+    {
+      "name": "jsonpickle",
+      "url": "https://github.com/jsonpickle/jsonpickle/pull/612",
+      "description": "fix: NumPy view py/id desync when base is shared",
+      "status": "",
+      "marker": "🥒",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jsonpickle/jsonpickle&v=3",
+      "starCount": "1.3k"
+    },
+    {
+      "name": "mpmath",
+      "url": "https://github.com/mpmath/mpmath/pull/1123",
+      "description": "fix: close leftover figure in plot/cplot/splot on error",
+      "status": "",
+      "marker": "🧮",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mpmath/mpmath&v=3",
+      "starCount": "1.2k"
+    },
+    {
+      "name": "awesome-swiftui",
+      "url": "https://github.com/onmyway133/awesome-swiftui/pull/59",
+      "description": "add Verceltics to the open-source SwiftUI apps list",
+      "status": "",
+      "marker": "🍏",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=onmyway133/awesome-swiftui&v=3",
+      "starCount": "1.1k"
+    },
+    {
+      "name": "awesome-ai-companion",
+      "url": "https://github.com/DasterProkio/awesome-ai-companion/pull/10",
+      "description": "docs: add Scowld companion client",
+      "status": "",
+      "marker": "🤖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
+      "starCount": "961"
+    },
+    {
+      "name": "djLint",
+      "url": "https://github.com/djlint/djLint/pull/2206",
+      "description": "fix: keep template variable in HTML attribute name on one line",
+      "status": "",
+      "marker": "🧹",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
+      "starCount": "951"
+    },
+    {
+      "name": "ccextractor",
+      "url": "https://github.com/CCExtractor/ccextractor/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Fix null pointer dereference in…; Fix configuration file parsing bugs…",
+      "status": "",
+      "marker": "📺",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
+      "starCount": "904"
+    },
+    {
+      "name": "decorator",
+      "url": "https://github.com/micheles/decorator/pull/186",
+      "description": "fix: FunctionMaker.create() with return type annotation",
+      "status": "",
+      "marker": "🎀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=micheles/decorator&v=3",
+      "starCount": "903"
+    },
+    {
+      "name": "pyserde",
+      "url": "https://github.com/yukinarit/pyserde/pull/775",
+      "description": "fix: nested generic dataclass deserialization",
+      "status": "",
+      "marker": "🧬",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=yukinarit/pyserde&v=3",
+      "starCount": "851"
+    },
+    {
+      "name": "pygraphviz",
+      "url": "https://github.com/pygraphviz/pygraphviz/pull/639",
+      "description": "fix: graph-level attribute masking node/edge default",
+      "status": "",
+      "marker": "🕸️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pygraphviz/pygraphviz&v=3",
+      "starCount": "848"
+    },
+    {
+      "name": "flynt",
+      "url": "https://github.com/ikamensh/flynt/pull/254",
+      "description": "fix: don't convert %c percent formatting to f-strings",
+      "status": "",
+      "marker": "🪶",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=ikamensh/flynt&v=3",
+      "starCount": "733"
+    },
+    {
+      "name": "kart",
+      "url": "https://github.com/koordinates/kart/pull/1120",
+      "description": "fix: export crash for generic GEOMETRY Z/M/ZM geometry types",
+      "status": "",
+      "marker": "🗺️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=koordinates/kart&v=3",
+      "starCount": "683"
+    },
+    {
+      "name": "python-barcode",
+      "url": "https://github.com/WhyNotHugo/python-barcode/commit/73316bf7e485b8aefcf89f3aaab8f76b8f261375",
+      "description": "fix: make Code128 build() deterministic across repeated calls",
+      "status": "",
+      "marker": "🏷️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=WhyNotHugo/python-barcode&v=3",
+      "starCount": "658"
+    },
+    {
+      "name": "styled-components-website",
+      "url": "https://github.com/styled-components/styled-components-website/pull/993",
+      "description": "fix: improve accessibility across site to meet WCAG 2.1 guidelines",
+      "status": "",
+      "marker": "💅",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=styled-components/styled-components-website&v=3",
+      "starCount": "619"
+    },
+    {
+      "name": "docformatter",
+      "url": "https://github.com/PyCQA/docformatter/pull/360",
+      "description": "fix: prevent ValueError crash on blank lines with trailing whitespace",
+      "status": "",
+      "marker": "📏",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PyCQA/docformatter&v=3",
+      "starCount": "598"
+    },
+    {
+      "name": "resend-mcp",
+      "url": "https://github.com/resend/resend-mcp/pull/166",
+      "description": "feat: better order of validation for command running",
+      "status": "",
+      "marker": "📧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
+      "starCount": "576"
+    },
+    {
+      "name": "IMAPClient",
+      "url": "https://github.com/mjs/imapclient/pull/644",
+      "description": "fix: reset IMAP state to AUTH after unselect_folder()",
+      "status": "",
+      "marker": "📬",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mjs/imapclient&v=3",
+      "starCount": "563"
+    },
+    {
+      "name": "giselle",
+      "url": "https://github.com/giselles-ai/giselle/pull/2739",
+      "description": "fix: use continue instead of return in handleEdgesChange",
+      "status": "",
+      "marker": "🤖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=giselles-ai/giselle&v=3",
+      "starCount": "557"
+    },
+    {
+      "name": "BancosBrasileiros",
+      "url": "https://github.com/guibranco/BancosBrasileiros/pull/895",
+      "description": "fix: redirected bank URLs reported by link checker",
+      "status": "",
+      "marker": "🏦",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=guibranco/BancosBrasileiros&v=3",
+      "starCount": "549"
+    },
+    {
+      "name": "vermin",
+      "url": "https://github.com/netromdk/vermin/pull/344",
+      "description": "fix: detect keyword arguments correctly for chained receivers",
+      "status": "",
+      "marker": "🐍",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
+      "starCount": "535"
+    },
+    {
+      "name": "fork-commit-merge",
+      "url": "https://github.com/fork-commit-merge/fork-commit-merge/pull/6370",
+      "description": "solve: filter even numbers from array",
+      "status": "",
+      "marker": "🍴",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
+      "starCount": "514"
+    },
+    {
+      "name": "awesome-openrouter",
+      "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
+      "description": "add Fud AI to the OpenRouter app directory",
+      "status": "",
+      "marker": "🔀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
+      "starCount": "509"
+    },
+    {
+      "name": "poetry-core",
+      "url": "https://github.com/python-poetry/poetry-core/pull/953",
+      "description": "fix: Version.difference with local variants of the same version",
+      "status": "",
+      "marker": "📝",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=python-poetry/poetry-core&v=3",
+      "starCount": "481"
+    },
+    {
+      "name": "mail-parser",
+      "url": "https://github.com/SpamScope/mail-parser/pull/161",
+      "description": "fix: address parsing on Python versions before 3.13",
+      "status": "",
+      "marker": "✉️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=SpamScope/mail-parser&v=3",
+      "starCount": "458"
+    },
+    {
+      "name": "xsdata",
+      "url": "https://github.com/tefra/xsdata/pull/1224",
+      "description": "fix: wrapper binding when collection item element name is reused",
+      "status": "",
+      "marker": "🧬",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tefra/xsdata&v=3",
+      "starCount": "452"
+    },
+    {
+      "name": "WebOb",
+      "url": "https://github.com/Pylons/webob/pull/496",
+      "description": "fix: make timedelta date headers UTC-based (authored commit)",
+      "status": "",
+      "marker": "🌐",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Pylons/webob&v=3",
+      "starCount": "443"
+    },
+    {
+      "name": "moin",
+      "url": "https://github.com/moinwiki/moin/pull/2166",
+      "description": "fix: markdown parser crash on emphasized text inside HTML tags",
+      "status": "",
+      "marker": "📝",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=moinwiki/moin&v=3",
+      "starCount": "374"
+    },
+    {
+      "name": "areg-sdk",
+      "url": "https://github.com/aregtech/areg-sdk/pull/675",
+      "description": "add comprehensive unit tests for the String class",
+      "status": "",
+      "marker": "🧪",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=aregtech/areg-sdk&v=3",
+      "starCount": "368"
+    },
+    {
+      "name": "radis",
+      "url": "https://github.com/radis/radis/pull/918",
+      "description": "fix: inconsistent spectral_points reporting",
+      "status": "",
+      "marker": "🔬",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=radis/radis&v=3",
+      "starCount": "285"
+    },
+    {
+      "name": "click-repl",
+      "url": "https://github.com/click-contrib/click-repl/pull/136",
+      "description": "fix: stop boolean flags from offering value completions",
+      "status": "",
+      "marker": "🖱️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=click-contrib/click-repl&v=3",
+      "starCount": "242"
+    },
+    {
+      "name": "docs-desktop",
+      "url": "https://github.com/dotnet/docs-desktop/pull/2197",
+      "description": "fix: MD001 heading violations in WinForms docs (by .NET)",
+      "status": "",
+      "marker": "🔷",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/docs-desktop&v=3",
+      "starCount": "237"
+    },
+    {
+      "name": "asttokens",
+      "url": "https://github.com/gristlabs/asttokens/pull/174",
+      "description": "fix: IndexError when source mixes lone CR with LF line endings",
+      "status": "",
+      "marker": "🌳",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=gristlabs/asttokens&v=3",
+      "starCount": "196"
+    },
+    {
+      "name": "htmldate",
+      "url": "https://github.com/adbar/htmldate/pull/194",
+      "description": "fix: preserve time and timezone for regex-extracted dates",
+      "status": "",
+      "marker": "🕰️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=adbar/htmldate&v=3",
+      "starCount": "158"
+    },
+    {
+      "name": "awesome-ai-companions",
+      "url": "https://github.com/tomasz-buczek/awesome-ai-companions/pull/18",
+      "description": "add Scowld to open-source companions",
+      "status": "",
+      "marker": "🤖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tomasz-buczek/awesome-ai-companions&v=3",
+      "starCount": "52"
+    },
+    {
+      "name": "elemo",
+      "url": "https://github.com/opcotech/elemo/pull/394",
+      "description": "feat: add project endpoints to the OpenAPI spec",
+      "status": "",
+      "marker": "📋",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=opcotech/elemo&v=3",
+      "starCount": "39"
+    },
+    {
+      "name": "markdown-reader",
+      "url": "https://github.com/petertzy/markdown-reader/pull/84",
+      "description": "fix: NameError in choose_bg_color when color picker is cancelled",
+      "status": "",
+      "marker": "📖",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=petertzy/markdown-reader&v=3",
+      "starCount": "39"
+    },
+    {
+      "name": "awesome-mac",
+      "url": "https://github.com/abordage/awesome-mac/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "4 merged PRs: add TetherShot to screen capture; Add MacBook 24x7 Agents",
+      "status": "",
+      "marker": "🍎",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=abordage/awesome-mac&v=3",
+      "starCount": "27"
+    }
+  ],
+  "activityImage": "https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan&mode=sum&colors=39d353%2C58a6ff&v=20260824",
+  "agentSetup": [
+    {
+      "name": "Harnesses",
+      "description": "Separate TUIs: [Claude Code](https://claude.com/product/claude-code) for Claude, [Codex](https://openai.com/codex/) for GPT, and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI ([DeepSeek](https://www.deepseek.com/))"
+    },
+    {
+      "name": "Workspace",
+      "description": "[cmux](https://cmux.com/)"
+    },
+    {
+      "name": "Gmail MCP",
+      "description": "my own [Fud Mail](https://github.com/apoorvdarshan/fud-mail) handles all three inboxes"
+    },
+    {
+      "name": "Always on",
+      "description": "agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))"
+    },
+    {
+      "name": "Instructions",
+      "description": "[My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for my agents, covering development, marketing, security, and releases."
+    }
+  ],
+  "uses": {
+    "hardware": [
+      {
+        "name": "MacBook Air M4",
+        "badgeUrl": "https://img.shields.io/badge/-MacBook_Air_M4-000000?style=flat-square&logo=apple&logoColor=white",
+        "url": "https://www.apple.com/macbook-air/"
+      },
+      {
+        "name": "ViewSonic VX2779-HD-PRO",
+        "badgeUrl": "https://img.shields.io/badge/-ViewSonic_VX2779--HD--PRO-111111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzAiIGZpbGw9IiNDQzAwMDAiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTggMThoMTBsNCAyMCA0LTIwaDEwTDM4IDQ2SDI2TDE4IDE4eiIvPjwvc3ZnPg%3D%3D",
+        "url": "https://www.viewsonic.com/"
+      },
+      {
+        "name": "iPhone 16",
+        "badgeUrl": "https://img.shields.io/badge/-iPhone_16-000000?style=flat-square&logo=apple&logoColor=white",
+        "url": "https://www.apple.com/iphone-16/"
+      }
+    ],
+    "software": [
+      {
+        "name": "Google Chrome",
+        "badgeUrl": "https://img.shields.io/badge/-Google_Chrome-FFFFFF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNDggNDgiIGhlaWdodD0iNDgiIHdpZHRoPSI0OCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iMy4yMTczIiB5MT0iMTUiIHgyPSI0NC43ODEyIiB5Mj0iMTUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNkOTMwMjUiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlYTQzMzUiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDE9IjIwLjcyMTkiIHkxPSI0Ny42NzkxIiB4Mj0iNDEuNTAzOSIgeTI9IjExLjY4MzciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmY2M5MzQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmYmJjMDQiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYyIgeDE9IjI2LjU5ODEiIHkxPSI0Ni41MDE1IiB4Mj0iNS44MTYxIiB5Mj0iMTAuNTA2IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMWU4ZTNlIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzRhODUzIi8%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPGNpcmNsZSBjeD0iMjQiIGN5PSIyMy45OTQ3IiByPSIxMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGQ9Ik0zLjIxNTQsMzZBMjQsMjQsMCwxLDAsMTIsMy4yMTU0LDI0LDI0LDAsMCwwLDMuMjE1NCwzNlpNMzQuMzkyMywxOEExMiwxMiwwLDEsMSwxOCwxMy42MDc3LDEyLDEyLDAsMCwxLDM0LjM5MjMsMThaIiBzdHlsZT0iZmlsbDpub25lIi8%2BPHBhdGggZD0iTTI0LDEySDQ0Ljc4MTJhMjMuOTkzOSwyMy45OTM5LDAsMCwwLTQxLjU2MzkuMDAyOUwxMy42MDc5LDMwbC4wMDkzLS4wMDI0QTExLjk4NTIsMTEuOTg1MiwwLDAsMSwyNCwxMloiIHN0eWxlPSJmaWxsOnVybCgjYSkiLz48Y2lyY2xlIGN4PSIyNCIgY3k9IjI0IiByPSI5LjUiIHN0eWxlPSJmaWxsOiMxYTczZTgiLz48cGF0aCBkPSJNMzQuMzkxMywzMC4wMDI5LDI0LjAwMDcsNDhBMjMuOTk0LDIzLjk5NCwwLDAsMCw0NC43OCwxMi4wMDMxSDIzLjk5ODlsLS4wMDI1LjAwOTNBMTEuOTg1LDExLjk4NSwwLDAsMSwzNC4zOTEzLDMwLjAwMjlaIiBzdHlsZT0iZmlsbDp1cmwoI2IpIi8%2BPHBhdGggZD0iTTEzLjYwODYsMzAuMDAzMSwzLjIxOCwxMi4wMDZBMjMuOTk0LDIzLjk5NCwwLDAsMCwyNC4wMDI1LDQ4TDM0LjM5MzEsMzAuMDAyOWwtLjAwNjctLjAwNjhhMTEuOTg1MiwxMS45ODUyLDAsMCwxLTIwLjc3NzguMDA3WiIgc3R5bGU9ImZpbGw6dXJsKCNjKSIvPjwvc3ZnPg%3D%3D",
+        "url": "https://www.google.com/chrome/"
+      },
+      {
+        "name": "Raycast",
+        "badgeUrl": "https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white",
+        "url": "https://www.raycast.com/"
+      },
+      {
+        "name": "Obsidian",
+        "badgeUrl": "https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white",
+        "url": "https://obsidian.md/"
+      },
+      {
+        "name": "cmux",
+        "badgeUrl": "https://img.shields.io/badge/-cmux-FFFFFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC%2BaJAAAACXBIWXMAAAAAAAAAAQCEeRdzAAAAAXNSR0IB2cksfwAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABGdBTUEAALGPC%2FxhBQAABgNJREFUeJztmXtolXUYxzcxTVdullaQTWdZWbQyIVyYFWYUmYH9E6EYRlT%2FCG0W%2BUeGKIaXblrqYKIlQ5xuWlPBTXK2C3aOjm3iRtJcXpq5ne1c3svv%2Bjy%2Ffu97djML0vc9exPO948xxtiez%2B%2B5PydD3eTKCNoAr0oDBK00QNBKAwStNEDQSgMErTRA0PIBABFBf1HOV8A%2Bef%2Bz%2F1FeAbSlEpQlkAmQUjGOQg6n%2FZ4BtLUSsMXGN3%2BnTVHGGFhcwzg%2FHB5XeALQYSMAhcCwoUa04l0ttPgiidjSZEBFnytSzeARQGkrGVcn4uq2NpXRhBkhufg0be2lFgObI5euK1QKGbyGkAYgXDXEVFarBlAjwyqzFvLrSNl5O0alwZGI1DJ4BgBFONbH1NgzKqNZjQ5jVgOOOSbHV7GiRvNcnOuUsJli4BQoXyz%2BmzwnMTiVpz6uxrY6AKPCKqsec2pkzlEx7kc%2Bt8o8csFKMNCuoLwvs32xe0Dekxg4x1BCjW5FHUKjTjoA2TXyjqPi7sNyYrl4cK%2B57qRxyWCmQJ0VOunB13DymsRSOZnaZWPRBTXSSWIcAiDuOyBzy8Sk7%2BgblYkTlyxDoCmASpDgW3XyoZHpR9WZ2mvDjk6Y1gyZ9XB7jbzTBZi0X%2BaViQdK2f0lrGC7URJOdBFhcmUzZAC%2BuMKHUUIHtmaw9esSCPXAwjNqTI3MrhoEmFbKHtnJHt1G878yl1XEmv%2B0HVdwYE6RVR494c8wp%2BNBSEXdp%2F3DwM%2FaIfcYzzmoASAJMH0nyy%2BmT262n1hvzd8c39eYiDARd4os6EIMeON11rdpFN2ZggvUdTNK4NBlmFsrJ5SLyXuuApj1JZm1ls5eZa4qj%2F7aQwztOh1O2hWuI24Aw79xOmkBKiaVzZXBVFsUCxthyl6Rt4tO38kHAGavI8%2ButuesMJdsjB05bfRKt99xJ5duoFf4vA%2BgO1fryKZCWVxdseD733D2AT61hD5WTGf2Azy3xnpxpfnCh9ary3s3VfSeTxBLKsLc8SlYgD4MJ5wUB2ULFaVY3wVLq%2BX0rWTGJmsIgPXSCnN%2BofHKu%2FGitZFfzsZsJfUIeL0IKdzIABWVKsGxm0BbHDacUgXF7Kkv7KEAC5YbC5clFi5NLH4nUnawy5I6j67vv6QUAB0A3SIodpiw8SQUbKMDAPNWmoMAb8cXvd9TeihiCk1wff8lVQDSzWZdkQwOpyLwVrV8eAudsWkwBzTAy24IzX8v9sGGnp%2FPGnEJXKjgQyhZT3Vv1rUlxuTuDiioEHklLH%2FbYBVyAD4x5y43Xvso%2BvUPsbNRqlub7SZAkEmMbtjo0chiuhtAh4lFTXoW4lN29fWBmd%2BQ%2FjJqPfNxYsnnvYdOG1eY1F2Z91kfaBl1H14XdTApHO2G52vFhH18cpkcaGQugD1rLZmz2vi0ItrSTeLOwwP30Iz9OKskxyE34vUm2W3LDR0w6RjPruQDs1B%2FJyYz1tsLvo3vbjQ6bY2qiPS6JPhzF3LDRnciaErg660wWltffc0wt5U5w9z%2BRKiTRJneDVQyZd29P1AA4TQsNBmWdsHUFplZ6%2BwDV4%2FTPG87eXqHsTVsXDSF%2Fk2d4gL82Qg87wNO8GCEQGEnjGgBZ6FpwOzj%2FQvNfsjdI3Pdhean86RXJ7fQD4%2BAPpnvy2FLcAwbOMpZKVGvlGMbcNxxxwP3HBYTy%2BVDe%2BmakNUe4zq5iXssAl83Y893IUDKVF1MZTl3of6d%2BLgcXy1yKvm8arvyHInYV53r%2FDI9Ke%2BHLWd4rkvehZJXiQa8tUZOrGKFYbutRy%2BQTsQ7F67U3IZ8uMy5dyFM3oVuCWNmHTxeR0rbSbcldUfTDw%2B%2BBfw%2FyAcPMI4n4pjlnlVGhvjiFnKqixoUdIeiqQmbofIBQFeVkIEjWvHeZrrlHLmckAnuWC%2BdWvP%2FPu4qtwfr6G62cFE7beimJpO2GzYSfT5g%2FZt8uAvpZ9azZIJJJhRzO9QwPPyAfJqFXIP1LjK8n8448ukudM03w6b0p5RBKw0QtNIAQSsNELTSAEErDRC0bnqAvwDzznPW268aKgAAAABJRU5ErkJggg%3D%3D",
+        "url": "https://cmux.com/"
+      },
+      {
+        "name": "Cua Driver",
+        "badgeUrl": "https://img.shields.io/badge/-Cua_Driver-FFFFFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAFbElEQVRYCcVXC1CUVRT%2BdtFU5CVoKg95m2OgkKYSQTg4xYyhgwiGY03ZNJbpVGZjL7MxpzLzkQZOUCqOIYoo5iOJVAhLREJRTGBMfCDIYwYE5SGP0z1X%2FnV3%2F2VZG6k78%2B%2B9%2Fz3nnvPtd865978a6LWqJhrWT4vFYioSGvhoABs98b8eEnAbhEvCwIGOLmwaaaupVYwJH%2FdadTNFWxG2CMd2ylyf9ITGTg3mD7fWpLN9CUA6B9KU9z5xbGiUOoEYBqFh2vtrBT19%2Fc8NAUCEpLG9Cz5aGfP%2F2jmDET7Zt1YMZxiDs%2FQ98%2FBB%2FJ6bY6m6Kb3IfgKJtymJJXNbkzbj0eEjEBzyjCXqah1RadoHKbUr5Zdxvuis2lD3TMGpPFRVVvYoNxawbw6Bxe1ARjoiwoKQfTRLtWb%2F3jRMnxYiZL%2BoZOYmNHXNJPYJy1pXVxcWL5iPjD27cPxkIY5lZWKIoyO8fHzx%2FLRQvLZwMVatXmeZsW6tBwLAaxhE8g%2BJmDkrBo5OTtJMZUUFso9lYe5Lr3SbtbzrEQAJYpoaG2FrZweNRkRLr3V0dKCwIB%2BXykpx9%2B5duHt4YvJTT8Pa2lpPC2htbUXF9WtwdRuFgQMHGsh0LxwC42fv4aM0wtmFPDy9afiIkRQdO5eyck9TeXUjvfv%2BcnIaOoz8xgVQbNyL9MK8lykoOJTsHYbI8eniS%2FTriQKKjJpNzi5uUsZ2UtIPqvzI8Bs7v1Z3h9w9vCjnVJFccKO%2BlZJT95Gnlw8NHmxDs2LiKK%2BoVGXsclUDffr5GgnExtaOdmX8TLV3uqRe2fU68h8fSFdqmlTrVFVQVnIRT0ychMf9x0mWBgwYAGcXV9TV1WJdfCISk1Pg4ztax6AysLO3x6K3lyIrNx8enl4oyM%2FThY5zJXDCkyi5UKyo3%2B%2BNGSi%2FeYu8vH2psqFNov27sl5SmbQ9VYXeeK3yzmvGjPWjrT%2Fu0a3hd2ZX0VF6FQOcdH7jA2SSMcw1X6xE6NRwRM2ecx91LyN7BwckbkvBx8uWoKWlRT6dnZ1gNo2bCkB7ezuKxW4nkkxmceqOZHzwyUrsTUtFwsbea%2FzbDV8jffdOjPXzxxRRGbxnDBo0SIal%2BFyRsX9AoULpq5s6ZPavj0%2Bi3fuP0NRpz0naJkyaQlZW%2FXQUcmIFh4RRaFg4cQIq61mHdfk948hxWQ3xScnkO3qMZUloZWWF9ENZWLXiQ5w%2FdxbBoWFq1GJm9aoV4iTMxm%2FZR%2FHN2tUmdSZOmoLSi39J9hKTd8LGRv2FpwoBW%2BKNRdQ6fhL7O1cAt6joOZi%2FYKEcczz3CWqVlrJ9C3iO26uvv4nomDg55s2n8kaFBOEz%2BjE5p%2FpRqDPuj%2F1RSK5u7vTl2k06ehUd3pSEIYMnMztPpVdytYbs7B2o8GK5SqbYMskAoxwXEIivNsTLhDJGbWNri%2F79H9FNi7hjsAl6d2z7HtNnRGGUu4dO13jQ41nAinwe8CkX%2FmwEliz7yGBtWWkJTuQclzpBwSEy6%2FUVjhw6gKVvvYHM7JNwcXXTFxmMzQJgzdqaGsTOjJC5sOid9zA5KBharWniGDDvgJs3rcef%2BaewI20%2F%2FMWeYq5papupqbevora2NiQmbMSW7xJw61YD%2FPzHw03Q6uQ0VDLQ0tKMq1fKceF8ERyGOCI2bp5IxkWwFaEy10QS3dbU3qEz4rQ1D1PPCp8V54rOoPpmFRrq6yWAoaJiRonKCQicAGfXe1Wjt6THoSDsLANYKQAs71GrDwUCwGf%2F%2F8WEL4p8VxN%2F1OJvw4dACrFP9i3Tme9ofFfj69JDMG7eBF9Ou%2B%2BFrGjwsad3PZ%2FBF5beqsO8p%2FtSznbx50xez%2F8BJLh0QYfyL94AAAAASUVORK5CYII%3D",
+        "url": "https://github.com/trycua/cua/tree/main/libs/cua-driver"
+      },
+      {
+        "name": "agent-browser",
+        "badgeUrl": "https://img.shields.io/badge/-agent--browser-000000?style=flat-square&logo=vercel&logoColor=white",
+        "url": "https://agent-browser.dev/"
+      },
+      {
+        "name": "Lightpanda",
+        "badgeUrl": "https://img.shields.io/badge/-Lightpanda-FFFFFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6QIUDiUZ3iImbwAAB%2FdJREFUWMPll21wVOUVx3%2FPvbt3sy8hJqx52ZAgLwlFYlEDlAQpVi0dQcNUZ%2FjgB6j6wU4Hakct02qbQW2nHTtTpDrY0giW2oE2opVBRO2I5pWU901EwQTyQkg27OZt99672ey9Tz9sElcaWp32U3tm7qdn7nN%2Bzznnf57nwP%2B7iS%2F7g6GHARQgGygAcgAnEAMGgH7ABPB4%2Ff8dAEOPABagFALfACqA5cAswDsBlACGgI%2BBRqABaAHi%2Fwrk3wJMnNgPrAceAm4G1C%2FAPQwcAGomgOzpQK4JkDq1DYhbga3Ami%2Fo%2BGoLAb8GfguMXg0xLcDEqQHuAF4AbvwinoQQKIqCEALLspBSTi4lgd3AU8CVdIh%2FAkhzfhuwCyhJX1dVdWpjRVGQUiJEahtdN%2Fiwrh7TMFmxooLrr%2FenQ0jgZeAxIDoJcS2AecAeoDJ9TUpJQ0Mzh95%2BB4CvLVuC3z%2BT3t4%2BnE4nwWArO17aia4bPPLIw%2FzquZ%2Bjqp%2FLWhL4CfAcID1eP45pnKvA9652rqoqzc0tPPTwd%2BntvYwQguXLl7Nmzd0sWlRGIBAgv6CYmf58XnttP8FgG%2FF4HJ%2FPlx4FB7AZaALqp829oYdXGno4bOhhaehhaRoRORYfkrYVk6%2Fv3yudTqfMzc2V1dXV8tKlS3I66%2BzslE8%2B%2BSN54niDjJuDcnKvtO9VQw87DT38WVUbephTp84QCBR8X1XVO1VVZXx8nIGBK7S1naWx6SinTwfp7Orh6aefZvPmzWRnZyOlJB6PI6WcCrfH4yEnZyZNTc2UlS28Og0AAaAO6HGkh7iiYlnx8PDo2uPHT3L6TJC2trN88vE5QqEBYrEYg4ODbNi4kfXr1%2BN0OpFSsm%2FfPmpqapg7dy5bt26lsLCQbdu20drayrJlSznacozbV63Esqx0AD8pWTdNAXR0XMDn85Vv%2F82Oea%2B%2Bug%2BkJCMjA03TcLvdIATDIyPcdNNNuFwuhBCcP3%2Be6upq2tvbOXLkCJWVlTz44INomkYsFqOj4wLDQ2G%2BvnLFdKq9EXClAVwkEMgvrKtrcIZCITJcLgzTxKVpOJxODF1HURQKCgqmZNfW1sbFixfJyclh48aNlJWVAfDoo4%2ByePFidu%2FejdfrYnx8HIfDcTXAV4A8B4AZizA2Poamadk%2FfOIH%2FGHPnzhzJkhfX4hoNDr1h6ZpU9oHmD17NgsXLkTXdR544AGWLFnCqVOnOHToEIlEgsLCWUhpcQ3zA%2FkOABuJy%2BVCSplZVbWW1avvoru7m8amo7QcPcbRlr%2Fz6aftJBIJLl%2B%2BPNXlysvLOXDgAOFwmKKiIpLJJAD19fVUVVWxYMEC3n%2F%2FXTRNw7btqwE0wKtMdqOJU43bto2mOSktLeHhhzawY8fzHHizlid%2FvAVN0zh27BimaZJIJACYM2cOS5cuZXh4mIMHD9LV1cX999%2FPmjVraG5upjXYysjI6FTa0syeaEyf6wGPT6NZORYfkpHIJVlVtVZmZWXJmpoaOTIyIhOJhLRte0r%2FfX198uTJk3JgYEDW1tbKskWLZF5urvzlL56Zrh90GXr4ximBPvXUlsnCWDddwtxuN6qi8Nr%2BN2hsbCIeN8nKyiIzMxNVVRFC4PV6GRsbY9euXTz77LMkk0k8bjfBYBuLb%2F4qs4uL0rtiENgp0iMALAMOATMBFJG6cEL9IV7etYe3D7%2FHR2c%2FJh6Pk0xaFBUVUVlZSWlpKQ6Hg66uLurr62lvb0dKSU5ODnm5uQwNDXHbykp%2Bv%2FNFMjIyJiF2Ms4jn9OGlLQpgkZVEVUJy6Y3miBkJNn%2F5hGe%2F91e5GCIe%2B%2B%2Bgwyng%2F7QAAhBbW0tTqcTy7KminDSRkdH8Xm9zJgxg7q6Bg4ffo%2F77luHZVlJoAknn11GHq%2Bf093dRqZLPXiiL3rvW%2B1XRGPPCANGAjOejdzwUxiJEJqVzYriHL6d62bP9m34vF4K8vOxpcQ0TUajUWKxGG63G8uyiAwOUhgIYCVt3nn3b6xbdw%2FAceDtSQFA9V8m6lKW%2BlyOLZZtV5hjyQ4QIwi8KOIGhJiPUDKRElURFHlUIg1vYZz4gCwjwnVZM3BluLFtm9FoFNu2CQTy6erqQRECl8tFXn4uf33jz8m8vNzHLMt6AcDBhu3gUMGIFwun45sej%2FvcsvmzWgqyfS6HqmLZthWOGrETHb3OnvBwmS3lXZYtyjqjtuCWb8HccgZPf4B%2BroWZ8SEyfZlcl5WFaZr09fUTCOTT03MJwzBRHSodHRcOFxWX%2FtE0Ini8fsQtrzQQieqOknz%2FPXPzsm93a84KiZwlJQ5SbwNNAEKIyxI%2BvBga7Pzwo4uBqDl2J0IsRIhUIENdiNY6fP3tzEiM4tVSdaHrOiWlJZSX30xpyfzgqlW3fedcZ8%2Bp%2B47bHsAnNjV3%2B4A7BFTK1NO6FegCdFLP7UygGFgE3CCEKAH62%2FsiZ460XciLJ8ZXI8QcJhvNSATRfZaMocu47XGs6BBeTeWJLY%2Bbg9cV7f7Z%2B5%2BcRBH%2Bif0bxKbm7vmABzgHjL1YUTxt497U3D1ZM7nA7YoQy6WUV5rO93Sf6Oi9FVgLlCCEQAiQEmwbrCRYSRSHQ9qqMzHhZy%2FwCtAvNh3tFtJGCgHXcn4NGAVY4FCUeQhObn%2BryS0lVRO9pIzU1KQB4yD6QbaReoq9DvQA8Mz6Lz%2BaTQciBJoilLG9DUE5MBJTmbjpSE1NJqlx7QqQ5Jn1%2F4nL%2F0H7B%2FuC6qs9tg9gAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI1LTAyLTIwVDE0OjM3OjIzKzAwOjAwstjsfAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNS0wMi0yMFQxNDozNzoyMyswMDowMMOFVMAAAAAgdEVYdHNvZnR3YXJlAGh0dHBzOi8vaW1hZ2VtYWdpY2sub3JnvM8dnQAAABh0RVh0VGh1bWI6OkRvY3VtZW50OjpQYWdlcwAxp%2F%2B7LwAAABh0RVh0VGh1bWI6OkltYWdlOjpIZWlnaHQAMTkyQF1xVQAAABd0RVh0VGh1bWI6OkltYWdlOjpXaWR0aAAxOTLTrCEIAAAAGXRFWHRUaHVtYjo6TWltZXR5cGUAaW1hZ2UvcG5nP7JWTgAAABd0RVh0VGh1bWI6Ok1UaW1lADE3NDAwNjIyNDNKlhghAAAAD3RFWHRUaHVtYjo6U2l6ZQAwQkKUoj7sAAAAVnRFWHRUaHVtYjo6VVJJAGZpbGU6Ly8vbW50bG9nL2Zhdmljb25zLzIwMjUtMDItMjAvOThjNDAzMzkyMDAwZGZiOGY0MDNhNTI4ZDM2ZGMwYzAuaWNvLnBuZ0rDdxIAAAAASUVORK5CYII%3D",
+        "url": "https://lightpanda.io/"
+      },
+      {
+        "name": "Claude Code",
+        "badgeUrl": "https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white",
+        "url": "https://claude.com/product/claude-code"
+      },
+      {
+        "name": "Codex",
+        "badgeUrl": "https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3ODguMTgyOTEyIDc5OS43MTg3OTgiPjxwYXRoIGZpbGw9IiNmZmYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ljg2Njk1MSw3OTkuNzIyMjAzKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBkPSJNMzQwNSA3OTk0IGMtMTYgLTIgLTc1IC0xMSAtMTMwIC0yMCAtNzE2IC0xMTAgLTEzMjYgLTYwMiAtMTU4MCAtMTI3NCAtMzYgLTk1IC0zOCAtOTcgLTg4IC0xMDUgLTEwNyAtMTggLTM2NyAtMTE2IC00OTcgLTE4OCAtMzczIC0yMDYgLTY1MiAtNTAwIC04NDAgLTg4MiAtMTQ5IC0zMDQgLTIxMiAtNTc0IC0yMTEgLTkxMCAxIC00MDIgMTE0IC03NzIgMzM4IC0xMTA5IDQwIC01OSA5NiAtMTM1IDEyNSAtMTY4IGw1MiAtNjAgLTE3IC02MSBjLTE0NiAtNTIxIC05NiAtMTA0MSAxNDQgLTE0OTcgMjgxIC01MzUgNzc2IC05MTcgMTM1NCAtMTA0NCAyNTggLTU2IDUyOSAtNjQgNzc0IC0yMSBsODUgMTUgOTYgLTk0IGMxMTcgLTExNCAyMjAgLTE5NyAzNDIgLTI3MiAzMTQgLTE5NSA2ODkgLTMwNCAxMDQwIC0zMDQgODY0IDAgMTYxNCA1MTIgMTkxNyAxMzA5IGwzNiA5MyA5MCAyMyBjNTEwIDEzMSA5NTMgNDYxIDEyMjEgOTEwIDExMCAxODYgMjAyIDQyMSAyNDQgNjI2IDMyIDE1NCA0MCAyNDYgNDAgNDI0IDEgMzIxIC03MSA2MjEgLTIxNyA5MDcgLTU4IDExNCAtMTU4IDI3MCAtMjI3IDM1MyAtMjMgMjggLTQ3IDU4IC01NCA2NyAtMTEgMTQgLTEwIDI5IDcgOTAgMjM5IDg1MyAtOTAgMTczOSAtODI4IDIyMzIgLTI2MiAxNzYgLTUzMCAyNzYgLTg1NyAzMjEgLTE0NiAyMSAtNDYxIDE2IC01OTQgLTkgbC04NCAtMTYgLTEwMSA5OSBjLTI5NyAyOTEgLTY2MCA0NzIgLTEwOTUgNTQ2IC05MSAxNiAtNDIwIDI4IC00ODUgMTl6IG00NzYgLTU1MyBjMTMzIC0yOSAyMzYgLTY0IDM1NCAtMTIxIDk3IC00NyAyMjIgLTEyNCAyNzcgLTE3MiBsMjggLTIzIC04MjggLTQ3NyBjLTU1NyAtMzIyIC04MzkgLTQ5MCAtODY0IC01MTUgLTIwIC0yMSAtNDQgLTU0IC01NCAtNzMgLTE4IC0zMyAtMTkgLTg2IC0yMiAtMTE4OSAtMiAtMTAxNCAtNCAtMTE1MiAtMTcgLTExNDcgLTM3IDE0IC02NTEgMzcxIC02NjIgMzg0IC0xNyAyMCAtMTkgMTgxOCAtMyAxOTg3IDI2IDI3MCAxMDMgNDkyIDI0OCA3MTAgMjM3IDM1OCA2MzggNjA1IDEwNzIgNjU5IDkyIDExIDM3NyAtMyA0NzEgLTIzeiBtMTkyMiAtNjIxIGMyODYgLTYxIDU1MSAtMjA0IDc1NyAtNDEwIDE3MiAtMTcyIDI5MSAtMzYyIDM2NSAtNTg0IDU4IC0xNzcgNzggLTMxOSA3MiAtNTIxIC0zIC05MyAtOCAtMTgwIC0xMiAtMTkyIGwtNyAtMjIgLTM3IDI0IGMtOTUgNjIgLTE2MTAgOTQwIC0xNjQxIDk1MSAtNDIgMTYgLTExMiAxNyAtMTYwIDQgLTIwIC01IC00NzYgLTI2NCAtMTAxMyAtNTc1IC01MzggLTMxMSAtOTgwIC01NjUgLTk4MiAtNTY1IC0zIDAgLTQgMTc4IC0zIDM5NiBsMyAzOTYgODA1IDQ2NSBjNDQzIDI1NSA4MzkgNDgxIDg4MSA1MDMgMTM5IDcxIDMxNSAxMjIgNTI0IDE1NCA3NiAxMSAzNTMgLTMgNDQ4IC0yNHogbS00MjMxIC0xNzgyIGMzIC05MzcgNCAtOTg1IDIyIC0xMDE4IDEwIC0xOSAzMSAtNDkgNDggLTY2IDE2IC0xNyA0NjMgLTI4MSAxMDA4IC01OTUgNTM5IC0zMTAgOTgwIC01NjYgOTgwIC01NjkgMCAtOCAtNjY1IC0zOTAgLTY3OSAtMzkwIC0xNiAwIC0xNjAyIDkxNiAtMTcwNiA5ODUgLTIwOCAxMzggLTM3MCAzMTkgLTQ5MCA1NDkgLTE1OSAzMDEgLTIxMCA2NDQgLTE0NiA5NzQgMjMgMTE5IDc5IDI5MCAxMjYgMzgyIDEwNyAyMTIgMzAyIDQzMSA1MDEgNTYzIDkzIDYyIDI5MyAxNjYgMzIxIDE2NyAxMCAwIDEzIC0yMTIgMTUgLTk4MnogbTQzMTMgODggYzQ0NiAtMjU4IDg0MCAtNDg4IDg3NiAtNTEyIDMzNSAtMjIxIDU3MSAtNTg5IDY0MSAtOTk5IDI2IC0xNTUgMjEgLTQwOSAtMTEgLTU1MCAtOTMgLTQwMiAtMzA3IC03MTcgLTY0MiAtOTQxIC03NyAtNTIgLTI3MiAtMTU0IC0yOTQgLTE1NCAtMyAwIC01IDQyOSAtNSA5NTMgMCAxMDc0IDMgMTAyMyAtNzMgMTEwMyAtMzIgMzMgLTI4MCAxODIgLTEwMTcgNjEwIC01MzYgMzExIC05NzggNTY5IC05ODIgNTczIC0xMSAxMCA2NTQgMzkxIDY3NyAzODggMTEgLTIgMzg1IC0yMTQgODMwIC00NzF6IG0tMTQ1MCAtMzc1IGw0MzAgLTI0OCAwIC01MDMgMCAtNTA0IC00MjkgLTI0NyBjLTM3NSAtMjE2IC00MzIgLTI0NyAtNDUwIC0yMzcgLTc3IDQxIC04MjMgNDczIC04MzIgNDgyIC04IDggLTEzIDE1NiAtMTcgNTA4IGwtNSA0OTcgNDMyIDI1MCBjMjM3IDEzNyA0MzMgMjQ5IDQzNiAyNTAgMyAwIDE5OSAtMTExIDQzNSAtMjQ4eiBtMTE2NSAtNjc0IGwzMTUgLTE4MyAzIC05MjkgYzMgLTk2OSAtMSAtMTEwNyAtMzggLTEyNjUgLTc3IC0zMjQgLTIzOCAtNTk3IC00NzUgLTgwMiAtNTEyIC00NDUgLTEyNTIgLTQ5NiAtMTgxMSAtMTI1IC04NSA1NyAtMTMxIDk0IC0xMjQgMTAwIDMgMyAzNzYgMjIwIDgzMCA0ODIgNDU0IDI2MiA4MzUgNDg2IDg0OCA0OTggMTMgMTIgMzYgNDIgNTAgNjcgbDI3IDQ1IDMgMTE2MyAyIDExNjIgMjggLTE0IGMxNSAtOSAxNjkgLTk4IDM0MiAtMTk5eiBtLTczMCAtMTM5NyBsMCAtMzkwIC0zNyAtMjQgYy02OCAtNDMgLTE2MDIgLTkyNSAtMTY3MSAtOTYwIC04OSAtNDUgLTI1MyAtMTAwIC0zNzcgLTEyNyAtMTQyIC0zMiAtNDI0IC0zMiAtNTcyIC0xIC03MzEgMTUxIC0xMjQzIDc5NyAtMTIxMCAxNTI0IDQgNzMgMTAgMTQ4IDE0IDE2NiBsOCAzMiA4MjUgLTQ3NiBjNDU0IC0yNjIgODQ1IC00ODMgODY5IC00OTEgNTcgLTIwIDEzNCAtMTIgMTk3IDIwIDI3IDE0IDQ3NCAyNzEgOTk0IDU3MSA1MjAgMzAwIDk0OCA1NDUgOTUzIDU0NiA0IDAgNyAtMTc1IDcgLTM5MHoiLz48L3N2Zz4%3D",
+        "url": "https://openai.com/codex/"
+      },
+      {
+        "name": "OpenCode",
+        "badgeUrl": "https://img.shields.io/badge/-OpenCode-131010?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC%2BaJAAAACXBIWXMAAAAAAAAAAQCEeRdzAAAAAXNSR0IB2cksfwAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABGdBTUEAALGPC%2FxhBQAAAYZJREFUeJztmsFOwkAURVlqKFKKEnaEVgxxS%2BJ3kJKmVDcEBd3i9%2FYTpg0p%2B%2BpZuZ2SMMzUvMld3vfePTMBGqadoe%2B3Wh3rCQTAdgIBsJ1AAGwnEADbCa4N4Pd6fc8zJJqbBbgfDB6n01kUzcLw8ooimjPCFADbw4A8z4%2FHY2Fg0ZbmjDjrHM4A4IifoogxP8YWzRnBIFMAHDRbZQ6A5owQAAEQgKsD1HVdlmWhVKPvS6UwU%2BIQAIFeFotwMmnyg4UNMyUOASiliOXd3jR5XsCGmRKHAM4afKk%2BAiAALgEoxVPkXbcb9PtaYcNcuPYhfp7PH4JgPBpphQ2zWydQVdV2s4mXyySOtcKGmRK3AL72%2ByxN37JMK2yYnQP43O3SJHldr7XChlkABEAABEAABEAABOA%2FAXy8b5PVinBaYcPsFsDpdPo%2BHIjF1mqFDTMlDgHUdU2gqvHC7NYfW5daAiAAAmAYoN2XfK2%2FZh22%2FaL77xxa%2FKqBgxIA2xIA2xIA2xIA22o9wC87fsFi80x4swAAAABJRU5ErkJggg%3D%3D",
+        "url": "https://opencode.ai/"
+      },
+      {
+        "name": "Cloudflare",
+        "badgeUrl": "https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white",
+        "url": "https://www.cloudflare.com/"
+      },
+      {
+        "name": "Wispr Flow",
+        "badgeUrl": "https://img.shields.io/badge/-Wispr_Flow-1A1A1A?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC50lEQVR4AdRWTWsTURS9mUz7A3RqcAKlaZOfoKC%2FQAOFtsuiLW1BKBTqWtGdQunGrgouShHBXbsTf4MuS6Et%2Bar5kCSj0LgLMeM5Lwykk8lkHJNAh3fm3Xfvu%2Fecd8lkRpPOpZum%2BdA0zUOgBrQBe8hgzVo8Hv8APACtDggFkHwTiyPgCWAAEWDYgzUN27aX2%2B32EQ5HTl2DmntwvgDbHSAKcCOmkQzWjkYikRiqv4SI%2B%2BzAJhxTcDCIaSyDXOz0Mw2nfwRKCsE01kHONG9UQkVjZQcZOQ0KoIH19aHruszOTksiMS20r0cHr5gTID9CAZ7VksmEHBzsAe8kmZzx3OPnZE4nf883v68Aw7iFxISkUrNiGLflXy%2FmJHGIVCrhm99XAAnxdAhB2w1N08Q0Ywq03XGumUvQ7gdfAf2S6J%2Bbm5Hj40MF2vSFQWgBsZgh8fhdBdphyJkTWoBIRNhegraEvP5DQEhGV1pgATzp5OSkELRddVQ3GCO84u79zjqwAAOP5e7ua9nZeSVTU72P5aC4Q%2BieAwvg%2F8HCwmNZXEyL169%2BUNxN7KwDC%2BCzzr%2FXiQldolG%2BtZ0SnXlQvLOr9x5YQG%2FqcDw3VwC%2BI6QbYfsRugOl0g85O8vI6em5FIuVsPzqozRQcqPxW6rVutRqllxdNUBalnR6Webnn0qpVBF3PFBRbPLtgNNi7FOnXVnZktXVLTk%2Fzwq%2BbKXZbCrQZje644KrOx9Lz9FXgGX9kmy2IBcXOanXLUXEdp%2BcnCnbXY1iuuOW9VPlZjJ5oe3e76z7CmDi2tq2bGw8h5BLtX%2FQibrjmUxB1te3FWirAh43CrA9%2FNJqtSSXu5R8%2Fruyvfb4%2BZhfKBRRwzffpgALhTxFwD%2FKQU6LAj6DpQ2Me7Tx1vxCAe%2FBPO4u4Odi18G7r1Uqla8w3sBTxfwHYGswjWSwNjlqOP3bcrn8jR1oQcQ%2B3mZLcH4C7VC7gXrOIDlrf4RjiZyYW38BAAD%2F%2Fxs9j28AAAAGSURBVAMA5q8%2BWLMnrWwAAAAASUVORK5CYII%3D",
+        "url": "https://wisprflow.ai/"
+      },
+      {
+        "name": "Cap",
+        "badgeUrl": "https://img.shields.io/badge/-Cap-111111?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAyVBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F2%2Bf%2FZ5v%2B3z%2F%2Bdvv%2BRtv%2Fy9v%2B40P93pf9Tjf9Ghf9Dgv9Cgv%2F%2B%2Fv%2FR4f92pP9Jhv9Hhf9RjP9dk%2F9kmP%2F9%2Fv%2B50f9YkP9Dg%2F9jl%2F%2BGr%2F%2Bnxf%2Bqx%2F%2Bdv%2F9jmP9Eg%2F9Vjv%2Boxv%2Buyv%2Btyf%2Bvyv%2ByzP%2FR4P9akv%2BXu%2F%2B70v%2FU4%2F%2Fn7%2F%2Fv9P%2BxzP%2Fe6f%2B30P%2Fu9P%2BihxbfAAAAEnRSTlMAAAEpgsHV19YDXNj%2B2fAqgcDVoc%2FnAAAAAWJLR0QB%2FwIt3gAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB%2BgJEA4vBHQl198AAAFsSURBVDjLjZPZmoIwDIXLqKC4iyAoixZEhYIKxQWK2%2Fs%2F1KiAy4yKuSk0%2F9ekpycAUD%2BFYolmyn%2BCoUvFwg8FAFVhq7XOy6jV2QoFKLbReRsNlgIF5vbLdXmh1xP4LnfbYpqglZ0vSv2BrKiqIg%2F6kphVaYF28qUNR1DRjbFpjg1dgaOhluy3AX1dJ9OZBW0kOK7rzNECWrPp5JqgQfm6To2lh3wcrNbrVYB95C2N6TVRToDNbLkNcRCReLeLSRTgcLucbe6AOLK8EO9J2j1H9jj0rJF4AyQIEd4ftOxy2mGPEYTHDOD6ysIPyC1%2FJkjg20qfS4HuQEc4uqtzqRJhpA%2B6KcDLhhCQZ5FJIBgynwKCMnZW8TMQr5yxIqRATzXd9ekZOK1dU%2B19C%2BSWeN3k%2FN5k7jXPQtn%2FhVrcheocX0stff9Yuc%2F90TAPllsklhOQ%2FWi5XNPm2r75eXAK%2BaN3Ht76u%2BGtXoY3b%2Fx%2FAcvxZiNy7mFjAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTA5LTE2VDE0OjQ3OjA0KzAwOjAwobUNgAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0wOS0xNlQxNDo0NzowNCswMDowMNDotTwAAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII%3D",
+        "url": "https://cap.so/"
+      },
+      {
+        "name": "1Password",
+        "badgeUrl": "https://img.shields.io/badge/-1Password-3B66BC?style=flat-square&logo=1password&logoColor=white",
+        "url": "https://1password.com/"
+      },
+      {
+        "name": "Tailscale",
+        "badgeUrl": "https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white",
+        "url": "https://tailscale.com/"
+      },
+      {
+        "name": "CodexBar",
+        "badgeUrl": "https://img.shields.io/badge/-CodexBar-171717?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAARGVYSWZNTQAqAAAACAABh2kABAAAAAEAAAAaAAAAAAADoAEAAwAAAAEAAQAAoAIABAAAAAEAAAAgoAMABAAAAAEAAAAgAAAAAKyGYvMAAAHLaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA2LjAuMCI%2BCiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI%2BCiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAgPGV4aWY6Q29sb3JTcGFjZT4xPC9leGlmOkNvbG9yU3BhY2U%2BCiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj41MTI8L2V4aWY6UGl4ZWxYRGltZW5zaW9uPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24%2BNTEyPC9leGlmOlBpeGVsWURpbWVuc2lvbj4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24%2BCiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE%2BCgCF4JgAAAcESURBVFgJtVdbbJRFFD7777%2Ftbrv0YmlLC1aILbeIAQkJlgSLhBcCMRLUoiSSgE%2BCyKW1kL4YYmILYhWp6BuKUOSiwb7Ii1wSE1%2BIaZMSLgkEm4UFuXS3pd3r7%2FfN%2FvPvv%2B0ivjjJ%2FDP%2FzDnfOXPOmTMzHslTLMsq%2Bvbgwdk3BgcbHj16VF1QUDAvEChqTqWSwUQiIayxWMxpx8bG1D9buw6j9KDfD9pwKpW6FgwGB27evDmWR1x2CIILW1patqxYsaJ%2F5syGZHV1tVVWVmYVFRVZpmlaXq9XVcMwLHf1eDyWU0VUn%2FOkJ5%2FP50v6%2Ff7%2BkpKSLQsXLvRlJYp49E9fX195Z2fn4XPnzq0eHBxUw4WFhQIQAbgmy2k5DqUz82jRyZnnD1Yv8XhctcQC5i%2BTJ09%2B99atWw85rzisGzf869vbT%2FT29q4aGhqS8vJygdaSiCckmU6JpAHuKvxTjPy4p7R8e4wKGl5DYaXTaXnw4IFSFtbora2tXXv9%2BvWYgt25c%2BfmqVOnks2CdlZJSSlM7FXVi1aZ3t26%2B7ZbHDr%2Bc96m0TjB4CSrqqpKuYd4cMdmJTxkhYqWL18%2BQOEIFAurB5GhfGd6TUtV%2BJG%2BJI27cuyp1cZgTJSWllGwwoAVBqZNmxYwTh88PRv%2BmEVtMCjDwyMCYiWKlCx0L325q61Nfj59So4e%2BV4WLVokyWQyo1KGLPPVKuox2y1YlIyMjDAG1Ax4Z0Wj0TkGtsbMSCQCiYwhj6Thcx1LTmuDXbp0SZY1Ncm6d9bLT6dOqn4ylUcJ0rsVgRLUg3HAoOUC0RqoMw1oVcko1RHN1TrF1YdP5dezZ%2BW119dI%2BHZIEDPy4%2FEeWb1qlUxQQgcjW2AQU0O5FKBCVYbPNF9ktOvVOsLdHQKhIh7k3Pnz0rzubblz545MrqiQI98dlnXNzUoJpbxbuAtDD2tNqAiCcZ60tbVFseVUYqmoqFCRnxN8DCIdbHYfuNbSpUut0OBfVjoRt0aiEeu9jRu5SCf5OBg6kNFyR1Q8U6HwYHHuuKiBYAhSmwnFUdmeIYk9BoXkwoUL8hYtEQ6LH4H11YEv5cOtH6hgdSxBeo2jW5cgpPigwbyeLTZVHmIHyCamEhcvXpS1b7wp4fBdFUP7OvfK7l274PN0FpK9fHgYZrLLUSBvHJA5j4GIy%2FL3%2FfsST8SRLOHTAp9MQ3Cy5DOqGlezmQ%2B3pBmLxZ9MPZ7DxcwcUP98vZw%2BeUIJZZ4%2F1P21bNuxQ1ljwmLsRWSMkfmBC8SIx2MTF8h5vWpyjDMhhdc9WyfHe47J3Dlzke%2B9cuBgt2zZulWdH9zSTyz2FGloAaWAQ6yF6gGtiGucwmumTIHwo%2FLSggWgtGT%2F512ybft2lWh4%2BEwoLn41Z%2F8rC4yNZQ6kHCb3ql19CsfWkWNHf5DFi19WAj%2Ft6JSW1o%2BY2TIpPAfI%2FhlnEK2PUoA3GydixhE6WOBI40im8KNHjsgry17FdkvKx3v2yO72duVzdX44DHk6ebC5C0xeobRGDhsHxjHwjOAWW7KkUe6F78i%2Bz%2FZL5969whTtMcYRO0D%2F3nEUmEBm49Gsln0ZMRA0HR0d0tX1BU7BhIRu34aOmRuRlXItgbygNdwryKMfg1ArMAyWoFLChUPBBQG%2F%2BIPFykWcGoUVHo9ElYCyqkrFkoMNUIvbGofbYxzfVFCdgDgF3fooRnzgthGTt1d0NpFQFwr3TwrKpq5PpOq5ZyUNMBYmF8hQLssRrBl9pqT%2F%2BFOM336Xby5flgB8zJMyFLoNq2UwHFLOJZPHGAP9epC%2B1MA0kQkiL1Juvn2tjaXpiYFTRjymN7sb1CQ%2FWSpi0bUmcgcuOX0mzoK7HNQWUAEF9NFIVA693yIBWELvkvFC%2BZ%2BBtgWgsbitUYdxxmhcYtNyLHqMi8MN7J4JLa5inPY3eO3i3owBgIqMRYdldIg%2BJ%2Bt%2FLJSEyiBECOPLf67BUkGnDyq8NdKVlZVXDWhx2es1rhA%2BGolIyaQSCDfUvuc9jmn2qRVbUdGwBa%2FaAUquLVztJI%2BUlpZKBJZlQU65smHDhssGHiGjBQWF3TxMEsh0Q5EhTFYINAQo0qq2nWJ7wgdyVHG3yj%2BwBBYRCASkEkkMAa8eKbj4SENDQ3djY%2BOoYqmvry8MhUInEZCr6C8qgyu6Mhl9porjcKeTGX%2FKl6ZnCqdwtsXFxbxR97a2tq5duXJl9hyoq6srx6rPQDgl%2FC8VZreamprOdHd3l%2BfVmw9HPiARF%2F2mz0xSGfg0%2B%2FB0PUKRGdUc53Ulva7AUA8dPm6n1tYm58%2Bf379mzZotsEj%2Bx6lbo%2BnTp%2FuHhx%2FOxU5qSFmparjhhUJf4TrskCDTJ89x7hbdss%2FKaxrnoQR2YaIHJu%2BHVcM1NTXX8PwbmDFjxoTn%2BT%2BlC2jR76uG3AAAAABJRU5ErkJggg%3D%3D",
+        "url": "https://github.com/steipete/CodexBar"
+      }
+    ]
+  },
+  "connect": [
+    {
+      "name": "Profile",
+      "url": "https://apoorvdarshan.com"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/apoorvdarshan"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/apoorvdarshan"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/apoorvdarshan/"
+    },
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/@apoorvdarshan"
+    },
+    {
+      "name": "TrustMRR",
+      "url": "https://trustmrr.com/founder/apoorvdarshan"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@apoorvdarshan"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/apoorvv"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/apoorvcodes"
+    },
+    {
+      "name": "Sponsor me on GitHub",
+      "url": "https://github.com/sponsors/apoorvdarshan"
+    },
+    {
+      "name": "Support me on Ko-Fi",
+      "url": "https://ko-fi.com/apoorvdarshan"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://gitlab.com/apoorvdarshan"
+    },
+    {
+      "name": "Grokipedia",
+      "url": "https://grokipedia.com/page/Apoorv_Darshan"
+    },
+    {
+      "name": "Credly",
+      "url": "https://www.credly.com/users/apoorvdarshan"
+    },
+    {
+      "name": "ORCID",
+      "url": "https://orcid.org/0009-0006-8989-0151"
+    },
+    {
+      "name": "Email 1",
+      "url": "mailto:apoorvdarshan@gmail.com"
+    },
+    {
+      "name": "Email 2",
+      "url": "mailto:ad13dtu@gmail.com"
+    },
+    {
+      "name": "Email 3",
+      "url": "mailto:apoorv@fud-ai.app"
+    },
+    {
+      "name": "Schedule a Meeting",
+      "url": "https://cal.com/apoorvdarshan"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/user?id=apoorvdarshan"
+    },
+    {
+      "name": "Medium",
+      "url": "https://apoorvdarshan.medium.com"
+    },
+    {
+      "name": "DEV",
+      "url": "https://dev.to/apoorvdarshan"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/apoorvdarshan"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/user/31lawlmexv2yrccl6xbhxggb6bza"
+    }
+  ],
+  "recognition": [
+    "Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 4)",
+    "Graduation Recognition Letter from University of the People President Shai Reshef (B.S. CS, Jul 2026)",
+    "President's List on the University of the People (CGPA 3.85–4.00, B.S. CS, Term 3)",
+    "13K+ followers on LinkedIn",
+    "Dean's List on the University of the People (CGPA 3.50–3.84, B.S. CS, Term 2)",
+    "LOR for outstanding performance in Mathematics from Mr. Eddy Kamboh, University of the People",
+    "Diamond Badge on CodeChef",
+    "LOR for outstanding performance in Computer Science from Engr. Ola Fatai Ayanleke, University of the People",
+    "Built YouTube channel Mr Alpha Delta (later Tales Through Toons) to 21.5K+ subscribers organically over 5 years; sold to a private buyer in Dec 2024",
+    "ACE-CPT + US REPS (NCCA-accredited)",
+    "JEE 2023 - Ranked in top 1.5% candidates",
+    "Certificate of Merit - Top 0.1% nationally in Social Science Class 10, CBSE",
+    "Indian Olympiad Qualifier in Mathematics (IOQM) qualified + Regional Mathematical Olympiad (RMO) appeared - Among top 300 candidates at state level"
+  ],
+  "philosophy": "\"Be alone, that is the secret of invention; be alone, that is when ideas are born.\" - Nikola Tesla",
+  "randomFacts": [
+    "Turns out electrons are probability clouds until observed",
+    "Mathematics, physics, and electronics keep me curious",
+    "Linux > Apple > Windows, no debate",
+    "Hit the gym when I'm not at the keyboard"
+  ]
+}

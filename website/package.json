@@ -1,0 +1,32 @@
+{
+  "name": "apoorv-profile",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sync-profile": "node scripts/sync-profile-readme.mjs",
+    "predev": "npm run sync-profile",
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "prebuild": "npm run sync-profile",
+    "build": "vite build && node scripts/generate-route-pages.mjs",
+    "preview": "vite preview --host 0.0.0.0 --port 3000",
+    "lint": "eslint .",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "entities": "8.1.0",
+    "parse5": "8.0.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@eslint/js": "latest",
+    "eslint": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest",
+    "fast-check": "4.10.2",
+    "globals": "latest",
+    "wrangler": "4.149.0"
+  }
+}

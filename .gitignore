@@ -2,3 +2,13 @@
 star-badge-worker/.wrangler/
 
 node_modules/
+
+resume-source/
+website/dist/
+**/__pycache__/
+**/.venv/
+**/outreach-*.md
+**/Apoorv_Darshan_Resume.tex
+**/*.aux
+**/*.log
+**/*.out

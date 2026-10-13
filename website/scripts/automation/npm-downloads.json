@@ -1,0 +1,10 @@
+{
+  "maintainer": "apoorvdarshan",
+  "packages": [
+    {"name": "browser-cookie-bridge", "package": "browser-cookie-bridge", "created": "2026-08-10", "link": "https://github.com/apoorvdarshan/browser-cookie-bridge"},
+    {"name": "hash-harbor", "package": "hash-harbor", "created": "2026-07-26", "link": "https://github.com/apoorvdarshan/hash-harbor"},
+    {"name": "TetherShot", "package": "tethershot", "created": "2026-06-10", "link": "https://github.com/apoorvdarshan/TetherShot"},
+    {"name": "crossposter", "package": "@apoorvdarshan/crossposter", "created": "2026-06-05", "link": "https://github.com/apoorvdarshan/crossposter"},
+    {"name": "Xscore", "package": "@apoorvdarshan/xscore", "created": "2026-03-18", "link": "https://github.com/apoorvdarshan/Xscore"}
+  ]
+}

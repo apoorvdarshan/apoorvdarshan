@@ -1,0 +1,11 @@
+{
+  "bucket": "pubsite_prod_5754622434455751537",
+  "apps": [
+    {
+      "package": "com.apoorvdarshan.calorietracker",
+      "name": "fud-ai",
+      "history_start": "2026-04-25",
+      "metric_validation": "Daily User Installs summed from the first report matches Play Console Statistics > New user acquisitions > Cumulative: 2579 through 2026-10-07, checked 2026-10-11."
+    }
+  ]
+}
