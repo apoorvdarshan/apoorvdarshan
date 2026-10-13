@@ -1891,6 +1891,11 @@
         "url": "https://www.google.com/chrome/"
       },
       {
+        "name": "Dark Reader",
+        "badgeUrl": "https://img.shields.io/badge/-Dark_Reader-141E24?style=flat-square&logo=darkreader&logoColor=white",
+        "url": "https://darkreader.org/"
+      },
+      {
         "name": "Raycast",
         "badgeUrl": "https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white",
         "url": "https://www.raycast.com/"
