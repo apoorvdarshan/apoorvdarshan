@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "10K+",
       "metric": "downloads",
-      "starCount": "470"
+      "starCount": "473"
     },
     {
       "name": "verceltics",
@@ -1552,7 +1552,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "966"
+      "starCount": "970"
     },
     {
       "name": "djLint",
@@ -1678,7 +1678,7 @@
       "status": "",
       "marker": "🏦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=guibranco/BancosBrasileiros&v=3",
-      "starCount": "549"
+      "starCount": "550"
     },
     {
       "name": "vermin",
@@ -1759,7 +1759,7 @@
       "status": "",
       "marker": "🧪",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=aregtech/areg-sdk&v=3",
-      "starCount": "368"
+      "starCount": "369"
     },
     {
       "name": "radis",
@@ -1816,21 +1816,21 @@
       "starCount": "52"
     },
     {
-      "name": "elemo",
-      "url": "https://github.com/opcotech/elemo/pull/394",
-      "description": "feat: add project endpoints to the OpenAPI spec",
-      "status": "",
-      "marker": "📋",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=opcotech/elemo&v=3",
-      "starCount": "39"
-    },
-    {
       "name": "markdown-reader",
       "url": "https://github.com/petertzy/markdown-reader/pull/84",
       "description": "fix: NameError in choose_bg_color when color picker is cancelled",
       "status": "",
       "marker": "📖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=petertzy/markdown-reader&v=3",
+      "starCount": "40"
+    },
+    {
+      "name": "elemo",
+      "url": "https://github.com/opcotech/elemo/pull/394",
+      "description": "feat: add project endpoints to the OpenAPI spec",
+      "status": "",
+      "marker": "📋",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=opcotech/elemo&v=3",
       "starCount": "39"
     },
     {
