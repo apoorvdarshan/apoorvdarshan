@@ -18,7 +18,7 @@ metadata; a network failure may require a retry.
 
 ## Interfaces
 - `/`: HTML SPA and generated routes, with public profile data.
-- `/resume`, `/Apoorv_Darshan_Resume.pdf`: published PDF, never private LaTeX.
+- `/resume`, `/Apoorv_Darshan_Resume.pdf`: published PDF (LaTeX source lives in the repository's `resume/`).
 - `/badges/downloads/v1/<label>.svg` and `/badges/users/v1/<label>.svg`: GET/HEAD,
   bounded numeric labels (`4`, `40+`, `1K+`), SVG on success, 404 malformed,
   405 unsupported method. No upstream API call per badge request.

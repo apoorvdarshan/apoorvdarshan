@@ -13,11 +13,12 @@ HOME_DIR = Path.home()
 STATE_DIR = HOME_DIR / '.local/share/profile-automation'
 STATE_FILE = STATE_DIR / 'local-resume-state.json'
 BACKUP_DIR = STATE_DIR / 'resume-backups'
-REPO = HOME_DIR / 'profile-resume-private'
+REPO = HOME_DIR / 'apoorvdarshan'
+RESUME = REPO / 'resume'
 NAME = 'Apoorv_Darshan_Resume'
-# Documents files link to the private checkout. Background Python cannot access
-# the TCC-protected Documents directory, so it never reads or writes through it.
-TARGETS = []  # Documents symlinks point directly to the verified private checkout.
+# Documents files link into this checkout's resume/ folder. Background Python cannot
+# access the TCC-protected Documents directory, so it never reads or writes through it.
+TARGETS = []  # Documents symlinks point directly to the verified checkout.
 
 def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
@@ -51,18 +52,21 @@ def main():
         except BlockingIOError:
             return
         previous = json.loads(STATE_FILE.read_text())
+        # Shared working checkout: only fast-forward a clean main, never a feature branch.
+        if subprocess.check_output(['git', '-C', str(REPO), 'branch', '--show-current'], text=True).strip() != 'main':
+            raise RuntimeError('Profile checkout is not on main; sync skipped')
         if subprocess.check_output(['git', '-C', str(REPO), 'status', '--porcelain'], text=True).strip():
-            raise RuntimeError('Private resume checkout has local edits; sync skipped')
+            raise RuntimeError('Profile checkout has local edits; sync skipped')
         subprocess.run(['git', '-C', str(REPO), 'pull', '--ff-only'], check=True, timeout=90)
-        manifest = json.loads((REPO / 'build.json').read_text())
+        manifest = json.loads((RESUME / 'build.json').read_text())
         for ext, key in [('.tex', 'sourceSha256'), ('.pdf', 'pdfSha256')]:
-            if digest(REPO / (NAME + ext)) != manifest[key]:
+            if digest(RESUME / (NAME + ext)) != manifest[key]:
                 raise RuntimeError('Cloud source/PDF pair does not match its build manifest')
         changed=[]
         for folder in TARGETS:
             for ext in ['.tex', '.pdf']:
                 target=folder / (NAME + ext)
-                source=REPO / (NAME + ext)
+                source=RESUME / (NAME + ext)
                 if target.exists() and digest(target)==digest(source):
                     continue
                 if target.exists() and digest(target)!=previous.get(str(target)):

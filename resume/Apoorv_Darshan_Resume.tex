@@ -1,0 +1,417 @@
+%-------------------------
+% Resume in LaTeX
+% Based off of: https://github.com/jakegut/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\usepackage{amsfonts}
+\usepackage{amssymb} % provides \bigstar
+% FontAwesome5 not used (header uses plain-text labels); left out for cross-engine builds
+% glyphtounicode / \pdfgentounicode are pdfTeX-only; guard so this also builds under XeTeX/tectonic
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generated pdf is machine readable / ATS parseable
+\ifdefined\pdfgentounicode
+  \pdfgentounicode=1
+\fi
+
+% Don't bias toward a page break right before a section heading (default is -300, which
+% pushes a section to the next page and leaves a gap). 0 = let content fill the page first.
+\makeatletter
+\@secpenalty=0
+\makeatother
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \hspace{12pt}#2 \\
+      \textit{\small#3} & \hspace{12pt}\textit{\small #4} \\
+    \end{tabular*}\vspace{-8pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-8pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \hspace{8pt}\small#2 \\
+    \end{tabular*}\vspace{-11.4pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[nosep, itemsep=1pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\setlength{\parskip}{0pt}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Apoorv Darshan} \\ \vspace{4pt}
+    \small
+    \fontsize{9}{11}\selectfont
+    \href{mailto:ad13dtu@gmail.com}{\underline{ad13dtu@gmail.com}} ~$|$~
+    \href{https://apoorvdarshan.com}{\underline{apoorvdarshan.com}} ~$|$~
+    \href{https://github.com/apoorvdarshan}{\underline{GitHub}} ~$|$~
+    \href{https://www.linkedin.com/in/apoorvdarshan/}{\underline{LinkedIn}} ~$|$~
+    \href{https://x.com/apoorvdarshan}{\underline{X}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of the People}{Jun 2025 -- Jun 2026}
+      {Bachelor of Science in Computer Science (Grade: 3.77/4.00, Magna Cum Laude)}{Pasadena, CA, USA}
+    \resumeSubheading
+      {University of the People}{Jun 2025 -- Apr 2026}
+      {Associate of Science in Computer Science (Grade: 3.88/4.00, High Honors)}{Pasadena, CA, USA}
+    \resumeSubheading
+      {Delhi Technological University}{Aug 2023 -- Dropout}
+      {Bachelor of Technology in Electrical Engineering}{Delhi, India}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Indie Developer}{Feb 2026 -- Present}
+      {Self-employed}{Delhi, India}
+      \resumeItemListStart
+        \resumeItem{Shipped and maintained independent apps, Chrome extensions, and web products across the App Store, Play Store, Chrome Web Store, web, and GitHub.}
+        \resumeItem{Built full-stack, mobile, automation, AI, and open-source projects end-to-end from idea to release.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Full Stack Developer Intern}{Nov 2025 -- Feb 2026}
+      {XIRCLS}{Mumbai, MH, India (Remote)}
+      \resumeItemListStart
+        \resumeItem{Built and stabilized end-to-end CRM features covering Leads, Accounts, Authentication, Reminders, and Interactions with full CRUD, pagination, filtering, soft delete, and restore.}
+        \resumeItem{Integrated frontend and backend APIs, resolving schema mismatches, UUID handling issues, and authentication/authorization gaps.}
+        \resumeItem{Fixed critical security and data integrity issues, including session cache leakage and ownership validation flaws.}
+        \resumeItem{Improved real-time UI updates and performance using React Query cache invalidation and optimized detail pages.}
+        \resumeItem{Strengthened form validation and UX flows, including mandatory fields, auto tab-switching, and safer save actions.}
+        \resumeItem{Served as project lead intern, coordinating tasks and reviewing work for a team of 5 interns.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {AI Trainer}{Apr 2025}
+      {Soul AI}{Hyderabad, TG, India (Remote)}
+      \resumeItemListStart
+        \resumeItem{Evaluated educational conversations from Gemini 2.5 Pro (Experimental) and ChatGPT-4o under Project Ceres, assessing reasoning quality and factual accuracy.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {AI Trainer}{Feb 2025 -- Mar 2025}
+      {Outlier}{San Francisco, CA, USA (Remote)}
+      \resumeItemListStart
+        \resumeItem{Supervised AI function-calling processes and tool use in projects like Attenuation Stamp; improved AI reasoning across STEM and philosophy domains in Mail Valley.}
+        \resumeItem{Designed complex image-based questions to challenge AI models and analyzed responses in Mighty Moo; conducted preference evaluations and ranked model outputs as part of Pro Evals.}
+        \resumeItem{Developed the Gallon Hamster, a multi-discipline multimodal reasoning system (SFT Phase 2); identified platform issues and provided critical feedback during Nanoparticle Baobab and Normal Sultan.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------APPS-----------
+\section{Mobile Apps}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/fud-ai}{fud-ai}} $|$ {\small $\bigstar$ 474 stars $|$ \textcolor{Maroon}{$\downarrow$ 10K+}} \textnormal{ -- AI-powered calorie and nutrition tracker app}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/verceltics}{verceltics}} $|$ {\small $\bigstar$ 38 stars $|$ \textcolor{Maroon}{$\downarrow$ 1K+}} \textnormal{ -- open-source iOS hub for hosting, domains, analytics, and uptime}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/scowld}{scowld}} $|$ {\small $\bigstar$ 29 stars $|$ \textcolor{Maroon}{$\downarrow$ 400+}} \textnormal{ -- open-source iOS AI companion with a live VRM avatar that sees you (SwiftUI)}}{}
+      \resumeProjectHeading{\textbf{\href{https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934}{quit-all}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 100+}} \textnormal{(closed source) -- iOS app to quit addictions --- smoking, alcohol, social media, and more}}{}
+      \resumeProjectHeading{\textbf{\href{https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227}{iitjee}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 70+}} \textnormal{(closed source) -- offline handwritten PCM notes for JEE Main, JEE Advanced \& NEET on iPhone and iPad}}{}
+
+    \resumeSubHeadingListEnd
+
+%-----------GAMES-----------
+\section{Games}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading{\textbf{\href{https://apps.apple.com/us/app/abysm-dive-the-deep-sea/id6783505799}{abysm}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 40+}} \textnormal{(closed source) -- calm pixel-art dive past 75 real sea creatures to Challenger Deep}}{}
+
+    \resumeSubHeadingListEnd
+
+%-----------CHROME EXTENSIONS-----------
+\section{Chrome Extensions}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/x-country-filter}{x-country-filter}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 50+ users}} \textnormal{ -- Chrome extension that hides X (Twitter) posts from countries you pick}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/newest-youtube-search}{newest-youtube-search}} \textnormal{ -- newest-first YouTube search via the YouTube Data API}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/streaming-autopause}{streaming-autopause}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 4 users}} \textnormal{ -- auto-pauses Netflix \& Prime Video when you switch away}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/streaming-indian-filter}{streaming-indian-filter}} \textnormal{ -- hides Indian shows from Netflix \& Prime Video (personal preference, not a judgment)}}{}
+
+    \resumeSubHeadingListEnd
+
+%-----------AI & AGENTS-----------
+\section{AI \& Agents}
+  \resumeSubHeadingListStart
+
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin}{opencode-gemini-imagegen-plugin}} \textnormal{ -- AI image generation via Google Gemini (Nano Banana) models}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/multi-account-gmail-mcp}{multi-account-gmail-mcp}} \textnormal{ -- local Codex plugin and MCP server for explicit multi-account Gmail access}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/macbook-24x7-agents}{macbook-24x7-agents}} \textnormal{ -- run AI agents 24x7 on a MacBook: never sleep, lid closed, display off, fully reversible}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/linkedin-connection-sender}{linkedin-connection-sender}} \textnormal{ -- send LinkedIn connection requests by country and role at a human-like pace}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/wellfound-bot}{wellfound-bot}} \textnormal{ -- automated Wellfound (AngelList) job hunt via human-like Playwright browser automation}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/karasufumi}{karasufumi}} \textnormal{ -- automated job hunt via Claude Code/Codex with Gmail MCP outreach}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/claw-c}{claw-c}} $|$ {\small $\bigstar$ 5 stars} \textnormal{ -- Claude Code reimplemented in pure C, the lowest level it's ever been done}}{}
+
+  \resumeSubHeadingListEnd
+
+%-----------APPS & TOOLS-----------
+\section{Apps \& Tools}
+  \resumeSubHeadingListStart
+
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/ringtone-cropper}{ringtone-cropper}} \textnormal{ -- Audio/YouTube to Android/iPhone ringtones}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/omi-leaderboard}{omi-leaderboard}} \textnormal{ -- Omi contributor rankings, merged PRs, and shareable profiles}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/lithosai-bar}{lithosai-bar}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 1}} \textnormal{ -- macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/DesktopWorm}{DesktopWorm}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 3}} \textnormal{ -- native macOS desktop C. elegans driven by the OpenWorm c302 connectome}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/browser-cookie-bridge}{browser-cookie-bridge}} $|$ {\small $\bigstar$ 9 stars $|$ \textcolor{Maroon}{$\downarrow$ 3K+}} \textnormal{ -- local Chromium cookie/session transfer to Codex on macOS}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/hash-harbor}{hash-harbor}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 800+}} \textnormal{ -- local torrent streamer and downloader with a native engine and browser UI}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/TetherShot}{TetherShot}} $|$ {\small $\bigstar$ 19 stars $|$ \textcolor{Maroon}{$\downarrow$ 3K+}} \textnormal{ -- macOS menu-bar iPhone screenshots to a folder you choose}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/crossposter}{crossposter}} $|$ {\small $\bigstar$ 38 stars $|$ \textcolor{Maroon}{$\downarrow$ 4K+}} \textnormal{ -- crossposter for X, LinkedIn, Bluesky, Mastodon, Instagram, YouTube + more}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/apoorvdarshan}{apoorvdarshan}} \textnormal{ -- my GitHub profile, website, and resume}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/opengraph-studio}{opengraph-studio}} \textnormal{ -- live OpenGraph metadata editor and previewer for social platforms}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/nornlore}{nornlore}} \textnormal{ -- discover what the universe was doing the day you were born}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/github-readme-contribution-merger}{github-readme-contribution-merger}} $|$ {\small $\bigstar$ 15 stars} \textnormal{ -- merge GitHub contribution graphs into one SVG heatmap}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/Xscore}{Xscore}} $|$ {\small \textcolor{Maroon}{$\downarrow$ 300+}} \textnormal{ -- X account engagement scorer using the open-source algorithm}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/zyro}{zyro}} \textnormal{ -- AI news website (GNews.io API, 100 req/day limit)}}{}
+    \resumeProjectHeading{\textbf{\href{https://affiliate.axentraos.com/}{axentra-os-affiliate}} \textnormal{(closed source) -- CRM platform built during internship at XIRCLS}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/resume-codes}{resume-codes}} \textnormal{ -- resume builder with live preview}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/compress-image}{compress-image}} \textnormal{ -- client-side image compression (browser-only, nothing uploaded)}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/todo-app}{todo-app}} \textnormal{ -- Harry Potter-themed To-Do app}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/machina-cordis}{machina-cordis}} \textnormal{ -- fully editable, animated mechanical heart reactor built procedurally in Blender}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/helios-01}{helios-01}} \textnormal{ -- editable Blender pocket orrery with an animated mechanical solar system}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/doodle-beats}{doodle-beats}} \textnormal{ -- doodle-style web music player}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/gesture-keyboard}{gesture-keyboard}} \textnormal{ -- MediaPipe-powered hands-free virtual keyboard}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/drawtica}{drawtica}} \textnormal{ -- hand-gesture drawing app}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/peek-a-pupil}{peek-a-pupil}} \textnormal{ -- horror-themed interactive eye with gesture control}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/headshot-tracker}{headshot-tracker}} $|$ {\small $\bigstar$ 6 stars} \textnormal{ -- real-time face tracking with sci-fi HUD}}{}
+
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIMENTS & FUN-----------
+\section{Experiments \& Fun}
+  \resumeSubHeadingListStart
+
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/how-rich-are-you}{how-rich-are-you}} \textnormal{ -- 90s-style income rank calculator with broke/rich meme GIF reactions}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/billionaire-smash}{billionaire-smash}} \textnormal{ -- Facemash for Forbes billionaires, vote on who wins head-to-head}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/daxerly}{daxerly}} \textnormal{ -- proof of work, formatted as a receipt --- with a price tag on it}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/dob-selector}{dob-selector}} $|$ {\small $\bigstar$ 9 stars} \textnormal{ -- intentionally bad UI date picker; viral on Reddit (130K+ views)}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/slot-machine-date-picker}{slot-machine-date-picker}} \textnormal{ -- slot machine date picker; intentionally bad UI}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/zombie-game}{zombie-game}} \textnormal{ -- 3D zombie survival FPS with Three.js}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/dtu-clone}{dtu-clone}} \textnormal{ -- DTU website with cyberpunk UI}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/redbull}{redbull}} \textnormal{ -- Red Bull landing page reimagined}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/simon-says}{simon-says}} \textnormal{ -- fantasy-themed Simon Says memory game}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/toggle-button}{toggle-button}} \textnormal{ -- Star Wars themed dark/light mode toggle}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/bmw}{bmw}} \textnormal{ -- BMW landing page clone}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/monster-energy}{monster-energy}} \textnormal{ -- Monster Energy landing page}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/random-dog-images}{random-dog-images}} \textnormal{ -- random dog images powered by Dog CEO API}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/random-cat-facts}{random-cat-facts}} \textnormal{ -- cat facts powered by catfact.ninja API}}{}
+    \resumeProjectHeading{\textbf{\href{https://github.com/apoorvdarshan/spotify-clone}{spotify-clone}} \textnormal{ -- Spotify UI clone}}{}
+
+  \resumeSubHeadingListEnd
+%-----------OPEN SOURCE-----------
+\section{Open Source Contributions}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading{\textbf{\href{https://github.com/freeCodeCamp/freeCodeCamp/pull/66544}{freeCodeCamp}} $|$ {\small $\bigstar$ 457k stars} \textnormal{ -- fix(curriculum): correct example for ochenta y uno gender rule}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/tensorflow/tensorflow/pull/110665}{tensorflow}} $|$ {\small $\bigstar$ 201k stars} \textnormal{ -- fix: resource misclassification for unsorted read-only inputs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/flutter/flutter/pull/182546}{flutter}} $|$ {\small $\bigstar$ 180k stars} \textnormal{ -- remove material imports from navigator and overlay tests}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/langgenius/dify/pull/32386}{dify}} $|$ {\small $\bigstar$ 158k stars} \textnormal{ -- refactor(web): replace String.match() with RegExp.exec() for non-global regex}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/kubernetes/kubernetes/pull/137095}{kubernetes}} $|$ {\small $\bigstar$ 128k stars} \textnormal{ -- migrate SignerName to declarative validation}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/sveltejs/svelte/pull/17745}{svelte}} $|$ {\small $\bigstar$ 88k stars} \textnormal{ -- fix: keep select.\_\_value current when effect is deferred}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/laravel/laravel/pull/6755}{laravel}} $|$ {\small $\bigstar$ 85k stars} \textnormal{ -- add APP\_NAME fallback in mail config (merged by @taylorotwell, creator of Laravel)}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/spring-projects/spring-boot/pull/49261}{spring-boot}} $|$ {\small $\bigstar$ 82k stars} \textnormal{ -- fix: align TestRestTemplate cookie handling with RestTemplate}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/ansible/ansible/pull/87212}{ansible}} $|$ {\small $\bigstar$ 71k stars} \textnormal{ -- ansible-config: default to checking all plugin configs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/jquery/jquery/pull/5775}{jquery}} $|$ {\small $\bigstar$ 60k stars} \textnormal{ -- fix: use createElementNS for XSLT documents}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dkhamsing/open-source-ios-apps/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{open-source-ios-apps}} $|$ {\small $\bigstar$ 53k stars} \textnormal{ -- 2 merged PRs: Add Verceltics; Add Scowld}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/pandas-dev/pandas/pull/66117}{pandas}} $|$ {\small $\bigstar$ 50k stars} \textnormal{ -- fix: interpolate leaving NAs unfilled for pyarrow dtypes}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/JuliaLang/julia/pull/61054}{julia}} $|$ {\small $\bigstar$ 49k stars} \textnormal{ -- fix: quote Symbol values in @test failure output}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/google/zx/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{zx}} \textnormal{(by Google)} $|$ {\small $\bigstar$ 46k stars} \textnormal{ -- 2 merged PRs: improve error handling for…; provide clear error when cwd…}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/payloadcms/payload/pull/18057}{payload}} $|$ {\small $\bigstar$ 45k stars} \textnormal{ -- fix: return 404 for version operations when versions are disabled}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/soxoj/maigret/pull/3046}{maigret}} $|$ {\small $\bigstar$ 39k stars} \textnormal{ -- fix graph reports for non-string identity values}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/steipete/CodexBar/pull/344/commits}{CodexBar}} \textnormal{(by OpenClaw creator)} $|$ {\small $\bigstar$ 22k stars} \textnormal{ -- fix: region-specific API endpoint for MiniMax}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dotnet/core/pull/10349}{core}} \textnormal{(by .NET)} $|$ {\small $\bigstar$ 22k stars} \textnormal{ -- add F\# release notes for .NET 11 Preview 3}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/spotify/luigi/pull/3410}{luigi}} \textnormal{(by Spotify)} $|$ {\small $\bigstar$ 19k stars} \textnormal{ -- fix: replace deprecated datetime.utcfromtimestamp() calls}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dotnet/runtime/pull/124498}{runtime}} \textnormal{(by .NET)} $|$ {\small $\bigstar$ 18k stars} \textnormal{ -- fix: fractional-token AttemptAcquire(0) behavior}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/Effect-TS/effect/pull/7533}{Effect}} $|$ {\small $\bigstar$ 17k stars} \textnormal{ -- fix(atom-solid): forward default idle TTL}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/tracel-ai/burn/pull/5536}{burn}} $|$ {\small $\bigstar$ 16k stars} \textnormal{ -- fix(store): exclude adapter-matched tensors from unused}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/adobe/react-spectrum/pull/9678}{react-spectrum}} \textnormal{(by Adobe)} $|$ {\small $\bigstar$ 16k stars} \textnormal{ -- fix: incorrect timezone conversion when setLocalTimeZone is used}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/jupyterlab/jupyterlab/pull/18530}{jupyterlab}} $|$ {\small $\bigstar$ 15k stars} \textnormal{ -- fix: theme settings in non-English locales}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/prowler-cloud/prowler/pull/10102}{prowler}} $|$ {\small $\bigstar$ 15k stars} \textnormal{ -- fix: remove return statements from finally blocks}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/BasedHardware/omi/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{omi}} $|$ {\small $\bigstar$ 14k stars} \textnormal{ -- 40 merged PRs: correct Bluetooth diagnostic reason…; keep recent device diagnostics…}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/The-PR-Agent/pr-agent/pull/2895}{pr-agent}} $|$ {\small $\bigstar$ 13k stars} \textnormal{ -- fix: share language matcher with plain diff provider}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/kornia/kornia/pull/4121}{kornia}} $|$ {\small $\bigstar$ 11k stars} \textnormal{ -- fix(geometry): validate NMS box shape}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/benoitc/gunicorn/pull/3686}{gunicorn}} $|$ {\small $\bigstar$ 11k stars} \textnormal{ -- fix: decrement nr\_conns on server-initiated close in the ASGI worker (authored commit)}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/sqlfluff/sqlfluff/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{sqlfluff}} $|$ {\small $\bigstar$ 10k stars} \textnormal{ -- 7 merged PRs: Read Jinja macro files with the…; ClickHouse: parse GROUP BY WITH…}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/Kozea/WeasyPrint/pull/2831}{WeasyPrint}} $|$ {\small $\bigstar$ 9.7k stars} \textnormal{ -- fix: line\_height() crash on calc() values}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/openclaw/clawhub/pull/421}{clawhub}} \textnormal{(by OpenClaw creator)} $|$ {\small $\bigstar$ 9.5k stars} \textnormal{ -- fix: use relative delay for Retry-After header on 429}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/jd/tenacity/pull/653}{tenacity}} $|$ {\small $\bigstar$ 8.8k stars} \textnormal{ -- fix: keep statistics visible when @retry is further wrapped}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/gitextensions/gitextensions/pull/12841}{gitextensions}} $|$ {\small $\bigstar$ 8.6k stars} \textnormal{ -- fix: console launch fails when Windows username contains spaces}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/MagicStack/asyncpg/pull/1333}{asyncpg}} $|$ {\small $\bigstar$ 8.1k stars} \textnormal{ -- fix: segfault in Record.get() with invalid positional argument count}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/boa-dev/boa/pull/4631}{boa}} $|$ {\small $\bigstar$ 7.6k stars} \textnormal{ -- feat: implement BOM stripping and ignoreBOM in TextDecoder}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/PyCQA/isort/pull/2574}{isort}} $|$ {\small $\bigstar$ 7k stars} \textnormal{ -- fix: honor \# isort: skip with \_\_future\_\_ imports}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/lexiforest/curl\_cffi/pull/796}{curl\_cffi}} $|$ {\small $\bigstar$ 6.7k stars} \textnormal{ -- fix: fall back to stdlib json in Response.json() when keyword args are passed}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{up-for-grabs.net}} $|$ {\small $\bigstar$ 6k stars} \textnormal{ -- 8 merged PRs: Add Verceltics project; Add Fud AI project; Add Nornlore project}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/lark-parser/lark/pull/1619}{lark}} $|$ {\small $\bigstar$ 6k stars} \textnormal{ -- fix: preserve lexer callbacks for keyword terminals}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/python-websockets/websockets/pull/1726}{websockets}} $|$ {\small $\bigstar$ 5.7k stars} \textnormal{ -- fix: handle rejected handshakes cleanly in the threading server}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/tortoise/tortoise-orm/pull/2243}{tortoise-orm}} $|$ {\small $\bigstar$ 5.6k stars} \textnormal{ -- fix: IntEnumField/CharEnumField return type to Field[EnumType]}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/zenml-io/zenml/pull/4496}{zenml}} $|$ {\small $\bigstar$ 5.6k stars} \textnormal{ -- fix: include git submodule files in code archive}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/python/typeshed/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{typeshed}} $|$ {\small $\bigstar$ 5.1k stars} \textnormal{ -- 2 merged PRs: Add functools.partial.\_\_get\_\_ for…; Fix frozendict constructor: drop…}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/akkadotnet/akka.net/pull/8048}{akka.net}} $|$ {\small $\bigstar$ 5.1k stars} \textnormal{ -- fix: downgrade RemoveChild log from Warning to Debug}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/alvinreal/awesome-opensource-ai/pull/664}{awesome-opensource-ai}} $|$ {\small $\bigstar$ 4.9k stars} \textnormal{ -- docs: add Scowld mobile AI companion}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/geopy/geopy/pull/610}{geopy}} $|$ {\small $\bigstar$ 4.9k stars} \textnormal{ -- fix: guard Point.from\_string against ReDoS on long inputs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dry-python/returns/pull/2446}{returns}} $|$ {\small $\bigstar$ 4.4k stars} \textnormal{ -- fix: make partial plugin positionals keyword-only after keyword binding}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dotnet/fsharp/pull/19317}{fsharp}} \textnormal{(by .NET)} $|$ {\small $\bigstar$ 4.3k stars} \textnormal{ -- fix: Seq.empty serializer rendering}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dynaconf/dynaconf/pull/1421}{dynaconf}} $|$ {\small $\bigstar$ 4.3k stars} \textnormal{ -- feat: support list values for environment configuration}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/RipMeApp/ripme/pull/2172}{ripme}} $|$ {\small $\bigstar$ 4.1k stars} \textnormal{ -- feat: add configurable API key support for Rule34Ripper}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/andialbrecht/sqlparse/pull/860}{sqlparse}} $|$ {\small $\bigstar$ 4k stars} \textnormal{ -- fix: recognize ROW\_FORMAT as a keyword}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/tox-dev/tox/pull/3976}{tox}} $|$ {\small $\bigstar$ 3.9k stars} \textnormal{ -- fix: avoid double-closing the child pty fd in parallel runs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/django-oauth/django-oauth-toolkit/pull/1750}{django-oauth-toolkit}} $|$ {\small $\bigstar$ 3.3k stars} \textnormal{ -- fix: validate Netlify double-dash wildcard redirect URIs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/trentm/python-markdown2/pull/713}{python-markdown2}} $|$ {\small $\bigstar$ 2.8k stars} \textnormal{ -- fix: prevent duplicate IDs from the header-ids extra}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/hgrecco/pint/pull/2330}{Pint}} $|$ {\small $\bigstar$ 2.8k stars} \textnormal{ -- feat: support superscript decimal point and fraction slash in exponents}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/pygments/pygments/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{pygments}} $|$ {\small $\bigstar$ 2.2k stars} \textnormal{ -- 2 merged PRs: Mathematica: recognize \textbackslash{}[Name]…; Add 'yml' as an alias for the YAML…}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/TEAMMATES/teammates/pull/13553}{TEAMMATES}} $|$ {\small $\bigstar$ 1.9k stars} \textnormal{ -- replace file-saver with native browser APIs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/alecthomas/voluptuous/pull/546}{voluptuous}} $|$ {\small $\bigstar$ 1.9k stars} \textnormal{ -- add \_\_repr\_\_ to Invalid so it surfaces the path and error type}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/jaywcjlove/awesome-swift-macos-apps/pull/101}{awesome-swift-macos-apps}} $|$ {\small $\bigstar$ 1.7k stars} \textnormal{ -- add TetherShot to the curated Swift macOS apps list}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/simplejson/simplejson/pull/381}{simplejson}} $|$ {\small $\bigstar$ 1.7k stars} \textnormal{ -- fix: handle non-finite Decimal values like floats in the encoder}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/Flux159/mcp-server-kubernetes/pull/320}{mcp-server-kubernetes}} $|$ {\small $\bigstar$ 1.6k stars} \textnormal{ -- fix: sync server metadata version with published package}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/pwaller/pyfiglet/pull/161}{pyfiglet}} $|$ {\small $\bigstar$ 1.6k stars} \textnormal{ -- fix: return False from isValidFont for missing fonts}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/kislyuk/argcomplete/pull/553}{argcomplete}} $|$ {\small $\bigstar$ 1.6k stars} \textnormal{ -- fix: expand \textasciitilde{} in DirectoriesCompleter}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/py-pdf/fpdf2/pull/1883}{fpdf2}} $|$ {\small $\bigstar$ 1.5k stars} \textnormal{ -- Handle escaped markdown markers inside markdown links}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/jsonpickle/jsonpickle/pull/612}{jsonpickle}} $|$ {\small $\bigstar$ 1.3k stars} \textnormal{ -- fix: NumPy view py/id desync when base is shared}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/mpmath/mpmath/pull/1123}{mpmath}} $|$ {\small $\bigstar$ 1.2k stars} \textnormal{ -- fix: close leftover figure in plotting functions on error}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/onmyway133/awesome-swiftui/pull/59}{awesome-swiftui}} $|$ {\small $\bigstar$ 1.1k stars} \textnormal{ -- add Verceltics to the open-source SwiftUI apps list}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/DasterProkio/awesome-ai-companion/pull/10}{awesome-ai-companion}} $|$ {\small $\bigstar$ 971 stars} \textnormal{ -- docs: add Scowld companion client}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/djlint/djLint/pull/2206}{djLint}} $|$ {\small $\bigstar$ 951 stars} \textnormal{ -- fix: keep template variable in an HTML attribute name on one line}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/CCExtractor/ccextractor/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{ccextractor}} $|$ {\small $\bigstar$ 905 stars} \textnormal{ -- 2 merged PRs: Fix null pointer dereference in…; Fix configuration file parsing bugs…}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/micheles/decorator/pull/186}{decorator}} $|$ {\small $\bigstar$ 903 stars} \textnormal{ -- fix: FunctionMaker.create() with return type annotations}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/yukinarit/pyserde/pull/775}{pyserde}} $|$ {\small $\bigstar$ 851 stars} \textnormal{ -- fix: nested generic dataclass deserialization}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/pygraphviz/pygraphviz/pull/639}{pygraphviz}} $|$ {\small $\bigstar$ 848 stars} \textnormal{ -- fix: graph attribute masking node/edge defaults}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/ikamensh/flynt/pull/254}{flynt}} $|$ {\small $\bigstar$ 733 stars} \textnormal{ -- fix: don't convert \%c percent formatting to f-strings}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/koordinates/kart/pull/1120}{kart}} $|$ {\small $\bigstar$ 683 stars} \textnormal{ -- fix: export crash for generic GEOMETRY Z/M/ZM types}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/WhyNotHugo/python-barcode/commit/73316bf7e485b8aefcf89f3aaab8f76b8f261375}{python-barcode}} $|$ {\small $\bigstar$ 658 stars} \textnormal{ -- fix: make Code128 build() deterministic across repeated calls}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/styled-components/styled-components-website/pull/993}{styled-components-website}} $|$ {\small $\bigstar$ 619 stars} \textnormal{ -- fix: improve site accessibility to WCAG 2.1}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/PyCQA/docformatter/pull/360}{docformatter}} $|$ {\small $\bigstar$ 598 stars} \textnormal{ -- fix: prevent ValueError on blank lines with trailing whitespace}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/resend/resend-mcp/pull/166}{resend-mcp}} $|$ {\small $\bigstar$ 576 stars} \textnormal{ -- feat: improve validation order for command running}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/mjs/imapclient/pull/644}{IMAPClient}} $|$ {\small $\bigstar$ 563 stars} \textnormal{ -- fix: reset IMAP state to AUTH after unselect\_folder()}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/giselles-ai/giselle/pull/2739}{giselle}} $|$ {\small $\bigstar$ 557 stars} \textnormal{ -- fix: use continue instead of return in handleEdgesChange}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/guibranco/BancosBrasileiros/pull/895}{BancosBrasileiros}} $|$ {\small $\bigstar$ 550 stars} \textnormal{ -- fix: redirected bank URLs reported by link checker}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/netromdk/vermin/pull/344}{vermin}} $|$ {\small $\bigstar$ 535 stars} \textnormal{ -- fix: detect keyword arguments correctly for chained receivers}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/fork-commit-merge/fork-commit-merge/pull/6370}{fork-commit-merge}} $|$ {\small $\bigstar$ 515 stars} \textnormal{ -- solve: filter even numbers from array}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/OpenRouterTeam/awesome-openrouter/pull/103}{awesome-openrouter}} $|$ {\small $\bigstar$ 510 stars} \textnormal{ -- add Fud AI to the OpenRouter app directory}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/python-poetry/poetry-core/pull/953}{poetry-core}} $|$ {\small $\bigstar$ 481 stars} \textnormal{ -- fix: Version.difference with local variants of the same version}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/SpamScope/mail-parser/pull/161}{mail-parser}} $|$ {\small $\bigstar$ 458 stars} \textnormal{ -- fix: address parsing on Python versions before 3.13}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/tefra/xsdata/pull/1224}{xsdata}} $|$ {\small $\bigstar$ 452 stars} \textnormal{ -- fix: wrapper binding when a collection item name is reused}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/Pylons/webob/pull/496}{WebOb}} $|$ {\small $\bigstar$ 443 stars} \textnormal{ -- fix: make timedelta date headers UTC-based (authored commit)}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/moinwiki/moin/pull/2166}{moin}} $|$ {\small $\bigstar$ 374 stars} \textnormal{ -- fix: markdown parser crash on emphasized text inside HTML tags}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/aregtech/areg-sdk/pull/675}{areg-sdk}} $|$ {\small $\bigstar$ 369 stars} \textnormal{ -- add comprehensive unit tests for the String class}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/radis/radis/pull/918}{radis}} $|$ {\small $\bigstar$ 285 stars} \textnormal{ -- fix: inconsistent spectral\_points reporting}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/click-contrib/click-repl/pull/136}{click-repl}} $|$ {\small $\bigstar$ 243 stars} \textnormal{ -- fix: stop boolean flags from offering value completions}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/dotnet/docs-desktop/pull/2197}{docs-desktop}} \textnormal{(by .NET)} $|$ {\small $\bigstar$ 237 stars} \textnormal{ -- fix: MD001 heading violations in WinForms docs}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/gristlabs/asttokens/pull/174}{asttokens}} $|$ {\small $\bigstar$ 196 stars} \textnormal{ -- fix: IndexError with mixed CR and LF line endings}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/adbar/htmldate/pull/194}{htmldate}} $|$ {\small $\bigstar$ 157 stars} \textnormal{ -- fix: preserve time and timezone for regex-extracted dates}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/tomasz-buczek/awesome-ai-companions/pull/18}{awesome-ai-companions}} $|$ {\small $\bigstar$ 52 stars} \textnormal{ -- add Scowld to open-source companions}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/petertzy/markdown-reader/pull/84}{markdown-reader}} $|$ {\small $\bigstar$ 40 stars} \textnormal{ -- fix: NameError in choose\_bg\_color when color picker is cancelled}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/opcotech/elemo/pull/394}{elemo}} $|$ {\small $\bigstar$ 39 stars} \textnormal{ -- feat: add project endpoints to the OpenAPI spec}}{}
+      \resumeProjectHeading{\textbf{\href{https://github.com/abordage/awesome-mac/pulls?q=is\%3Apr\%20is\%3Amerged\%20author\%3Aapoorvdarshan}{awesome-mac}} $|$ {\small $\bigstar$ 27 stars} \textnormal{ -- 4 merged PRs: add TetherShot to screen capture; Add MacBook 24x7 Agents}}{}
+
+    \resumeSubHeadingListEnd
+
+%-----------HONORS & AWARDS-----------
+\section{Honors \& Awards}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+       \textbf{Dean's List} -- CGPA 3.50--3.84, B.S. CS, University of the People (Term 4, 2025--2026 academic year) & Aug 2026 \\[0pt]
+       \textbf{Graduation Recognition Letter} -- University of the People President Shai Reshef, B.S. CS & Jul 2026 \\[0pt]
+       \textbf{President's List} -- CGPA 3.85--4.00, B.S. CS, University of the People & Apr 2026 \\[0pt]
+       \textbf{LinkedIn} -- Reached 13K+ followers & Aug 2026 \\[0pt]
+       \textbf{Dean's List} -- CGPA 3.50--3.84, B.S. CS, University of the People & Feb 2026 \\[0pt]
+       \textbf{LOR} -- Outstanding Performance in Mathematics --- Mr. Eddy Kamboh, UoPeople & Jan 2026 \\[0pt]
+       \textbf{Problem Solver Diamond Badge} -- CodeChef (1000 problems completed) & Jan 2026 \\[0pt]
+       \textbf{LOR} -- Outstanding Performance in Computer Science --- Engr. Ola Fatai Ayanleke, UoPeople & Oct 2025 \\[0pt]
+       \textbf{YouTube} -- Built Mr Alpha Delta (later Tales Through Toons) to 21.5K+ subscribers; sold to private buyer & Dec 2024 \\[0pt]
+       \textbf{ACE-CPT + US REPS} -- NCCA-accredited Certified Personal Trainer & 2024 \\[0pt]
+       \textbf{JEE 2023} -- Ranked in top 1.5\% nationally & 2023 \\[0pt]
+       \textbf{Certificate of Merit} -- Top 0.1\% nationally in Social Science, Class 10, CBSE & Feb 2021 \\[0pt]
+       \textbf{IOQM + RMO} -- Indian Math Olympiad: top 300 state (MP); appeared in Regional round & 2019 \\
+     \end{tabular*}
+    }}
+ \end{itemize}
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: JavaScript, TypeScript, Python, Swift, Kotlin, Go, Dart, Java, C, HTML, CSS, Shell/Bash, LaTeX} \\
+     \textbf{Frameworks \& Libraries}{: React, Next.js, Vue.js, Node.js, Express.js, SwiftUI, Jetpack Compose, Flutter, Playwright, Vite, Redux, React Query, Tailwind CSS, Bootstrap, Three.js, TensorFlow.js, MediaPipe, Astro} \\
+     \textbf{Mobile \& Native}{: AVFoundation, HealthKit, Health Connect, CameraX, ML Kit, CloudKit, Swift Package Manager} \\
+     \textbf{APIs \& Infrastructure}{: REST APIs, GraphQL, OpenAPI, OAuth 2.0, JWT, MCP, Cloudflare Workers, Docker, Chrome Extensions (Manifest V3)} \\
+     \textbf{Databases \& Tools}{: MongoDB, PostgreSQL, Supabase, Git, GitHub, Xcode, Android Studio, VS Code, Vercel, Render, npm, Homebrew, Blender, FFmpeg} \\
+     \textbf{AI \& Automation}{: OpenAI API, Anthropic API, Gemini API, ElevenLabs, Claude Code, Codex, Cursor} \\
+     \textbf{Platforms}{: iOS, Android, macOS, Web, CLI, Linux/Ubuntu}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

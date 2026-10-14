@@ -17,10 +17,10 @@ class LocalResumeSyncTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         root = Path(self.temp.name)
         state = root / 'state'
-        repo = root / 'private'
+        repo = root / 'profile' / 'resume'
         targets = [root / 'rekisei', root / 'Documents']
         for folder in [state, repo, *targets]:
-            folder.mkdir()
+            folder.mkdir(parents=True)
         for ext in ['.tex', '.pdf']:
             (repo / (sync.NAME + ext)).write_bytes(b'cloud-' + ext.encode())
             for folder in targets:
@@ -30,15 +30,17 @@ class LocalResumeSyncTests(unittest.TestCase):
             patch.object(sync, 'STATE_DIR', state),
             patch.object(sync, 'STATE_FILE', state / 'state.json'),
             patch.object(sync, 'BACKUP_DIR', state / 'resume-backups'),
-            patch.object(sync, 'REPO', repo),
+            patch.object(sync, 'REPO', repo.parent),
+            patch.object(sync, 'RESUME', repo),
             patch.object(sync, 'TARGETS', targets),
-            patch.object(sync.subprocess, 'check_output', return_value=''),
+            patch.object(sync.subprocess, 'check_output', side_effect=self.git_output),
             patch.object(sync.subprocess, 'run'),
             patch.object(sync.sys, 'argv', ['sync-local-resume.py']),
         ]
         for p in self.patches:
             p.start()
             self.addCleanup(p.stop)
+        self.branch, self.status = 'main\n', ''
         sync.STATE_FILE.write_text(json.dumps(sync.snapshot()))
         self.original = sync.snapshot()
         (repo / 'build.json').write_text(json.dumps({
@@ -46,11 +48,14 @@ class LocalResumeSyncTests(unittest.TestCase):
             'pdfSha256': sync.digest(repo / (sync.NAME + '.pdf')),
         }))
 
+    def git_output(self, args, **_):
+        return self.branch if 'branch' in args else self.status
+
     def test_updates_all_copies_with_dated_backups_and_is_idempotent(self):
         sync.main()
         for folder in sync.TARGETS:
             for ext in ['.tex', '.pdf']:
-                self.assertEqual(sync.digest(folder / (sync.NAME + ext)), sync.digest(sync.REPO / (sync.NAME + ext)))
+                self.assertEqual(sync.digest(folder / (sync.NAME + ext)), sync.digest(sync.RESUME / (sync.NAME + ext)))
         backup_root = sync.BACKUP_DIR
         backups = list(backup_root.iterdir())
         self.assertEqual(len(backups), 1)
@@ -70,16 +75,23 @@ class LocalResumeSyncTests(unittest.TestCase):
         self.assertFalse(sync.BACKUP_DIR.exists())
 
     def test_bad_manifest_stops_all_destination_writes(self):
-        (sync.REPO / (sync.NAME + '.pdf')).write_bytes(b'unverified output')
+        (sync.RESUME / (sync.NAME + '.pdf')).write_bytes(b'unverified output')
         with self.assertRaisesRegex(RuntimeError, 'build manifest'):
             sync.main()
         self.assertEqual(sync.snapshot(), self.original)
 
-    def test_dirty_private_checkout_stops_before_pull(self):
-        with patch.object(sync.subprocess, 'check_output', return_value=' M private.tex'):
-            with self.assertRaisesRegex(RuntimeError, 'local edits'):
-                sync.main()
+    def test_dirty_checkout_stops_before_pull(self):
+        self.status = ' M resume/Apoorv_Darshan_Resume.tex'
+        with self.assertRaisesRegex(RuntimeError, 'local edits'):
+            sync.main()
         sync.subprocess.run.assert_not_called()
+
+    def test_feature_branch_checkout_stops_before_pull(self):
+        self.branch = 'feature\n'
+        with self.assertRaisesRegex(RuntimeError, 'not on main'):
+            sync.main()
+        sync.subprocess.run.assert_not_called()
+        self.assertEqual(sync.snapshot(), self.original)
 
 
 if __name__ == '__main__':

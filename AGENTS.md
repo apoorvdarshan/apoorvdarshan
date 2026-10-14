@@ -6,11 +6,12 @@ website/AGENTS.md for content/metrics rules. profile and rekisei are archived.
 - README.md is the GitHub profile and canonical public project listing.
 - website/ contains the Cloudflare site, public resume PDF, and automation.
 - resume/template/ preserves the public sample LaTeX template and license.
-- ~/profile-resume-private holds personal LaTeX and the verified PDF/build.json.
-  Never copy personal source, credentials, or private outreach into this repo.
-- Documents resume source/PDF symlinks point to that private checkout. Preserve
-  them. The local sync job pulls and verifies the private source/PDF pair; there
-  is no separate rekisei copy anymore.
+- resume/ holds the personal LaTeX, verified PDF, build.json and the exact
+  download-history snapshots (merged from the former profile-resume-private
+  repo, now archived). Never commit credentials or private outreach logs.
+- Documents resume source/PDF symlinks point into ~/apoorvdarshan/resume/.
+  Preserve them. The local sync job fast-forwards this checkout only when it is
+  clean and on main, then verifies the source/PDF pair against build.json.
 
 When asked to add, update, rename, or remove a profile project, update the README,
 website, and applicable personal resume entry as one task unless scope is
@@ -23,16 +24,16 @@ the generated diff; npm run build; commit/push authorized changes; npm run deplo
 Local README and star snapshots are used by default. The existing domain and
 Worker identity remain apoorvdarshan.com / apoorv-profile.
 
-For personal resume changes, work in the private repo, then from website/ run:
-PROFILE_RESUME_PATH="$HOME/profile-resume-private/Apoorv_Darshan_Resume.tex" python3 scripts/automation/build-resume.py
+For personal resume changes, edit resume/Apoorv_Darshan_Resume.tex, then from website/ run:
+PROFILE_RESUME_PATH="$HOME/apoorvdarshan/resume/Apoorv_Darshan_Resume.tex" python3 scripts/automation/build-resume.py
 Use a Python environment with the locked automation requirements installed.
-Render and inspect affected PDF pages, commit/push private source/PDF/build.json,
-then commit the public website/public/Apoorv_Darshan_Resume.pdf. Never open a
-PDF viewer automatically. Documents links then resolve to the updated pair.
+Render and inspect affected PDF pages, then commit resume/ source/PDF/build.json
+together with website/public/Apoorv_Darshan_Resume.pdf. Never open a PDF viewer
+automatically. Documents links then resolve to the updated pair.
 
 The six-hour refresh workflow lives in .github/workflows/refresh-profile.yml.
-It checks out only this public repo plus the private resume repo, refreshes
-verified metrics, builds the PDF/site, pushes managed files, and deploys.
+It checks out only this public repo, refreshes verified metrics, builds the
+PDF/site, pushes managed files (including resume/), and deploys.
 Preserve failure reporting, secret isolation, source/PDF hash validation, and
 local-edit protection. Follow repository protections and verify live output.
 
@@ -89,15 +90,15 @@ When a new top item pushes a section past 10 `<li>` entries, move the last `<li>
 
 ## Download counts
 
-- The current App Store Connect snapshot is private `~/profile-resume-private/ios-downloads.json`, also linked from `~/Documents/asc_downloads.json`. The cloud checker updates the six configured iOS apps once per UTC day; see `~/apoorvdarshan/website/scripts/automation/README.md`. Marketing download figures use **first-time** downloads only (not all-events totals that include auto/manual updates).
-- **Fud AI** combines automated ASC first-time downloads with daily verified Google Play first-time installs from private `~/profile-resume-private/android-downloads.json`. Never substitute the all-events total. Exact download history stays in the private resume repo; public badges round down.
+- The current App Store Connect snapshot is `resume/ios-downloads.json`, also linked from `~/Documents/asc_downloads.json`. The cloud checker updates the six configured iOS apps once per UTC day; see `~/apoorvdarshan/website/scripts/automation/README.md`. Marketing download figures use **first-time** downloads only (not all-events totals that include auto/manual updates).
+- **Fud AI** combines automated ASC first-time downloads with daily verified Google Play first-time installs from `resume/android-downloads.json`. Never substitute the all-events total. Exact download history is published in `resume/`; badges round down.
 - In this README, show download counts as **maroon/blood-red flat-square tiles** beside the star badges (or right after `</strong>` / status if no stars). Automated iOS and npm badges use the site's Cloudflare Worker directly, e.g. `<img alt="Downloads: 9K+" src="https://apoorvdarshan.com/badges/downloads/v1/9K%2B.svg">` (encode `+` as `%2B`, color `8B1A1A`). Preserve these URLs in automation; other curated download badges may retain Shields URLs.
 - Chrome Web Store extensions use **`Users: N`** Cloudflare-served maroon tiles (public user count, not installs), e.g. `<img alt="Users: 10+" src="https://apoorvdarshan.com/badges/users/v1/10%2B.svg">`. Only add when the extension is listed publicly. Under 10 users, show the exact count (e.g. `Users: 4`); at 10+ use a floor like `10+`.
 - Do **not** keep trailing `(Nk+ downloads)` parentheticals in README descriptions once download badges exist — the profile site parses `alt="Downloads: …"` and renders plain `↓` text beside ★ (same look as `.star-count`, not a maroon pill).
 
 - npm counts are lifetime package downloads from publication through the latest completed reporting date, including repeat/CI downloads. Five packages are explicitly mapped in `~/apoorvdarshan/website/scripts/automation/npm-downloads.json`; audit totals and source URLs live in `profile-automation/npm-downloads.json`. No npm key or 2FA bypass is needed. The final distribution step combines npm with configured stable GitHub asset download events; do not add Homebrew again when its cask uses those same assets.
 
-- Android reporting uses a dedicated read-only service account with GitHub OIDC, covering current/future Play Console apps without per-app keys. Discovery remains private; explicitly validate lifetime history/metric and map a production app before publishing its count. Sum Daily User Installs once per overview date; never use the zero-filled legacy Total User Installs column or add device/country dimensions. Preserve old verified counts on failure. See `~/apoorvdarshan/website/scripts/automation/README.md`.
+- Android reporting uses a dedicated read-only service account with GitHub OIDC, covering current/future Play Console apps without per-app keys. Only configured packages are read or saved; explicitly validate lifetime history/metric and map a production app before adding it. Sum Daily User Installs once per overview date; never use the zero-filled legacy Total User Installs column or add device/country dimensions. Preserve old verified counts on failure. See `~/apoorvdarshan/website/scripts/automation/README.md`.
 
 ## Description Length
 
@@ -142,7 +143,7 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 - Check merged PRs only for `apoorvdarshan`. Use only this account for contribution discovery and future merge-check automation.
 - `.github/workflows/refresh-profile.yml` runs every six hours or manually, commits directly without review PRs, and deploys the website after validation. Implementation lives in `website/scripts/automation/`; verified public data lives in `profile-automation/contributions.json` here.
 - Preserve personal-project prose and authored-commit credits. New merged contribution repositories get shortened PR titles; multi-PR repositories refresh their descriptions from the newest 2–3 distinct PR titles (by merge time), shortened to the one-line limit. Keep total merged counts and linked attribution, and mirror generated descriptions into the resume. OSS sorts by current stars. Personal project order remains editorial. The six configured iOS download badges update daily from ASC, Fud AI Android from authenticated Google Play overview reports, and five npm package totals through the public npm API; configured Chrome Web Store user badges refresh daily.
-- The same run updates/reorders resume OSS, rebuilds and validates its PDF, and publishes both existing resume URLs. Personal source/PDF/build manifest live in private `apoorvdarshan/profile-resume-private`; keep manual edits synchronized there so the next cloud run preserves them. The Mac sync keeps dated backups and refuses to overwrite local edits.
+- The same run updates/reorders resume OSS, rebuilds and validates its PDF, and publishes both existing resume URLs. Personal source/PDF/build manifest live in `resume/`; commit manual edits there so the next cloud run preserves them. The Mac sync keeps dated backups and refuses to overwrite local edits.
 
 - `distribution_counts.py` runs after mobile/npm refresh: six explicitly mapped release repositories and two public Chrome store listings. GitHub assets are allowlisted (no checksums, signatures, AABs, drafts or prereleases), paginated and summed once per asset. Combined download events are not unique installs; Fud AI adds APK events to the unchanged first-time store subtotal. Homebrew casks for TetherShot and Browser Cookie Bridge use GitHub assets: never sum those installs again. Chrome users remain a separate metric and may decrease. Public audit: `profile-automation/distribution-counts.json`. Failed sources keep their previous verified snapshot; missing first snapshots leave existing copy untouched and fail the health check. Newest YouTube Search and Streaming Indian Filter have no store listings or release assets; do not invent counts.
 

@@ -1,4 +1,4 @@
-"""Daily ASC download totals. Report history stays in the private resume repo.
+"""Daily ASC download totals. Aggregated daily history is stored in resume/.
 
 Apple's most recent processingDate replaces the ENTIRE event-date partition,
 including all segments. Never add overlapping daily instances or mix granularities.

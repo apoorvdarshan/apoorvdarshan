@@ -1,0 +1,7809 @@
+{
+  "version": 1,
+  "checked_on": "2026-10-14",
+  "baseline_note": "Complete lifetime daily history verified in App Store Connect Analytics UI, range 2024-01-01 through 2026-10-09. Every overlapping API day matched exactly. Future API report revisions replace date partitions.",
+  "apps": {
+    "6758935726": {
+      "history_start": "2026-02-11",
+      "history_source": "full ASC report history",
+      "baseline": {
+        "through": "2023-12-31",
+        "counts": {
+          "first_time": 0,
+          "redownload": 0
+        },
+        "source": "Full ASC historical snapshot"
+      },
+      "days": {
+        "2026-02-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-02-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 2
+          }
+        },
+        "2026-02-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-02-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-02-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-02-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-02-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-03-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-03-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-03-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 0
+          }
+        },
+        "2026-04-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 61,
+            "redownload": 0
+          }
+        },
+        "2026-04-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 232,
+            "redownload": 6
+          }
+        },
+        "2026-04-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 153,
+            "redownload": 8
+          }
+        },
+        "2026-04-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 1152,
+            "redownload": 11
+          }
+        },
+        "2026-04-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 313,
+            "redownload": 9
+          }
+        },
+        "2026-04-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 329,
+            "redownload": 6
+          }
+        },
+        "2026-04-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 191,
+            "redownload": 7
+          }
+        },
+        "2026-04-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 188,
+            "redownload": 5
+          }
+        },
+        "2026-04-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 101,
+            "redownload": 9
+          }
+        },
+        "2026-04-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 67,
+            "redownload": 3
+          }
+        },
+        "2026-04-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 79,
+            "redownload": 6
+          }
+        },
+        "2026-04-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 71,
+            "redownload": 6
+          }
+        },
+        "2026-04-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 53,
+            "redownload": 6
+          }
+        },
+        "2026-04-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 61,
+            "redownload": 2
+          }
+        },
+        "2026-04-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 45,
+            "redownload": 3
+          }
+        },
+        "2026-04-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 45,
+            "redownload": 5
+          }
+        },
+        "2026-04-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 1
+          }
+        },
+        "2026-04-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 33,
+            "redownload": 3
+          }
+        },
+        "2026-04-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 1
+          }
+        },
+        "2026-04-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 37,
+            "redownload": 0
+          }
+        },
+        "2026-04-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 31,
+            "redownload": 4
+          }
+        },
+        "2026-04-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 25,
+            "redownload": 3
+          }
+        },
+        "2026-04-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 2
+          }
+        },
+        "2026-04-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 31,
+            "redownload": 0
+          }
+        },
+        "2026-04-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-05-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 1
+          }
+        },
+        "2026-05-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 1
+          }
+        },
+        "2026-05-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 1
+          }
+        },
+        "2026-05-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 1
+          }
+        },
+        "2026-05-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 1
+          }
+        },
+        "2026-05-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 0
+          }
+        },
+        "2026-05-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 1
+          }
+        },
+        "2026-05-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 2
+          }
+        },
+        "2026-05-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 0
+          }
+        },
+        "2026-05-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 1
+          }
+        },
+        "2026-05-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 1
+          }
+        },
+        "2026-05-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 32,
+            "redownload": 1
+          }
+        },
+        "2026-05-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 2
+          }
+        },
+        "2026-05-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 0
+          }
+        },
+        "2026-05-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 3
+          }
+        },
+        "2026-05-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 1
+          }
+        },
+        "2026-05-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 1
+          }
+        },
+        "2026-05-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 25,
+            "redownload": 0
+          }
+        },
+        "2026-05-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 1
+          }
+        },
+        "2026-05-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-05-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-05-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-05-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-05-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-05-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-05-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 1
+          }
+        },
+        "2026-05-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 0
+          }
+        },
+        "2026-05-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 3
+          }
+        },
+        "2026-05-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-05-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-05-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 1
+          }
+        },
+        "2026-06-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 1
+          }
+        },
+        "2026-06-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 3
+          }
+        },
+        "2026-06-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 1
+          }
+        },
+        "2026-06-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 2
+          }
+        },
+        "2026-06-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-06-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 25,
+            "redownload": 1
+          }
+        },
+        "2026-06-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 0
+          }
+        },
+        "2026-06-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 1
+          }
+        },
+        "2026-06-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 0
+          }
+        },
+        "2026-06-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 1
+          }
+        },
+        "2026-06-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 0
+          }
+        },
+        "2026-06-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-06-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 1
+          }
+        },
+        "2026-06-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 26,
+            "redownload": 0
+          }
+        },
+        "2026-06-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 1
+          }
+        },
+        "2026-06-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 2
+          }
+        },
+        "2026-06-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 1
+          }
+        },
+        "2026-06-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-06-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-06-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-06-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 4
+          }
+        },
+        "2026-06-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 1
+          }
+        },
+        "2026-06-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 2
+          }
+        },
+        "2026-06-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 27,
+            "redownload": 1
+          }
+        },
+        "2026-06-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 2
+          }
+        },
+        "2026-06-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 1
+          }
+        },
+        "2026-06-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 0
+          }
+        },
+        "2026-06-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 1
+          }
+        },
+        "2026-06-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 1
+          }
+        },
+        "2026-06-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 2
+          }
+        },
+        "2026-07-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 3
+          }
+        },
+        "2026-07-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 2
+          }
+        },
+        "2026-07-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 1
+          }
+        },
+        "2026-07-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-07-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 0
+          }
+        },
+        "2026-07-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 28,
+            "redownload": 0
+          }
+        },
+        "2026-07-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 5
+          }
+        },
+        "2026-07-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 2
+          }
+        },
+        "2026-07-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 5
+          }
+        },
+        "2026-07-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 1
+          }
+        },
+        "2026-07-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 2
+          }
+        },
+        "2026-07-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 1
+          }
+        },
+        "2026-07-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-07-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 2
+          }
+        },
+        "2026-07-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 2
+          }
+        },
+        "2026-07-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 1
+          }
+        },
+        "2026-07-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 2
+          }
+        },
+        "2026-07-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 1
+          }
+        },
+        "2026-07-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 1
+          }
+        },
+        "2026-07-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 1
+          }
+        },
+        "2026-07-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 1
+          }
+        },
+        "2026-07-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 23,
+            "redownload": 2
+          }
+        },
+        "2026-07-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 2
+          }
+        },
+        "2026-07-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-07-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 1
+          }
+        },
+        "2026-07-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 0
+          }
+        },
+        "2026-07-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 26,
+            "redownload": 5
+          }
+        },
+        "2026-07-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 1
+          }
+        },
+        "2026-07-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 3
+          }
+        },
+        "2026-07-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 25,
+            "redownload": 0
+          }
+        },
+        "2026-07-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 0
+          }
+        },
+        "2026-08-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 2
+          }
+        },
+        "2026-08-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-08-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 28,
+            "redownload": 2
+          }
+        },
+        "2026-08-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 4
+          }
+        },
+        "2026-08-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 2
+          }
+        },
+        "2026-08-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 1
+          }
+        },
+        "2026-08-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 0
+          }
+        },
+        "2026-08-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 3
+          }
+        },
+        "2026-08-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 28,
+            "redownload": 1
+          }
+        },
+        "2026-08-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 37,
+            "redownload": 3
+          }
+        },
+        "2026-08-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 33,
+            "redownload": 2
+          }
+        },
+        "2026-08-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 46,
+            "redownload": 0
+          }
+        },
+        "2026-08-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 34,
+            "redownload": 3
+          }
+        },
+        "2026-08-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 37,
+            "redownload": 1
+          }
+        },
+        "2026-08-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 33,
+            "redownload": 2
+          }
+        },
+        "2026-08-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 41,
+            "redownload": 1
+          }
+        },
+        "2026-08-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 35,
+            "redownload": 3
+          }
+        },
+        "2026-08-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 46,
+            "redownload": 1
+          }
+        },
+        "2026-08-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 36,
+            "redownload": 4
+          }
+        },
+        "2026-08-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 1
+          }
+        },
+        "2026-08-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 30,
+            "redownload": 2
+          }
+        },
+        "2026-08-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 3
+          }
+        },
+        "2026-08-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 34,
+            "redownload": 2
+          }
+        },
+        "2026-08-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 25,
+            "redownload": 3
+          }
+        },
+        "2026-08-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 31,
+            "redownload": 2
+          }
+        },
+        "2026-08-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 2
+          }
+        },
+        "2026-08-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 32,
+            "redownload": 1
+          }
+        },
+        "2026-08-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 22,
+            "redownload": 0
+          }
+        },
+        "2026-08-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 4
+          }
+        },
+        "2026-08-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 27,
+            "redownload": 3
+          }
+        },
+        "2026-08-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 1
+          }
+        },
+        "2026-09-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 38,
+            "redownload": 6
+          }
+        },
+        "2026-09-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 31,
+            "redownload": 1
+          }
+        },
+        "2026-09-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 3
+          }
+        },
+        "2026-09-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 29,
+            "redownload": 0
+          }
+        },
+        "2026-09-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 6
+          }
+        },
+        "2026-09-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 33,
+            "redownload": 2
+          }
+        },
+        "2026-09-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 28,
+            "redownload": 0
+          }
+        },
+        "2026-09-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 25,
+            "redownload": 0
+          }
+        },
+        "2026-09-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 26,
+            "redownload": 1
+          }
+        },
+        "2026-09-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 27,
+            "redownload": 1
+          }
+        },
+        "2026-09-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 2
+          }
+        },
+        "2026-09-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 27,
+            "redownload": 1
+          }
+        },
+        "2026-09-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 40,
+            "redownload": 4
+          }
+        },
+        "2026-09-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 26,
+            "redownload": 1
+          }
+        },
+        "2026-09-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 28,
+            "redownload": 2
+          }
+        },
+        "2026-09-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 36,
+            "redownload": 2
+          }
+        },
+        "2026-09-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 35,
+            "redownload": 0
+          }
+        },
+        "2026-09-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 31,
+            "redownload": 2
+          }
+        },
+        "2026-09-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 27,
+            "redownload": 3
+          }
+        },
+        "2026-09-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 47,
+            "redownload": 2
+          }
+        },
+        "2026-09-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 37,
+            "redownload": 1
+          }
+        },
+        "2026-09-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 43,
+            "redownload": 6
+          }
+        },
+        "2026-09-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 31,
+            "redownload": 1
+          }
+        },
+        "2026-09-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 32,
+            "redownload": 6
+          }
+        },
+        "2026-09-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 26,
+            "redownload": 0
+          }
+        },
+        "2026-09-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 30,
+            "redownload": 2
+          }
+        },
+        "2026-09-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 51,
+            "redownload": 3
+          }
+        },
+        "2026-09-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 36,
+            "redownload": 3
+          }
+        },
+        "2026-09-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 38,
+            "redownload": 1
+          }
+        },
+        "2026-09-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 26,
+            "redownload": 2
+          }
+        },
+        "2026-10-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 28,
+            "redownload": 1
+          }
+        },
+        "2026-10-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 33,
+            "redownload": 3
+          }
+        },
+        "2026-10-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 34,
+            "redownload": 2
+          }
+        },
+        "2026-10-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 34,
+            "redownload": 5
+          }
+        },
+        "2026-10-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 37,
+            "redownload": 1
+          }
+        },
+        "2026-10-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 50,
+            "redownload": 5
+          }
+        },
+        "2026-10-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 49,
+            "redownload": 1
+          }
+        },
+        "2026-10-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 44,
+            "redownload": 3
+          }
+        },
+        "2026-10-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 29,
+            "redownload": 3
+          }
+        },
+        "2026-10-10": {
+          "revision": [
+            "2026-10-12",
+            0,
+            "4a9f867c-5c11-445d-ba3e-c7a9630ed7c9"
+          ],
+          "counts": {
+            "first_time": 29,
+            "redownload": 1
+          }
+        },
+        "2026-03-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-10-11": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "28dbad4a-3583-41e5-adfe-f5a7a0ea1165"
+          ],
+          "counts": {
+            "first_time": 48,
+            "redownload": 2
+          }
+        },
+        "2026-03-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-04-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-03-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "8291da11-4dd1-4316-94a8-d75066a81939"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-10-12": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "28dbad4a-3583-41e5-adfe-f5a7a0ea1165"
+          ],
+          "counts": {
+            "first_time": 47,
+            "redownload": 5
+          }
+        }
+      },
+      "seen_instances": {
+        "4fd0f4ec-8dca-4705-8509-4d4fdcd06a57": "2026-09-09",
+        "cc4160f4-ad08-4d96-88aa-40aef534c7a7": "2026-09-10",
+        "378c3859-0e9c-495c-9255-4436a3413400": "2026-09-11",
+        "c014f1de-9ac5-4c0e-8b25-6128ae5a42a2": "2026-09-12",
+        "8aba30bb-3965-4ea7-a1b3-715463370b2b": "2026-09-13",
+        "f3ccdde6-d834-43f4-983b-3f745bc59c64": "2026-09-14",
+        "cd9ded34-e809-4cfd-bc49-793570e68583": "2026-09-15",
+        "8b9913ca-a06c-4ed4-824d-da7676e77e45": "2026-09-16",
+        "338b440f-056a-43a0-9914-1a0d051a8d7a": "2026-09-17",
+        "7ff435b8-e519-4f4d-a1c7-b8297a756752": "2026-09-18",
+        "42edf677-b4dc-436b-82a7-5c3d292e6dc4": "2026-09-19",
+        "ae804287-1e8f-4716-bc5a-7ffdcaf5af01": "2026-09-20",
+        "2a9fdaf9-015c-4a33-bca1-4a1c10e43dcf": "2026-09-21",
+        "ed829456-69c7-4054-93f2-466136fd2498": "2026-09-22",
+        "078a7d82-2aeb-49d2-b576-52d62355c896": "2026-09-23",
+        "5f0ce294-f2bd-4790-80fb-3ee395125510": "2026-09-24",
+        "dd5346d8-46b6-4e48-8ebe-c596dcfdb2dd": "2026-09-25",
+        "97a8db89-939c-411f-82d0-36a1e8eb0ef5": "2026-09-26",
+        "99aac893-36b6-4791-8d84-903b23dea3de": "2026-09-27",
+        "0d84abf5-7b5c-474e-9adf-55c6f9548a26": "2026-09-28",
+        "dae180e7-f265-4945-a868-138448d72731": "2026-09-29",
+        "9d408950-c775-4743-bc50-0aaa6e272045": "2026-09-30",
+        "d7006d0f-541e-4c5b-aa5a-074f592144cb": "2026-10-01",
+        "ee28166d-498b-44d3-a6dc-4bc07df13081": "2026-10-02",
+        "70465dad-2bf1-4a17-9ccd-47dba8e29a79": "2026-10-03",
+        "ac28a78e-7019-4329-952f-a428f2eee065": "2026-10-04",
+        "2091f212-8f75-4a4a-b547-a1e0479487f1": "2026-10-05",
+        "79ed9a17-d2ce-4365-80dd-5e4555490b8f": "2026-10-06",
+        "b8e288f3-4048-443d-ad08-3ef0a510de99": "2026-10-07",
+        "9fbe3b7e-3a33-491e-8359-7fa1fe54fd00": "2026-10-08",
+        "2593eb97-8979-42f5-ac2a-e72094e060ae": "2026-10-09",
+        "134b6e69-ad2b-45a9-a564-c2396cd0fa67": "2026-10-10",
+        "2eb31047-684e-4f41-b8d7-9047b7614065": "2026-10-11",
+        "4a9f867c-5c11-445d-ba3e-c7a9630ed7c9": "2026-10-12",
+        "28dbad4a-3583-41e5-adfe-f5a7a0ea1165": "2026-10-13"
+      },
+      "imported_snapshots": [
+        "b4b459db-4b7a-490a-a2a8-dd2044de2b90"
+      ],
+      "checked_on": "2026-10-14",
+      "bootstrap": {
+        "verified_on": "2026-10-11",
+        "through": "2026-10-09",
+        "first_time": 7200,
+        "redownload": 358,
+        "source_urls": [
+          "https://appstoreconnect.apple.com/apps/6758935726/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=units",
+          "https://appstoreconnect.apple.com/apps/6758935726/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=redownloads"
+        ],
+        "api_overlap": "All available days through 2026-10-09 matched exactly"
+      },
+      "complete_through": "2026-10-11"
+    },
+    "6792598227": {
+      "history_start": "2026-07-24",
+      "history_source": "full ASC report history",
+      "baseline": {
+        "through": "2023-12-31",
+        "counts": {
+          "first_time": 0,
+          "redownload": 0
+        },
+        "source": "Full ASC historical snapshot"
+      },
+      "days": {
+        "2026-07-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-09-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-09-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-09-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-09-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-09-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-09-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 1
+          }
+        },
+        "2026-09-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 1
+          }
+        },
+        "2026-10-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-10-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "bc2a14b3-3e1d-4e0b-ad95-bf3a0e427468"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-10-12": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "6b045d2e-755a-4dd7-b58e-ef8d83c34f0a"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        }
+      },
+      "seen_instances": {
+        "f6c5405b-ebc6-4aff-88ca-7288103bd301": "2026-09-09",
+        "5b30c200-a297-45b6-9604-474dae3683e2": "2026-09-10",
+        "4dc5bb23-1fbe-48a3-bae7-3f4a90cdef5e": "2026-09-12",
+        "00b9151d-f28a-410e-9811-54e749a7e57a": "2026-09-13",
+        "4a1525cd-39a8-4914-b86b-a8267771cdcc": "2026-09-14",
+        "46e1e3be-520e-45f4-9798-d6b1f4fe2b3d": "2026-09-15",
+        "20ebea9b-c2a6-411a-ae6e-2afec41ab5ec": "2026-09-16",
+        "651133a4-d16f-4005-84f8-b473d9244b9f": "2026-09-17",
+        "368519e0-48b7-46bf-9989-9bb8add006ab": "2026-09-18",
+        "245c5da4-56e9-4dd8-841b-ef314eeeb7c2": "2026-09-19",
+        "e102052f-9bad-484f-a44b-ab62e706f3ad": "2026-09-20",
+        "e8ee7ee4-8dfc-4d15-9205-02566ab707fa": "2026-09-21",
+        "3c8e32fc-75b5-443e-a898-4675ca33bf68": "2026-09-22",
+        "ce374a41-a5ba-4665-829e-1cc21cea65d2": "2026-09-23",
+        "fa1b2233-a7ca-4870-a02d-838b75d334ee": "2026-09-24",
+        "4fc5685c-4fad-4888-8b6d-f4da4266eb7e": "2026-09-25",
+        "f8234d3d-f4fc-448b-b940-440283735fad": "2026-09-26",
+        "33fdbc6e-95c5-4c90-80ed-f7d88f87987d": "2026-09-27",
+        "6518c4de-b523-4c2c-97ac-b1db9090124d": "2026-09-28",
+        "6a3c02ff-fe9b-40b8-9396-9bfbcc44ccf2": "2026-09-29",
+        "f7fe8956-b862-4e0f-bc44-28a1a3ffe872": "2026-09-30",
+        "5744065e-7836-4a3c-b45d-41464fa41f31": "2026-10-01",
+        "3ebed670-c30c-404d-8ffd-569f20db92a9": "2026-10-02",
+        "b705175f-b0d1-4d55-993c-c0329184ba5f": "2026-10-03",
+        "6cb5cb45-1ca6-4840-a6ef-e66f1a681a99": "2026-10-04",
+        "ea8c3692-8aa7-417e-a1c3-b64af9995e09": "2026-10-05",
+        "8644fd10-f120-4b68-b990-fa51fb4ff0b0": "2026-10-06",
+        "50284fb9-da41-4c22-bb3a-6dd83b303c9e": "2026-10-07",
+        "53c1f40f-dd22-4999-a38e-f9ed2d66197e": "2026-10-08",
+        "fa928d75-9fa8-404e-8a8c-e086607c0463": "2026-10-09",
+        "ff1a1368-2bd9-401e-a970-d979b42a4f47": "2026-10-10",
+        "6b045d2e-755a-4dd7-b58e-ef8d83c34f0a": "2026-10-13"
+      },
+      "imported_snapshots": [
+        "58665f04-552d-41a3-b203-db2b4d5ce4c1"
+      ],
+      "checked_on": "2026-10-14",
+      "bootstrap": {
+        "verified_on": "2026-10-11",
+        "through": "2026-10-09",
+        "first_time": 78,
+        "redownload": 7,
+        "source_urls": [
+          "https://appstoreconnect.apple.com/apps/6792598227/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=units",
+          "https://appstoreconnect.apple.com/apps/6792598227/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=redownloads"
+        ],
+        "api_overlap": "All available days through 2026-10-09 matched exactly"
+      },
+      "complete_through": "2026-10-11"
+    },
+    "6761645656": {
+      "history_start": "2026-04-08",
+      "history_source": "full ASC report history",
+      "baseline": {
+        "through": "2023-12-31",
+        "counts": {
+          "first_time": 0,
+          "redownload": 0
+        },
+        "source": "Full ASC historical snapshot"
+      },
+      "days": {
+        "2026-04-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-04-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-04-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-04-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-04-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-04-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-04-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-04-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-04-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-05-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-05-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-05-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-05-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 0
+          }
+        },
+        "2026-05-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 0
+          }
+        },
+        "2026-05-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-05-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-05-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 0
+          }
+        },
+        "2026-05-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-05-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 1
+          }
+        },
+        "2026-05-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-05-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 0
+          }
+        },
+        "2026-05-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-05-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-05-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-05-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 0
+          }
+        },
+        "2026-05-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 0
+          }
+        },
+        "2026-05-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-05-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-05-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-05-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 2
+          }
+        },
+        "2026-05-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 0
+          }
+        },
+        "2026-05-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-05-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-05-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-05-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-05-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-05-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-05-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 1
+          }
+        },
+        "2026-05-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-05-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-06-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-06-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 1
+          }
+        },
+        "2026-06-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 1
+          }
+        },
+        "2026-06-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-06-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 0
+          }
+        },
+        "2026-06-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 0
+          }
+        },
+        "2026-06-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 1
+          }
+        },
+        "2026-06-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-06-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-06-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-06-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-06-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-06-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 20,
+            "redownload": 1
+          }
+        },
+        "2026-06-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-06-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 0
+          }
+        },
+        "2026-06-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 1
+          }
+        },
+        "2026-06-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-06-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 2
+          }
+        },
+        "2026-06-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-06-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 1
+          }
+        },
+        "2026-06-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-06-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 0
+          }
+        },
+        "2026-06-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-06-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 1
+          }
+        },
+        "2026-06-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 0
+          }
+        },
+        "2026-06-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 13,
+            "redownload": 0
+          }
+        },
+        "2026-06-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 1
+          }
+        },
+        "2026-06-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 18,
+            "redownload": 2
+          }
+        },
+        "2026-06-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 1
+          }
+        },
+        "2026-06-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 0
+          }
+        },
+        "2026-07-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 1
+          }
+        },
+        "2026-07-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 0
+          }
+        },
+        "2026-07-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-07-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 1
+          }
+        },
+        "2026-07-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 24,
+            "redownload": 0
+          }
+        },
+        "2026-07-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-07-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 1
+          }
+        },
+        "2026-07-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 0
+          }
+        },
+        "2026-07-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 17,
+            "redownload": 0
+          }
+        },
+        "2026-07-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 1
+          }
+        },
+        "2026-07-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 16,
+            "redownload": 0
+          }
+        },
+        "2026-07-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-07-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-07-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 14,
+            "redownload": 0
+          }
+        },
+        "2026-07-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 1
+          }
+        },
+        "2026-07-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 0
+          }
+        },
+        "2026-07-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 1
+          }
+        },
+        "2026-07-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 19,
+            "redownload": 0
+          }
+        },
+        "2026-07-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 15,
+            "redownload": 1
+          }
+        },
+        "2026-07-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-07-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-07-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-07-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-07-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 1
+          }
+        },
+        "2026-07-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-07-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-07-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-07-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-08-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-08-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-08-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 1
+          }
+        },
+        "2026-08-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 0
+          }
+        },
+        "2026-08-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-08-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-09-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 0
+          }
+        },
+        "2026-09-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-09-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-09-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-09-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 1
+          }
+        },
+        "2026-09-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 1
+          }
+        },
+        "2026-09-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-09-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 2
+          }
+        },
+        "2026-09-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-09-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-09-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-09-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-09-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-10-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-10-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-10-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-10-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-10-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-10-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 2
+          }
+        },
+        "2026-10-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-10-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "40c70767-f34c-4abd-b9be-e0c04617d246"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-10-10": {
+          "revision": [
+            "2026-10-12",
+            0,
+            "101d1cb0-6360-49ca-b948-3e04b6a39d67"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-10-11": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "ab58424c-7341-418a-943a-8a35576ae085"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-10-12": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "ab58424c-7341-418a-943a-8a35576ae085"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        }
+      },
+      "seen_instances": {
+        "1dbe8094-66d8-4966-a675-99a4e773c48c": "2026-09-09",
+        "35044a67-2b6e-4508-84d0-9275732a9252": "2026-09-10",
+        "60463e1f-0e77-409f-899e-d2922c25b216": "2026-09-11",
+        "0cb48be6-de7d-420b-b3a4-98481ee75cd4": "2026-09-12",
+        "9845e45a-b620-46aa-b686-b445bf3795aa": "2026-09-13",
+        "270bdf0e-c3b1-4daf-abd3-314cc2c9b152": "2026-09-14",
+        "773cd0b7-d9b1-463a-a5d1-e449d1ca6186": "2026-09-15",
+        "1493edf6-406d-4c5e-918a-4d018ddbd42a": "2026-09-16",
+        "05419414-259b-415b-9c1b-6b7282863d2d": "2026-09-17",
+        "4815603f-3c79-4c67-8ea0-09be44f1e049": "2026-09-18",
+        "44b22020-b87a-46f1-8963-82be68cbf437": "2026-09-19",
+        "74624258-f5f4-4a0e-b466-e67bee678a7f": "2026-09-20",
+        "c0d72687-78f9-4c28-9bbc-f687b4695d58": "2026-09-21",
+        "d7144a6b-376e-4e5e-83f5-780ec0a8eaa5": "2026-09-22",
+        "5698546a-31e6-4a55-9cb0-20aacfadfdcc": "2026-09-23",
+        "74c65fe0-af07-4d45-a444-472bbcf1a678": "2026-09-24",
+        "a2b043c2-a8f5-4552-ba16-296103bc40ef": "2026-09-25",
+        "26d22a20-81ce-42ae-a340-c5730883a2c1": "2026-09-26",
+        "18bea88a-51b6-4b0a-b40d-7a4ac73f234e": "2026-09-27",
+        "c218dc27-213f-4c5f-adbf-ef5da8e24f45": "2026-09-28",
+        "c9660d17-358e-457a-ad70-cacde798dd06": "2026-09-29",
+        "c48e222b-8239-4e03-96da-5ad1797f988d": "2026-09-30",
+        "bf60a0fc-b955-47a0-8412-87e7a14dab62": "2026-10-01",
+        "c6174714-8a6c-4495-b239-bcf7359164ac": "2026-10-02",
+        "54dbfe3e-e029-47eb-9a8a-f1eeb8bf7ef4": "2026-10-03",
+        "a91b73f9-3c60-4f62-9436-d74090345124": "2026-10-04",
+        "62e0d7db-0ec0-4f83-91f9-16981068f7f0": "2026-10-05",
+        "cce21343-54cb-4761-837c-c9bb393ffd7e": "2026-10-06",
+        "0c470ea7-bbf6-4e91-9ccf-059f49b4f9fb": "2026-10-07",
+        "0916a60e-1d39-4ef3-82cc-82f3c3b42aa1": "2026-10-08",
+        "9c41a3c5-f0ce-4065-b95a-7f0e87e035ef": "2026-10-09",
+        "db617528-8f98-4321-851e-ab2eba8295b8": "2026-10-10",
+        "25880c0c-d2d4-49a1-8624-d78cfe83c105": "2026-10-11",
+        "101d1cb0-6360-49ca-b948-3e04b6a39d67": "2026-10-12",
+        "ab58424c-7341-418a-943a-8a35576ae085": "2026-10-13"
+      },
+      "imported_snapshots": [
+        "a8b580cd-9636-46c4-b0e3-246491587d8a"
+      ],
+      "checked_on": "2026-10-14",
+      "bootstrap": {
+        "verified_on": "2026-10-11",
+        "through": "2026-10-09",
+        "first_time": 1358,
+        "redownload": 49,
+        "source_urls": [
+          "https://appstoreconnect.apple.com/apps/6761645656/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=units",
+          "https://appstoreconnect.apple.com/apps/6761645656/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=redownloads"
+        ],
+        "api_overlap": "All available days through 2026-10-09 matched exactly"
+      },
+      "complete_through": "2026-10-11"
+    },
+    "6783505799": {
+      "history_start": "2026-07-16",
+      "history_source": "full ASC report history",
+      "baseline": {
+        "through": "2023-12-31",
+        "counts": {
+          "first_time": 0,
+          "redownload": 0
+        },
+        "source": "Full ASC historical snapshot"
+      },
+      "days": {
+        "2026-07-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 1
+          }
+        },
+        "2026-09-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "6c30a725-bb5e-4405-8865-9de0e3df3569"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-11": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "584fafcc-4e12-45e2-b6ef-389e0c19251c"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        }
+      },
+      "seen_instances": {
+        "340a4791-95af-4d1f-a1c9-40581fcc2fc4": "2026-09-09",
+        "4b6ec4ac-acbc-4baf-a31a-d1495315a3b9": "2026-09-10",
+        "25f5f93c-7f71-4182-bd59-33e6735e553a": "2026-09-11",
+        "05282948-0188-48e9-8d6a-c68c276a1422": "2026-09-12",
+        "315b3257-0106-4850-8356-4f89aa229d9d": "2026-09-13",
+        "2efe786a-15ac-4ade-b0b9-23ccb6306471": "2026-09-14",
+        "428ccb8f-1e1d-48dc-857c-5bc10c65295d": "2026-09-15",
+        "1e7c6434-ecd6-4167-8ab2-e78654856570": "2026-09-26",
+        "5ec51b09-f529-421e-bd1e-0dbe372cd0ba": "2026-09-27",
+        "3f1c2d0b-075f-4b72-ba1a-98f47d993f31": "2026-09-28",
+        "5a457946-268b-432d-bb59-5ada77d8d946": "2026-09-29",
+        "94ed358a-b649-40b2-bf89-9432c405f39b": "2026-09-30",
+        "6a1affe5-45a7-43c6-8d2e-fbb904f20393": "2026-10-01",
+        "f777759d-af34-4a60-bb0f-33b0d7336b66": "2026-10-02",
+        "507d4f11-e78e-4400-a8c9-7b9e07687bf4": "2026-10-03",
+        "524cc77e-ba65-4621-8e36-d0e1e4187c84": "2026-10-04",
+        "9ed90a6b-ddde-43b9-b0e8-067e1c6b7013": "2026-10-05",
+        "519b1682-ac06-4fc9-af16-c3734343d74b": "2026-10-06",
+        "2d1b3fc8-c84f-4eb0-afa4-d755deecab9d": "2026-10-08",
+        "e3aa7048-a2dc-4349-a5c9-eba85049de7e": "2026-10-09",
+        "13cddbc1-81ae-4dfd-b4c1-29ae6ded7a74": "2026-10-12",
+        "584fafcc-4e12-45e2-b6ef-389e0c19251c": "2026-10-13"
+      },
+      "imported_snapshots": [
+        "56009b87-9e9e-46cc-ad9b-525e05620725"
+      ],
+      "checked_on": "2026-10-14",
+      "bootstrap": {
+        "verified_on": "2026-10-11",
+        "through": "2026-10-09",
+        "first_time": 42,
+        "redownload": 1,
+        "source_urls": [
+          "https://appstoreconnect.apple.com/apps/6783505799/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=units",
+          "https://appstoreconnect.apple.com/apps/6783505799/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=redownloads"
+        ],
+        "api_overlap": "All available days through 2026-10-09 matched exactly"
+      },
+      "complete_through": "2026-10-11"
+    },
+    "6760672848": {
+      "history_start": "2026-05-21",
+      "history_source": "full ASC report history",
+      "baseline": {
+        "through": "2023-12-31",
+        "counts": {
+          "first_time": 0,
+          "redownload": 0
+        },
+        "source": "Full ASC historical snapshot"
+      },
+      "days": {
+        "2026-05-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-05-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-06-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-06-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 1
+          }
+        },
+        "2026-06-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-07-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-07-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-07-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-07-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-07-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-07-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-07-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-07-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-07-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-07-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-07-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-07-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-08-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 1
+          }
+        },
+        "2026-08-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-08-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-08-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-08-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-08-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-08-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 12,
+            "redownload": 1
+          }
+        },
+        "2026-08-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 21,
+            "redownload": 2
+          }
+        },
+        "2026-08-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 1
+          }
+        },
+        "2026-08-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-08-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 1
+          }
+        },
+        "2026-08-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-08-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 1
+          }
+        },
+        "2026-08-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-08-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 1
+          }
+        },
+        "2026-08-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-08-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-08-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-08-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-08-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-08-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-08-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-08-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-09-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-09-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 1
+          }
+        },
+        "2026-09-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 1
+          }
+        },
+        "2026-09-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-09-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 1
+          }
+        },
+        "2026-09-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-09-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-09-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 1
+          }
+        },
+        "2026-09-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-12": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 0
+          }
+        },
+        "2026-09-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-09-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 1
+          }
+        },
+        "2026-09-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-09-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-09-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-09-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 0
+          }
+        },
+        "2026-09-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 8,
+            "redownload": 2
+          }
+        },
+        "2026-09-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-09-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-09-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-09-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-10-01": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-10-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 9,
+            "redownload": 1
+          }
+        },
+        "2026-10-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-10-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 1
+          }
+        },
+        "2026-10-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        },
+        "2026-10-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-10-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-10-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 0
+          }
+        },
+        "2026-10-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "fd964ae7-603f-4791-b9e8-560372acff95"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-10-10": {
+          "revision": [
+            "2026-10-12",
+            0,
+            "a655422a-bbf1-46b6-af12-c13578418b3f"
+          ],
+          "counts": {
+            "first_time": 5,
+            "redownload": 1
+          }
+        },
+        "2026-10-11": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "8a245da6-06b8-474b-bfa0-596b406aff0e"
+          ],
+          "counts": {
+            "first_time": 10,
+            "redownload": 1
+          }
+        },
+        "2026-10-12": {
+          "revision": [
+            "2026-10-13",
+            0,
+            "8a245da6-06b8-474b-bfa0-596b406aff0e"
+          ],
+          "counts": {
+            "first_time": 4,
+            "redownload": 0
+          }
+        }
+      },
+      "seen_instances": {
+        "d5a08717-0034-4a4c-941a-0e97af08e9f2": "2026-09-09",
+        "c7866342-af80-493f-a842-3ac402caad0f": "2026-09-10",
+        "642ab2e3-f101-42e9-abc8-00091e0410ec": "2026-09-11",
+        "87ee99c5-392a-4f94-aef8-b9a1f2d5c91f": "2026-09-12",
+        "ecc83661-73ba-45ef-a27b-a56b6d7e81fb": "2026-09-13",
+        "88f29bb8-b5a6-4794-8c78-54c2dd21f318": "2026-09-14",
+        "1d28aff4-5af8-4597-95d3-baf870c97e42": "2026-09-15",
+        "0a011cca-2090-420a-a4ea-5f8574d4aeb1": "2026-09-16",
+        "c98e4637-7e5d-4cb6-9364-7c0ecc3bca9b": "2026-09-17",
+        "7fe6bdcb-a24a-4997-901b-7db15b2e8b51": "2026-09-18",
+        "7f98acb9-1118-458c-afe5-8a202fd31657": "2026-09-19",
+        "44fa28dc-c97c-469b-a0b8-4209c7514898": "2026-09-20",
+        "4ff649ec-6fb0-4591-af90-72d425710cb3": "2026-09-21",
+        "627378a7-7ca3-4716-9236-80888fee6976": "2026-09-22",
+        "83728624-1b2b-4aa6-a398-6dd67a2eba66": "2026-09-23",
+        "fd0d1992-9a73-4a12-8590-3216330c2ec5": "2026-09-24",
+        "56383715-f581-4964-aaa5-4a669aad2f03": "2026-09-25",
+        "8fe837fd-3a11-4a1d-bcef-bd192e644f28": "2026-09-26",
+        "e8acb005-93b3-4a26-af50-35f0408547a0": "2026-09-27",
+        "4c598f2a-09e0-4745-9ec4-c44460583655": "2026-09-28",
+        "be83d352-6ee7-4873-bf31-a22a3c910d98": "2026-09-29",
+        "3c328ce1-1c96-47d6-a621-2e8c1cd3c5ac": "2026-09-30",
+        "40af7ec5-4eae-41b2-abd3-9811e8774955": "2026-10-01",
+        "a25161a9-282c-41b6-a236-bee2438df472": "2026-10-02",
+        "46d94648-8ee7-4811-9a8a-ed93de4e4d53": "2026-10-03",
+        "c76dd917-3043-4f49-9e51-461a34304e86": "2026-10-04",
+        "93fef9a7-3f53-4508-92db-3a8fa23a813e": "2026-10-05",
+        "3a50646a-2f8d-4b31-b708-c84fe8d146b3": "2026-10-06",
+        "60f0710b-fd1c-4329-ad15-e8515fd16c98": "2026-10-07",
+        "079df6a6-f828-4928-ac88-e3c17a668db1": "2026-10-08",
+        "4182795e-d650-422b-8709-0d4c3eaf9372": "2026-10-09",
+        "7ecbee2b-08cb-44fd-b944-62c08ebed2c1": "2026-10-10",
+        "4adce01f-ae04-426c-97d7-7f4283b2cac1": "2026-10-11",
+        "a655422a-bbf1-46b6-af12-c13578418b3f": "2026-10-12",
+        "8a245da6-06b8-474b-bfa0-596b406aff0e": "2026-10-13"
+      },
+      "imported_snapshots": [
+        "35aef1bf-c67b-4dba-8d86-9f742b06bfcc"
+      ],
+      "checked_on": "2026-10-14",
+      "bootstrap": {
+        "verified_on": "2026-10-11",
+        "through": "2026-10-09",
+        "first_time": 473,
+        "redownload": 35,
+        "source_urls": [
+          "https://appstoreconnect.apple.com/apps/6760672848/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=units",
+          "https://appstoreconnect.apple.com/apps/6760672848/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=redownloads"
+        ],
+        "api_overlap": "All available days through 2026-10-09 matched exactly"
+      },
+      "complete_through": "2026-10-11"
+    },
+    "6760978934": {
+      "history_start": "2026-03-28",
+      "history_source": "full ASC report history",
+      "baseline": {
+        "through": "2023-12-31",
+        "counts": {
+          "first_time": 0,
+          "redownload": 0
+        },
+        "source": "Full ASC historical snapshot"
+      },
+      "days": {
+        "2026-03-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 6,
+            "redownload": 0
+          }
+        },
+        "2026-03-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-03-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 7,
+            "redownload": 0
+          }
+        },
+        "2026-03-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-04-11": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-04-18": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-05-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-05-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-05-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-15": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-19": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-05-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-05-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-05-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-05-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-05-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-08": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-21": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-24": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-06-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-06-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-17": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-25": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-07-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-07-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-26": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-28": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-08-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 1
+          }
+        },
+        "2026-08-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-08-31": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 1
+          }
+        },
+        "2026-09-04": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 1
+          }
+        },
+        "2026-09-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 3,
+            "redownload": 0
+          }
+        },
+        "2026-09-13": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-16": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-09-20": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-22": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-23": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-27": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-29": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-09-30": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-10-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-03": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-05": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-10-06": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-10-07": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
+        },
+        "2026-10-10": {
+          "revision": [
+            "2026-10-12",
+            0,
+            "c5109ad5-f90b-46dc-a2ba-181bb587a357"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
+        },
+        "2026-05-14": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-07-02": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-07-09": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        },
+        "2026-07-10": {
+          "revision": [
+            "2026-10-11",
+            1,
+            "0870c3ff-16af-421b-a66c-58fa11a38b42"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
+        }
+      },
+      "seen_instances": {
+        "d167d326-bb1a-4edb-8b31-b31fec5cb5e0": "2026-09-11",
+        "b377ec5f-ae45-4244-9984-06cc1c78b80f": "2026-09-12",
+        "93f4da8e-2d5c-4872-a8cb-a9a8f135934c": "2026-09-14",
+        "390a2f58-285d-4a11-9fd0-5faaa37f7df6": "2026-09-15",
+        "6aadf5b8-83f3-497f-9c83-6a34ba616958": "2026-09-16",
+        "623ac659-7153-43c1-9fb2-31fb2a5e0bc4": "2026-09-17",
+        "9dc08afd-4b1c-44f0-a290-81ed3489ca05": "2026-09-18",
+        "8cc9a7a8-6305-4afc-b2f3-62758a644b6a": "2026-09-21",
+        "1b953750-cc08-4e89-8801-26c8dc693af5": "2026-09-22",
+        "30408091-2446-45bd-9165-0619db0699b3": "2026-09-23",
+        "ab60ae0a-97b8-433f-a480-8e7e86337de4": "2026-09-24",
+        "5253e327-003e-4d7e-b895-30427289284e": "2026-09-25",
+        "d556bc12-8908-4be7-9d70-51e065a1b52d": "2026-09-28",
+        "1046e302-49e2-4a13-9f71-f3f76e2c40a4": "2026-09-29",
+        "b23495a3-a5da-409d-9258-5be1f7cb7f8e": "2026-09-30",
+        "e6bae182-c7ae-41c1-b924-3e6220f84c9f": "2026-10-01",
+        "7406c466-0745-4b0b-9d23-7414daecab8a": "2026-10-02",
+        "ed0b1be4-86d4-4058-b0fc-3f64a56789a7": "2026-10-03",
+        "d7419564-fb96-4233-91e6-3e845883cece": "2026-10-04",
+        "150933ee-7448-4b4c-91a2-2cbc5df9b816": "2026-10-05",
+        "77e3e9b7-c1b7-4694-ac29-a68fe023d2c0": "2026-10-06",
+        "32f6c647-88c3-4bba-bc1d-0d621bd266d0": "2026-10-07",
+        "f941b890-347b-44ec-be28-1b397060a447": "2026-10-08",
+        "4031c0b0-1e11-4fec-b1ff-b422fe9e7260": "2026-10-09",
+        "763f4f50-7247-4d0b-9f41-cd9d6d9bd1e0": "2026-10-11",
+        "c5109ad5-f90b-46dc-a2ba-181bb587a357": "2026-10-12"
+      },
+      "imported_snapshots": [
+        "6b30a504-1c3b-4532-b58e-e08d1a974084"
+      ],
+      "checked_on": "2026-10-14",
+      "bootstrap": {
+        "verified_on": "2026-10-11",
+        "through": "2026-10-09",
+        "first_time": 116,
+        "redownload": 3,
+        "source_urls": [
+          "https://appstoreconnect.apple.com/apps/6760978934/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=units",
+          "https://appstoreconnect.apple.com/apps/6760978934/analytics/metrics?chartType=singleaxis&dateSpec=r%3A20240101%3A20261009&frequency=day&measureKey=redownloads"
+        ],
+        "api_overlap": "All available days through 2026-10-09 matched exactly"
+      },
+      "complete_through": "2026-10-10"
+    }
+  }
+}

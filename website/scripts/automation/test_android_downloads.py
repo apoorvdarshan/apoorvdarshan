@@ -88,11 +88,13 @@ class AndroidTests(unittest.TestCase):
         self.assertEqual(corrected['apps'][PACKAGE]['first_time'], 13)
         self.assertEqual(saved['apps'][PACKAGE]['first_time'], 20)
 
-    def test_future_apps_discovered_privately_without_claiming_first_time_or_publication(self):
-        result = android.refresh(FakeClient(), {**CONFIG, 'apps': []}, {}, TODAY)
-        self.assertEqual(result['apps'][PACKAGE]['user_installs'], 20)
-        self.assertNotIn('first_time', result['apps'][PACKAGE])
-        self.assertNotIn('name', result['apps'][PACKAGE])
+    def test_unconfigured_apps_are_never_read_or_saved_in_the_public_snapshot(self):
+        client = FakeClient()
+        with patch.object(client, 'report', wraps=client.report) as read:
+            result = android.refresh(client, {**CONFIG, 'apps': []}, {}, TODAY)
+        read.assert_not_called()
+        self.assertEqual(result['apps'], {})
+        self.assertNotIn(PACKAGE, json.dumps(result))
         self.assertEqual(android.refresh(FakeClient([]), {**CONFIG, 'apps': []}, {}, TODAY)['apps'], {})
 
     def test_pagination_and_repeated_cursors(self):

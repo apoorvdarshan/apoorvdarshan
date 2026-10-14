@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "checked_on": "2026-10-14",
+  "config_sha256": "106e79342b6a47bc27d6822538bd27b9ea951ad2d7794048b9e826f4ff3407ff",
+  "metric": "sum of Daily User Installs in complete overview report history",
+  "apps": {
+    "com.apoorvdarshan.calorietracker": {
+      "history_start": "2026-04-25",
+      "as_of": "2026-10-09",
+      "days": 168,
+      "user_installs": 2638,
+      "install_events": 2913,
+      "reports": [
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202604_overview.csv",
+          "generation": "1779303399331560",
+          "md5": "FBnYhGTaYepuuvPQNt0IUA==",
+          "rows": 6
+        },
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202605_overview.csv",
+          "generation": "1781243925774818",
+          "md5": "28bMKJT2wRQ/Ptn/Kn0C9Q==",
+          "rows": 31
+        },
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202606_overview.csv",
+          "generation": "1783856792048912",
+          "md5": "Q7z6ScOeu87hK/CQLAubcQ==",
+          "rows": 30
+        },
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202607_overview.csv",
+          "generation": "1786615622099921",
+          "md5": "u3LCWVhMIbRHKGsZ2FFhOg==",
+          "rows": 31
+        },
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202608_overview.csv",
+          "generation": "1790362159762250",
+          "md5": "Eay7Xqqhmqj2HJpKNFQhCg==",
+          "rows": 31
+        },
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202609_overview.csv",
+          "generation": "1791359183533730",
+          "md5": "ecflaF/x/ex91ZD7ybLIjw==",
+          "rows": 30
+        },
+        {
+          "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202610_overview.csv",
+          "generation": "1791904462913930",
+          "md5": "b93z8d43LPdltoXCzVLk1g==",
+          "rows": 9
+        }
+      ],
+      "name": "fud-ai",
+      "first_time": 2638,
+      "metric_validation": "Daily User Installs summed from the first report matches Play Console Statistics > New user acquisitions > Cumulative: 2579 through 2026-10-07, checked 2026-10-11."
+    }
+  },
+  "reporting_identity": "profile-reporting@fudai-play-publisher-2026.iam.gserviceaccount.com"
+}

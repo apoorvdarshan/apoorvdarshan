@@ -3,5 +3,4 @@ dist
 .DS_Store
 *.local
 profile-readme/
-resume-source/
 __pycache__/

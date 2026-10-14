@@ -14,7 +14,7 @@ Reports are triaged by Apoorv Darshan, the sole maintainer. The response target 
 until a fix is available. These are response targets, not a historical attestation.
 
 ## Trust boundaries
-The public website reads public profile data. Cloud automation separately accesses private store reports, resume source and deployment credentials. Untrusted PR tests receive no deployment/reporting secrets. Keep personal source and store histories in the private repository; publish only intended aggregates and the public PDF. Treat downloaded metadata as untrusted, validate identifiers/counts, escape HTML/LaTeX, and retain verified values on errors. HTTPS, SHA-256, PyJWT/cryptography and platform-managed TLS are used instead of custom cryptography. There are no user passwords.
+The public website reads public profile data. Cloud automation separately accesses private store reports and deployment credentials. Untrusted PR tests receive no deployment/reporting secrets. The resume source and aggregated download histories in `resume/` are public by choice; raw store reports, signed URLs, credentials and unconfigured app identities are never committed or logged. Treat downloaded metadata as untrusted, validate identifiers/counts, escape HTML/LaTeX, and retain verified values on errors. HTTPS, SHA-256, PyJWT/cryptography and platform-managed TLS are used instead of custom cryptography. There are no user passwords.
 
 ## Development and release checks
 Use least privilege, validate external input, and review dependency advisories.

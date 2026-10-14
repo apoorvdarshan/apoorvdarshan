@@ -2,7 +2,8 @@
 
 Only overview reports are summed, once per date. Detailed dimensions, the legacy
 zero-filled Total User Installs column, updates and active audience are not totals.
-New packages are discovered privately; only validated, configured apps are public.
+The snapshot is public, so only validated, configured apps are read or saved;
+other packages in the account are ignored without being logged.
 """
 import base64
 import csv
@@ -154,6 +155,8 @@ def refresh(client, config, previous, today):
     result = {'version': 1, 'checked_on': today.isoformat(), 'config_sha256': fingerprint(config),
               'metric': 'sum of Daily User Installs in complete overview report history', 'apps': {}}
     for package, reports in sorted(packages.items()):
+        if package not in managed:
+            continue  # Unconfigured (future/test) apps never enter the public snapshot.
         days, sources = {}, []
         for month, item in sorted(reports):
             incoming = read_report(client.report(item), package, month, today)
@@ -161,8 +164,6 @@ def refresh(client, config, previous, today):
             days.update(incoming)
             sources.append({'object': item['name'], 'generation': item['generation'],
                             'md5': item['md5Hash'], 'rows': len(incoming)})
-        if not days and package not in managed and package not in previous.get('apps', {}):
-            continue  # A future/test app may have only empty reports so far.
         check(days, 'Android overview history is empty')
         first, last = min(days), max(days)
         expected_start = managed.get(package, {}).get('history_start', first)
@@ -173,10 +174,9 @@ def refresh(client, config, previous, today):
         check(not old or (first == old['history_start'] and last >= old['as_of']),
               'Android history regressed; retain previous totals')
         totals = {key: sum(row[key] for row in days.values()) for key in FIELDS.values()}
-        entry = {'history_start': first, 'as_of': last, 'days': len(days), **totals, 'reports': sources}
-        if package in managed:
-            entry.update(name=managed[package]['name'], first_time=totals['user_installs'],
-                         metric_validation=managed[package]['metric_validation'])
+        entry = {'history_start': first, 'as_of': last, 'days': len(days), **totals, 'reports': sources,
+                 'name': managed[package]['name'], 'first_time': totals['user_installs'],
+                 'metric_validation': managed[package]['metric_validation']}
         result['apps'][package] = entry
     return result
 
@@ -201,7 +201,7 @@ def main():
         temporary = path.with_name(path.name + '.tmp')
         temporary.write_text(content)
         temporary.replace(path)
-    # Do not print discovered/unpublished app identities in public Actions logs.
+    # Report configured apps only; never log other package identities.
     lines = ['## Android download reports', '', '| App | Data through | First-time installs |',
              '| --- | --- | ---: |']
     for app in config['apps']:

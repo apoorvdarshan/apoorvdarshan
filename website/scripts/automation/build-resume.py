@@ -1,4 +1,4 @@
-"""Build changed private source, validate text/page bounds, then publish the PDF."""
+"""Build changed resume source, validate text/page bounds, then publish the PDF."""
 import hashlib
 import json
 import os
@@ -39,7 +39,7 @@ def main():
         old_pages = inspect(pdf)[0] if pdf.exists() else 4
         with tempfile.TemporaryDirectory(prefix='profile-resume-build-') as temp:
             result = subprocess.run(['tectonic', '--outdir', temp, str(source)], text=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-            # Do not copy private source or TeX error excerpts into public Actions logs.
+            # Keep TeX error excerpts out of Actions logs; rebuild locally to debug.
             if result.returncode:
                 raise RuntimeError('Resume compilation failed; source and published PDF left untouched')
             built = Path(temp) / pdf.name
