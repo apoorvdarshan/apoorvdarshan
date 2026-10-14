@@ -175,6 +175,14 @@
       "starCount": "5"
     },
     {
+      "name": "github-backup",
+      "url": "https://github.com/apoorvdarshan/github-backup",
+      "description": "Daily cloud backups of all my GitHub repos to private GitLab, with integrity checks",
+      "status": "",
+      "marker": "💾",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "lithosai-bar",
       "url": "https://github.com/apoorvdarshan/lithosai-bar",
       "description": "macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown",
@@ -580,6 +588,14 @@
     {
       "name": "Apps & Utilities",
       "items": [
+        {
+          "name": "github-backup",
+          "url": "https://github.com/apoorvdarshan/github-backup",
+          "description": "Daily cloud backups of all my GitHub repos to private GitLab, with integrity checks",
+          "status": "",
+          "marker": "💾",
+          "starBadgeUrl": ""
+        },
         {
           "name": "lithosai-bar",
           "url": "https://github.com/apoorvdarshan/lithosai-bar",

@@ -39,6 +39,7 @@
 
 ## Apps & Utilities
 <ul>
+<li>💾 <strong><a href="https://github.com/apoorvdarshan/github-backup">github-backup</a></strong> - Daily cloud backups of all my GitHub repos to private GitLab, with integrity checks</li>
 <li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> <img alt="Downloads: 1" src="https://apoorvdarshan.com/badges/downloads/v1/1.svg"> - macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown</li>
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - Native macOS desktop C. elegans driven by the OpenWorm c302 connectome</li>
 <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - Local Chromium cookie/session transfer to Codex on macOS</li>
