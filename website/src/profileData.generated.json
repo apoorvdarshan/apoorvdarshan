@@ -1951,9 +1951,9 @@
         "url": "https://cap.so/"
       },
       {
-        "name": "1Password",
-        "badgeUrl": "https://img.shields.io/badge/-1Password-3B66BC?style=flat-square&logo=1password&logoColor=white",
-        "url": "https://1password.com/"
+        "name": "Bitwarden",
+        "badgeUrl": "https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white",
+        "url": "https://bitwarden.com/"
       },
       {
         "name": "Tailscale",
