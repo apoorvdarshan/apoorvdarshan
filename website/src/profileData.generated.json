@@ -47,9 +47,9 @@
     },
     {
       "name": "quit-all",
-      "url": "https://apps.apple.com/us/app/quit-all-break-every-habit/id6760978934",
+      "url": "https://github.com/apoorvdarshan/quit-all",
       "description": "iOS app to quit smoking, alcohol, social media, and more",
-      "status": "closed source",
+      "status": "",
       "marker": "🚫",
       "starBadgeUrl": "",
       "downloads": "100+",
@@ -57,9 +57,9 @@
     },
     {
       "name": "iitjee",
-      "url": "https://apps.apple.com/us/app/pcm-notes-jee-neet/id6792598227",
+      "url": "https://github.com/apoorvdarshan/iitjee",
       "description": "Offline PCM notes for JEE Main/Advanced & NEET (iPhone/iPad)",
-      "status": "closed source",
+      "status": "",
       "marker": "📚",
       "starBadgeUrl": "",
       "downloads": "70+",
@@ -69,9 +69,9 @@
   "games": [
     {
       "name": "abysm",
-      "url": "https://apps.apple.com/us/app/abysm-dive-the-deep-sea/id6783505799",
+      "url": "https://github.com/apoorvdarshan/abysm",
       "description": "Calm pixel-art dive past 75 real sea creatures to Challenger Deep",
-      "status": "closed source",
+      "status": "",
       "marker": "🌊",
       "starBadgeUrl": "",
       "downloads": "40+",
