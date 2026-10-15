@@ -19,7 +19,7 @@
       "status": "",
       "marker": "🥦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
-      "downloads": "10K+",
+      "downloads": "11K+",
       "metric": "downloads",
       "starCount": "475"
     },
@@ -62,7 +62,7 @@
       "status": "",
       "marker": "📚",
       "starBadgeUrl": "",
-      "downloads": "70+",
+      "downloads": "80+",
       "metric": "downloads"
     }
   ],
@@ -983,7 +983,7 @@
       "status": "",
       "marker": "🧠",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=langgenius/dify&v=3",
-      "starCount": "158k"
+      "starCount": "159k"
     },
     {
       "name": "kubernetes",
@@ -1100,7 +1100,7 @@
       "status": "",
       "marker": "🛠️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=steipete/CodexBar&v=3",
-      "starCount": "22k"
+      "starCount": "23k"
     },
     {
       "name": "core",
@@ -1208,6 +1208,15 @@
       "status": "",
       "marker": "🦄",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=benoitc/gunicorn&v=3",
+      "starCount": "11k"
+    },
+    {
+      "name": "open-source-android-apps",
+      "url": "https://github.com/pcqpcq/open-source-android-apps/pull/507",
+      "description": "Add Verceltics to Tools",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pcqpcq/open-source-android-apps&v=3",
       "starCount": "11k"
     },
     {
@@ -1568,7 +1577,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "973"
+      "starCount": "975"
     },
     {
       "name": "djLint",
@@ -1685,7 +1694,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=giselles-ai/giselle&v=3",
-      "starCount": "557"
+      "starCount": "558"
     },
     {
       "name": "BancosBrasileiros",
@@ -1712,7 +1721,7 @@
       "status": "",
       "marker": "🍴",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
-      "starCount": "515"
+      "starCount": "516"
     },
     {
       "name": "awesome-openrouter",

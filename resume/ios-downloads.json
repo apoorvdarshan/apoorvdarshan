@@ -1,43 +1,43 @@
 {
   "metric": "lifetime first-time App Store downloads",
-  "target_as_of": "2026-10-12",
-  "checked_on": "2026-10-14",
+  "target_as_of": "2026-10-13",
+  "checked_on": "2026-10-15",
   "apps": {
     "6758935726": {
       "name": "fud-ai",
-      "as_of": "2026-10-11",
-      "first_time": 7277,
-      "redownload": 361,
-      "ios_total_downloads": 7638,
+      "as_of": "2026-10-12",
+      "first_time": 7324,
+      "redownload": 366,
+      "ios_total_downloads": 7690,
       "other_platform_downloads": 2638,
-      "display_total": 9915,
+      "display_total": 9962,
       "badge": "9K+",
       "android_as_of": "2026-10-09",
       "android_package": "com.apoorvdarshan.calorietracker"
     },
     "6761645656": {
       "name": "verceltics",
-      "as_of": "2026-10-11",
-      "first_time": 1367,
+      "as_of": "2026-10-12",
+      "first_time": 1370,
       "redownload": 49,
-      "ios_total_downloads": 1416,
+      "ios_total_downloads": 1419,
       "other_platform_downloads": 0,
-      "display_total": 1367,
+      "display_total": 1370,
       "badge": "1K+"
     },
     "6760672848": {
       "name": "scowld",
-      "as_of": "2026-10-11",
-      "first_time": 488,
+      "as_of": "2026-10-12",
+      "first_time": 492,
       "redownload": 37,
-      "ios_total_downloads": 525,
+      "ios_total_downloads": 529,
       "other_platform_downloads": 0,
-      "display_total": 488,
+      "display_total": 492,
       "badge": "400+"
     },
     "6760978934": {
       "name": "quit-all",
-      "as_of": "2026-10-10",
+      "as_of": "2026-10-12",
       "first_time": 117,
       "redownload": 3,
       "ios_total_downloads": 120,
@@ -47,13 +47,13 @@
     },
     "6792598227": {
       "name": "iitjee",
-      "as_of": "2026-10-11",
-      "first_time": 78,
+      "as_of": "2026-10-12",
+      "first_time": 80,
       "redownload": 7,
-      "ios_total_downloads": 85,
+      "ios_total_downloads": 87,
       "other_platform_downloads": 0,
-      "display_total": 78,
-      "badge": "70+"
+      "display_total": 80,
+      "badge": "80+"
     },
     "6783505799": {
       "name": "abysm",
@@ -66,6 +66,6 @@
       "badge": "40+"
     }
   },
-  "as_of": "2026-10-10",
-  "latest_as_of": "2026-10-11"
+  "as_of": "2026-10-11",
+  "latest_as_of": "2026-10-12"
 }

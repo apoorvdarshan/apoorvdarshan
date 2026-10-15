@@ -6,11 +6,11 @@
 
 ## Mobile Apps
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 10K+" src="https://apoorvdarshan.com/badges/downloads/v1/10K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 11K+" src="https://apoorvdarshan.com/badges/downloads/v1/11K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 400+" src="https://apoorvdarshan.com/badges/downloads/v1/400%2B.svg"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://github.com/apoorvdarshan/quit-all">quit-all</a></strong> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - iOS app to quit smoking, alcohol, social media, and more</li>
-  <li>📚 <strong><a href="https://github.com/apoorvdarshan/iitjee">iitjee</a></strong> <img alt="Downloads: 70+" src="https://apoorvdarshan.com/badges/downloads/v1/70%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
+  <li>📚 <strong><a href="https://github.com/apoorvdarshan/iitjee">iitjee</a></strong> <img alt="Downloads: 80+" src="https://apoorvdarshan.com/badges/downloads/v1/80%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
 </ul>
 
 ## Games
@@ -147,6 +147,7 @@
       <div>&bull; 🤖 <strong><a href="https://github.com/The-PR-Agent/pr-agent/pull/2895">pr-agent</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&amp;v=3"> - fix: share language matcher with plain diff provider</div>
       <div>&bull; 👁️ <strong><a href="https://github.com/kornia/kornia/pull/4121">kornia</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=kornia/kornia&amp;v=3"> - fix(geometry): validate NMS box shape</div>
       <div>&bull; 🦄 <strong><a href="https://github.com/benoitc/gunicorn/pull/3686">gunicorn</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=benoitc/gunicorn&amp;v=3"> - fix: decrement nr_conns on server-initiated close in the ASGI worker (authored commit)</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/pcqpcq/open-source-android-apps/pull/507">open-source-android-apps</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=pcqpcq/open-source-android-apps&amp;v=3"> - Add Verceltics to Tools</div>
       <div>&bull; ❄️ <strong><a href="https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan">sqlfluff</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=sqlfluff/sqlfluff&amp;v=3"> - 7 merged PRs: Read Jinja macro files with the…; ClickHouse: parse GROUP BY WITH…</div>
       <div>&bull; 📄 <strong><a href="https://github.com/Kozea/WeasyPrint/pull/2831">WeasyPrint</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=Kozea/WeasyPrint&amp;v=3"> - fix: line_height() crash on calc() values</div>
       <div>&bull; 🦞 <strong><a href="https://github.com/openclaw/clawhub/pull/421">clawhub</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=openclaw/clawhub&amp;v=3"> - fix: use relative delay for Retry-After header on 429 (by <a href="https://github.com/steipete">@steipete</a>, 🦞 <a href="https://github.com/anthropics/openclaw">OpenClaw</a>)</div>
