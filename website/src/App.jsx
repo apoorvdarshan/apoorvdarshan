@@ -22,7 +22,7 @@ const NAME_OVERRIDES = {
   'macbook-24x7-agents': 'MacBook 24×7 Agents',
   'linkedin-connection-sender': 'LinkedIn Connection Sender',
   'axentra-os-affiliate': 'Axentra OS Affiliate',
-  iitjee: 'IIT JEE',
+  'pcm-notes': 'PCM Notes',
   Xscore: 'XScore',
   WeasyPrint: 'WeasyPrint',
   TEAMMATES: 'TEAMMATES',
