@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "11K+",
       "metric": "downloads",
-      "starCount": "475"
+      "starCount": "476"
     },
     {
       "name": "verceltics",
@@ -1177,7 +1177,7 @@
     {
       "name": "omi",
       "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "41 merged PRs: report a failed review reply…; correct Bluetooth diagnostic…",
+      "description": "44 merged PRs: arm pairing help when bluetooth…; report rejected task completion…",
       "status": "",
       "marker": "🎙️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
@@ -1577,7 +1577,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "976"
+      "starCount": "978"
     },
     {
       "name": "djLint",
@@ -1730,7 +1730,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "510"
+      "starCount": "511"
     },
     {
       "name": "poetry-core",
