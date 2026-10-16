@@ -1872,11 +1872,7 @@
   "agentSetup": [
     {
       "name": "Harnesses",
-      "description": "Separate TUIs: [Claude Code](https://claude.com/product/claude-code) for Claude, [Codex](https://openai.com/codex/) for GPT, and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI ([DeepSeek](https://www.deepseek.com/))"
-    },
-    {
-      "name": "Workspace",
-      "description": "[cmux](https://cmux.com/)"
+      "description": "GUIs: [Claude](https://claude.com/download), [Codex](https://openai.com/codex/), and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI ([DeepSeek](https://www.deepseek.com/))"
     },
     {
       "name": "Gmail MCP",
