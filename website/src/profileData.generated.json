@@ -353,6 +353,14 @@
       "starBadgeUrl": ""
     },
     {
+      "name": "tesla-roadster-flying-car",
+      "url": "https://github.com/apoorvdarshan/tesla-roadster-flying-car",
+      "description": "Blender flying-car demo, fully scripted",
+      "status": "",
+      "marker": "🚗",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "machina-cordis",
       "url": "https://github.com/apoorvdarshan/machina-cordis",
       "description": "Editable animated mechanical heart reactor in Blender",
@@ -780,6 +788,14 @@
     {
       "name": "Creative, 3D & Vision",
       "items": [
+        {
+          "name": "tesla-roadster-flying-car",
+          "url": "https://github.com/apoorvdarshan/tesla-roadster-flying-car",
+          "description": "Blender flying-car demo, fully scripted",
+          "status": "",
+          "marker": "🚗",
+          "starBadgeUrl": ""
+        },
         {
           "name": "machina-cordis",
           "url": "https://github.com/apoorvdarshan/machina-cordis",

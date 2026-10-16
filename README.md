@@ -75,6 +75,7 @@
 
 ## Creative, 3D & Vision
 <ul>
+<li>🚗 <strong><a href="https://github.com/apoorvdarshan/tesla-roadster-flying-car">tesla-roadster-flying-car</a></strong> - Blender flying-car demo, fully scripted</li>
 <li>🫀 <strong><a href="https://github.com/apoorvdarshan/machina-cordis">machina-cordis</a></strong> - Editable animated mechanical heart reactor in Blender</li>
 <li>🪐 <strong><a href="https://github.com/apoorvdarshan/helios-01">helios-01</a></strong> - Editable animated solar-system orrery in Blender</li>
 <li>🎵 <strong><a href="https://github.com/apoorvdarshan/doodle-beats">doodle-beats</a></strong> - Doodle-style web music player</li>
