@@ -82,7 +82,7 @@
     {
       "name": "x-country-filter",
       "url": "https://github.com/apoorvdarshan/x-country-filter",
-      "description": "Chrome extension that hides X (Twitter) posts from countries you pick",
+      "description": "Hide X (Twitter) posts from selected countries",
       "status": "",
       "marker": "🗺️",
       "starBadgeUrl": "",
@@ -92,7 +92,7 @@
     {
       "name": "newest-youtube-search",
       "url": "https://github.com/apoorvdarshan/newest-youtube-search",
-      "description": "Chrome extension for true newest-first YouTube search",
+      "description": "True newest-first YouTube search",
       "status": "",
       "marker": "🆕",
       "starBadgeUrl": ""
@@ -120,7 +120,7 @@
     {
       "name": "AGENTS.md",
       "url": "https://github.com/apoorvdarshan/AGENTS.md",
-      "description": "Shared rules and preferences for AI agents across projects and everyday tasks",
+      "description": "Shared AI agent rules for projects and everyday tasks",
       "status": "",
       "marker": "📋",
       "starBadgeUrl": ""
@@ -128,7 +128,7 @@
     {
       "name": "opencode-gemini-imagegen-plugin",
       "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
-      "description": "OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models",
+      "description": "Generate images with Gemini (Nano Banana)",
       "status": "",
       "marker": "🖼️",
       "starBadgeUrl": ""
@@ -144,7 +144,7 @@
     {
       "name": "macbook-24x7-agents",
       "url": "https://github.com/apoorvdarshan/macbook-24x7-agents",
-      "description": "Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)",
+      "description": "Run agents with the lid closed and display off; reversible",
       "status": "",
       "marker": "🌙",
       "starBadgeUrl": ""
@@ -152,7 +152,7 @@
     {
       "name": "linkedin-connection-sender",
       "url": "https://github.com/apoorvdarshan/linkedin-connection-sender",
-      "description": "Send LinkedIn connection requests by country/role at a human pace",
+      "description": "Send requests by country/role at a human pace",
       "status": "",
       "marker": "🤝",
       "starBadgeUrl": ""
@@ -160,7 +160,7 @@
     {
       "name": "wellfound-bot",
       "url": "https://github.com/apoorvdarshan/wellfound-bot",
-      "description": "Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation",
+      "description": "Automate Wellfound job searches with Playwright",
       "status": "",
       "marker": "🎯",
       "starBadgeUrl": ""
@@ -176,7 +176,7 @@
     {
       "name": "claw-c",
       "url": "https://github.com/apoorvdarshan/claw-c",
-      "description": "Claude Code reimplemented in pure C, the lowest level it's ever been done",
+      "description": "Claude Code reimplemented in pure C",
       "status": "",
       "marker": "🦀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&v=3",
@@ -185,7 +185,7 @@
     {
       "name": "github-backup",
       "url": "https://github.com/apoorvdarshan/github-backup",
-      "description": "Daily cloud backups of all my GitHub repos to private GitLab, with integrity checks",
+      "description": "Daily GitHub backups to private GitLab with integrity checks",
       "status": "",
       "marker": "💾",
       "starBadgeUrl": ""
@@ -193,7 +193,7 @@
     {
       "name": "lithosai-bar",
       "url": "https://github.com/apoorvdarshan/lithosai-bar",
-      "description": "macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown",
+      "description": "LithosAI balance, daily usage, and model spend in the macOS menu bar",
       "status": "",
       "marker": "📊",
       "starBadgeUrl": "",
@@ -203,7 +203,7 @@
     {
       "name": "DesktopWorm",
       "url": "https://github.com/apoorvdarshan/DesktopWorm",
-      "description": "Native macOS desktop C. elegans driven by the OpenWorm c302 connectome",
+      "description": "macOS C. elegans simulation using the OpenWorm c302 connectome",
       "status": "",
       "marker": "🪱",
       "starBadgeUrl": "",
@@ -213,7 +213,7 @@
     {
       "name": "browser-cookie-bridge",
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
-      "description": "Local Chromium cookie/session transfer to Codex on macOS",
+      "description": "Transfer local Chromium sessions to Codex on macOS",
       "status": "",
       "marker": "🍪",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&v=3",
@@ -261,7 +261,7 @@
     {
       "name": "crossposter",
       "url": "https://github.com/apoorvdarshan/crossposter",
-      "description": "Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more",
+      "description": "Post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more",
       "status": "",
       "marker": "📣",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&v=3",
@@ -280,7 +280,7 @@
     {
       "name": "opengraph-studio",
       "url": "https://github.com/apoorvdarshan/opengraph-studio",
-      "description": "Live OpenGraph metadata editor and previewer for social platforms",
+      "description": "Edit and preview OpenGraph metadata live",
       "status": "",
       "marker": "🌐",
       "starBadgeUrl": ""
@@ -296,7 +296,7 @@
     {
       "name": "github-readme-contribution-merger",
       "url": "https://github.com/apoorvdarshan/github-readme-contribution-merger",
-      "description": "Merge GitHub contribution graphs into one SVG heatmap",
+      "description": "Combine contribution graphs into one SVG",
       "status": "",
       "marker": "📊",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&v=3",
@@ -363,7 +363,7 @@
     {
       "name": "helios-01",
       "url": "https://github.com/apoorvdarshan/helios-01",
-      "description": "Editable Blender pocket orrery with an animated mechanical solar system",
+      "description": "Editable animated solar-system orrery in Blender",
       "status": "",
       "marker": "🪐",
       "starBadgeUrl": ""
@@ -412,7 +412,7 @@
     {
       "name": "how-rich-are-you",
       "url": "https://github.com/apoorvdarshan/how-rich-are-you",
-      "description": "90s-style income rank calculator with broke/rich meme GIF reactions",
+      "description": "90s-style income rankings with meme GIF reactions",
       "status": "",
       "marker": "💸",
       "starBadgeUrl": ""
@@ -420,7 +420,7 @@
     {
       "name": "billionaire-smash",
       "url": "https://github.com/apoorvdarshan/billionaire-smash",
-      "description": "Facemash for Forbes billionaires, vote on who wins head-to-head",
+      "description": "Head-to-head voting on Forbes billionaires",
       "status": "",
       "marker": "💰",
       "starBadgeUrl": ""
@@ -428,7 +428,7 @@
     {
       "name": "daxerly",
       "url": "https://github.com/apoorvdarshan/daxerly",
-      "description": "Proof of work, formatted as a receipt with a price tag on it",
+      "description": "Proof of work as a priced receipt",
       "status": "",
       "marker": "🧾",
       "starBadgeUrl": ""
@@ -538,7 +538,7 @@
         {
           "name": "AGENTS.md",
           "url": "https://github.com/apoorvdarshan/AGENTS.md",
-          "description": "Shared rules and preferences for AI agents across projects and everyday tasks",
+          "description": "Shared AI agent rules for projects and everyday tasks",
           "status": "",
           "marker": "📋",
           "starBadgeUrl": ""
@@ -546,7 +546,7 @@
         {
           "name": "opencode-gemini-imagegen-plugin",
           "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
-          "description": "OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models",
+          "description": "Generate images with Gemini (Nano Banana)",
           "status": "",
           "marker": "🖼️",
           "starBadgeUrl": ""
@@ -562,7 +562,7 @@
         {
           "name": "macbook-24x7-agents",
           "url": "https://github.com/apoorvdarshan/macbook-24x7-agents",
-          "description": "Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)",
+          "description": "Run agents with the lid closed and display off; reversible",
           "status": "",
           "marker": "🌙",
           "starBadgeUrl": ""
@@ -570,7 +570,7 @@
         {
           "name": "linkedin-connection-sender",
           "url": "https://github.com/apoorvdarshan/linkedin-connection-sender",
-          "description": "Send LinkedIn connection requests by country/role at a human pace",
+          "description": "Send requests by country/role at a human pace",
           "status": "",
           "marker": "🤝",
           "starBadgeUrl": ""
@@ -578,7 +578,7 @@
         {
           "name": "wellfound-bot",
           "url": "https://github.com/apoorvdarshan/wellfound-bot",
-          "description": "Automate your Wellfound (AngelList) job hunt with human-like Playwright browser automation",
+          "description": "Automate Wellfound job searches with Playwright",
           "status": "",
           "marker": "🎯",
           "starBadgeUrl": ""
@@ -594,7 +594,7 @@
         {
           "name": "claw-c",
           "url": "https://github.com/apoorvdarshan/claw-c",
-          "description": "Claude Code reimplemented in pure C, the lowest level it's ever been done",
+          "description": "Claude Code reimplemented in pure C",
           "status": "",
           "marker": "🦀",
           "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/claw-c&v=3"
@@ -607,7 +607,7 @@
         {
           "name": "github-backup",
           "url": "https://github.com/apoorvdarshan/github-backup",
-          "description": "Daily cloud backups of all my GitHub repos to private GitLab, with integrity checks",
+          "description": "Daily GitHub backups to private GitLab with integrity checks",
           "status": "",
           "marker": "💾",
           "starBadgeUrl": ""
@@ -615,7 +615,7 @@
         {
           "name": "lithosai-bar",
           "url": "https://github.com/apoorvdarshan/lithosai-bar",
-          "description": "macOS menu bar app for LithosAI spend: balance, daily usage, and per-model breakdown",
+          "description": "LithosAI balance, daily usage, and model spend in the macOS menu bar",
           "status": "",
           "marker": "📊",
           "starBadgeUrl": "",
@@ -625,7 +625,7 @@
         {
           "name": "DesktopWorm",
           "url": "https://github.com/apoorvdarshan/DesktopWorm",
-          "description": "Native macOS desktop C. elegans driven by the OpenWorm c302 connectome",
+          "description": "macOS C. elegans simulation using the OpenWorm c302 connectome",
           "status": "",
           "marker": "🪱",
           "starBadgeUrl": "",
@@ -635,7 +635,7 @@
         {
           "name": "browser-cookie-bridge",
           "url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
-          "description": "Local Chromium cookie/session transfer to Codex on macOS",
+          "description": "Transfer local Chromium sessions to Codex on macOS",
           "status": "",
           "marker": "🍪",
           "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&v=3",
@@ -686,7 +686,7 @@
         {
           "name": "crossposter",
           "url": "https://github.com/apoorvdarshan/crossposter",
-          "description": "Cross-post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more",
+          "description": "Post to X, LinkedIn, Bluesky, Mastodon, IG, YouTube & more",
           "status": "",
           "marker": "📣",
           "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&v=3",
@@ -704,7 +704,7 @@
         {
           "name": "opengraph-studio",
           "url": "https://github.com/apoorvdarshan/opengraph-studio",
-          "description": "Live OpenGraph metadata editor and previewer for social platforms",
+          "description": "Edit and preview OpenGraph metadata live",
           "status": "",
           "marker": "🌐",
           "starBadgeUrl": ""
@@ -720,7 +720,7 @@
         {
           "name": "github-readme-contribution-merger",
           "url": "https://github.com/apoorvdarshan/github-readme-contribution-merger",
-          "description": "Merge GitHub contribution graphs into one SVG heatmap",
+          "description": "Combine contribution graphs into one SVG",
           "status": "",
           "marker": "📊",
           "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&v=3"
@@ -791,7 +791,7 @@
         {
           "name": "helios-01",
           "url": "https://github.com/apoorvdarshan/helios-01",
-          "description": "Editable Blender pocket orrery with an animated mechanical solar system",
+          "description": "Editable animated solar-system orrery in Blender",
           "status": "",
           "marker": "🪐",
           "starBadgeUrl": ""
@@ -844,7 +844,7 @@
         {
           "name": "how-rich-are-you",
           "url": "https://github.com/apoorvdarshan/how-rich-are-you",
-          "description": "90s-style income rank calculator with broke/rich meme GIF reactions",
+          "description": "90s-style income rankings with meme GIF reactions",
           "status": "",
           "marker": "💸",
           "starBadgeUrl": ""
@@ -852,7 +852,7 @@
         {
           "name": "billionaire-smash",
           "url": "https://github.com/apoorvdarshan/billionaire-smash",
-          "description": "Facemash for Forbes billionaires, vote on who wins head-to-head",
+          "description": "Head-to-head voting on Forbes billionaires",
           "status": "",
           "marker": "💰",
           "starBadgeUrl": ""
@@ -860,7 +860,7 @@
         {
           "name": "daxerly",
           "url": "https://github.com/apoorvdarshan/daxerly",
-          "description": "Proof of work, formatted as a receipt with a price tag on it",
+          "description": "Proof of work as a priced receipt",
           "status": "",
           "marker": "🧾",
           "starBadgeUrl": ""
@@ -995,7 +995,7 @@
     {
       "name": "dify",
       "url": "https://github.com/langgenius/dify/pull/32386",
-      "description": "refactor(web): replace String.match() with RegExp.exec() for non-global regex",
+      "description": "Use RegExp.exec() for non-global regex matches",
       "status": "",
       "marker": "🧠",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=langgenius/dify&v=3",
@@ -1130,7 +1130,7 @@
     {
       "name": "luigi",
       "url": "https://github.com/spotify/luigi/pull/3410",
-      "description": "fix: replace deprecated datetime.utcfromtimestamp() calls (by Spotify)",
+      "description": "Replace deprecated utcfromtimestamp() calls (by Spotify)",
       "status": "",
       "marker": "🎵",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=spotify/luigi&v=3",
@@ -1166,7 +1166,7 @@
     {
       "name": "react-spectrum",
       "url": "https://github.com/adobe/react-spectrum/pull/9678",
-      "description": "fix: incorrect timezone conversion when setLocalTimeZone is used (by Adobe)",
+      "description": "Fix setLocalTimeZone timezone conversion (by Adobe)",
       "status": "",
       "marker": "🎨",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=adobe/react-spectrum&v=3",
@@ -1220,7 +1220,7 @@
     {
       "name": "gunicorn",
       "url": "https://github.com/benoitc/gunicorn/pull/3686",
-      "description": "fix: decrement nr_conns on server-initiated close in the ASGI worker (authored commit)",
+      "description": "Fix ASGI connection count on server close (authored commit)",
       "status": "",
       "marker": "🦄",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=benoitc/gunicorn&v=3",
@@ -1256,7 +1256,7 @@
     {
       "name": "clawhub",
       "url": "https://github.com/openclaw/clawhub/pull/421",
-      "description": "fix: use relative delay for Retry-After header on 429 (by @steipete, 🦞 OpenClaw)",
+      "description": "Fix 429 Retry-After delay (by @steipete, 🦞 OpenClaw)",
       "status": "",
       "marker": "🦞",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=openclaw/clawhub&v=3",
@@ -1310,7 +1310,7 @@
     {
       "name": "curl_cffi",
       "url": "https://github.com/lexiforest/curl_cffi/pull/796",
-      "description": "fix: fall back to stdlib json in Response.json() when kwargs are passed",
+      "description": "Use stdlib JSON when Response.json() receives kwargs",
       "status": "",
       "marker": "🌀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=lexiforest/curl_cffi&v=3",
@@ -1319,7 +1319,7 @@
     {
       "name": "up-for-grabs.net",
       "url": "https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "8 merged PRs: Add Verceltics project; Add Fud AI project; Add Nornlore project",
+      "description": "8 merged PRs: Add Verceltics, Fud AI, and Nornlore",
       "status": "",
       "marker": "🆙",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=up-for-grabs/up-for-grabs.net&v=3",
@@ -1400,7 +1400,7 @@
     {
       "name": "returns",
       "url": "https://github.com/dry-python/returns/pull/2446",
-      "description": "fix: make partial plugin positionals keyword-only after keyword binding",
+      "description": "Fix partial plugin keyword-only argument binding",
       "status": "",
       "marker": "↩️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dry-python/returns&v=3",
@@ -1472,7 +1472,7 @@
     {
       "name": "Pint",
       "url": "https://github.com/hgrecco/pint/pull/2330",
-      "description": "feat: support superscript decimal point and fraction slash in exponents",
+      "description": "Support decimal points and fraction slashes in superscript exponents",
       "status": "",
       "marker": "📐",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=hgrecco/pint&v=3",
@@ -1508,7 +1508,7 @@
     {
       "name": "awesome-swift-macos-apps",
       "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps/pull/101",
-      "description": "add TetherShot to the curated Swift macOS apps list",
+      "description": "Add TetherShot to the Swift macOS app list",
       "status": "",
       "marker": "🍎",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jaywcjlove/awesome-swift-macos-apps&v=3",
@@ -1670,7 +1670,7 @@
     {
       "name": "styled-components-website",
       "url": "https://github.com/styled-components/styled-components-website/pull/993",
-      "description": "fix: improve accessibility across site to meet WCAG 2.1 guidelines",
+      "description": "Improve site accessibility for WCAG 2.1",
       "status": "",
       "marker": "💅",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=styled-components/styled-components-website&v=3",
@@ -1679,7 +1679,7 @@
     {
       "name": "docformatter",
       "url": "https://github.com/PyCQA/docformatter/pull/360",
-      "description": "fix: prevent ValueError crash on blank lines with trailing whitespace",
+      "description": "Fix crashes on blank lines with trailing whitespace",
       "status": "",
       "marker": "📏",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PyCQA/docformatter&v=3",
