@@ -1177,7 +1177,7 @@
     {
       "name": "omi",
       "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "44 merged PRs: arm pairing help when bluetooth…; report rejected task completion…",
+      "description": "50 merged PRs: skip macOS archive metadata in…; keep historical list pages full…",
       "status": "",
       "marker": "🎙️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
@@ -1577,7 +1577,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "983"
+      "starCount": "986"
     },
     {
       "name": "djLint",
@@ -1721,7 +1721,7 @@
       "status": "",
       "marker": "🍴",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
-      "starCount": "515"
+      "starCount": "516"
     },
     {
       "name": "awesome-openrouter",
