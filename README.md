@@ -229,12 +229,6 @@
 
 <img src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan&mode=sum&colors=39d353%2C58a6ff&v=20260824" alt="Apoorv Darshan’s GitHub contributions" />
 
-## My Agent Setup
-
-- **Harnesses** - GUIs: [Claude](https://claude.com/download), [Codex](https://openai.com/codex/), and [OpenCode v2](https://opencode.ai/) for OpenCode Go and LithosAI ([DeepSeek](https://www.deepseek.com/))
-- **Always on** - agents run 24x7 on a MacBook with the lid closed ([macbook-24x7-agents](https://github.com/apoorvdarshan/macbook-24x7-agents))
-- **Instructions** - [My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): shared rules and preferences for how my agents work across projects and everyday tasks.
-
 ## What I Use
 
 ### Hardware
