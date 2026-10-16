@@ -1884,7 +1884,7 @@
     },
     {
       "name": "Instructions",
-      "description": "[My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): one shared master for my agents, covering development, marketing, security, and releases."
+      "description": "[My AGENTS.md](https://github.com/apoorvdarshan/AGENTS.md): shared rules and preferences for how my agents work across projects and everyday tasks."
     }
   ],
   "uses": {
