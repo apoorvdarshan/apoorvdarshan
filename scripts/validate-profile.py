@@ -2,10 +2,18 @@
 import hashlib
 import json
 from pathlib import Path
+import re
 import subprocess
 s=Path('README.md').read_text()
-for section in ['My Agent Setup', 'Mobile Apps', 'Open Source Contributions']:
-    assert s.count('## ' + section) == 1, 'Invalid profile section'
+# Sections documented in AGENTS.md that must appear exactly once. Matched at
+# '##' or '###' so a heading level change does not break the check.
+for section in [
+    'Mobile Apps', 'Games', 'Chrome Extensions', 'AI & Agents',
+    'Apps & Utilities', 'Web Apps & Tools', 'Creative, 3D & Vision',
+    'Experiments & Fun', 'Open Source Contributions', 'What I Use', 'Connect',
+]:
+    pattern = r'^#{2,3} ' + re.escape(section) + r'\s*$'
+    assert len(re.findall(pattern, s, re.M)) == 1, f'Invalid profile section: {section}'
 for p in [*Path('profile-automation').glob('*.json'), *Path('resume').glob('*.json')]:
     json.loads(p.read_text())
 manifest=json.loads(Path('resume/build.json').read_text())
