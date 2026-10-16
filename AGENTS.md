@@ -35,7 +35,7 @@ The six-hour refresh workflow lives in .github/workflows/refresh-profile.yml.
 It checks out only this public repo, refreshes verified metrics, builds the
 PDF/site, pushes managed files (including resume/), and deploys.
 Preserve failure reporting, secret isolation, source/PDF hash validation, and
-local-edit protection. Follow repository protections and verify live output.
+local-edit protection. Follow repository protections.
 
 ## README Section Structure
 
