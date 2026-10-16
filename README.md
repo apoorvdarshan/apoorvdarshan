@@ -28,6 +28,7 @@
 
 ## AI & Agents
 <ul>
+<li>📋 <strong><a href="https://github.com/apoorvdarshan/AGENTS.md">AGENTS.md</a></strong> - Shared rules and preferences for AI agents across projects and everyday tasks</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models</li>
 <li>📬 <strong><a href="https://github.com/apoorvdarshan/fud-mail">fud-mail</a></strong> - Multi-account Gmail MCP for Codex, Claude Code, and OpenCode</li>
 <li>🌙 <strong><a href="https://github.com/apoorvdarshan/macbook-24x7-agents">macbook-24x7-agents</a></strong> - Run AI agents 24x7 on a MacBook (sleep/lid/display off; reversible)</li>

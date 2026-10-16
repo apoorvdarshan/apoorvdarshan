@@ -118,6 +118,14 @@
   ],
   "projects": [
     {
+      "name": "AGENTS.md",
+      "url": "https://github.com/apoorvdarshan/AGENTS.md",
+      "description": "Shared rules and preferences for AI agents across projects and everyday tasks",
+      "status": "",
+      "marker": "📋",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "opencode-gemini-imagegen-plugin",
       "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
       "description": "OpenCode plugin for AI image generation via Google Gemini (Nano Banana) models",
@@ -527,6 +535,14 @@
     {
       "name": "AI & Agents",
       "items": [
+        {
+          "name": "AGENTS.md",
+          "url": "https://github.com/apoorvdarshan/AGENTS.md",
+          "description": "Shared rules and preferences for AI agents across projects and everyday tasks",
+          "status": "",
+          "marker": "📋",
+          "starBadgeUrl": ""
+        },
         {
           "name": "opencode-gemini-imagegen-plugin",
           "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
