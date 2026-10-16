@@ -37,9 +37,7 @@ Guidance for agents working on `apoorvdarshan/apoorvdarshan` (https://apoorvdars
 
 ## Description Length
 
-- Descriptions in **Apps**, **Games**, **Chrome Extensions**, **Projects**, and **Open Source Contributions** must stay on **one rendered line** at normal desktop width (GitHub README profile view and apoorvdarshan.com).
-- Never let a description wrap to a second line on desktop. If it would wrap, **shorten the wording** (keep download shield badges in the GitHub README when present).
-- Prefer ~90 characters or fewer for the plain description text after the name/badge.
+- Keep each complete project entry—name, badges, separator, and description—on one rendered line at normal desktop width (GitHub README profile view and apoorvdarshan.com). Preserve project names and section headings; shorten only the description to fit the remaining space. Remove redundant wording.
 - On apoorvdarshan.com, desktop list rows also use CSS ellipsis as a backstop (`white-space: nowrap; overflow: hidden; text-overflow: ellipsis`) — still shorten the source text; do not rely on clipping alone.
 
 - `distribution_counts.py` runs after mobile/npm refresh: six explicitly mapped release repositories and two public Chrome store listings. GitHub assets are allowlisted (no checksums, signatures, AABs, drafts or prereleases), paginated and summed once per asset. Combined download events are not unique installs; Fud AI adds APK events to the unchanged first-time store subtotal. Homebrew casks for TetherShot and Browser Cookie Bridge use GitHub assets: never sum those installs again. Chrome users remain a separate metric and may decrease. Public audit: `profile-automation/distribution-counts.json`. Failed sources keep their previous verified snapshot; missing first snapshots leave existing copy untouched and fail the health check. Newest YouTube Search and Streaming Indian Filter have no store listings or release assets; do not invent counts.

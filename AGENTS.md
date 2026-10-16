@@ -102,9 +102,7 @@ When a new top item pushes a section past 10 `<li>` entries, move the last `<li>
 
 ## Description Length
 
-- Descriptions in **Mobile Apps**, **Games**, **Chrome Extensions**, the five project sections, and **Open Source Contributions** must stay on **one rendered line** at normal desktop width (GitHub README profile view and apoorvdarshan.com).
-- Never let a description wrap to a second line on desktop. If it would wrap, **shorten the wording** (keep download shield badges when present).
-- Prefer ~90 characters or fewer for the plain description text after the name/badge.
+- Keep each complete project entry—name, badges, separator, and description—on one rendered line at normal desktop width (GitHub README profile view and apoorvdarshan.com). Preserve project names and section headings; shorten only the description to fit the remaining space. Remove redundant wording.
 - On apoorvdarshan.com, desktop list rows also use CSS ellipsis as a backstop (`white-space: nowrap; overflow: hidden; text-overflow: ellipsis`) — still shorten the source text; do not rely on clipping alone.
 
 
