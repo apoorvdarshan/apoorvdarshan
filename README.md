@@ -287,6 +287,7 @@ PDF resume — view or download.
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/apoorvdarshan.com)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@apoorvcodes)
 [![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/apoorvdarshan)
+[![Indie Hackers](https://img.shields.io/badge/-Indie_Hackers-0E2439?style=flat-square&logo=indiehackers&logoColor=white)](https://www.indiehackers.com/apoorvdarshan)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/apoorvdarshan)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lawlmexv2yrccl6xbhxggb6bza)
 
