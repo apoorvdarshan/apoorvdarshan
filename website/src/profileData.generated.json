@@ -104,7 +104,7 @@
       "status": "",
       "marker": "⏸️",
       "starBadgeUrl": "",
-      "downloads": "4",
+      "downloads": "5",
       "metric": "users"
     },
     {
@@ -1618,7 +1618,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "998"
+      "starCount": "999"
     },
     {
       "name": "djLint",
@@ -1744,7 +1744,7 @@
       "status": "",
       "marker": "🏦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=guibranco/BancosBrasileiros&v=3",
-      "starCount": "550"
+      "starCount": "551"
     },
     {
       "name": "vermin",
@@ -1771,7 +1771,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "512"
+      "starCount": "513"
     },
     {
       "name": "poetry-core",
@@ -1852,7 +1852,7 @@
       "status": "",
       "marker": "🔷",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/docs-desktop&v=3",
-      "starCount": "237"
+      "starCount": "238"
     },
     {
       "name": "asttokens",
