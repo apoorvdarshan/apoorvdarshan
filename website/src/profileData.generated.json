@@ -118,9 +118,9 @@
   ],
   "projects": [
     {
-      "name": "AGENTS.md",
-      "url": "https://github.com/apoorvdarshan/AGENTS.md",
-      "description": "Shared AI agent rules for projects and everyday tasks",
+      "name": "agent-setup",
+      "url": "https://github.com/apoorvdarshan/agent-setup",
+      "description": "Shared AI agent rules and terminal settings",
       "status": "",
       "marker": "📋",
       "starBadgeUrl": ""
@@ -544,9 +544,9 @@
       "name": "AI & Agents",
       "items": [
         {
-          "name": "AGENTS.md",
-          "url": "https://github.com/apoorvdarshan/AGENTS.md",
-          "description": "Shared AI agent rules for projects and everyday tasks",
+          "name": "agent-setup",
+          "url": "https://github.com/apoorvdarshan/agent-setup",
+          "description": "Shared AI agent rules and terminal settings",
           "status": "",
           "marker": "📋",
           "starBadgeUrl": ""
