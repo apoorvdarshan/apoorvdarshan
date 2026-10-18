@@ -4,6 +4,11 @@ updates:
     directory: "/"
     schedule:
       interval: weekly
+    groups:
+      # Every CodeQL step must run the same version, so they update together.
+      codeql-action:
+        patterns:
+          - "github/codeql-action*"
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
@@ -12,6 +17,12 @@ updates:
     directory: /website
     schedule:
       interval: weekly
+    groups:
+      # React refuses to run when react and react-dom versions differ.
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
   - package-ecosystem: pip
     directory: /website/scripts/automation
     schedule:
