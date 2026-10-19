@@ -368,6 +368,13 @@
     },
     {
       "repo": "BasedHardware/omi",
+      "number": 21088,
+      "title": "fix(app): never log app API key secrets or call tokens",
+      "url": "https://github.com/BasedHardware/omi/pull/21088",
+      "mergedAt": "2026-10-19T15:14:35Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
       "number": 21089,
       "title": "fix(app): report a failed review reply instead of showing success",
       "url": "https://github.com/BasedHardware/omi/pull/21089",
@@ -435,6 +442,454 @@
       "title": "fix(desktop): remove a deleted memory from search and category results",
       "url": "https://github.com/BasedHardware/omi/pull/21720",
       "mergedAt": "2026-10-16T14:48:42Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22251,
+      "title": "fix(tasks): invalidate cached task lists when a suggestion is accepted",
+      "url": "https://github.com/BasedHardware/omi/pull/22251",
+      "mergedAt": "2026-10-19T14:40:13Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22255,
+      "title": "fix(app): update an app's rating when you review it",
+      "url": "https://github.com/BasedHardware/omi/pull/22255",
+      "mergedAt": "2026-10-19T14:42:41Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22259,
+      "title": "fix(web): coalesce task list reloads after deletes",
+      "url": "https://github.com/BasedHardware/omi/pull/22259",
+      "mergedAt": "2026-10-19T14:40:23Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22262,
+      "title": "fix(desktop): stop completed and deleted tasks coming back in Tasks search",
+      "url": "https://github.com/BasedHardware/omi/pull/22262",
+      "mergedAt": "2026-10-19T14:43:44Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22264,
+      "title": "fix(backend): re-arm a task's phone reminder when it is renamed",
+      "url": "https://github.com/BasedHardware/omi/pull/22264",
+      "mergedAt": "2026-10-19T14:43:29Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22270,
+      "title": "fix(imports): read Zoom's GMT file-name times as UTC",
+      "url": "https://github.com/BasedHardware/omi/pull/22270",
+      "mergedAt": "2026-10-19T14:41:05Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22273,
+      "title": "fix(memories): resume ledger history pages after the last returned row",
+      "url": "https://github.com/BasedHardware/omi/pull/22273",
+      "mergedAt": "2026-10-19T14:41:42Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22275,
+      "title": "fix(memories): stop short-word memory searches from listing every memory",
+      "url": "https://github.com/BasedHardware/omi/pull/22275",
+      "mergedAt": "2026-10-19T15:10:25Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22277,
+      "title": "fix(tasks): invalidate cached task lists after workstream task writes",
+      "url": "https://github.com/BasedHardware/omi/pull/22277",
+      "mergedAt": "2026-10-19T14:42:20Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22279,
+      "title": "fix(web): make the 7-day and this-week date presets cover the whole range",
+      "url": "https://github.com/BasedHardware/omi/pull/22279",
+      "mergedAt": "2026-10-19T14:41:34Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22284,
+      "title": "fix(web): keep Tasks list shortcuts on the rows the search shows",
+      "url": "https://github.com/BasedHardware/omi/pull/22284",
+      "mergedAt": "2026-10-19T14:43:23Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22286,
+      "title": "fix(app): open the chat when an iOS chat-answer push is tapped",
+      "url": "https://github.com/BasedHardware/omi/pull/22286",
+      "mergedAt": "2026-10-19T14:42:14Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22289,
+      "title": "fix(app): keep the webhook URLs when reading them fails",
+      "url": "https://github.com/BasedHardware/omi/pull/22289",
+      "mergedAt": "2026-10-19T14:40:07Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22290,
+      "title": "fix(windows): keep yesterday's chats under Yesterday after a DST change",
+      "url": "https://github.com/BasedHardware/omi/pull/22290",
+      "mergedAt": "2026-10-19T14:41:22Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22292,
+      "title": "fix(stt): keep provider casing in pre-recorded transcript segments",
+      "url": "https://github.com/BasedHardware/omi/pull/22292",
+      "mergedAt": "2026-10-19T14:42:03Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22294,
+      "title": "fix(chat): give each conversation one citation number per turn",
+      "url": "https://github.com/BasedHardware/omi/pull/22294",
+      "mergedAt": "2026-10-19T14:38:37Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22296,
+      "title": "fix(listen): never let a calendar meeting shorten the silence timeout",
+      "url": "https://github.com/BasedHardware/omi/pull/22296",
+      "mergedAt": "2026-10-19T15:14:08Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22298,
+      "title": "fix(backend): stop capping live transcription after a fair-use restriction expires",
+      "url": "https://github.com/BasedHardware/omi/pull/22298",
+      "mergedAt": "2026-10-19T14:40:17Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22301,
+      "title": "fix(go-sdk): report a Parakeet stream closed before ready",
+      "url": "https://github.com/BasedHardware/omi/pull/22301",
+      "mergedAt": "2026-10-19T14:41:28Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22303,
+      "title": "fix(cli): keep on-device and exact-text hits in search-screen JSON",
+      "url": "https://github.com/BasedHardware/omi/pull/22303",
+      "mergedAt": "2026-10-19T14:43:50Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22305,
+      "title": "fix(web): fetch starred conversations from the server for the Starred tab",
+      "url": "https://github.com/BasedHardware/omi/pull/22305",
+      "mergedAt": "2026-10-19T14:43:17Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22307,
+      "title": "fix(app): transfer multi-file device recordings to the phone",
+      "url": "https://github.com/BasedHardware/omi/pull/22307",
+      "mergedAt": "2026-10-19T14:42:07Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22309,
+      "title": "fix(app): keep the vocabulary list when it failed to load",
+      "url": "https://github.com/BasedHardware/omi/pull/22309",
+      "mergedAt": "2026-10-19T14:40:02Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22311,
+      "title": "fix(app): keep pendant voice questions out of app and Mentor threads",
+      "url": "https://github.com/BasedHardware/omi/pull/22311",
+      "mergedAt": "2026-10-19T14:40:57Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22314,
+      "title": "fix(cli): keep config load and webhook target reports the same on Windows",
+      "url": "https://github.com/BasedHardware/omi/pull/22314",
+      "mergedAt": "2026-10-19T14:43:06Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22315,
+      "title": "fix(app): show the active memories search when the page reopens",
+      "url": "https://github.com/BasedHardware/omi/pull/22315",
+      "mergedAt": "2026-10-19T14:38:31Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22320,
+      "title": "fix(merge): complete merges of conversations that overlap in time",
+      "url": "https://github.com/BasedHardware/omi/pull/22320",
+      "mergedAt": "2026-10-19T14:40:10Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22323,
+      "title": "fix(mcp): create a new task when a finished one has the same title",
+      "url": "https://github.com/BasedHardware/omi/pull/22323",
+      "mergedAt": "2026-10-19T14:42:39Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22326,
+      "title": "fix(sync): keep synced transcript times on the VAD file clock",
+      "url": "https://github.com/BasedHardware/omi/pull/22326",
+      "mergedAt": "2026-10-19T14:43:12Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22329,
+      "title": "fix(web): let Enter reopen completed tasks on the Tasks page",
+      "url": "https://github.com/BasedHardware/omi/pull/22329",
+      "mergedAt": "2026-10-19T14:42:01Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22331,
+      "title": "fix(windows): start the daily recap at local midnight after a DST change",
+      "url": "https://github.com/BasedHardware/omi/pull/22331",
+      "mergedAt": "2026-10-19T14:40:45Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22333,
+      "title": "fix(speaker-id): keep the casing of names detected from introductions",
+      "url": "https://github.com/BasedHardware/omi/pull/22333",
+      "mergedAt": "2026-10-19T14:40:52Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22336,
+      "title": "fix(backend): stop the fair-use case page showing an expired restriction",
+      "url": "https://github.com/BasedHardware/omi/pull/22336",
+      "mergedAt": "2026-10-19T14:43:02Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22338,
+      "title": "fix(app): put a webhook switch back when the server does not confirm it",
+      "url": "https://github.com/BasedHardware/omi/pull/22338",
+      "mergedAt": "2026-10-19T14:38:25Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22344,
+      "title": "fix(desktop): report a failed screen-history search as a tool error",
+      "url": "https://github.com/BasedHardware/omi/pull/22344",
+      "mergedAt": "2026-10-19T14:42:09Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22349,
+      "title": "fix(web): load a conversations filter picked while the list is loading",
+      "url": "https://github.com/BasedHardware/omi/pull/22349",
+      "mergedAt": "2026-10-19T14:43:36Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22351,
+      "title": "fix(web): take back a conversation star the server did not save",
+      "url": "https://github.com/BasedHardware/omi/pull/22351",
+      "mergedAt": "2026-10-19T14:41:55Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22354,
+      "title": "fix(app): keep typed vocabulary words when saving them fails",
+      "url": "https://github.com/BasedHardware/omi/pull/22354",
+      "mergedAt": "2026-10-19T14:39:54Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22356,
+      "title": "fix(desktop): keep the vocabulary list when it failed to load",
+      "url": "https://github.com/BasedHardware/omi/pull/22356",
+      "mergedAt": "2026-10-19T14:40:48Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22361,
+      "title": "fix(app): end a multi-file device sync as soon as it is cancelled",
+      "url": "https://github.com/BasedHardware/omi/pull/22361",
+      "mergedAt": "2026-10-19T14:38:20Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22364,
+      "title": "fix(app): stop reporting a failed ring transfer to phone as complete",
+      "url": "https://github.com/BasedHardware/omi/pull/22364",
+      "mergedAt": "2026-10-19T15:14:24Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22367,
+      "title": "fix(app): list the tapped memory when search opens Memories",
+      "url": "https://github.com/BasedHardware/omi/pull/22367",
+      "mergedAt": "2026-10-19T14:40:04Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22370,
+      "title": "fix(app): stop showing a failed Limitless transfer as complete",
+      "url": "https://github.com/BasedHardware/omi/pull/22370",
+      "mergedAt": "2026-10-19T14:44:03Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22375,
+      "title": "fix(action-items): page the idempotency lookup past deleted matches",
+      "url": "https://github.com/BasedHardware/omi/pull/22375",
+      "mergedAt": "2026-10-19T15:10:15Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22378,
+      "title": "fix(mcp): keep get_conversations offset pages full past hidden rows",
+      "url": "https://github.com/BasedHardware/omi/pull/22378",
+      "mergedAt": "2026-10-19T14:43:00Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22380,
+      "title": "fix(web): keep a task's completion date when reopening it fails",
+      "url": "https://github.com/BasedHardware/omi/pull/22380",
+      "mergedAt": "2026-10-19T14:41:49Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22382,
+      "title": "fix(people): find an existing person by name regardless of case",
+      "url": "https://github.com/BasedHardware/omi/pull/22382",
+      "mergedAt": "2026-10-19T14:41:00Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22384,
+      "title": "fix(desktop): report a failed local SQL query as a tool error",
+      "url": "https://github.com/BasedHardware/omi/pull/22384",
+      "mergedAt": "2026-10-19T14:41:17Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22387,
+      "title": "fix(device-ts): report a Parakeet stream closed before ready",
+      "url": "https://github.com/BasedHardware/omi/pull/22387",
+      "mergedAt": "2026-10-19T14:41:52Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22392,
+      "title": "fix(web): tell the user when moving conversations to a folder fails",
+      "url": "https://github.com/BasedHardware/omi/pull/22392",
+      "mergedAt": "2026-10-19T14:39:58Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22396,
+      "title": "fix(web): clear the conversations error when a cached filter is shown",
+      "url": "https://github.com/BasedHardware/omi/pull/22396",
+      "mergedAt": "2026-10-19T14:43:25Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22399,
+      "title": "fix(app): don't drop vocabulary word removals or fail them silently",
+      "url": "https://github.com/BasedHardware/omi/pull/22399",
+      "mergedAt": "2026-10-19T14:42:54Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22401,
+      "title": "fix(backend): refuse a custom vocabulary over 100 terms",
+      "url": "https://github.com/BasedHardware/omi/pull/22401",
+      "mergedAt": "2026-10-19T14:41:38Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22403,
+      "title": "fix(desktop): put the vocabulary list back when saving it fails",
+      "url": "https://github.com/BasedHardware/omi/pull/22403",
+      "mergedAt": "2026-10-19T14:39:44Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22405,
+      "title": "fix(app): keep pending device recordings when clearing synced ones",
+      "url": "https://github.com/BasedHardware/omi/pull/22405",
+      "mergedAt": "2026-10-19T14:40:42Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22407,
+      "title": "fix(app): don't let the saved category filter hide memory search results",
+      "url": "https://github.com/BasedHardware/omi/pull/22407",
+      "mergedAt": "2026-10-19T14:41:45Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22409,
+      "title": "fix(app): stop a load or save that outlives Developer Settings from throwing",
+      "url": "https://github.com/BasedHardware/omi/pull/22409",
+      "mergedAt": "2026-10-19T14:37:05Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22411,
+      "title": "fix(app): cancel only the iOS sync window's own drain when it expires",
+      "url": "https://github.com/BasedHardware/omi/pull/22411",
+      "mergedAt": "2026-10-19T15:14:46Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22414,
+      "title": "fix(app): stop silently skipping SD card transfers after a reconnect",
+      "url": "https://github.com/BasedHardware/omi/pull/22414",
+      "mergedAt": "2026-10-19T14:41:14Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22415,
+      "title": "fix(merge): hold the created webhook until the merge can no longer roll back",
+      "url": "https://github.com/BasedHardware/omi/pull/22415",
+      "mergedAt": "2026-10-19T14:41:57Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22417,
+      "title": "fix(app): keep a Limitless recording's id when the pendant is listed again",
+      "url": "https://github.com/BasedHardware/omi/pull/22417",
+      "mergedAt": "2026-10-19T14:43:39Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22419,
+      "title": "fix(mcp): hide Dream duplicate captures from MCP conversation cards",
+      "url": "https://github.com/BasedHardware/omi/pull/22419",
+      "mergedAt": "2026-10-19T14:42:47Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22436,
+      "title": "fix(web): tell the user when completing a task on Home fails",
+      "url": "https://github.com/BasedHardware/omi/pull/22436",
+      "mergedAt": "2026-10-19T14:36:57Z"
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "number": 22443,
+      "title": "fix(web): clear the memories error when a cached category is shown",
+      "url": "https://github.com/BasedHardware/omi/pull/22443",
+      "mergedAt": "2026-10-19T14:39:49Z"
     },
     {
       "repo": "boa-dev/boa",
@@ -1203,12 +1658,12 @@
   "stars": {
     "abordage/awesome-mac": 27,
     "adbar/htmldate": 158,
-    "adobe/react-spectrum": 15963,
+    "adobe/react-spectrum": 15965,
     "akkadotnet/akka.net": 5088,
     "alecthomas/voluptuous": 1852,
-    "alvinreal/awesome-opensource-ai": 4907,
+    "alvinreal/awesome-opensource-ai": 4909,
     "andialbrecht/sqlparse": 4023,
-    "ansible/ansible": 71020,
+    "ansible/ansible": 71025,
     "apoorvdarshan/abysm": 0,
     "apoorvdarshan/agent-setup": 0,
     "apoorvdarshan/apoorvdarshan": 1,
@@ -1224,7 +1679,7 @@
     "apoorvdarshan/doodle-beats": 1,
     "apoorvdarshan/drawtica": 1,
     "apoorvdarshan/dtu-clone": 2,
-    "apoorvdarshan/fud-ai": 482,
+    "apoorvdarshan/fud-ai": 483,
     "apoorvdarshan/fud-mail": 0,
     "apoorvdarshan/gesture-keyboard": 1,
     "apoorvdarshan/github-backup": 0,
@@ -1270,67 +1725,67 @@
     "apoorvdarshan/zombie-game": 3,
     "apoorvdarshan/zyro": 1,
     "aregtech/areg-sdk": 369,
-    "basedhardware/omi": 13766,
+    "basedhardware/omi": 13769,
     "benoitc/gunicorn": 10703,
-    "boa-dev/boa": 7616,
-    "capsoftware/cap": 23417,
-    "ccextractor/ccextractor": 906,
+    "boa-dev/boa": 7617,
+    "capsoftware/cap": 23430,
+    "ccextractor/ccextractor": 907,
     "click-contrib/click-repl": 243,
-    "dasterprokio/awesome-ai-companion": 1019,
+    "dasterprokio/awesome-ai-companion": 1022,
     "django-oauth/django-oauth-toolkit": 3344,
     "djlint/djlint": 952,
-    "dkhamsing/open-source-ios-apps": 52681,
-    "dotnet/core": 22048,
+    "dkhamsing/open-source-ios-apps": 52690,
+    "dotnet/core": 22049,
     "dotnet/docs-desktop": 238,
-    "dotnet/fsharp": 4346,
-    "dotnet/runtime": 18369,
+    "dotnet/fsharp": 4347,
+    "dotnet/runtime": 18370,
     "dry-python/returns": 4382,
     "dynaconf/dynaconf": 4335,
-    "effect-ts/effect": 17330,
-    "flutter/flutter": 180289,
-    "flux159/mcp-server-kubernetes": 1606,
-    "fork-commit-merge/fork-commit-merge": 516,
-    "freecodecamp/freecodecamp": 457489,
+    "effect-ts/effect": 17334,
+    "flutter/flutter": 180297,
+    "flux159/mcp-server-kubernetes": 1607,
+    "fork-commit-merge/fork-commit-merge": 517,
+    "freecodecamp/freecodecamp": 457520,
     "geopy/geopy": 4869,
     "giselles-ai/giselle": 558,
-    "gitextensions/gitextensions": 8595,
-    "google/zx": 45807,
+    "gitextensions/gitextensions": 8597,
+    "google/zx": 45808,
     "gorakhargosh/watchdog": 7422,
-    "gristlabs/asttokens": 196,
+    "gristlabs/asttokens": 197,
     "guibranco/bancosbrasileiros": 551,
     "hgrecco/pint": 2813,
     "ikamensh/flynt": 733,
-    "jaywcjlove/awesome-swift-macos-apps": 1757,
-    "jd/tenacity": 8808,
-    "jquery/jquery": 59928,
+    "jaywcjlove/awesome-swift-macos-apps": 1758,
+    "jd/tenacity": 8809,
+    "jquery/jquery": 59943,
     "jsonpickle/jsonpickle": 1320,
-    "julialang/julia": 49220,
+    "julialang/julia": 49222,
     "jupyterlab/jupyterlab": 15368,
     "kislyuk/argcomplete": 1585,
     "koordinates/kart": 684,
-    "kornia/kornia": 11435,
+    "kornia/kornia": 11436,
     "kozea/weasyprint": 9706,
-    "kubernetes/kubernetes": 128459,
-    "langgenius/dify": 158885,
-    "laravel/laravel": 85245,
-    "lark-parser/lark": 6013,
-    "lexiforest/curl_cffi": 6737,
+    "kubernetes/kubernetes": 128483,
+    "langgenius/dify": 158926,
+    "laravel/laravel": 85256,
+    "lark-parser/lark": 6014,
+    "lexiforest/curl_cffi": 6740,
     "magicstack/asyncpg": 8111,
     "micheles/decorator": 902,
     "mjs/imapclient": 564,
-    "moinwiki/moin": 374,
-    "mpmath/mpmath": 1224,
-    "netromdk/vermin": 536,
+    "moinwiki/moin": 375,
+    "mpmath/mpmath": 1225,
+    "netromdk/vermin": 537,
     "onmyway133/awesome-swiftui": 1076,
     "opcotech/elemo": 39,
-    "openclaw/clawhub": 9518,
+    "openclaw/clawhub": 9520,
     "openrouterteam/awesome-openrouter": 513,
-    "pandas-dev/pandas": 50226,
-    "payloadcms/payload": 45350,
-    "pcqpcq/open-source-android-apps": 10539,
+    "pandas-dev/pandas": 50239,
+    "payloadcms/payload": 45354,
+    "pcqpcq/open-source-android-apps": 10540,
     "petertzy/markdown-reader": 40,
-    "prowler-cloud/prowler": 15062,
-    "pwaller/pyfiglet": 1590,
+    "prowler-cloud/prowler": 15066,
+    "pwaller/pyfiglet": 1591,
     "py-pdf/fpdf2": 1549,
     "pycqa/docformatter": 598,
     "pycqa/isort": 6961,
@@ -1339,28 +1794,28 @@
     "pylons/webob": 443,
     "python-poetry/poetry-core": 481,
     "python-websockets/websockets": 5733,
-    "python/typeshed": 5133,
+    "python/typeshed": 5134,
     "radis/radis": 286,
     "resend/resend-mcp": 576,
     "ripmeapp/ripme": 4134,
-    "serhii-londar/open-source-mac-os-apps": 50874,
-    "simplejson/simplejson": 1711,
-    "soxoj/maigret": 39216,
+    "serhii-londar/open-source-mac-os-apps": 50883,
+    "simplejson/simplejson": 1710,
+    "soxoj/maigret": 39227,
     "spamscope/mail-parser": 458,
     "spotify/luigi": 18783,
-    "spring-projects/spring-boot": 81779,
-    "sqlfluff/sqlfluff": 9983,
-    "steipete/codexbar": 22652,
+    "spring-projects/spring-boot": 81787,
+    "sqlfluff/sqlfluff": 9984,
+    "steipete/codexbar": 22661,
     "styled-components/styled-components-website": 618,
-    "sveltejs/svelte": 88404,
+    "sveltejs/svelte": 88409,
     "teammates/teammates": 1856,
     "tefra/xsdata": 452,
-    "tensorflow/tensorflow": 201180,
-    "the-pr-agent/pr-agent": 13452,
+    "tensorflow/tensorflow": 201200,
+    "the-pr-agent/pr-agent": 13458,
     "tomasz-buczek/awesome-ai-companions": 52,
     "tortoise/tortoise-orm": 5638,
     "tox-dev/tox": 3972,
-    "tracel-ai/burn": 16128,
+    "tracel-ai/burn": 16130,
     "trentm/python-markdown2": 2823,
     "up-for-grabs/up-for-grabs.net": 6033,
     "whynothugo/python-barcode": 658,

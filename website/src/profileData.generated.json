@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "11K+",
       "metric": "downloads",
-      "starCount": "482"
+      "starCount": "483"
     },
     {
       "name": "verceltics",
@@ -988,7 +988,7 @@
       "status": "",
       "marker": "🏕️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=freeCodeCamp/freeCodeCamp&v=3",
-      "starCount": "457k"
+      "starCount": "458k"
     },
     {
       "name": "tensorflow",
@@ -1227,7 +1227,7 @@
     {
       "name": "omi",
       "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "50 merged PRs: skip macOS archive metadata in…; keep historical list pages full…",
+      "description": "115 merged PRs: cancel only the iOS sync window's…; never log app API key secrets or…",
       "status": "",
       "marker": "🎙️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
@@ -1654,7 +1654,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "906"
+      "starCount": "907"
     },
     {
       "name": "decorator",
@@ -1771,7 +1771,7 @@
       "status": "",
       "marker": "🐍",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
-      "starCount": "536"
+      "starCount": "537"
     },
     {
       "name": "fork-commit-merge",
@@ -1780,7 +1780,7 @@
       "status": "",
       "marker": "🍴",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
-      "starCount": "516"
+      "starCount": "517"
     },
     {
       "name": "awesome-openrouter",
@@ -1834,7 +1834,7 @@
       "status": "",
       "marker": "📝",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=moinwiki/moin&v=3",
-      "starCount": "374"
+      "starCount": "375"
     },
     {
       "name": "areg-sdk",
@@ -1879,7 +1879,7 @@
       "status": "",
       "marker": "🌳",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=gristlabs/asttokens&v=3",
-      "starCount": "196"
+      "starCount": "197"
     },
     {
       "name": "htmldate",
