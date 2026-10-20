@@ -2,13 +2,13 @@
   "version": 1,
   "sources": {
     "releases:apoorvdarshan/fud-ai": {
-      "count": 1118,
+      "count": 1130,
       "assets": [
         {
           "id": 623024405,
           "name": "fudai-v7.2.apk",
           "tag": "android-v7.2",
-          "downloads": 133,
+          "downloads": 139,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.2/fudai-v7.2.apk"
         },
         {
@@ -22,28 +22,28 @@
           "id": 587916243,
           "name": "fudai-v7.1.apk",
           "tag": "android-v7.1",
-          "downloads": 12,
+          "downloads": 13,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.1/fudai-v7.1.apk"
         },
         {
           "id": 565546274,
           "name": "fudai-v7.0.1.apk",
           "tag": "android-v7.0.1",
-          "downloads": 108,
+          "downloads": 110,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.0.1/fudai-v7.0.1.apk"
         },
         {
           "id": 563579435,
           "name": "fudai-v7.0.apk",
           "tag": "android-v7.0",
-          "downloads": 40,
+          "downloads": 41,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v7.0/fudai-v7.0.apk"
         },
         {
           "id": 504889320,
           "name": "fudai-v6.1.apk",
           "tag": "android-v6.1",
-          "downloads": 285,
+          "downloads": 287,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v6.1/fudai-v6.1.apk"
         },
         {
@@ -203,13 +203,13 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/fud-ai/releases",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
-      "display_total": 11395,
+      "display_total": 11471,
       "badge": "11K+",
       "breakdown": {
-        "github_release_downloads": 1118,
-        "store_first_time_downloads": 10277
+        "github_release_downloads": 1130,
+        "store_first_time_downloads": 10341
       }
     },
     "releases:apoorvdarshan/lithosai-bar": {
@@ -225,7 +225,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/lithosai-bar/releases",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "cee05da977f2d8a121aba20364494bef10299302aaf794aca3d65d7dd1a99893",
       "display_total": 1,
       "badge": "1",
@@ -246,7 +246,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/DesktopWorm/releases",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "3bd2b395ca5401ae3cfa9b497e267d8fbfc0d0a1f2584b09cb27db00b459fd2b",
       "display_total": 3,
       "badge": "3",
@@ -255,13 +255,13 @@
       }
     },
     "releases:apoorvdarshan/browser-cookie-bridge": {
-      "count": 250,
+      "count": 252,
       "assets": [
         {
           "id": 567067483,
           "name": "Browser-Cookie-Bridge-arm64.dmg",
           "tag": "v1.5.10",
-          "downloads": 35,
+          "downloads": 37,
           "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.10/Browser-Cookie-Bridge-arm64.dmg"
         },
         {
@@ -659,19 +659,19 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
-      "npm_as_of": "2026-10-16",
+      "npm_as_of": "2026-10-18",
       "homebrew": {
         "package": "apoorvdarshan/tap/browser-cookie-bridge",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 3606,
+      "display_total": 3618,
       "badge": "3K+",
       "breakdown": {
-        "github_release_downloads": 250,
-        "npm_downloads": 3356
+        "github_release_downloads": 252,
+        "npm_downloads": 3366
       }
     },
     "releases:apoorvdarshan/hash-harbor": {
@@ -890,24 +890,24 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
-      "npm_as_of": "2026-10-16",
-      "display_total": 851,
+      "npm_as_of": "2026-10-18",
+      "display_total": 854,
       "badge": "800+",
       "breakdown": {
         "github_release_downloads": 33,
-        "npm_downloads": 818
+        "npm_downloads": 821
       }
     },
     "releases:apoorvdarshan/TetherShot": {
-      "count": 198,
+      "count": 200,
       "assets": [
         {
           "id": 605315518,
           "name": "TetherShot-1.0.21-universal.dmg",
           "tag": "v1.0.21",
-          "downloads": 22,
+          "downloads": 24,
           "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.21/TetherShot-1.0.21-universal.dmg"
         },
         {
@@ -1018,32 +1018,32 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
-      "npm_as_of": "2026-10-16",
+      "npm_as_of": "2026-10-18",
       "homebrew": {
         "package": "apoorvdarshan/tap/tethershot",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 3929,
+      "display_total": 3963,
       "badge": "3K+",
       "breakdown": {
-        "github_release_downloads": 198,
-        "npm_downloads": 3731
+        "github_release_downloads": 200,
+        "npm_downloads": 3763
       }
     },
     "extensions:apoorvdarshan/x-country-filter": {
-      "count": 52,
+      "count": 59,
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/country-filter-for-x-twit/cocohplmilpblbkoikolbhakjipccioa?hl=en",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "cc0dfed07c7cae93a165c9eba947046e309e7277bf2f4d0b5800bb63c3acc790",
-      "display_total": 52,
+      "display_total": 59,
       "badge": "50+",
       "breakdown": {
-        "chrome_users": 52
+        "chrome_users": 59
       }
     },
     "extensions:apoorvdarshan/streaming-autopause": {
@@ -1051,7 +1051,7 @@
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/streaming-auto-pauseresum/nafnjeielmlkeinkmbfppfecpfebgcbl?hl=en",
-      "checked_on": "2026-10-19",
+      "checked_on": "2026-10-20",
       "config_sha256": "bd41a61372303f03bf4d6c157b53904f7cc861b27a0c095a0a28fe638d69560c",
       "display_total": 4,
       "badge": "4",
