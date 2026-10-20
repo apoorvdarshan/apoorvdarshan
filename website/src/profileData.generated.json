@@ -183,6 +183,14 @@
       "starCount": "5"
     },
     {
+      "name": "store-release",
+      "url": "https://github.com/apoorvdarshan/store-release",
+      "description": "Reusable GitHub Actions that build, sign and publish iOS and Android apps to the App Store and Google Play",
+      "status": "",
+      "marker": "🚀",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "github-backup",
       "url": "https://github.com/apoorvdarshan/github-backup",
       "description": "Daily GitHub backups to private GitLab with integrity checks",
@@ -612,6 +620,14 @@
     {
       "name": "Apps & Utilities",
       "items": [
+        {
+          "name": "store-release",
+          "url": "https://github.com/apoorvdarshan/store-release",
+          "description": "Reusable GitHub Actions that build, sign and publish iOS and Android apps to the App Store and Google Play",
+          "status": "",
+          "marker": "🚀",
+          "starBadgeUrl": ""
+        },
         {
           "name": "github-backup",
           "url": "https://github.com/apoorvdarshan/github-backup",
