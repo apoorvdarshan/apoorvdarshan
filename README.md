@@ -40,7 +40,7 @@
 
 ## Apps & Utilities
 <ul>
-<li>🚀 <strong><a href="https://github.com/apoorvdarshan/store-release">store-release</a></strong> - Reusable GitHub Actions that build, sign and publish iOS and Android apps to the App Store and Google Play</li>
+<li>🚀 <strong><a href="https://github.com/apoorvdarshan/store-release">store-release</a></strong> - Ship iOS and Android apps to the stores with GitHub Actions</li>
 <li>💾 <strong><a href="https://github.com/apoorvdarshan/github-backup">github-backup</a></strong> - Daily GitHub backups to private GitLab with integrity checks</li>
 <li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> <img alt="Downloads: 1" src="https://apoorvdarshan.com/badges/downloads/v1/1.svg"> - LithosAI balance, daily usage, and model spend in the macOS menu bar</li>
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - macOS C. elegans simulation using the OpenWorm c302 connectome</li>

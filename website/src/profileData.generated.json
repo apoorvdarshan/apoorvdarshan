@@ -185,7 +185,7 @@
     {
       "name": "store-release",
       "url": "https://github.com/apoorvdarshan/store-release",
-      "description": "Reusable GitHub Actions that build, sign and publish iOS and Android apps to the App Store and Google Play",
+      "description": "Ship iOS and Android apps to the stores with GitHub Actions",
       "status": "",
       "marker": "🚀",
       "starBadgeUrl": ""
@@ -623,7 +623,7 @@
         {
           "name": "store-release",
           "url": "https://github.com/apoorvdarshan/store-release",
-          "description": "Reusable GitHub Actions that build, sign and publish iOS and Android apps to the App Store and Google Play",
+          "description": "Ship iOS and Android apps to the stores with GitHub Actions",
           "status": "",
           "marker": "🚀",
           "starBadgeUrl": ""
