@@ -48,7 +48,7 @@ jobs:
       - run: npm audit --audit-level=moderate
       - run: python -m pip install --require-hashes -r scripts/automation/requirements-security.txt
       - run: pip-audit -r scripts/automation/requirements.txt
-      - run: bandit -r scripts/automation -x scripts/automation/test_android_downloads.py,scripts/automation/test_ios_downloads.py,scripts/automation/test_npm_downloads.py,scripts/automation/test_distribution_counts.py,scripts/automation/test_local_resume.py -ll
+      - run: bandit -r scripts/automation -x scripts/automation/test_android_downloads.py,scripts/automation/test_ios_downloads.py,scripts/automation/test_npm_downloads.py,scripts/automation/test_distribution_counts.py,scripts/automation/test_local_resume.py,scripts/automation/test_pypi_downloads.py -ll
       - run: npm run build
   resume-template:
     runs-on: ubuntu-latest

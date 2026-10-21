@@ -13,6 +13,10 @@ on:
         description: Recheck npm lifetime counts even if already checked today
         type: boolean
         default: false
+      refresh_pypi_downloads:
+        description: Recheck PyPI lifetime counts even if already checked today
+        type: boolean
+        default: false
       refresh_distribution_counts:
         description: Recheck GitHub release downloads and public Chrome users today
         type: boolean
@@ -116,6 +120,17 @@ jobs:
         run: |
           echo '::warning::npm download check failed. Previous verified counts are preserved; other profile updates continue. The next run will retry.'
           echo 'npm download check failed; retained previous verified counts. See the npm step for details.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Refresh lifetime PyPI downloads once per day
+        id: pypi-downloads
+        continue-on-error: true
+        run: python3 scripts/automation/pypi_downloads.py
+        env:
+          PYPI_DOWNLOADS_FORCE: ${{ inputs.refresh_pypi_downloads && 'true' || 'false' }}
+      - name: Keep previous download counts if PyPI is unavailable
+        if: steps.pypi-downloads.outcome == 'failure'
+        run: |
+          echo '::warning::PyPI download check failed. Previous verified counts are preserved; other profile updates continue. The next run will retry.'
+          echo 'PyPI download check failed; retained previous verified counts. See the PyPI step for details.' >> "$GITHUB_STEP_SUMMARY"
       - name: Refresh release downloads and Chrome users once per day
         id: distribution-counts
         continue-on-error: true
@@ -190,7 +205,7 @@ jobs:
               git -C "$repo" push origin HEAD:main
             fi
           }
-          commit_files . 'Refresh profile, website, resume and download history' README.md profile-automation/contributions.json profile-automation/npm-downloads.json profile-automation/distribution-counts.json website/src/profileData.generated.json website/public/Apoorv_Darshan_Resume.pdf resume/Apoorv_Darshan_Resume.tex resume/Apoorv_Darshan_Resume.pdf resume/build.json resume/ios-download-history.json resume/ios-downloads.json resume/android-downloads.json
+          commit_files . 'Refresh profile, website, resume and download history' README.md profile-automation/contributions.json profile-automation/npm-downloads.json profile-automation/pypi-downloads.json profile-automation/distribution-counts.json website/src/profileData.generated.json website/public/Apoorv_Darshan_Resume.pdf resume/Apoorv_Darshan_Resume.tex resume/Apoorv_Darshan_Resume.pdf resume/build.json resume/ios-download-history.json resume/ios-downloads.json resume/android-downloads.json
       - name: Publish verified build to Cloudflare
         # Always deploy a valid build, including a retry after a previous deployment failure.
         run: npx --no-install wrangler deploy
@@ -199,7 +214,7 @@ jobs:
           CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
       - name: Report incomplete download refresh
         # Publish valid updates first, then expose failures instead of a green fallback run.
-        if: ${{ !cancelled() && (steps.play-auth.outcome == 'failure' || steps.android-downloads.outcome == 'failure' || steps.ios-downloads.outcome == 'failure' || steps.npm-downloads.outcome == 'failure' || steps.distribution-counts.outcome == 'failure') }}
+        if: ${{ !cancelled() && (steps.play-auth.outcome == 'failure' || steps.android-downloads.outcome == 'failure' || steps.ios-downloads.outcome == 'failure' || steps.npm-downloads.outcome == 'failure' || steps.pypi-downloads.outcome == 'failure' || steps.distribution-counts.outcome == 'failure') }}
         run: |
           echo '::error::Download refresh incomplete. Failed sources retain their last verified counts; the next scheduled run retries. See the earlier steps for the affected source and build/deployment status.'
           echo '## Download refresh needs attention' >> "$GITHUB_STEP_SUMMARY"
