@@ -1679,7 +1679,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "908"
+      "starCount": "909"
     },
     {
       "name": "decorator",
@@ -1799,6 +1799,15 @@
       "starCount": "538"
     },
     {
+      "name": "awesome-openrouter",
+      "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
+      "description": "add Fud AI to the OpenRouter app directory",
+      "status": "",
+      "marker": "🔀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
+      "starCount": "518"
+    },
+    {
       "name": "fork-commit-merge",
       "url": "https://github.com/fork-commit-merge/fork-commit-merge/pull/6370",
       "description": "solve: filter even numbers from array",
@@ -1806,15 +1815,6 @@
       "marker": "🍴",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
       "starCount": "517"
-    },
-    {
-      "name": "awesome-openrouter",
-      "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
-      "description": "add Fud AI to the OpenRouter app directory",
-      "status": "",
-      "marker": "🔀",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "515"
     },
     {
       "name": "poetry-core",
