@@ -20,7 +20,7 @@
 
 ## Chrome Extensions
 <ul>
-  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 50+" src="https://apoorvdarshan.com/badges/users/v1/50%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
+  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 60+" src="https://apoorvdarshan.com/badges/users/v1/60%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - True newest-first YouTube search</li>
   <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 4" src="https://apoorvdarshan.com/badges/users/v1/4.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
@@ -192,6 +192,7 @@
       <div>&bull; 📄 <strong><a href="https://github.com/py-pdf/fpdf2/pull/1883">fpdf2</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=py-pdf/fpdf2&amp;v=3"> - Handle escaped markdown markers inside markdown links</div>
       <div>&bull; 🥒 <strong><a href="https://github.com/jsonpickle/jsonpickle/pull/612">jsonpickle</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=jsonpickle/jsonpickle&amp;v=3"> - fix: NumPy view py/id desync when base is shared</div>
       <div>&bull; 🧮 <strong><a href="https://github.com/mpmath/mpmath/pull/1123">mpmath</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=mpmath/mpmath&amp;v=3"> - fix: close leftover figure in plot/cplot/splot on error</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/jaraco/inflect/pull/259">inflect</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=jaraco/inflect&amp;v=3"> - Handle negative numbers in ordinal() (#192)</div>
       <div>&bull; 🍏 <strong><a href="https://github.com/onmyway133/awesome-swiftui/pull/59">awesome-swiftui</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=onmyway133/awesome-swiftui&amp;v=3"> - add Verceltics to the open-source SwiftUI apps list</div>
       <div>&bull; 🤖 <strong><a href="https://github.com/DasterProkio/awesome-ai-companion/pull/10">awesome-ai-companion</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&amp;v=3"> - docs: add Scowld companion client</div>
       <div>&bull; 🧹 <strong><a href="https://github.com/djlint/djLint/pull/2206">djLint</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&amp;v=3"> - fix: keep template variable in HTML attribute name on one line</div>
