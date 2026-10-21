@@ -83,7 +83,7 @@ class PypiDownloadTests(unittest.TestCase):
         self.assertEqual(row['pypi'], 'https://pypi.org/project/example-tool/')
         self.assertIn('period=total&units=none', row['source'])
         self.assertEqual(len(api.calls), 3)
-        self.assertEqual(pypi.refresh(ITEM, TODAY, True, FakeAPI(downloads=0))[0]['badge'], '0')
+        self.assertEqual(pypi.refresh(ITEM, TODAY, True, FakeAPI(downloads=0)), (None, 'no downloads yet'))
 
     def test_another_owner_repository_or_project_is_rejected(self):
         for change in [{'owner': 'someone-else'}, {'role': 'Maintainer'}, {'name': 'other-tool'},
@@ -104,9 +104,9 @@ class PypiDownloadTests(unittest.TestCase):
         for today, verified in [(date(2026, 10, 22) + timedelta(days=8), False), (TODAY, True)]:
             with self.subTest(today=today, verified=verified), self.assertRaises(ValueError):
                 pypi.refresh(ITEM, today, verified, FakeAPI(on_pepy=False))
-        # A zero before pepy's first import is not published; later, or once verified, zero is a real count.
+        # A zero is never published as a badge: before pepy's first import it waits, later it has no downloads yet.
         self.assertEqual(pypi.refresh(ITEM, TODAY, False, FakeAPI(downloads=0)), (None, reason))
-        self.assertEqual(pypi.refresh(ITEM, date(2026, 10, 30), False, FakeAPI(downloads=0))[0]['badge'], '0')
+        self.assertEqual(pypi.refresh(ITEM, date(2026, 10, 30), False, FakeAPI(downloads=0)), (None, 'no downloads yet'))
 
     def test_badge_must_hold_one_exact_integer(self):
         self.assertEqual(pypi.pepy_total('image/svg+xml', svg(4463106311)), 4463106311)

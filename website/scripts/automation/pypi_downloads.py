@@ -136,9 +136,10 @@ def refresh(item, today, verified, fetch=read):
     except NotFound:
         check(not verified and today - first <= PEPY_GRACE, f'pepy.tech has no downloads for {project}')
         return None, waiting
-    if total == 0 and not verified and today - first <= PEPY_GRACE:
-        # A new project can be listed before pepy imports its first day; never publish that as a real 0.
-        return None, waiting
+    if total == 0:
+        # Never show a 0 badge: it appears with the first download (pepy also lists new projects before
+        # importing their first day).
+        return None, waiting if not verified and today - first <= PEPY_GRACE else 'no downloads yet'
     return {'name': item['name'], 'link': item['link'], 'owner': item['owner'], 'first_upload': str(first),
             'downloads': total, 'badge': badge(total), 'checked_on': str(today), 'source': url,
             'pypi': f'{PYPI}/project/{project}/'}, None

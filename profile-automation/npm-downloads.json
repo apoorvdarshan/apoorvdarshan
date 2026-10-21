@@ -1,7 +1,7 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-10-20",
+  "checked_on": "2026-10-21",
   "as_of": "2026-10-18",
   "packages": {
     "browser-cookie-bridge": {
