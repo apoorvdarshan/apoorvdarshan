@@ -132,7 +132,7 @@ For multiple PRs to same repo, link to author's PR list and say "N merged PRs: .
 ## Commit Rules
 
 - Always commit and push after every change — do not batch or wait to be asked
-- No co-author lines in manual commits. Automatic profile refresh commits credit `github-actions[bot]` as co-author.
+- Automatic profile refresh commits credit `github-actions[bot]` as co-author.
 - Automatic profile refresh commits use Apoorv Darshan as both author and committer with `90602809+apoorvdarshan@users.noreply.github.com`, signed with the dedicated `PROFILE_COMMIT_SIGNING_KEY` Actions secret. The registered public key is `.github/profile-signing.pub`. Commit only when managed files change. Keep signing optional with visible workflow warnings if unavailable; the user does not want unsigned pushes blocked. Do not enable a required-signatures branch rule.
 - Keep commit messages concise (one line)
 
