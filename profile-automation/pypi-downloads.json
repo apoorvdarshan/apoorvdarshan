@@ -4,6 +4,6 @@
   "note": "pepy.tech all-time totals of PyPI download logs: every file and version, including mirrors, CI and repeat downloads, so not unique users. pepy imports the previous day once a day and caches badges for 12 hours, so a total trails PyPI by about one to two days.",
   "projects": {},
   "pending": {
-    "store-release": "not on PyPI yet"
+    "store-release": "on PyPI since 2026-10-21; waiting for pepy.tech to add its downloads"
   }
 }
