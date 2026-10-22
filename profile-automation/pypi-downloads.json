@@ -2,8 +2,18 @@
   "version": 1,
   "metric": "lifetime PyPI downloads",
   "note": "pepy.tech all-time totals of PyPI download logs: every file and version, including mirrors, CI and repeat downloads, so not unique users. pepy imports the previous day once a day and caches badges for 12 hours, so a total trails PyPI by about one to two days.",
-  "projects": {},
-  "pending": {
-    "store-release": "on PyPI since 2026-10-21; waiting for pepy.tech to add its downloads"
+  "projects": {
+    "store-release": {
+      "name": "store-release",
+      "link": "https://github.com/apoorvdarshan/store-release",
+      "owner": "apoorvdarshan",
+      "first_upload": "2026-10-21",
+      "downloads": 297,
+      "badge": "200+",
+      "checked_on": "2026-10-22",
+      "source": "https://api.pepy.tech/personalized-badge/store-release?period=total&units=none&left_text=downloads",
+      "pypi": "https://pypi.org/project/store-release/",
+      "config_sha256": "3eb421cd136020816001553c52b7d3fae52799999259d1d8a93b1f2ec84a890d"
+    }
   }
 }
