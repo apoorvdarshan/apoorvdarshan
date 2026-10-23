@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "checked_on": "2026-10-22",
+  "checked_on": "2026-10-23",
   "config_sha256": "106e79342b6a47bc27d6822538bd27b9ea951ad2d7794048b9e826f4ff3407ff",
   "metric": "sum of Daily User Installs in complete overview report history",
   "apps": {
     "com.apoorvdarshan.calorietracker": {
       "history_start": "2026-04-25",
-      "as_of": "2026-10-17",
-      "days": 176,
-      "user_installs": 2920,
-      "install_events": 3223,
+      "as_of": "2026-10-18",
+      "days": 177,
+      "user_installs": 2955,
+      "install_events": 3261,
       "reports": [
         {
           "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202604_overview.csv",
@@ -43,19 +43,19 @@
         },
         {
           "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202609_overview.csv",
-          "generation": "1791359183533730",
+          "generation": "1792681341632086",
           "md5": "ecflaF/x/ex91ZD7ybLIjw==",
           "rows": 30
         },
         {
           "object": "stats/installs/installs_com.apoorvdarshan.calorietracker_202610_overview.csv",
-          "generation": "1792599191988295",
-          "md5": "90SyungtjyzPLHfSiD2/4g==",
-          "rows": 17
+          "generation": "1792691934513845",
+          "md5": "M2OtemADRWAKPEzXGbX8IQ==",
+          "rows": 18
         }
       ],
       "name": "fud-ai",
-      "first_time": 2920,
+      "first_time": 2955,
       "metric_validation": "Daily User Installs summed from the first report matches Play Console Statistics > New user acquisitions > Cumulative: 2579 through 2026-10-07, checked 2026-10-11."
     }
   },

@@ -86,7 +86,7 @@
       "status": "",
       "marker": "🗺️",
       "starBadgeUrl": "",
-      "downloads": "70+",
+      "downloads": "80+",
       "metric": "users"
     },
     {
@@ -1809,7 +1809,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "518"
+      "starCount": "519"
     },
     {
       "name": "fork-commit-merge",
