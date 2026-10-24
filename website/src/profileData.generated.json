@@ -189,7 +189,7 @@
       "status": "",
       "marker": "🚀",
       "starBadgeUrl": "",
-      "downloads": "200+",
+      "downloads": "300+",
       "metric": "downloads"
     },
     {
@@ -629,7 +629,7 @@
           "status": "",
           "marker": "🚀",
           "starBadgeUrl": "",
-          "downloads": "200+",
+          "downloads": "300+",
           "metric": "downloads"
         },
         {
@@ -1665,7 +1665,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "1k"
+      "starCount": "1.1k"
     },
     {
       "name": "djLint",
@@ -1764,7 +1764,7 @@
       "status": "",
       "marker": "📧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
-      "starCount": "577"
+      "starCount": "576"
     },
     {
       "name": "IMAPClient",
@@ -1809,7 +1809,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "519"
+      "starCount": "520"
     },
     {
       "name": "fork-commit-merge",
