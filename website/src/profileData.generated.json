@@ -1094,7 +1094,7 @@
     {
       "name": "open-source-ios-apps",
       "url": "https://github.com/dkhamsing/open-source-ios-apps/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "2 merged PRs: Add Verceltics; Add Scowld",
+      "description": "3 merged PRs: Add Fud AI; Add Verceltics; Add Scowld",
       "status": "",
       "marker": "📱",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dkhamsing/open-source-ios-apps&v=3",
@@ -1809,7 +1809,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "521"
+      "starCount": "522"
     },
     {
       "name": "fork-commit-merge",
