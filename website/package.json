@@ -27,6 +27,6 @@
     "eslint-plugin-react-refresh": "latest",
     "fast-check": "4.10.2",
     "globals": "latest",
-    "wrangler": "4.151.0"
+    "wrangler": "4.152.0"
   }
 }
