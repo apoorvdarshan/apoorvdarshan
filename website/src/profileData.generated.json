@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "12K+",
       "metric": "downloads",
-      "starCount": "495"
+      "starCount": "496"
     },
     {
       "name": "verceltics",
@@ -1659,21 +1659,21 @@
       "starCount": "1.1k"
     },
     {
-      "name": "awesome-swiftui",
-      "url": "https://github.com/onmyway133/awesome-swiftui/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "2 merged PRs: Add Fud AI to iOS open source apps; Add Verceltics to iOS open source apps",
-      "status": "",
-      "marker": "🍏",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=onmyway133/awesome-swiftui&v=3",
-      "starCount": "1.1k"
-    },
-    {
       "name": "awesome-ai-companion",
       "url": "https://github.com/DasterProkio/awesome-ai-companion/pull/10",
       "description": "docs: add Scowld companion client",
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
+      "starCount": "1.1k"
+    },
+    {
+      "name": "awesome-swiftui",
+      "url": "https://github.com/onmyway133/awesome-swiftui/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Add Fud AI to iOS open source apps; Add Verceltics to iOS open source apps",
+      "status": "",
+      "marker": "🍏",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=onmyway133/awesome-swiftui&v=3",
       "starCount": "1.1k"
     },
     {
@@ -1773,7 +1773,7 @@
       "status": "",
       "marker": "📧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
-      "starCount": "577"
+      "starCount": "578"
     },
     {
       "name": "IMAPClient",
@@ -1791,7 +1791,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=giselles-ai/giselle&v=3",
-      "starCount": "558"
+      "starCount": "557"
     },
     {
       "name": "BancosBrasileiros",
@@ -1818,7 +1818,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "523"
+      "starCount": "524"
     },
     {
       "name": "fork-commit-merge",
@@ -1854,7 +1854,7 @@
       "status": "",
       "marker": "🧬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tefra/xsdata&v=3",
-      "starCount": "452"
+      "starCount": "453"
     },
     {
       "name": "WebOb",
@@ -1927,6 +1927,15 @@
       "marker": "🕰️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=adbar/htmldate&v=3",
       "starCount": "159"
+    },
+    {
+      "name": "awesome-nutrition-tracking",
+      "url": "https://github.com/jrhizor/awesome-nutrition-tracking/pull/56",
+      "description": "Add Fud AI to Open Source Tools",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jrhizor/awesome-nutrition-tracking&v=3",
+      "starCount": "152"
     },
     {
       "name": "awesome-ai-companions",
