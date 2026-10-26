@@ -28,5 +28,10 @@
     "fast-check": "4.10.2",
     "globals": "latest",
     "wrangler": "4.152.0"
+  },
+  "overrides": {
+    "miniflare": {
+      "undici": "^7.30.1"
+    }
   }
 }
