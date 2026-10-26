@@ -1282,8 +1282,8 @@
     },
     {
       "name": "open-source-android-apps",
-      "url": "https://github.com/pcqpcq/open-source-android-apps/pull/507",
-      "description": "Add Verceltics to Tools",
+      "url": "https://github.com/pcqpcq/open-source-android-apps/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Add Fud AI to Health & Fitness; Add Verceltics to Tools",
       "status": "",
       "marker": "🔧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pcqpcq/open-source-android-apps&v=3",
@@ -1623,6 +1623,15 @@
       "starCount": "1.6k"
     },
     {
+      "name": "awesome-sre-tools",
+      "url": "https://github.com/SquadcastHub/awesome-sre-tools/pull/208",
+      "description": "Add Verceltics to Continuous Monitoring",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=SquadcastHub/awesome-sre-tools&v=3",
+      "starCount": "1.5k"
+    },
+    {
       "name": "jsonpickle",
       "url": "https://github.com/jsonpickle/jsonpickle/pull/612",
       "description": "fix: NumPy view py/id desync when base is shared",
@@ -1651,8 +1660,8 @@
     },
     {
       "name": "awesome-swiftui",
-      "url": "https://github.com/onmyway133/awesome-swiftui/pull/59",
-      "description": "add Verceltics to the open-source SwiftUI apps list",
+      "url": "https://github.com/onmyway133/awesome-swiftui/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Add Fud AI to iOS open source apps; Add Verceltics to iOS open source apps",
       "status": "",
       "marker": "🍏",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=onmyway133/awesome-swiftui&v=3",
@@ -1683,7 +1692,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "910"
+      "starCount": "911"
     },
     {
       "name": "decorator",
