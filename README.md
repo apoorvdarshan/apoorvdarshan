@@ -46,7 +46,7 @@
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - macOS C. elegans simulation using the OpenWorm c302 connectome</li>
 <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - Transfer local Chromium sessions to Codex on macOS</li>
 <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> <img alt="Downloads: 800+" src="https://apoorvdarshan.com/badges/downloads/v1/800%2B.svg"> - Local torrent streamer/downloader with a browser UI</li>
-<li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
+<li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 4K+" src="https://apoorvdarshan.com/badges/downloads/v1/4K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
 </ul>
 
 ## Web Apps & Tools
@@ -60,7 +60,7 @@
   <li>🌐 <strong><a href="https://github.com/apoorvdarshan/opengraph-studio">opengraph-studio</a></strong> - Edit and preview OpenGraph metadata live</li>
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Combine contribution graphs into one SVG</li>
-  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - X engagement scorer using the open-source algorithm</li>
+  <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 400+" src="https://apoorvdarshan.com/badges/downloads/v1/400%2B.svg"> - X engagement scorer using the open-source algorithm</li>
 
   <li>
     <details>
@@ -222,6 +222,7 @@
       <div>&bull; 📝 <strong><a href="https://github.com/moinwiki/moin/pull/2166">moin</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=moinwiki/moin&amp;v=3"> - fix: markdown parser crash on emphasized text inside HTML tags</div>
       <div>&bull; 🧪 <strong><a href="https://github.com/aregtech/areg-sdk/pull/675">areg-sdk</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=aregtech/areg-sdk&amp;v=3"> - add comprehensive unit tests for the String class</div>
       <div>&bull; 🔬 <strong><a href="https://github.com/radis/radis/pull/918">radis</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=radis/radis&amp;v=3"> - fix: inconsistent spectral_points reporting</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/rr-/docstring_parser/pull/113">docstring_parser</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=rr-/docstring_parser&amp;v=3"> - Fix RST field list absorbing trailing blocks into last field (#86)</div>
       <div>&bull; 🖱️ <strong><a href="https://github.com/click-contrib/click-repl/pull/136">click-repl</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=click-contrib/click-repl&amp;v=3"> - fix: stop boolean flags from offering value completions</div>
       <div>&bull; 🔷 <strong><a href="https://github.com/dotnet/docs-desktop/pull/2197">docs-desktop</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/docs-desktop&amp;v=3"> - fix: MD001 heading violations in WinForms docs (by <a href="https://github.com/dotnet"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white"></a>)</div>
       <div>&bull; 🌳 <strong><a href="https://github.com/gristlabs/asttokens/pull/174">asttokens</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=gristlabs/asttokens&amp;v=3"> - fix: IndexError when source mixes lone CR with LF line endings</div>
