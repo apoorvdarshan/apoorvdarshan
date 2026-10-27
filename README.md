@@ -10,7 +10,7 @@
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 500+" src="https://apoorvdarshan.com/badges/downloads/v1/500%2B.svg"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://github.com/apoorvdarshan/quit-all">quit-all</a></strong> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - iOS app to quit smoking, alcohol, social media, and more</li>
-  <li>📚 <strong><a href="https://github.com/apoorvdarshan/pcm-notes">pcm-notes</a></strong> <img alt="Downloads: 80+" src="https://apoorvdarshan.com/badges/downloads/v1/80%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
+  <li>📚 <strong><a href="https://github.com/apoorvdarshan/pcm-notes">pcm-notes</a></strong> <img alt="Downloads: 90+" src="https://apoorvdarshan.com/badges/downloads/v1/90%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
 </ul>
 
 ## Games
