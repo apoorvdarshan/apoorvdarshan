@@ -253,6 +253,14 @@
       "starCount": "20"
     },
     {
+      "name": "uopeople-journey",
+      "url": "https://github.com/apoorvdarshan/uopeople-journey",
+      "description": "My UoPeople degrees: actual costs, transfer credits, diplomas",
+      "status": "",
+      "marker": "🎓",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "omi-leaderboard",
       "url": "https://github.com/apoorvdarshan/omi-leaderboard",
       "description": "Omi contributor rankings, merged PRs, and shareable profiles",
@@ -695,6 +703,14 @@
     {
       "name": "Web Apps & Tools",
       "items": [
+        {
+          "name": "uopeople-journey",
+          "url": "https://github.com/apoorvdarshan/uopeople-journey",
+          "description": "My UoPeople degrees: actual costs, transfer credits, diplomas",
+          "status": "",
+          "marker": "🎓",
+          "starBadgeUrl": ""
+        },
         {
           "name": "omi-leaderboard",
           "url": "https://github.com/apoorvdarshan/omi-leaderboard",
