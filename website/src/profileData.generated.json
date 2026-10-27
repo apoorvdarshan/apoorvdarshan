@@ -253,6 +253,14 @@
       "starCount": "20"
     },
     {
+      "name": "glow-agent",
+      "url": "https://github.com/apoorvdarshan/glow-agent",
+      "description": "AI skin map, shade try-on and PayPal checkout agent",
+      "status": "",
+      "marker": "🧴",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "uopeople-journey",
       "url": "https://github.com/apoorvdarshan/uopeople-journey",
       "description": "My UoPeople degrees: actual costs, transfer credits, diplomas",
@@ -703,6 +711,14 @@
     {
       "name": "Web Apps & Tools",
       "items": [
+        {
+          "name": "glow-agent",
+          "url": "https://github.com/apoorvdarshan/glow-agent",
+          "description": "AI skin map, shade try-on and PayPal checkout agent",
+          "status": "",
+          "marker": "🧴",
+          "starBadgeUrl": ""
+        },
         {
           "name": "uopeople-journey",
           "url": "https://github.com/apoorvdarshan/uopeople-journey",

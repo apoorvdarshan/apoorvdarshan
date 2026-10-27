@@ -51,6 +51,7 @@
 
 ## Web Apps & Tools
 <ul>
+  <li>🧴 <strong><a href="https://github.com/apoorvdarshan/glow-agent">glow-agent</a></strong> - AI skin map, shade try-on and PayPal checkout agent</li>
   <li>🎓 <strong><a href="https://github.com/apoorvdarshan/uopeople-journey">uopeople-journey</a></strong> - My UoPeople degrees: actual costs, transfer credits, diplomas</li>
   <li>🏆 <strong><a href="https://github.com/apoorvdarshan/omi-leaderboard">omi-leaderboard</a></strong> - Omi contributor rankings, merged PRs, and shareable profiles</li>
   <li>🔔 <strong><a href="https://github.com/apoorvdarshan/ringtone-cropper">ringtone-cropper</a></strong> - Audio/YouTube to Android/iPhone ringtones</li>
@@ -60,12 +61,12 @@
   <li>🌌 <strong><a href="https://github.com/apoorvdarshan/nornlore">nornlore</a></strong> - Discover what the universe was doing the day you were born</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/github-readme-contribution-merger">github-readme-contribution-merger</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/github-readme-contribution-merger&amp;v=3"> - Combine contribution graphs into one SVG</li>
   <li>📊 <strong><a href="https://github.com/apoorvdarshan/Xscore">Xscore</a></strong> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - X engagement scorer using the open-source algorithm</li>
-  <li>📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</li>
 
   <li>
     <details>
       <summary>Show More</summary>
       <div>
+      <div>&bull; 📰 <strong><a href="https://github.com/apoorvdarshan/zyro">zyro</a></strong> - AI news website (GNews.io API, 100 req/day limit)</div>
       <div>&bull; 💼 <strong><a href="https://affiliate.axentraos.com/">axentra-os-affiliate</a></strong> <em>(closed source)</em> - CRM platform built during internship at XIRCLS</div>
       <div>&bull; 📄 <strong><a href="https://github.com/apoorvdarshan/resume-codes">resume-codes</a></strong> - Resume builder with live preview</div>
       <div>&bull; 🖼️ <strong><a href="https://github.com/apoorvdarshan/compress-image">compress-image</a></strong> - Client-side image compression (browser-only, nothing uploaded)</div>
