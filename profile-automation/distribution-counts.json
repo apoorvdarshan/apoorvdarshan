@@ -2,13 +2,13 @@
   "version": 1,
   "sources": {
     "releases:apoorvdarshan/fud-ai": {
-      "count": 1266,
+      "count": 1277,
       "assets": [
         {
           "id": 672161704,
           "name": "fudai-v8.0.1.apk",
           "tag": "android-v8.0.1",
-          "downloads": 78,
+          "downloads": 89,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v8.0.1/fudai-v8.0.1.apk"
         },
         {
@@ -210,13 +210,13 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/fud-ai/releases",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
-      "display_total": 12420,
+      "display_total": 12619,
       "badge": "12K+",
       "breakdown": {
-        "github_release_downloads": 1266,
-        "store_first_time_downloads": 11154
+        "github_release_downloads": 1277,
+        "store_first_time_downloads": 11342
       }
     },
     "releases:apoorvdarshan/lithosai-bar": {
@@ -232,7 +232,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/lithosai-bar/releases",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "cee05da977f2d8a121aba20364494bef10299302aaf794aca3d65d7dd1a99893",
       "display_total": 1,
       "badge": "1",
@@ -253,7 +253,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/DesktopWorm/releases",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "3bd2b395ca5401ae3cfa9b497e267d8fbfc0d0a1f2584b09cb27db00b459fd2b",
       "display_total": 3,
       "badge": "3",
@@ -262,7 +262,7 @@
       }
     },
     "releases:apoorvdarshan/browser-cookie-bridge": {
-      "count": 263,
+      "count": 264,
       "assets": [
         {
           "id": 567067483,
@@ -275,7 +275,7 @@
           "id": 567067480,
           "name": "Browser-Cookie-Bridge-x64.dmg",
           "tag": "v1.5.10",
-          "downloads": 9,
+          "downloads": 10,
           "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.10/Browser-Cookie-Bridge-x64.dmg"
         },
         {
@@ -666,7 +666,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
       "npm_as_of": "2026-10-26",
       "homebrew": {
@@ -674,10 +674,10 @@
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 3655,
+      "display_total": 3656,
       "badge": "3K+",
       "breakdown": {
-        "github_release_downloads": 263,
+        "github_release_downloads": 264,
         "npm_downloads": 3392
       }
     },
@@ -897,7 +897,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
       "npm_as_of": "2026-10-26",
       "display_total": 854,
@@ -908,13 +908,13 @@
       }
     },
     "releases:apoorvdarshan/TetherShot": {
-      "count": 204,
+      "count": 206,
       "assets": [
         {
           "id": 605315518,
           "name": "TetherShot-1.0.21-universal.dmg",
           "tag": "v1.0.21",
-          "downloads": 28,
+          "downloads": 30,
           "url": "https://github.com/apoorvdarshan/TetherShot/releases/download/v1.0.21/TetherShot-1.0.21-universal.dmg"
         },
         {
@@ -1025,7 +1025,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
       "npm_as_of": "2026-10-26",
       "homebrew": {
@@ -1033,37 +1033,37 @@
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 4657,
+      "display_total": 4659,
       "badge": "4K+",
       "breakdown": {
-        "github_release_downloads": 204,
+        "github_release_downloads": 206,
         "npm_downloads": 4453
       }
     },
     "extensions:apoorvdarshan/x-country-filter": {
-      "count": 81,
+      "count": 70,
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/country-filter-for-x-twit/cocohplmilpblbkoikolbhakjipccioa?hl=en",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "cc0dfed07c7cae93a165c9eba947046e309e7277bf2f4d0b5800bb63c3acc790",
-      "display_total": 81,
-      "badge": "80+",
+      "display_total": 70,
+      "badge": "70+",
       "breakdown": {
-        "chrome_users": 81
+        "chrome_users": 70
       }
     },
     "extensions:apoorvdarshan/streaming-autopause": {
-      "count": 5,
+      "count": 6,
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/streaming-auto-pauseresum/nafnjeielmlkeinkmbfppfecpfebgcbl?hl=en",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "config_sha256": "bd41a61372303f03bf4d6c157b53904f7cc861b27a0c095a0a28fe638d69560c",
-      "display_total": 5,
-      "badge": "5",
+      "display_total": 6,
+      "badge": "6",
       "breakdown": {
-        "chrome_users": 5
+        "chrome_users": 6
       }
     }
   },

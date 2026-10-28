@@ -15,14 +15,14 @@
 
 ## Games
 <ul>
-  <li>🌊 <strong><a href="https://github.com/apoorvdarshan/abysm">abysm</a></strong> <img alt="Downloads: 40+" src="https://apoorvdarshan.com/badges/downloads/v1/40%2B.svg"> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
+  <li>🌊 <strong><a href="https://github.com/apoorvdarshan/abysm">abysm</a></strong> <img alt="Downloads: 50+" src="https://apoorvdarshan.com/badges/downloads/v1/50%2B.svg"> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
 </ul>
 
 ## Chrome Extensions
 <ul>
-  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 80+" src="https://apoorvdarshan.com/badges/users/v1/80%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
+  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 70+" src="https://apoorvdarshan.com/badges/users/v1/70%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - True newest-first YouTube search</li>
-  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 5" src="https://apoorvdarshan.com/badges/users/v1/5.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
+  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 6" src="https://apoorvdarshan.com/badges/users/v1/6.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 
