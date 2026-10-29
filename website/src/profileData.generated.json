@@ -2060,11 +2060,6 @@
         "url": "https://obsidian.md/"
       },
       {
-        "name": "Ghostty",
-        "badgeUrl": "https://img.shields.io/badge/-Ghostty-3551F3?style=flat-square&logo=ghostty&logoColor=white",
-        "url": "https://ghostty.org/"
-      },
-      {
         "name": "Claude Code",
         "badgeUrl": "https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white",
         "url": "https://claude.com/product/claude-code"
