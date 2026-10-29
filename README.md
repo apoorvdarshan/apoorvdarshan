@@ -306,7 +306,6 @@ PDF resume — view or download.
 [![daily.dev](https://img.shields.io/badge/-daily.dev-CE3DF3?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/apoorvdarshan)
 [![programming.dev](https://img.shields.io/badge/-programming.dev-00BC8C?style=flat-square&logo=lemmy&logoColor=white)](https://programming.dev/u/apoorv)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/apoorvdarshan)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lawlmexv2yrccl6xbhxggb6bza)
 
 ---
 
