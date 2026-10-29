@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "12K+",
       "metric": "downloads",
-      "starCount": "502"
+      "starCount": "503"
     },
     {
       "name": "verceltics",
@@ -86,7 +86,7 @@
       "status": "",
       "marker": "🗺️",
       "starBadgeUrl": "",
-      "downloads": "70+",
+      "downloads": "60+",
       "metric": "users"
     },
     {
@@ -104,7 +104,7 @@
       "status": "",
       "marker": "⏸️",
       "starBadgeUrl": "",
-      "downloads": "6",
+      "downloads": "5",
       "metric": "users"
     },
     {
@@ -1279,7 +1279,7 @@
     {
       "name": "omi",
       "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "126 merged PRs: sync a conversation tile's star…; clear the old conversations list…",
+      "description": "129 merged PRs: keep keyword hits that spoken-word…; break app catalog score ties by…",
       "status": "",
       "marker": "🎙️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
@@ -1545,6 +1545,15 @@
       "marker": "🧪",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tox-dev/tox&v=3",
       "starCount": "4k"
+    },
+    {
+      "name": "coveragepy",
+      "url": "https://github.com/coveragepy/coveragepy/pull/2223",
+      "description": "Fix false missing branch for one-line class body with sysmon core (#2167)",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=coveragepy/coveragepy&v=3",
+      "starCount": "3.4k"
     },
     {
       "name": "django-oauth-toolkit",
@@ -1832,7 +1841,7 @@
       "status": "",
       "marker": "🏦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=guibranco/BancosBrasileiros&v=3",
-      "starCount": "552"
+      "starCount": "553"
     },
     {
       "name": "vermin",
@@ -1949,7 +1958,7 @@
       "status": "",
       "marker": "🔷",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/docs-desktop&v=3",
-      "starCount": "237"
+      "starCount": "238"
     },
     {
       "name": "asttokens",
