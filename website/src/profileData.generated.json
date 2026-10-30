@@ -118,14 +118,6 @@
   ],
   "projects": [
     {
-      "name": "agent-setup",
-      "url": "https://github.com/apoorvdarshan/agent-setup",
-      "description": "Shared AI agent rules and terminal settings",
-      "status": "",
-      "marker": "📋",
-      "starBadgeUrl": ""
-    },
-    {
       "name": "opencode-gemini-imagegen-plugin",
       "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
       "description": "Generate images with Gemini (Nano Banana)",
@@ -569,14 +561,6 @@
     {
       "name": "AI & Agents",
       "items": [
-        {
-          "name": "agent-setup",
-          "url": "https://github.com/apoorvdarshan/agent-setup",
-          "description": "Shared AI agent rules and terminal settings",
-          "status": "",
-          "marker": "📋",
-          "starBadgeUrl": ""
-        },
         {
           "name": "opencode-gemini-imagegen-plugin",
           "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
