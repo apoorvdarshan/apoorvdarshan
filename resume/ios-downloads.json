@@ -1,58 +1,58 @@
 {
   "metric": "lifetime first-time App Store downloads",
-  "target_as_of": "2026-10-27",
-  "checked_on": "2026-10-29",
+  "target_as_of": "2026-10-28",
+  "checked_on": "2026-10-30",
   "apps": {
     "6758935726": {
       "name": "fud-ai",
-      "as_of": "2026-10-26",
-      "first_time": 8258,
-      "redownload": 428,
-      "ios_total_downloads": 8686,
-      "other_platform_downloads": 3267,
-      "display_total": 11525,
+      "as_of": "2026-10-27",
+      "first_time": 8372,
+      "redownload": 433,
+      "ios_total_downloads": 8805,
+      "other_platform_downloads": 3339,
+      "display_total": 11711,
       "badge": "11K+",
-      "android_as_of": "2026-10-24",
+      "android_as_of": "2026-10-25",
       "android_package": "com.apoorvdarshan.calorietracker"
     },
     "6761645656": {
       "name": "verceltics",
-      "as_of": "2026-10-26",
-      "first_time": 1420,
-      "redownload": 52,
-      "ios_total_downloads": 1472,
+      "as_of": "2026-10-27",
+      "first_time": 1423,
+      "redownload": 53,
+      "ios_total_downloads": 1476,
       "other_platform_downloads": 0,
-      "display_total": 1420,
+      "display_total": 1423,
       "badge": "1K+"
     },
     "6760672848": {
       "name": "scowld",
-      "as_of": "2026-10-26",
-      "first_time": 586,
-      "redownload": 44,
-      "ios_total_downloads": 630,
+      "as_of": "2026-10-27",
+      "first_time": 593,
+      "redownload": 45,
+      "ios_total_downloads": 638,
       "other_platform_downloads": 0,
-      "display_total": 586,
+      "display_total": 593,
       "badge": "500+"
     },
     "6760978934": {
       "name": "quit-all",
-      "as_of": "2026-10-26",
-      "first_time": 131,
+      "as_of": "2026-10-27",
+      "first_time": 132,
       "redownload": 4,
-      "ios_total_downloads": 135,
+      "ios_total_downloads": 136,
       "other_platform_downloads": 0,
-      "display_total": 131,
+      "display_total": 132,
       "badge": "100+"
     },
     "6792598227": {
       "name": "pcm-notes",
-      "as_of": "2026-10-26",
-      "first_time": 92,
+      "as_of": "2026-10-27",
+      "first_time": 93,
       "redownload": 8,
-      "ios_total_downloads": 100,
+      "ios_total_downloads": 101,
       "other_platform_downloads": 0,
-      "display_total": 92,
+      "display_total": 93,
       "badge": "90+"
     },
     "6783505799": {
@@ -67,5 +67,5 @@
     }
   },
   "as_of": "2026-10-25",
-  "latest_as_of": "2026-10-26"
+  "latest_as_of": "2026-10-27"
 }
