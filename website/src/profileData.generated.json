@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "13K+",
       "metric": "downloads",
-      "starCount": "506"
+      "starCount": "507"
     },
     {
       "name": "verceltics",
@@ -32,7 +32,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&v=3",
       "downloads": "1K+",
       "metric": "downloads",
-      "starCount": "40"
+      "starCount": "41"
     },
     {
       "name": "scowld",
@@ -43,7 +43,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&v=3",
       "downloads": "500+",
       "metric": "downloads",
-      "starCount": "31"
+      "starCount": "32"
     },
     {
       "name": "quit-all",
@@ -1288,6 +1288,15 @@
       "starCount": "11k"
     },
     {
+      "name": "awesome-kotlin",
+      "url": "https://github.com/Heapy/awesome-kotlin/pull/1207",
+      "description": "Add Verceltics to Android projects",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Heapy/awesome-kotlin&v=3",
+      "starCount": "11k"
+    },
+    {
       "name": "gunicorn",
       "url": "https://github.com/benoitc/gunicorn/pull/3686",
       "description": "Fix ASGI connection count on server close (authored commit)",
@@ -1708,7 +1717,7 @@
       "status": "",
       "marker": "🧹",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
-      "starCount": "954"
+      "starCount": "955"
     },
     {
       "name": "ccextractor",
@@ -1717,7 +1726,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "912"
+      "starCount": "913"
     },
     {
       "name": "decorator",
@@ -1807,7 +1816,7 @@
       "status": "",
       "marker": "📬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mjs/imapclient&v=3",
-      "starCount": "564"
+      "starCount": "565"
     },
     {
       "name": "giselle",
@@ -2005,7 +2014,7 @@
       "status": "",
       "marker": "🍎",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=abordage/awesome-mac&v=3",
-      "starCount": "30"
+      "starCount": "31"
     }
   ],
   "activityImage": "https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan&mode=sum&colors=39d353%2C58a6ff&v=20260824",
