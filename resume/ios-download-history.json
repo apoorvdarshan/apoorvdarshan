@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked_on": "2026-10-30",
+  "checked_on": "2026-10-31",
   "baseline_note": "Complete lifetime daily history verified in App Store Connect Analytics UI, range 2024-01-01 through 2026-10-09. Every overlapping API day matched exactly. Future API report revisions replace date partitions.",
   "apps": {
     "6758935726": {
@@ -2448,18 +2448,28 @@
         },
         "2026-10-28": {
           "revision": [
-            "2026-10-29",
+            "2026-10-30",
             0,
-            "18162742-b568-41b6-8b81-5c440989cf5f"
+            "e4224e1b-ac2b-4783-8a08-a2e4806b59a4"
           ],
           "counts": {
             "first_time": 105,
             "redownload": 6
           }
+        },
+        "2026-10-29": {
+          "revision": [
+            "2026-10-30",
+            0,
+            "e4224e1b-ac2b-4783-8a08-a2e4806b59a4"
+          ],
+          "counts": {
+            "first_time": 92,
+            "redownload": 6
+          }
         }
       },
       "seen_instances": {
-        "dd5346d8-46b6-4e48-8ebe-c596dcfdb2dd": "2026-09-25",
         "97a8db89-939c-411f-82d0-36a1e8eb0ef5": "2026-09-26",
         "99aac893-36b6-4791-8d84-903b23dea3de": "2026-09-27",
         "0d84abf5-7b5c-474e-9adf-55c6f9548a26": "2026-09-28",
@@ -2493,12 +2503,13 @@
         "fe739f41-1006-4587-a757-0b418beff64d": "2026-10-26",
         "a9569534-0d5c-4b2c-9819-db450529541e": "2026-10-27",
         "432c2408-a6b9-44fb-9afd-236f1cea3ee6": "2026-10-28",
-        "18162742-b568-41b6-8b81-5c440989cf5f": "2026-10-29"
+        "18162742-b568-41b6-8b81-5c440989cf5f": "2026-10-29",
+        "e4224e1b-ac2b-4783-8a08-a2e4806b59a4": "2026-10-30"
       },
       "imported_snapshots": [
         "b4b459db-4b7a-490a-a2a8-dd2044de2b90"
       ],
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "bootstrap": {
         "verified_on": "2026-10-11",
         "through": "2026-10-09",
@@ -2510,7 +2521,7 @@
         ],
         "api_overlap": "All available days through 2026-10-09 matched exactly"
       },
-      "complete_through": "2026-10-27"
+      "complete_through": "2026-10-28"
     },
     "6792598227": {
       "history_start": "2026-07-24",
@@ -3263,18 +3274,28 @@
         },
         "2026-10-28": {
           "revision": [
-            "2026-10-29",
+            "2026-10-30",
             0,
-            "24284a1c-27f1-4fbe-b6b5-175d69cdcb1e"
+            "ac38132c-81e0-40d5-b370-b2ad94be48f8"
           ],
           "counts": {
             "first_time": 0,
             "redownload": 0
           }
+        },
+        "2026-10-29": {
+          "revision": [
+            "2026-10-30",
+            0,
+            "ac38132c-81e0-40d5-b370-b2ad94be48f8"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
         }
       },
       "seen_instances": {
-        "4fc5685c-4fad-4888-8b6d-f4da4266eb7e": "2026-09-25",
         "f8234d3d-f4fc-448b-b940-440283735fad": "2026-09-26",
         "33fdbc6e-95c5-4c90-80ed-f7d88f87987d": "2026-09-27",
         "6518c4de-b523-4c2c-97ac-b1db9090124d": "2026-09-28",
@@ -3306,12 +3327,13 @@
         "f966000d-8f51-4fbd-88f3-0797d9d7c1dc": "2026-10-26",
         "3944c336-fdde-4788-b4a0-2a1df85eb229": "2026-10-27",
         "5f3343c8-e34e-4089-acd2-3a9dfe76afc5": "2026-10-28",
-        "24284a1c-27f1-4fbe-b6b5-175d69cdcb1e": "2026-10-29"
+        "24284a1c-27f1-4fbe-b6b5-175d69cdcb1e": "2026-10-29",
+        "ac38132c-81e0-40d5-b370-b2ad94be48f8": "2026-10-30"
       },
       "imported_snapshots": [
         "58665f04-552d-41a3-b203-db2b4d5ce4c1"
       ],
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "bootstrap": {
         "verified_on": "2026-10-11",
         "through": "2026-10-09",
@@ -3323,7 +3345,7 @@
         ],
         "api_overlap": "All available days through 2026-10-09 matched exactly"
       },
-      "complete_through": "2026-10-27"
+      "complete_through": "2026-10-28"
     },
     "6761645656": {
       "history_start": "2026-04-08",
@@ -5528,18 +5550,28 @@
         },
         "2026-10-28": {
           "revision": [
-            "2026-10-29",
+            "2026-10-30",
             0,
-            "1ad8d21c-a64a-4caf-a5ef-7cbca343d32f"
+            "d08eb1b0-0410-4c76-96a9-cfcc9d6d445d"
           ],
           "counts": {
             "first_time": 4,
             "redownload": 0
           }
+        },
+        "2026-10-29": {
+          "revision": [
+            "2026-10-30",
+            0,
+            "d08eb1b0-0410-4c76-96a9-cfcc9d6d445d"
+          ],
+          "counts": {
+            "first_time": 2,
+            "redownload": 0
+          }
         }
       },
       "seen_instances": {
-        "a2b043c2-a8f5-4552-ba16-296103bc40ef": "2026-09-25",
         "26d22a20-81ce-42ae-a340-c5730883a2c1": "2026-09-26",
         "18bea88a-51b6-4b0a-b40d-7a4ac73f234e": "2026-09-27",
         "c218dc27-213f-4c5f-adbf-ef5da8e24f45": "2026-09-28",
@@ -5573,12 +5605,13 @@
         "b7509484-fa95-4dd1-b371-0a38d35b20f7": "2026-10-26",
         "dbbbf3fd-7774-4108-9d96-1e3cf9bfe533": "2026-10-27",
         "ff5d5788-98fd-4956-b115-b7834315a68a": "2026-10-28",
-        "1ad8d21c-a64a-4caf-a5ef-7cbca343d32f": "2026-10-29"
+        "1ad8d21c-a64a-4caf-a5ef-7cbca343d32f": "2026-10-29",
+        "d08eb1b0-0410-4c76-96a9-cfcc9d6d445d": "2026-10-30"
       },
       "imported_snapshots": [
         "a8b580cd-9636-46c4-b0e3-246491587d8a"
       ],
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "bootstrap": {
         "verified_on": "2026-10-11",
         "through": "2026-10-09",
@@ -5590,7 +5623,7 @@
         ],
         "api_overlap": "All available days through 2026-10-09 matched exactly"
       },
-      "complete_through": "2026-10-27"
+      "complete_through": "2026-10-28"
     },
     "6783505799": {
       "history_start": "2026-07-16",
@@ -6120,6 +6153,17 @@
             "first_time": 1,
             "redownload": 0
           }
+        },
+        "2026-10-29": {
+          "revision": [
+            "2026-10-30",
+            0,
+            "f1032783-6af9-4e36-b466-745b12d173c8"
+          ],
+          "counts": {
+            "first_time": 0,
+            "redownload": 0
+          }
         }
       },
       "seen_instances": {
@@ -6148,12 +6192,13 @@
         "335b17d3-2e46-4273-99d1-bec3190e0ee6": "2026-10-24",
         "63d783c2-a3d3-4544-ac22-fda2a79e976d": "2026-10-25",
         "dfdf1026-d05d-4329-9602-df8726deaf90": "2026-10-26",
-        "c0045e32-005b-4b42-8ff4-0e89054c2e3a": "2026-10-27"
+        "c0045e32-005b-4b42-8ff4-0e89054c2e3a": "2026-10-27",
+        "f1032783-6af9-4e36-b466-745b12d173c8": "2026-10-30"
       },
       "imported_snapshots": [
         "56009b87-9e9e-46cc-ad9b-525e05620725"
       ],
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "bootstrap": {
         "verified_on": "2026-10-11",
         "through": "2026-10-09",
@@ -6165,7 +6210,7 @@
         ],
         "api_overlap": "All available days through 2026-10-09 matched exactly"
       },
-      "complete_through": "2026-10-25"
+      "complete_through": "2026-10-28"
     },
     "6760672848": {
       "history_start": "2026-05-21",
@@ -7611,18 +7656,28 @@
         },
         "2026-10-28": {
           "revision": [
-            "2026-10-29",
+            "2026-10-30",
             0,
-            "f565defa-ee2d-41d4-82af-f64e27ef6e4d"
+            "84be7728-a7fe-4984-883a-3972da1676ab"
           ],
           "counts": {
             "first_time": 9,
             "redownload": 0
           }
+        },
+        "2026-10-29": {
+          "revision": [
+            "2026-10-30",
+            0,
+            "84be7728-a7fe-4984-883a-3972da1676ab"
+          ],
+          "counts": {
+            "first_time": 11,
+            "redownload": 0
+          }
         }
       },
       "seen_instances": {
-        "56383715-f581-4964-aaa5-4a669aad2f03": "2026-09-25",
         "8fe837fd-3a11-4a1d-bcef-bd192e644f28": "2026-09-26",
         "e8acb005-93b3-4a26-af50-35f0408547a0": "2026-09-27",
         "4c598f2a-09e0-4745-9ec4-c44460583655": "2026-09-28",
@@ -7656,12 +7711,13 @@
         "6d029646-1d05-48c4-8336-d3428668cdf9": "2026-10-26",
         "5a082a60-215a-44ee-a3b2-3ea469be9251": "2026-10-27",
         "8e0977f9-bbf2-4f97-b363-4b3b4c956fb9": "2026-10-28",
-        "f565defa-ee2d-41d4-82af-f64e27ef6e4d": "2026-10-29"
+        "f565defa-ee2d-41d4-82af-f64e27ef6e4d": "2026-10-29",
+        "84be7728-a7fe-4984-883a-3972da1676ab": "2026-10-30"
       },
       "imported_snapshots": [
         "35aef1bf-c67b-4dba-8d86-9f742b06bfcc"
       ],
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "bootstrap": {
         "verified_on": "2026-10-11",
         "through": "2026-10-09",
@@ -7673,7 +7729,7 @@
         ],
         "api_overlap": "All available days through 2026-10-09 matched exactly"
       },
-      "complete_through": "2026-10-27"
+      "complete_through": "2026-10-28"
     },
     "6760978934": {
       "history_start": "2026-03-28",
@@ -8712,18 +8768,28 @@
         },
         "2026-10-28": {
           "revision": [
-            "2026-10-29",
+            "2026-10-30",
             0,
-            "db67f42d-99b4-4165-8a9b-021012029984"
+            "dbd4ac12-89c3-4370-9fe4-a9b2b1e9c465"
           ],
           "counts": {
             "first_time": 2,
             "redownload": 0
           }
+        },
+        "2026-10-29": {
+          "revision": [
+            "2026-10-30",
+            0,
+            "dbd4ac12-89c3-4370-9fe4-a9b2b1e9c465"
+          ],
+          "counts": {
+            "first_time": 1,
+            "redownload": 0
+          }
         }
       },
       "seen_instances": {
-        "5253e327-003e-4d7e-b895-30427289284e": "2026-09-25",
         "d556bc12-8908-4be7-9d70-51e065a1b52d": "2026-09-28",
         "1046e302-49e2-4a13-9f71-f3f76e2c40a4": "2026-09-29",
         "b23495a3-a5da-409d-9258-5be1f7cb7f8e": "2026-09-30",
@@ -8752,12 +8818,13 @@
         "47d989ba-fcb2-4f36-a370-14a9f0369c41": "2026-10-26",
         "002156d1-ba0c-49bb-8c2e-4d9e11a60201": "2026-10-27",
         "c7b7e6f0-2ec9-4b71-95b0-4faa10dd5ef9": "2026-10-28",
-        "db67f42d-99b4-4165-8a9b-021012029984": "2026-10-29"
+        "db67f42d-99b4-4165-8a9b-021012029984": "2026-10-29",
+        "dbd4ac12-89c3-4370-9fe4-a9b2b1e9c465": "2026-10-30"
       },
       "imported_snapshots": [
         "6b30a504-1c3b-4532-b58e-e08d1a974084"
       ],
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "bootstrap": {
         "verified_on": "2026-10-11",
         "through": "2026-10-09",
@@ -8769,7 +8836,7 @@
         ],
         "api_overlap": "All available days through 2026-10-09 matched exactly"
       },
-      "complete_through": "2026-10-27"
+      "complete_through": "2026-10-28"
     }
   }
 }
