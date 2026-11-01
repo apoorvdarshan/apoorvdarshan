@@ -8,16 +8,16 @@ s=Path('README.md').read_text()
 # Sections documented in AGENTS.md that must appear exactly once. Matched at
 # '##' or '###' so a heading level change does not break the check.
 for section in [
-    '🃏 Wildcard', 'Mobile Apps', 'Games', 'Chrome Extensions', 'AI & Agents',
+    'Wildcard', 'Mobile Apps', 'Games', 'Chrome Extensions', 'AI & Agents',
     'Apps & Utilities', 'Web Apps & Tools', 'Creative, 3D & Vision',
     'Experiments & Fun', 'Open Source Contributions', 'What I Use', 'Connect',
 ]:
     pattern = r'^#{2,3} ' + re.escape(section) + r'\s*$'
     assert len(re.findall(pattern, s, re.M)) == 1, f'Invalid profile section: {section}'
-assert s.index('## 🃏 Wildcard') < s.index('## Mobile Apps'), 'Wildcard must precede Mobile Apps'
+assert s.index('## Wildcard') < s.index('## Mobile Apps'), 'Wildcard must precede Mobile Apps'
 profile = json.loads(Path('website/src/profileData.generated.json').read_text())
 wildcard = profile['projectSections'][0]
-assert wildcard['name'] == '🃏 Wildcard', 'Missing leading Wildcard section on website'
+assert wildcard['name'] == 'Wildcard', 'Missing leading Wildcard section on website'
 assert wildcard['items'][0]['url'] == 'https://github.com/apoorvdarshan/coincide', 'Coincide must lead Wildcard'
 assert profile['projects'][0] == wildcard['items'][0], 'Wildcard missing from all projects'
 for p in [*Path('profile-automation').glob('*.json'), *Path('resume').glob('*.json')]:

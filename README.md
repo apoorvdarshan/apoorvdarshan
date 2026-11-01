@@ -4,7 +4,7 @@
 
 > I build things people actually use: apps, tools, and open-source fixes.
 
-## 🃏 Wildcard
+## Wildcard
 <ul>
   <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> - Native macOS home for coding agents; switch agents mid-thread</li>
 </ul>
