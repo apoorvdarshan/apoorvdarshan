@@ -61,13 +61,17 @@ function htmlEntries(readme, start, end) {
 
 function projectSections(readme) {
   const block = section(readme, '## Chrome Extensions', '### Open Source Contributions')
-  return block.split(/\n(?=## )/).flatMap((part) => {
-    const heading = part.match(/^## (.+)$/m)?.[1]
-    if (!heading) return []
-    const name = plainText(heading).replace(/^[^A-Za-z0-9]+/, '').trim()
-    if (name === 'Chrome Extensions') return []
-    return [{ name, items: htmlEntriesFrom(part) }]
-  })
+  const wildcard = htmlEntries(readme, '## 🃏 Wildcard', '## Mobile Apps')
+  return [
+    ...(wildcard.length ? [{ name: '🃏 Wildcard', items: wildcard }] : []),
+    ...block.split(/\n(?=## )/).flatMap((part) => {
+      const heading = part.match(/^## (.+)$/m)?.[1]
+      if (!heading) return []
+      const name = plainText(heading).replace(/^[^A-Za-z0-9]+/, '').trim()
+      if (name === 'Chrome Extensions') return []
+      return [{ name, items: htmlEntriesFrom(part) }]
+    }),
+  ]
 }
 
 function markdownBullets(value) {
@@ -133,7 +137,7 @@ async function attachStarCounts(data, previousStarCounts = new Map(), verifiedSt
 }
 
 function parseReadme(readme) {
-  const beforeApps = section(readme, '# Hi,', '## Mobile Apps')
+  const beforeApps = section(readme, '# Hi,', readme.includes('## 🃏 Wildcard') ? '## 🃏 Wildcard' : '## Mobile Apps')
   const technologyMatches = [...beforeApps.matchAll(/!\[([^\]]+)\]\(https:\/\/img\.shields\.io\/badge/g)]
   const technologies = technologyMatches.map((match) => match[1])
   const tagline = readme.split('\n').find((line) => line.startsWith('📍')) ?? ''

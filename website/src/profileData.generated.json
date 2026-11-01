@@ -118,6 +118,14 @@
   ],
   "projects": [
     {
+      "name": "Coincide",
+      "url": "https://github.com/apoorvdarshan/coincide",
+      "description": "Native macOS home for coding agents; switch agents mid-thread",
+      "status": "",
+      "marker": "🃏",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "opencode-gemini-imagegen-plugin",
       "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
       "description": "Generate images with Gemini (Nano Banana)",
@@ -558,6 +566,19 @@
     }
   ],
   "projectSections": [
+    {
+      "name": "🃏 Wildcard",
+      "items": [
+        {
+          "name": "Coincide",
+          "url": "https://github.com/apoorvdarshan/coincide",
+          "description": "Native macOS home for coding agents; switch agents mid-thread",
+          "status": "",
+          "marker": "🃏",
+          "starBadgeUrl": ""
+        }
+      ]
+    },
     {
       "name": "AI & Agents",
       "items": [

@@ -4,6 +4,11 @@
 
 > I build things people actually use: apps, tools, and open-source fixes.
 
+## 🃏 Wildcard
+<ul>
+  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> - Native macOS home for coding agents; switch agents mid-thread</li>
+</ul>
+
 ## Mobile Apps
 <ul>
   <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 13K+" src="https://apoorvdarshan.com/badges/downloads/v1/13K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
