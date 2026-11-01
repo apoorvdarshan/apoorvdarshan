@@ -14,7 +14,7 @@
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
-    "entities": "8.1.0",
+    "entities": "9.0.0",
     "parse5": "8.0.1",
     "react": "latest",
     "react-dom": "latest",
