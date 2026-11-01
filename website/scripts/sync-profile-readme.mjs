@@ -13,6 +13,22 @@ export const plainText = (value = '') => htmlText(value,
   .replace(/\s+/g, ' ')
   .trim()
 
+// A README download tile drawn by a Shields endpoint badge is live. The site reads the
+// same count from Shields' JSON form, keeping the alt-text count as its fallback.
+export function liveDownloadsUrl(src = '') {
+  try {
+    const badge = new URL(src)
+    const endpoint = badge.searchParams.get('url')
+    if (badge.origin !== 'https://img.shields.io' || badge.pathname !== '/endpoint' || !endpoint) return ''
+    if (new URL(endpoint).protocol !== 'https:') return ''
+    const json = new URL('https://img.shields.io/endpoint.json')
+    json.searchParams.set('url', endpoint)
+    return json.href
+  } catch {
+    return ''
+  }
+}
+
 function section(readme, start, end) {
   const startIndex = readme.indexOf(start)
   const endIndex = end ? readme.indexOf(end, startIndex + start.length) : readme.length
@@ -36,6 +52,7 @@ function htmlEntriesFrom(text) {
       .replace(/\s+/g, ' ')
       .trim()
     const downloadsFromBadge = line.match(/<img[^>]*alt="Downloads:\s*([^"]+)"[^>]*>/i)?.[1]?.trim() ?? ''
+    const downloadsLive = liveDownloadsUrl(decode(line.match(/<img[^>]*alt="Downloads:[^"]*"[^>]*src="([^"]+)"/i)?.[1] ?? ''))
     const usersFromBadge = line.match(/<img[^>]*alt="Users:\s*([^"]+)"[^>]*>/i)?.[1]?.trim() ?? ''
     const downloadsMatch = description.match(/\((\d+[KkMm]?\+?)\s+downloads\)\s*$/i)
     const downloads = downloadsFromBadge || usersFromBadge || (downloadsMatch?.[1] ?? '')
@@ -51,6 +68,7 @@ function htmlEntriesFrom(text) {
       marker,
       starBadgeUrl,
       ...(downloads ? { downloads, metric: usersFromBadge ? 'users' : 'downloads' } : {}),
+      ...(downloads && downloadsLive ? { downloadsLiveUrl: downloadsLive } : {}),
     }]
   })
 }

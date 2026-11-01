@@ -120,7 +120,7 @@
     {
       "name": "Coincide",
       "url": "https://github.com/apoorvdarshan/coincide",
-      "description": "Native macOS home for coding agents; switch agents mid-thread",
+      "description": "Native Mac app for coding agents: side by side, switch mid-thread, Bots",
       "status": "",
       "marker": "🃏",
       "starBadgeUrl": ""
@@ -572,7 +572,7 @@
         {
           "name": "Coincide",
           "url": "https://github.com/apoorvdarshan/coincide",
-          "description": "Native macOS home for coding agents; switch agents mid-thread",
+          "description": "Native Mac app for coding agents: side by side, switch mid-thread, Bots",
           "status": "",
           "marker": "🃏",
           "starBadgeUrl": ""

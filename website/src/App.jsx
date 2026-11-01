@@ -152,11 +152,34 @@ function StarBadge({ item }) {
 
 
 function DownloadBadge({ item }) {
-  if (!item.downloads) return null
+  const [liveCount, setLiveCount] = useState(null)
+
+  // Live endpoint tiles (see liveDownloadsUrl in the README sync) refresh in place;
+  // anything unexpected keeps the README's alt-text count.
+  useEffect(() => {
+    if (!item.downloadsLiveUrl) return undefined
+
+    const controller = new AbortController()
+    fetch(item.downloadsLiveUrl, { signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) throw new Error(`Download count request failed with ${response.status}`)
+        return response.json()
+      })
+      .then((data) => {
+        const message = typeof data.message === 'string' ? data.message.trim() : ''
+        if (/^\d[\d.,]*[kKmM]?\+?$/.test(message)) setLiveCount(message)
+      })
+      .catch(() => {})
+
+    return () => controller.abort()
+  }, [item.downloadsLiveUrl])
+
+  const downloads = liveCount ?? item.downloads
+  if (!downloads) return null
 
   return (
-    <span className="download-count" aria-label={`${displayName(item.name)} has ${item.downloads} ${item.metric || 'downloads'}`}>
-      <span aria-hidden="true">↓ {item.downloads}{item.metric === 'users' ? ' users' : ''}</span>
+    <span className="download-count" aria-label={`${displayName(item.name)} has ${downloads} ${item.metric || 'downloads'}`}>
+      <span aria-hidden="true">↓ {downloads}{item.metric === 'users' ? ' users' : ''}</span>
     </span>
   )
 }

@@ -6,7 +6,7 @@
 
 ## Wildcard
 <ul>
-  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> - Native macOS home for coding agents; switch agents mid-thread</li>
+  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> - Native Mac app for coding agents: side by side, switch mid-thread, Bots</li>
 </ul>
 
 ## Mobile Apps
