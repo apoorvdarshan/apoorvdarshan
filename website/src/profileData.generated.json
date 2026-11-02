@@ -104,7 +104,7 @@
       "status": "",
       "marker": "⏸️",
       "starBadgeUrl": "",
-      "downloads": "5",
+      "downloads": "4",
       "metric": "users"
     },
     {
@@ -207,7 +207,7 @@
       "status": "",
       "marker": "📊",
       "starBadgeUrl": "",
-      "downloads": "1",
+      "downloads": "2",
       "metric": "downloads"
     },
     {
@@ -250,7 +250,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
       "downloads": "4K+",
       "metric": "downloads",
-      "starCount": "20"
+      "starCount": "21"
     },
     {
       "name": "glow-agent",
@@ -668,7 +668,7 @@
           "status": "",
           "marker": "📊",
           "starBadgeUrl": "",
-          "downloads": "1",
+          "downloads": "2",
           "metric": "downloads"
         },
         {
@@ -1082,6 +1082,15 @@
       "marker": "☸️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kubernetes/kubernetes&v=3",
       "starCount": "129k"
+    },
+    {
+      "name": "awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac/pull/4143",
+      "description": "Add Coincide to IDEs",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jaywcjlove/awesome-mac&v=3",
+      "starCount": "118k"
     },
     {
       "name": "svelte",
@@ -1625,8 +1634,8 @@
     },
     {
       "name": "awesome-swift-macos-apps",
-      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps/pull/101",
-      "description": "Add TetherShot to the Swift macOS app list",
+      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Add Coincide to AI; Add TetherShot",
       "status": "",
       "marker": "🍎",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jaywcjlove/awesome-swift-macos-apps&v=3",
@@ -1747,7 +1756,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "913"
+      "starCount": "912"
     },
     {
       "name": "decorator",
