@@ -43,7 +43,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&v=3",
       "downloads": "600+",
       "metric": "downloads",
-      "starCount": "33"
+      "starCount": "34"
     },
     {
       "name": "quit-all",
@@ -1291,21 +1291,21 @@
       "starCount": "15k"
     },
     {
-      "name": "omi",
-      "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "130 merged PRs: create a person once when requests…; keep keyword hits that spoken-word…",
-      "status": "",
-      "marker": "🎙️",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
-      "starCount": "14k"
-    },
-    {
       "name": "pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent/pull/2895",
       "description": "fix: share language matcher with plain diff provider",
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&v=3",
+      "starCount": "14k"
+    },
+    {
+      "name": "omi",
+      "url": "https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "130 merged PRs: create a person once when requests…; keep keyword hits that spoken-word…",
+      "status": "",
+      "marker": "🎙️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&v=3",
       "starCount": "14k"
     },
     {
@@ -1514,6 +1514,15 @@
       "marker": "📍",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=geopy/geopy&v=3",
       "starCount": "4.9k"
+    },
+    {
+      "name": "agent-client-protocol",
+      "url": "https://github.com/agentclientprotocol/agent-client-protocol/pull/2742",
+      "description": "add Coincide to Desktop and Web",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=agentclientprotocol/agent-client-protocol&v=3",
+      "starCount": "4.6k"
     },
     {
       "name": "returns",
@@ -1756,7 +1765,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "912"
+      "starCount": "913"
     },
     {
       "name": "decorator",
@@ -1882,7 +1891,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "533"
+      "starCount": "534"
     },
     {
       "name": "fork-commit-merge",
@@ -1891,7 +1900,7 @@
       "status": "",
       "marker": "🍴",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
-      "starCount": "518"
+      "starCount": "517"
     },
     {
       "name": "poetry-core",
@@ -2044,7 +2053,7 @@
       "status": "",
       "marker": "🍎",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=abordage/awesome-mac&v=3",
-      "starCount": "31"
+      "starCount": "32"
     }
   ],
   "activityImage": "https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan&mode=sum&colors=39d353%2C58a6ff&v=20260824",
