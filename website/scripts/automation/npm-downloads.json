@@ -1,6 +1,7 @@
 {
   "maintainer": "apoorvdarshan",
   "packages": [
+    {"name": "Coincide", "package": "coincide-dev", "created": "2026-11-01", "link": "https://github.com/apoorvdarshan/coincide"},
     {"name": "browser-cookie-bridge", "package": "browser-cookie-bridge", "created": "2026-08-10", "link": "https://github.com/apoorvdarshan/browser-cookie-bridge"},
     {"name": "hash-harbor", "package": "hash-harbor", "created": "2026-07-26", "link": "https://github.com/apoorvdarshan/hash-harbor"},
     {"name": "TetherShot", "package": "tethershot", "created": "2026-06-10", "link": "https://github.com/apoorvdarshan/TetherShot"},

@@ -668,17 +668,17 @@
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
       "checked_on": "2026-11-02",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
-      "npm_as_of": "2026-10-29",
+      "npm_as_of": "2026-11-01",
       "homebrew": {
         "package": "apoorvdarshan/tap/browser-cookie-bridge",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 3672,
+      "display_total": 3686,
       "badge": "3K+",
       "breakdown": {
         "github_release_downloads": 270,
-        "npm_downloads": 3402
+        "npm_downloads": 3416
       }
     },
     "releases:apoorvdarshan/hash-harbor": {
@@ -899,12 +899,12 @@
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
       "checked_on": "2026-11-02",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
-      "npm_as_of": "2026-10-29",
-      "display_total": 856,
+      "npm_as_of": "2026-11-01",
+      "display_total": 863,
       "badge": "800+",
       "breakdown": {
         "github_release_downloads": 33,
-        "npm_downloads": 823
+        "npm_downloads": 830
       }
     },
     "releases:apoorvdarshan/TetherShot": {
@@ -1027,17 +1027,17 @@
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
       "checked_on": "2026-11-02",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
-      "npm_as_of": "2026-10-29",
+      "npm_as_of": "2026-11-01",
       "homebrew": {
         "package": "apoorvdarshan/tap/tethershot",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 4671,
+      "display_total": 4687,
       "badge": "4K+",
       "breakdown": {
         "github_release_downloads": 212,
-        "npm_downloads": 4459
+        "npm_downloads": 4475
       }
     },
     "extensions:apoorvdarshan/x-country-filter": {
@@ -1064,6 +1064,48 @@
       "badge": "4",
       "breakdown": {
         "chrome_users": 4
+      }
+    },
+    "releases:apoorvdarshan/coincide": {
+      "count": 17,
+      "assets": [
+        {
+          "id": 698699737,
+          "name": "Coincide-0.1.0.dmg",
+          "tag": "v0.1.0",
+          "downloads": 6,
+          "url": "https://github.com/apoorvdarshan/coincide/releases/download/v0.1.0/Coincide-0.1.0.dmg"
+        },
+        {
+          "id": 698699732,
+          "name": "Coincide-macos-universal.zip",
+          "tag": "v0.1.0",
+          "downloads": 2,
+          "url": "https://github.com/apoorvdarshan/coincide/releases/download/v0.1.0/Coincide-macos-universal.zip"
+        },
+        {
+          "id": 698699730,
+          "name": "Coincide.dmg",
+          "tag": "v0.1.0",
+          "downloads": 9,
+          "url": "https://github.com/apoorvdarshan/coincide/releases/download/v0.1.0/Coincide.dmg"
+        }
+      ],
+      "metric": "downloads of available stable release assets",
+      "url": "https://github.com/apoorvdarshan/coincide/releases",
+      "checked_on": "2026-11-02",
+      "config_sha256": "f3d56c9a6b6bff060fca4f1fafda79080f96116b80c0462c3ea8b1c27467cb22",
+      "npm_as_of": "2026-11-01",
+      "homebrew": {
+        "package": "apoorvdarshan/tap/coincide",
+        "counted_via": "github_release_downloads",
+        "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
+      },
+      "display_total": 311,
+      "badge": "300+",
+      "breakdown": {
+        "github_release_downloads": 17,
+        "npm_downloads": 294
       }
     }
   },

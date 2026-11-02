@@ -123,7 +123,9 @@
       "description": "Native Mac app for coding agents: side by side, switch mid-thread, Bots",
       "status": "",
       "marker": "🃏",
-      "starBadgeUrl": ""
+      "starBadgeUrl": "",
+      "downloads": "300+",
+      "metric": "downloads"
     },
     {
       "name": "opencode-gemini-imagegen-plugin",
@@ -575,7 +577,9 @@
           "description": "Native Mac app for coding agents: side by side, switch mid-thread, Bots",
           "status": "",
           "marker": "🃏",
-          "starBadgeUrl": ""
+          "starBadgeUrl": "",
+          "downloads": "300+",
+          "metric": "downloads"
         }
       ]
     },

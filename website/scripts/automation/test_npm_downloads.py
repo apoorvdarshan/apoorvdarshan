@@ -20,8 +20,9 @@ CONFIG = {'maintainer': 'apoorvdarshan', 'packages': [
 
 
 class FakeAPI:
-    def __init__(self, config=CONFIG):
+    def __init__(self, config=CONFIG, last_day='2026-10-10'):
         self.items = {p['package']: p for p in config['packages']}
+        self.last_day = last_day
         self.calls = []
 
     def __call__(self, url):
@@ -33,7 +34,7 @@ class FakeAPI:
                     'maintainers': [{'name': 'apoorvdarshan'}], 'time': {'created': item['created'] + 'T12:00:00Z'}}
         period, package = url.removeprefix(npm.API).split('/', 1)
         package = unquote(package)
-        start, end = ('2026-10-10', '2026-10-10') if period == 'last-day' else period.split(':')
+        start, end = (self.last_day, self.last_day) if period == 'last-day' else period.split(':')
         count = (date.fromisoformat(end) - date.fromisoformat(start)).days + 1
         return {'package': package, 'start': start, 'end': end, 'downloads': count}
 
@@ -117,6 +118,8 @@ class NpmDownloadTests(unittest.TestCase):
 
     def test_main_daily_cache_updates_only_configured_copy_and_failure_is_atomic(self):
         config = json.loads(Path(npm.__file__).with_name('npm-downloads.json').read_text())
+        # Run just after the newest configured package, so adding a package never outdates this test.
+        today = max(date.fromisoformat(p['created']) for p in config['packages']) + timedelta(days=2)
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
             readme, resume = self.fixture(root, config)
@@ -124,12 +127,12 @@ class NpmDownloadTests(unittest.TestCase):
             env = {'PROFILE_README_PATH': str(readme), 'PROFILE_RESUME_PATH': str(resume),
                    'NPM_DOWNLOADS_FORCE': 'false', 'GITHUB_STEP_SUMMARY': ''}
             with patch.dict(os.environ, env), patch.object(npm, 'datetime') as clock:
-                clock.now.return_value = datetime(2026, 10, 11, tzinfo=timezone.utc)
+                clock.now.return_value = datetime(today.year, today.month, today.day, tzinfo=timezone.utc)
                 with patch.object(npm, 'refresh', side_effect=RuntimeError('last package unavailable')):
                     with self.assertRaises(RuntimeError): npm.main()
                 self.assertEqual([readme.read_text(), resume.read_text()], before)
                 self.assertFalse((root / 'profile-automation/npm-downloads.json').exists())
-                with patch.object(npm, 'refresh', return_value=npm.refresh(config, TODAY, FakeAPI(config))):
+                with patch.object(npm, 'refresh', return_value=npm.refresh(config, today, FakeAPI(config, str(today - timedelta(days=1))))):
                     npm.main()
                 paths = [readme, resume, root / 'profile-automation/npm-downloads.json']
                 saved = [p.read_text() for p in paths]

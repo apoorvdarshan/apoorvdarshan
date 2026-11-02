@@ -35,6 +35,13 @@
       "asset_pattern": ".*\\.dmg$",
       "npm": "tethershot",
       "homebrew": "apoorvdarshan/tap/tethershot"
+    },
+    {
+      "name": "coincide",
+      "repo": "apoorvdarshan/coincide",
+      "asset_pattern": "Coincide(-[0-9]+(\\.[0-9]+)*)?\\.dmg|Coincide-macos-universal\\.zip",
+      "npm": "coincide-dev",
+      "homebrew": "apoorvdarshan/tap/coincide"
     }
   ],
   "extensions": [

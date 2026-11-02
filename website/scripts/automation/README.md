@@ -82,15 +82,15 @@ Apple references: [Analytics Reports](https://developer.apple.com/documentation/
 
 ## Daily npm downloads
 
-`npm_downloads.py` refreshes the five explicitly configured packages in `npm-downloads.json` once per UTC day during the six-hour workflow. No npm token, npmrc, publishing permission, or 2FA bypass is used. It reads the public registry metadata and public download-count API. `refresh_npm_downloads` in manual dispatch (or local `NPM_DOWNLOADS_FORCE=true`) forces a fresh check.
+`npm_downloads.py` refreshes the six explicitly configured packages in `npm-downloads.json` once per UTC day during the six-hour workflow. No npm token, npmrc, publishing permission, or 2FA bypass is used. It reads the public registry metadata and public download-count API. `refresh_npm_downloads` in manual dispatch (or local `NPM_DOWNLOADS_FORCE=true`) forces a fresh check.
 
-The metric is **lifetime npm package downloads**, across all versions from each package's creation date through the latest completed date available for all five packages. Downloads include repeat installs and automated/CI requests; they are not unique users, GitHub release downloads, or Homebrew installs. This step writes the npm subtotal; the final distribution step adds configured GitHub asset events and publishes a combined badge with the same floor rounding. Fud AI and extension user counts are managed separately.
+The metric is **lifetime npm package downloads**, across all versions from each package's creation date through the latest completed date available for all six packages. Downloads include repeat installs and automated/CI requests; they are not unique users, GitHub release downloads, or Homebrew installs. This step writes the npm subtotal; the final distribution step adds configured GitHub asset events and publishes a combined badge with the same floor rounding. Fud AI and extension user counts are managed separately.
 
 Each daily refresh verifies the exact package name, maintainer, repository, and pinned creation date. Scoped packages are queried individually. Full history is fetched again in non-overlapping inclusive windows of at most 365 days, below npm's 18-month request limit. Responses must cover the exact requested interval with a nonnegative integer count. This incorporates corrected statistics without incrementally double-counting downloads. Packages created before npm's available history (2015-01-10) require an explicit historical policy before being added.
 
 The public audit snapshot is `profile-automation/npm-downloads.json` in the profile README repository. It records exact totals, dates, milestone labels, configuration fingerprint, and source URLs for every interval. Normal later runs that day reuse that snapshot. Config changes force a refresh. API/identity/schema failures leave the previous npm counts and snapshot intact, show a workflow warning, and retry next run while other updates continue.
 
-The same run updates the five existing README and resume labels, rebuilds the PDF, syncs the website, signs commits, and deploys. Badges use the existing Cloudflare SVG route. Both resume URLs and the Mac's six-hour pull follow the same existing process.
+The same run updates the six existing README and resume labels, rebuilds the PDF, syncs the website, signs commits, and deploys. This step only replaces labels, so a newly mapped package needs its README tile (and resume count) seeded first. Badges use the existing Cloudflare SVG route. Both resume URLs and the Mac's six-hour pull follow the same existing process.
 
 Local check: `PROFILE_README_PATH=/path/to/README.md PROFILE_RESUME_PATH=/path/to/resume/Apoorv_Darshan_Resume.tex python3 scripts/automation/npm_downloads.py`.
 
@@ -168,20 +168,21 @@ Only Country Filter and Streaming Auto-Pause are published; no counts are invent
 for local-only extensions. Publicly readable unlisted pages can also be configured.
 Restricted/private listings are not accessed with personal cookies.
 
-Six repositories have stable release assets: Fud AI (APK only), LithosAI Bar,
-DesktopWorm, Browser Cookie Bridge, Hash Harbor, and TetherShot. Both releases and
+Seven repositories have stable release assets: Fud AI (APK only), LithosAI Bar,
+DesktopWorm, Browser Cookie Bridge, Hash Harbor, TetherShot, and Coincide (Mac DMG/ZIP
+only; its `ios-v…` App Store releases carry no assets). Both releases and
 assets are paginated. Allowlisted distributables exclude signatures/checksums,
 source auto-archives, draft/prerelease assets and publishing-only Android AAB files.
 Counts cover assets still available on GitHub; deleted assets cannot be recovered.
 
 For mapped projects, npm downloads plus GitHub asset requests form a **download
 event total**, not unique users or successful installs. A single npm installation
-can fetch a release binary too (for example Hash Harbor); both are file downloads.
+can fetch a release binary too (for example Hash Harbor, or Coincide's ZIP); both are file downloads.
 Fud AI adds APK download events to its independently verified iOS + Android
 first-time store subtotal. The store snapshots in `resume/` keep their original metric.
 Chrome users are never added to downloads and may decrease.
 
-TetherShot and Browser Cookie Bridge are in `apoorvdarshan/homebrew-tap`. Their
+TetherShot, Browser Cookie Bridge and Coincide are in `apoorvdarshan/homebrew-tap`. Their
 casks fetch the same GitHub release DMGs, so those fetches are already represented
 in GitHub counts. There is no extra Homebrew total to add. Homebrew analytics
 are optional reporting over rolling windows, not a complete lifetime counter:
