@@ -6,7 +6,7 @@
 
 ## Wildcard
 <ul>
-  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - Native Mac app for coding agents: side by side, switch mid-thread, Bots</li>
+  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&amp;v=3"> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - Native Mac app for coding agents: side by side, switch mid-thread, Bots</li>
 </ul>
 
 ## Mobile Apps

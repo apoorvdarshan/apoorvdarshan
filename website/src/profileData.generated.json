@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "13K+",
       "metric": "downloads",
-      "starCount": "510"
+      "starCount": "511"
     },
     {
       "name": "verceltics",
@@ -123,9 +123,10 @@
       "description": "Native Mac app for coding agents: side by side, switch mid-thread, Bots",
       "status": "",
       "marker": "🃏",
-      "starBadgeUrl": "",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
       "downloads": "300+",
-      "metric": "downloads"
+      "metric": "downloads",
+      "starCount": "6"
     },
     {
       "name": "opencode-gemini-imagegen-plugin",
@@ -231,7 +232,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&v=3",
       "downloads": "3K+",
       "metric": "downloads",
-      "starCount": "10"
+      "starCount": "11"
     },
     {
       "name": "hash-harbor",
@@ -252,7 +253,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
       "downloads": "4K+",
       "metric": "downloads",
-      "starCount": "21"
+      "starCount": "22"
     },
     {
       "name": "glow-agent",
@@ -577,7 +578,7 @@
           "description": "Native Mac app for coding agents: side by side, switch mid-thread, Bots",
           "status": "",
           "marker": "🃏",
-          "starBadgeUrl": "",
+          "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
           "downloads": "300+",
           "metric": "downloads"
         }
@@ -1049,7 +1050,7 @@
       "status": "",
       "marker": "🏕️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=freeCodeCamp/freeCodeCamp&v=3",
-      "starCount": "458k"
+      "starCount": "459k"
     },
     {
       "name": "tensorflow",
@@ -1841,7 +1842,7 @@
       "status": "",
       "marker": "📏",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PyCQA/docformatter&v=3",
-      "starCount": "598"
+      "starCount": "599"
     },
     {
       "name": "resend-mcp",
@@ -1850,7 +1851,7 @@
       "status": "",
       "marker": "📧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
-      "starCount": "578"
+      "starCount": "579"
     },
     {
       "name": "IMAPClient",
@@ -2039,7 +2040,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tomasz-buczek/awesome-ai-companions&v=3",
-      "starCount": "59"
+      "starCount": "60"
     },
     {
       "name": "markdown-reader",
