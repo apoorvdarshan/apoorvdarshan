@@ -1895,7 +1895,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "534"
+      "starCount": "535"
     },
     {
       "name": "fork-commit-merge",
@@ -1940,7 +1940,7 @@
       "status": "",
       "marker": "🌐",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Pylons/webob&v=3",
-      "starCount": "442"
+      "starCount": "443"
     },
     {
       "name": "moin",
@@ -2067,6 +2067,15 @@
       "marker": "🍎",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=abordage/awesome-mac&v=3",
       "starCount": "32"
+    },
+    {
+      "name": "awesome-coding-agents",
+      "url": "https://github.com/kailiu42/awesome-coding-agents/pull/113",
+      "description": "Add Coincide to CLI Agent Helpers",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kailiu42/awesome-coding-agents&v=3",
+      "starCount": "14"
     }
   ],
   "activityImage": "https://github-contribution-merger.apoorvdarshan.com/api/merge?users=apoorvdarshan&mode=sum&colors=39d353%2C58a6ff&v=20260824",

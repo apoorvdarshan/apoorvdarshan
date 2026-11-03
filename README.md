@@ -241,6 +241,7 @@
       <div>&bull; 📖 <strong><a href="https://github.com/petertzy/markdown-reader/pull/84">markdown-reader</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=petertzy/markdown-reader&amp;v=3"> - fix: NameError in choose_bg_color when color picker is cancelled</div>
       <div>&bull; 📋 <strong><a href="https://github.com/opcotech/elemo/pull/394">elemo</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=opcotech/elemo&amp;v=3"> - feat: add project endpoints to the OpenAPI spec</div>
       <div>&bull; 🍎 <strong><a href="https://github.com/abordage/awesome-mac/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan">awesome-mac</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=abordage/awesome-mac&amp;v=3"> - 4 merged PRs: add TetherShot to screen capture; Add MacBook 24x7 Agents</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/kailiu42/awesome-coding-agents/pull/113">awesome-coding-agents</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=kailiu42/awesome-coding-agents&amp;v=3"> - Add Coincide to CLI Agent Helpers</div>
       </div>
     </details>
   </li>
