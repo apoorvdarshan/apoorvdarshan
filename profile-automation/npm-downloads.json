@@ -1,7 +1,7 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-11-02",
+  "checked_on": "2026-11-03",
   "as_of": "2026-11-01",
   "packages": {
     "coincide-dev": {
@@ -49,13 +49,13 @@
     "tethershot": {
       "name": "TetherShot",
       "created": "2026-06-10",
-      "downloads": 4475,
+      "downloads": 4480,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-10",
           "end": "2026-11-01",
-          "downloads": 4475,
+          "downloads": 4480,
           "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-01/tethershot"
         }
       ]
@@ -63,13 +63,13 @@
     "@apoorvdarshan/crossposter": {
       "name": "crossposter",
       "created": "2026-06-05",
-      "downloads": 4645,
+      "downloads": 4647,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-05",
           "end": "2026-11-01",
-          "downloads": 4645,
+          "downloads": 4647,
           "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-01/@apoorvdarshan%2Fcrossposter"
         }
       ]

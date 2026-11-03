@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "13K+",
       "metric": "downloads",
-      "starCount": "509"
+      "starCount": "510"
     },
     {
       "name": "verceltics",
@@ -1940,7 +1940,7 @@
       "status": "",
       "marker": "🌐",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=Pylons/webob&v=3",
-      "starCount": "443"
+      "starCount": "442"
     },
     {
       "name": "moin",
@@ -2022,6 +2022,15 @@
       "marker": "🔧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jrhizor/awesome-nutrition-tracking&v=3",
       "starCount": "153"
+    },
+    {
+      "name": "awesome-ai-dev-tools",
+      "url": "https://github.com/PierrunoYT/awesome-ai-dev-tools/pull/104",
+      "description": "Add Coincide",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PierrunoYT/awesome-ai-dev-tools&v=3",
+      "starCount": "77"
     },
     {
       "name": "awesome-ai-companions",
