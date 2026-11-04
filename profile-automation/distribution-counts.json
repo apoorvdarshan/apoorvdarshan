@@ -2,13 +2,13 @@
   "version": 1,
   "sources": {
     "releases:apoorvdarshan/fud-ai": {
-      "count": 1360,
+      "count": 1371,
       "assets": [
         {
           "id": 672161704,
           "name": "fudai-v8.0.1.apk",
           "tag": "android-v8.0.1",
-          "downloads": 165,
+          "downloads": 176,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v8.0.1/fudai-v8.0.1.apk"
         },
         {
@@ -210,13 +210,13 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/fud-ai/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
-      "display_total": 13712,
+      "display_total": 13928,
       "badge": "13K+",
       "breakdown": {
-        "github_release_downloads": 1360,
-        "store_first_time_downloads": 12352
+        "github_release_downloads": 1371,
+        "store_first_time_downloads": 12557
       }
     },
     "releases:apoorvdarshan/lithosai-bar": {
@@ -232,7 +232,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/lithosai-bar/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "cee05da977f2d8a121aba20364494bef10299302aaf794aca3d65d7dd1a99893",
       "display_total": 2,
       "badge": "2",
@@ -253,7 +253,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/DesktopWorm/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "3bd2b395ca5401ae3cfa9b497e267d8fbfc0d0a1f2584b09cb27db00b459fd2b",
       "display_total": 3,
       "badge": "3",
@@ -666,19 +666,19 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
-      "npm_as_of": "2026-11-01",
+      "npm_as_of": "2026-11-02",
       "homebrew": {
         "package": "apoorvdarshan/tap/browser-cookie-bridge",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 3688,
+      "display_total": 3802,
       "badge": "3K+",
       "breakdown": {
         "github_release_downloads": 272,
-        "npm_downloads": 3416
+        "npm_downloads": 3530
       }
     },
     "releases:apoorvdarshan/hash-harbor": {
@@ -897,14 +897,14 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
-      "npm_as_of": "2026-11-01",
-      "display_total": 863,
+      "npm_as_of": "2026-11-02",
+      "display_total": 872,
       "badge": "800+",
       "breakdown": {
         "github_release_downloads": 33,
-        "npm_downloads": 830
+        "npm_downloads": 839
       }
     },
     "releases:apoorvdarshan/TetherShot": {
@@ -1025,19 +1025,19 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
-      "npm_as_of": "2026-11-01",
+      "npm_as_of": "2026-11-02",
       "homebrew": {
         "package": "apoorvdarshan/tap/tethershot",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 4692,
+      "display_total": 4741,
       "badge": "4K+",
       "breakdown": {
         "github_release_downloads": 212,
-        "npm_downloads": 4480
+        "npm_downloads": 4529
       }
     },
     "extensions:apoorvdarshan/x-country-filter": {
@@ -1045,7 +1045,7 @@
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/country-filter-for-x-twit/cocohplmilpblbkoikolbhakjipccioa?hl=en",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "cc0dfed07c7cae93a165c9eba947046e309e7277bf2f4d0b5800bb63c3acc790",
       "display_total": 53,
       "badge": "50+",
@@ -1058,7 +1058,7 @@
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/streaming-auto-pauseresum/nafnjeielmlkeinkmbfppfecpfebgcbl?hl=en",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "bd41a61372303f03bf4d6c157b53904f7cc861b27a0c095a0a28fe638d69560c",
       "display_total": 4,
       "badge": "4",
@@ -1067,45 +1067,45 @@
       }
     },
     "releases:apoorvdarshan/coincide": {
-      "count": 21,
+      "count": 30,
       "assets": [
         {
           "id": 698699737,
           "name": "Coincide-0.1.0.dmg",
           "tag": "v0.1.0",
-          "downloads": 7,
+          "downloads": 10,
           "url": "https://github.com/apoorvdarshan/coincide/releases/download/v0.1.0/Coincide-0.1.0.dmg"
         },
         {
           "id": 698699732,
           "name": "Coincide-macos-universal.zip",
           "tag": "v0.1.0",
-          "downloads": 3,
+          "downloads": 5,
           "url": "https://github.com/apoorvdarshan/coincide/releases/download/v0.1.0/Coincide-macos-universal.zip"
         },
         {
           "id": 698699730,
           "name": "Coincide.dmg",
           "tag": "v0.1.0",
-          "downloads": 11,
+          "downloads": 15,
           "url": "https://github.com/apoorvdarshan/coincide/releases/download/v0.1.0/Coincide.dmg"
         }
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/coincide/releases",
-      "checked_on": "2026-11-03",
+      "checked_on": "2026-11-04",
       "config_sha256": "f3d56c9a6b6bff060fca4f1fafda79080f96116b80c0462c3ea8b1c27467cb22",
-      "npm_as_of": "2026-11-01",
+      "npm_as_of": "2026-11-02",
       "homebrew": {
         "package": "apoorvdarshan/tap/coincide",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 315,
+      "display_total": 337,
       "badge": "300+",
       "breakdown": {
-        "github_release_downloads": 21,
-        "npm_downloads": 294
+        "github_release_downloads": 30,
+        "npm_downloads": 307
       }
     }
   },

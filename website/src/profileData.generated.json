@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "13K+",
       "metric": "downloads",
-      "starCount": "511"
+      "starCount": "512"
     },
     {
       "name": "verceltics",
@@ -126,7 +126,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
       "downloads": "300+",
       "metric": "downloads",
-      "starCount": "6"
+      "starCount": "7"
     },
     {
       "name": "opencode-gemini-imagegen-plugin",
@@ -192,7 +192,7 @@
       "status": "",
       "marker": "🚀",
       "starBadgeUrl": "",
-      "downloads": "300+",
+      "downloads": "1K+",
       "metric": "downloads"
     },
     {
@@ -655,7 +655,7 @@
           "status": "",
           "marker": "🚀",
           "starBadgeUrl": "",
-          "downloads": "300+",
+          "downloads": "1K+",
           "metric": "downloads"
         },
         {
@@ -1602,6 +1602,15 @@
       "starCount": "3.3k"
     },
     {
+      "name": "Box",
+      "url": "https://github.com/cdgriffith/Box/pull/315",
+      "description": "Fix serialization of frozen_box with nested lists (#272)",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=cdgriffith/Box&v=3",
+      "starCount": "2.8k"
+    },
+    {
       "name": "python-markdown2",
       "url": "https://github.com/trentm/python-markdown2/pull/713",
       "description": "fix: prevent duplicate IDs from the header-ids extra",
@@ -1896,7 +1905,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "535"
+      "starCount": "536"
     },
     {
       "name": "fork-commit-merge",
@@ -1959,7 +1968,7 @@
       "status": "",
       "marker": "🧪",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=aregtech/areg-sdk&v=3",
-      "starCount": "368"
+      "starCount": "367"
     },
     {
       "name": "radis",

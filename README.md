@@ -44,7 +44,7 @@
 
 ## Apps & Utilities
 <ul>
-<li>🚀 <strong><a href="https://github.com/apoorvdarshan/store-release">store-release</a></strong> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - Ship iOS and Android apps to the stores with GitHub Actions</li>
+<li>🚀 <strong><a href="https://github.com/apoorvdarshan/store-release">store-release</a></strong> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Ship iOS and Android apps to the stores with GitHub Actions</li>
 <li>💾 <strong><a href="https://github.com/apoorvdarshan/github-backup">github-backup</a></strong> - Daily GitHub backups to private GitLab with integrity checks</li>
 <li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> <img alt="Downloads: 2" src="https://apoorvdarshan.com/badges/downloads/v1/2.svg"> - LithosAI balance, daily usage, and model spend in the macOS menu bar</li>
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - macOS C. elegans simulation using the OpenWorm c302 connectome</li>
@@ -189,6 +189,7 @@
       <div>&bull; 🧪 <strong><a href="https://github.com/tox-dev/tox/pull/3976">tox</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=tox-dev/tox&amp;v=3"> - fix: don't double-close the child pty fd (parallel Bad file descriptor)</div>
       <div>&bull; 🔧 <strong><a href="https://github.com/coveragepy/coveragepy/pull/2223">coveragepy</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=coveragepy/coveragepy&amp;v=3"> - Fix false missing branch for one-line class body with sysmon core (#2167)</div>
       <div>&bull; 🔐 <strong><a href="https://github.com/django-oauth/django-oauth-toolkit/pull/1750">django-oauth-toolkit</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=django-oauth/django-oauth-toolkit&amp;v=3"> - fix: validate Netlify double-dash wildcard redirect URIs</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/cdgriffith/Box/pull/315">Box</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=cdgriffith/Box&amp;v=3"> - Fix serialization of frozen_box with nested lists (#272)</div>
       <div>&bull; 📝 <strong><a href="https://github.com/trentm/python-markdown2/pull/713">python-markdown2</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=trentm/python-markdown2&amp;v=3"> - fix: prevent duplicate IDs from the header-ids extra</div>
       <div>&bull; 📐 <strong><a href="https://github.com/hgrecco/pint/pull/2330">Pint</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=hgrecco/pint&amp;v=3"> - Support decimal points and fraction slashes in superscript exponents</div>
       <div>&bull; 🖍️ <strong><a href="https://github.com/pygments/pygments/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan">pygments</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=pygments/pygments&amp;v=3"> - 2 merged PRs: Mathematica: recognize \[Name]…; Add &#39;yml&#39; as an alias for the YAML…</div>
