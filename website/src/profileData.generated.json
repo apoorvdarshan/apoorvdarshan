@@ -2110,6 +2110,11 @@
         "name": "iPhone 16",
         "badgeUrl": "https://img.shields.io/badge/-iPhone_16-000000?style=flat-square&logo=apple&logoColor=white",
         "url": "https://www.apple.com/iphone-16/"
+      },
+      {
+        "name": "Lava Android",
+        "badgeUrl": "https://img.shields.io/badge/-Lava_Android-000000?style=flat-square&logo=android&logoColor=white",
+        "url": "https://www.lavamobiles.com/"
       }
     ],
     "software": [
