@@ -19,9 +19,9 @@
       "status": "",
       "marker": "🥦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
-      "downloads": "13K+",
+      "downloads": "14K+",
       "metric": "downloads",
-      "starCount": "514"
+      "starCount": "516"
     },
     {
       "name": "verceltics",
@@ -32,7 +32,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&v=3",
       "downloads": "1K+",
       "metric": "downloads",
-      "starCount": "41"
+      "starCount": "42"
     },
     {
       "name": "scowld",
@@ -43,7 +43,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&v=3",
       "downloads": "600+",
       "metric": "downloads",
-      "starCount": "34"
+      "starCount": "35"
     },
     {
       "name": "quit-all",
@@ -126,7 +126,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
       "downloads": "300+",
       "metric": "downloads",
-      "starCount": "7"
+      "starCount": "8"
     },
     {
       "name": "opencode-gemini-imagegen-plugin",
@@ -1743,7 +1743,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
-      "starCount": "1.1k"
+      "starCount": "1.2k"
     },
     {
       "name": "inflect",
@@ -1890,21 +1890,21 @@
       "starCount": "553"
     },
     {
-      "name": "vermin",
-      "url": "https://github.com/netromdk/vermin/pull/344",
-      "description": "fix: detect keyword arguments correctly for chained receivers",
-      "status": "",
-      "marker": "🐍",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
-      "starCount": "538"
-    },
-    {
       "name": "awesome-openrouter",
       "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
       "description": "add Fud AI to the OpenRouter app directory",
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
+      "starCount": "539"
+    },
+    {
+      "name": "vermin",
+      "url": "https://github.com/netromdk/vermin/pull/344",
+      "description": "fix: detect keyword arguments correctly for chained receivers",
+      "status": "",
+      "marker": "🐍",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
       "starCount": "538"
     },
     {
@@ -2031,7 +2031,7 @@
       "status": "",
       "marker": "🔧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=jrhizor/awesome-nutrition-tracking&v=3",
-      "starCount": "153"
+      "starCount": "152"
     },
     {
       "name": "awesome-ai-dev-tools",
