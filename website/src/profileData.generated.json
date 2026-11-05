@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "14K+",
       "metric": "downloads",
-      "starCount": "516"
+      "starCount": "518"
     },
     {
       "name": "verceltics",
@@ -253,7 +253,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
       "downloads": "4K+",
       "metric": "downloads",
-      "starCount": "22"
+      "starCount": "23"
     },
     {
       "name": "glow-agent",
@@ -1602,6 +1602,15 @@
       "starCount": "3.3k"
     },
     {
+      "name": "pyodbc",
+      "url": "https://github.com/mkleehammer/pyodbc/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: Fix reference leak and…; Fix reference leak in…",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mkleehammer/pyodbc&v=3",
+      "starCount": "3.1k"
+    },
+    {
       "name": "Box",
       "url": "https://github.com/cdgriffith/Box/pull/315",
       "description": "Fix serialization of frozen_box with nested lists (#272)",
@@ -1611,21 +1620,21 @@
       "starCount": "2.8k"
     },
     {
-      "name": "python-markdown2",
-      "url": "https://github.com/trentm/python-markdown2/pull/713",
-      "description": "fix: prevent duplicate IDs from the header-ids extra",
-      "status": "",
-      "marker": "📝",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=trentm/python-markdown2&v=3",
-      "starCount": "2.8k"
-    },
-    {
       "name": "Pint",
       "url": "https://github.com/hgrecco/pint/pull/2330",
       "description": "Support decimal points and fraction slashes in superscript exponents",
       "status": "",
       "marker": "📐",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=hgrecco/pint&v=3",
+      "starCount": "2.8k"
+    },
+    {
+      "name": "python-markdown2",
+      "url": "https://github.com/trentm/python-markdown2/pull/713",
+      "description": "fix: prevent duplicate IDs from the header-ids extra",
+      "status": "",
+      "marker": "📝",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=trentm/python-markdown2&v=3",
       "starCount": "2.8k"
     },
     {
@@ -1770,7 +1779,7 @@
       "status": "",
       "marker": "🧹",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
-      "starCount": "956"
+      "starCount": "957"
     },
     {
       "name": "ccextractor",
@@ -1824,7 +1833,7 @@
       "status": "",
       "marker": "🗺️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=koordinates/kart&v=3",
-      "starCount": "685"
+      "starCount": "686"
     },
     {
       "name": "python-barcode",
@@ -1851,7 +1860,7 @@
       "status": "",
       "marker": "📏",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PyCQA/docformatter&v=3",
-      "starCount": "599"
+      "starCount": "600"
     },
     {
       "name": "resend-mcp",
@@ -1890,15 +1899,6 @@
       "starCount": "553"
     },
     {
-      "name": "awesome-openrouter",
-      "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
-      "description": "add Fud AI to the OpenRouter app directory",
-      "status": "",
-      "marker": "🔀",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "539"
-    },
-    {
       "name": "vermin",
       "url": "https://github.com/netromdk/vermin/pull/344",
       "description": "fix: detect keyword arguments correctly for chained receivers",
@@ -1906,6 +1906,15 @@
       "marker": "🐍",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
       "starCount": "538"
+    },
+    {
+      "name": "awesome-openrouter",
+      "url": "https://github.com/OpenRouterTeam/awesome-openrouter/pull/103",
+      "description": "add Fud AI to the OpenRouter app directory",
+      "status": "",
+      "marker": "🔀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
+      "starCount": "537"
     },
     {
       "name": "fork-commit-merge",
@@ -2004,7 +2013,7 @@
       "status": "",
       "marker": "🔷",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=dotnet/docs-desktop&v=3",
-      "starCount": "238"
+      "starCount": "239"
     },
     {
       "name": "asttokens",
