@@ -27,7 +27,7 @@
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 50+" src="https://apoorvdarshan.com/badges/users/v1/50%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - True newest-first YouTube search</li>
-  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 4" src="https://apoorvdarshan.com/badges/users/v1/4.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
+  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 5" src="https://apoorvdarshan.com/badges/users/v1/5.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 
@@ -50,7 +50,7 @@
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - macOS C. elegans simulation using the OpenWorm c302 connectome</li>
 <li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - Transfer local Chromium sessions to Codex on macOS</li>
 <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> <img alt="Downloads: 800+" src="https://apoorvdarshan.com/badges/downloads/v1/800%2B.svg"> - Local torrent streamer/downloader with a browser UI</li>
-<li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 4K+" src="https://apoorvdarshan.com/badges/downloads/v1/4K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
+<li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 5K+" src="https://apoorvdarshan.com/badges/downloads/v1/5K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
 </ul>
 
 ## Web Apps & Tools
@@ -153,6 +153,7 @@
       <div>&bull; ⚡ <strong><a href="https://github.com/Effect-TS/effect/pull/7533">Effect</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=Effect-TS/effect&amp;v=3"> - fix(atom-solid): forward default idle TTL</div>
       <div>&bull; 🦀 <strong><a href="https://github.com/tracel-ai/burn/pull/5536">burn</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=tracel-ai/burn&amp;v=3"> - fix(store): exclude adapter-matched tensors from unused</div>
       <div>&bull; 🎨 <strong><a href="https://github.com/adobe/react-spectrum/pull/9678">react-spectrum</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=adobe/react-spectrum&amp;v=3"> - Fix setLocalTimeZone timezone conversion (by <a href="https://github.com/adobe"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&amp;logo=adobe&amp;logoColor=white"></a>)</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/zhuima/awesome-cloudflare/pull/252">awesome-cloudflare</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&amp;v=3"> - Add Verceltics to 开发者工具 / Others</div>
       <div>&bull; 📓 <strong><a href="https://github.com/jupyterlab/jupyterlab/pull/18530">jupyterlab</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=jupyterlab/jupyterlab&amp;v=3"> - fix: theme settings in non-English locales (by <a href="https://github.com/jupyterlab"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"></a>)</div>
       <div>&bull; 🛡️ <strong><a href="https://github.com/prowler-cloud/prowler/pull/10102">prowler</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=prowler-cloud/prowler&amp;v=3"> - fix: remove return statements from finally blocks</div>
       <div>&bull; 🤖 <strong><a href="https://github.com/The-PR-Agent/pr-agent/pull/2895">pr-agent</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&amp;v=3"> - fix: share language matcher with plain diff provider</div>

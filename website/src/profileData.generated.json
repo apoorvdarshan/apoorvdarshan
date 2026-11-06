@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "14K+",
       "metric": "downloads",
-      "starCount": "518"
+      "starCount": "519"
     },
     {
       "name": "verceltics",
@@ -104,7 +104,7 @@
       "status": "",
       "marker": "⏸️",
       "starBadgeUrl": "",
-      "downloads": "4",
+      "downloads": "5",
       "metric": "users"
     },
     {
@@ -251,7 +251,7 @@
       "status": "",
       "marker": "📸",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
-      "downloads": "4K+",
+      "downloads": "5K+",
       "metric": "downloads",
       "starCount": "23"
     },
@@ -713,7 +713,7 @@
           "status": "",
           "marker": "📸",
           "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&v=3",
-          "downloads": "4K+",
+          "downloads": "5K+",
           "metric": "downloads"
         }
       ]
@@ -1077,7 +1077,7 @@
       "status": "",
       "marker": "🧠",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=langgenius/dify&v=3",
-      "starCount": "160k"
+      "starCount": "161k"
     },
     {
       "name": "kubernetes",
@@ -1275,6 +1275,15 @@
       "status": "",
       "marker": "🎨",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=adobe/react-spectrum&v=3",
+      "starCount": "16k"
+    },
+    {
+      "name": "awesome-cloudflare",
+      "url": "https://github.com/zhuima/awesome-cloudflare/pull/252",
+      "description": "Add Verceltics to 开发者工具 / Others",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&v=3",
       "starCount": "16k"
     },
     {
@@ -1887,7 +1896,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=giselles-ai/giselle&v=3",
-      "starCount": "559"
+      "starCount": "560"
     },
     {
       "name": "BancosBrasileiros",
