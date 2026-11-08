@@ -1,76 +1,76 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-11-07",
-  "as_of": "2026-11-05",
+  "checked_on": "2026-11-08",
+  "as_of": "2026-11-07",
   "packages": {
     "coincide-dev": {
       "name": "Coincide",
       "created": "2026-11-01",
-      "downloads": 340,
+      "downloads": 344,
       "badge": "300+",
       "reports": [
         {
           "start": "2026-11-01",
-          "end": "2026-11-05",
-          "downloads": 340,
-          "url": "https://api.npmjs.org/downloads/point/2026-11-01:2026-11-05/coincide-dev"
+          "end": "2026-11-07",
+          "downloads": 344,
+          "url": "https://api.npmjs.org/downloads/point/2026-11-01:2026-11-07/coincide-dev"
         }
       ]
     },
     "browser-cookie-bridge": {
       "name": "browser-cookie-bridge",
       "created": "2026-08-10",
-      "downloads": 3538,
+      "downloads": 3543,
       "badge": "3K+",
       "reports": [
         {
           "start": "2026-08-10",
-          "end": "2026-11-05",
-          "downloads": 3538,
-          "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-05/browser-cookie-bridge"
+          "end": "2026-11-07",
+          "downloads": 3543,
+          "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-07/browser-cookie-bridge"
         }
       ]
     },
     "hash-harbor": {
       "name": "hash-harbor",
       "created": "2026-07-26",
-      "downloads": 845,
+      "downloads": 846,
       "badge": "800+",
       "reports": [
         {
           "start": "2026-07-26",
-          "end": "2026-11-05",
-          "downloads": 845,
-          "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-05/hash-harbor"
+          "end": "2026-11-07",
+          "downloads": 846,
+          "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-07/hash-harbor"
         }
       ]
     },
     "tethershot": {
       "name": "TetherShot",
       "created": "2026-06-10",
-      "downloads": 4797,
+      "downloads": 4818,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-10",
-          "end": "2026-11-05",
-          "downloads": 4797,
-          "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-05/tethershot"
+          "end": "2026-11-07",
+          "downloads": 4818,
+          "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-07/tethershot"
         }
       ]
     },
     "@apoorvdarshan/crossposter": {
       "name": "crossposter",
       "created": "2026-06-05",
-      "downloads": 4684,
+      "downloads": 4687,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-05",
-          "end": "2026-11-05",
-          "downloads": 4684,
-          "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-05/@apoorvdarshan%2Fcrossposter"
+          "end": "2026-11-07",
+          "downloads": 4687,
+          "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-07/@apoorvdarshan%2Fcrossposter"
         }
       ]
     },
@@ -82,9 +82,9 @@
       "reports": [
         {
           "start": "2026-03-18",
-          "end": "2026-11-05",
+          "end": "2026-11-07",
           "downloads": 474,
-          "url": "https://api.npmjs.org/downloads/point/2026-03-18:2026-11-05/@apoorvdarshan%2Fxscore"
+          "url": "https://api.npmjs.org/downloads/point/2026-03-18:2026-11-07/@apoorvdarshan%2Fxscore"
         }
       ]
     }
