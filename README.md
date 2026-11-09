@@ -6,7 +6,7 @@
 
 ## Wildcard
 <ul>
-  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&amp;v=3"> <img alt="Downloads: 300+" src="https://apoorvdarshan.com/badges/downloads/v1/300%2B.svg"> - Native Mac app for coding agents: side by side, switch mid-thread, Bots</li>
+  <li>🃏 <strong><a href="https://github.com/apoorvdarshan/coincide">Coincide</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&amp;v=3"> <img alt="Downloads: 400+" src="https://apoorvdarshan.com/badges/downloads/v1/400%2B.svg"> - Native Mac app for coding agents: side by side, switch mid-thread, Bots</li>
 </ul>
 
 ## Mobile Apps
@@ -15,7 +15,7 @@
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 600+" src="https://apoorvdarshan.com/badges/downloads/v1/600%2B.svg"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://github.com/apoorvdarshan/quit-all">quit-all</a></strong> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - iOS app to quit smoking, alcohol, social media, and more</li>
-  <li>📚 <strong><a href="https://github.com/apoorvdarshan/pcm-notes">pcm-notes</a></strong> <img alt="Downloads: 90+" src="https://apoorvdarshan.com/badges/downloads/v1/90%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
+  <li>📚 <strong><a href="https://github.com/apoorvdarshan/pcm-notes">pcm-notes</a></strong> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - Offline PCM notes for JEE Main/Advanced &amp; NEET (iPhone/iPad)</li>
 </ul>
 
 ## Games
@@ -27,7 +27,7 @@
 <ul>
   <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 60+" src="https://apoorvdarshan.com/badges/users/v1/60%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - True newest-first YouTube search</li>
-  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 4" src="https://apoorvdarshan.com/badges/users/v1/4.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
+  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 5" src="https://apoorvdarshan.com/badges/users/v1/5.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 
@@ -153,8 +153,8 @@
       <div>&bull; ⚡ <strong><a href="https://github.com/Effect-TS/effect/pull/7533">Effect</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=Effect-TS/effect&amp;v=3"> - fix(atom-solid): forward default idle TTL</div>
       <div>&bull; 🦀 <strong><a href="https://github.com/tracel-ai/burn/pull/5536">burn</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=tracel-ai/burn&amp;v=3"> - fix(store): exclude adapter-matched tensors from unused</div>
       <div>&bull; 🎨 <strong><a href="https://github.com/adobe/react-spectrum/pull/9678">react-spectrum</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=adobe/react-spectrum&amp;v=3"> - Fix setLocalTimeZone timezone conversion (by <a href="https://github.com/adobe"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&amp;logo=adobe&amp;logoColor=white"></a>)</div>
-      <div>&bull; 🔧 <strong><a href="https://github.com/zhuima/awesome-cloudflare/pull/252">awesome-cloudflare</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&amp;v=3"> - Add Verceltics to 开发者工具 / Others</div>
       <div>&bull; 🤖 <strong><a href="https://github.com/The-PR-Agent/pr-agent/pull/2895">pr-agent</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&amp;v=3"> - fix: share language matcher with plain diff provider</div>
+      <div>&bull; 🔧 <strong><a href="https://github.com/zhuima/awesome-cloudflare/pull/252">awesome-cloudflare</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&amp;v=3"> - Add Verceltics to 开发者工具 / Others</div>
       <div>&bull; 📓 <strong><a href="https://github.com/jupyterlab/jupyterlab/pull/18530">jupyterlab</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=jupyterlab/jupyterlab&amp;v=3"> - fix: theme settings in non-English locales (by <a href="https://github.com/jupyterlab"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"></a>)</div>
       <div>&bull; 🛡️ <strong><a href="https://github.com/prowler-cloud/prowler/pull/10102">prowler</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=prowler-cloud/prowler&amp;v=3"> - fix: remove return statements from finally blocks</div>
       <div>&bull; 🎙️ <strong><a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan">omi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&amp;v=3"> - 133 merged PRs: persist CV1 pause/mute across…; reserve explicit settings_storage…</div>

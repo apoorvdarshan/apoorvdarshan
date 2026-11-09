@@ -62,7 +62,7 @@
       "status": "",
       "marker": "📚",
       "starBadgeUrl": "",
-      "downloads": "90+",
+      "downloads": "100+",
       "metric": "downloads"
     }
   ],
@@ -104,7 +104,7 @@
       "status": "",
       "marker": "⏸️",
       "starBadgeUrl": "",
-      "downloads": "4",
+      "downloads": "5",
       "metric": "users"
     },
     {
@@ -124,7 +124,7 @@
       "status": "",
       "marker": "🃏",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
-      "downloads": "300+",
+      "downloads": "400+",
       "metric": "downloads",
       "starCount": "13"
     },
@@ -579,7 +579,7 @@
           "status": "",
           "marker": "🃏",
           "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
-          "downloads": "300+",
+          "downloads": "400+",
           "metric": "downloads"
         }
       ]
@@ -1278,21 +1278,21 @@
       "starCount": "16k"
     },
     {
-      "name": "awesome-cloudflare",
-      "url": "https://github.com/zhuima/awesome-cloudflare/pull/252",
-      "description": "Add Verceltics to 开发者工具 / Others",
-      "status": "",
-      "marker": "🔧",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&v=3",
-      "starCount": "16k"
-    },
-    {
       "name": "pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent/pull/2895",
       "description": "fix: share language matcher with plain diff provider",
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&v=3",
+      "starCount": "16k"
+    },
+    {
+      "name": "awesome-cloudflare",
+      "url": "https://github.com/zhuima/awesome-cloudflare/pull/252",
+      "description": "Add Verceltics to 开发者工具 / Others",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&v=3",
       "starCount": "16k"
     },
     {
