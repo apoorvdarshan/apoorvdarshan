@@ -1,7 +1,7 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-11-09",
+  "checked_on": "2026-11-10",
   "as_of": "2026-11-08",
   "packages": {
     "coincide-dev": {
@@ -21,13 +21,13 @@
     "browser-cookie-bridge": {
       "name": "browser-cookie-bridge",
       "created": "2026-08-10",
-      "downloads": 3545,
+      "downloads": 3551,
       "badge": "3K+",
       "reports": [
         {
           "start": "2026-08-10",
           "end": "2026-11-08",
-          "downloads": 3545,
+          "downloads": 3551,
           "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-08/browser-cookie-bridge"
         }
       ]
@@ -49,13 +49,13 @@
     "tethershot": {
       "name": "TetherShot",
       "created": "2026-06-10",
-      "downloads": 4852,
+      "downloads": 4854,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-10",
           "end": "2026-11-08",
-          "downloads": 4852,
+          "downloads": 4854,
           "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-08/tethershot"
         }
       ]

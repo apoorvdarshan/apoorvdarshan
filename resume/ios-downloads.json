@@ -1,53 +1,53 @@
 {
   "metric": "lifetime first-time App Store downloads",
-  "target_as_of": "2026-11-07",
-  "checked_on": "2026-11-09",
+  "target_as_of": "2026-11-08",
+  "checked_on": "2026-11-10",
   "apps": {
     "6758935726": {
       "name": "fud-ai",
-      "as_of": "2026-11-06",
-      "first_time": 9400,
-      "redownload": 478,
-      "ios_total_downloads": 9878,
-      "other_platform_downloads": 3927,
-      "display_total": 13327,
+      "as_of": "2026-11-07",
+      "first_time": 9517,
+      "redownload": 483,
+      "ios_total_downloads": 10000,
+      "other_platform_downloads": 3978,
+      "display_total": 13495,
       "badge": "13K+",
-      "android_as_of": "2026-11-04",
+      "android_as_of": "2026-11-05",
       "android_package": "com.apoorvdarshan.calorietracker"
     },
     "6761645656": {
       "name": "verceltics",
-      "as_of": "2026-11-06",
-      "first_time": 1462,
+      "as_of": "2026-11-07",
+      "first_time": 1465,
       "redownload": 57,
-      "ios_total_downloads": 1519,
+      "ios_total_downloads": 1522,
       "other_platform_downloads": 0,
-      "display_total": 1462,
+      "display_total": 1465,
       "badge": "1K+"
     },
     "6760672848": {
       "name": "scowld",
-      "as_of": "2026-11-06",
-      "first_time": 663,
+      "as_of": "2026-11-07",
+      "first_time": 667,
       "redownload": 49,
-      "ios_total_downloads": 712,
+      "ios_total_downloads": 716,
       "other_platform_downloads": 0,
-      "display_total": 663,
+      "display_total": 667,
       "badge": "600+"
     },
     "6760978934": {
       "name": "quit-all",
-      "as_of": "2026-11-06",
-      "first_time": 146,
+      "as_of": "2026-11-07",
+      "first_time": 148,
       "redownload": 5,
-      "ios_total_downloads": 151,
+      "ios_total_downloads": 153,
       "other_platform_downloads": 0,
-      "display_total": 146,
+      "display_total": 148,
       "badge": "100+"
     },
     "6792598227": {
       "name": "pcm-notes",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-07",
       "first_time": 101,
       "redownload": 8,
       "ios_total_downloads": 109,
@@ -67,5 +67,5 @@
     }
   },
   "as_of": "2026-11-06",
-  "latest_as_of": "2026-11-06"
+  "latest_as_of": "2026-11-07"
 }

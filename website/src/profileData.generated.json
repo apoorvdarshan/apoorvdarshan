@@ -104,7 +104,7 @@
       "status": "",
       "marker": "⏸️",
       "starBadgeUrl": "",
-      "downloads": "5",
+      "downloads": "4",
       "metric": "users"
     },
     {
@@ -296,7 +296,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/crossposter&v=3",
       "downloads": "4K+",
       "metric": "downloads",
-      "starCount": "36"
+      "starCount": "37"
     },
     {
       "name": "apoorvdarshan",
@@ -1788,7 +1788,7 @@
       "status": "",
       "marker": "🧹",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
-      "starCount": "956"
+      "starCount": "958"
     },
     {
       "name": "ccextractor",
@@ -1806,7 +1806,7 @@
       "status": "",
       "marker": "🎀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=micheles/decorator&v=3",
-      "starCount": "901"
+      "starCount": "902"
     },
     {
       "name": "pyserde",
@@ -1815,7 +1815,7 @@
       "status": "",
       "marker": "🧬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=yukinarit/pyserde&v=3",
-      "starCount": "854"
+      "starCount": "855"
     },
     {
       "name": "pygraphviz",
@@ -1824,7 +1824,7 @@
       "status": "",
       "marker": "🕸️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pygraphviz/pygraphviz&v=3",
-      "starCount": "848"
+      "starCount": "849"
     },
     {
       "name": "flynt",
@@ -1833,7 +1833,7 @@
       "status": "",
       "marker": "🪶",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=ikamensh/flynt&v=3",
-      "starCount": "732"
+      "starCount": "733"
     },
     {
       "name": "kart",
@@ -1869,7 +1869,7 @@
       "status": "",
       "marker": "📏",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=PyCQA/docformatter&v=3",
-      "starCount": "600"
+      "starCount": "601"
     },
     {
       "name": "resend-mcp",
@@ -1887,7 +1887,7 @@
       "status": "",
       "marker": "📬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mjs/imapclient&v=3",
-      "starCount": "565"
+      "starCount": "567"
     },
     {
       "name": "giselle",
@@ -1914,7 +1914,7 @@
       "status": "",
       "marker": "🐍",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
-      "starCount": "540"
+      "starCount": "541"
     },
     {
       "name": "awesome-openrouter",
@@ -1923,7 +1923,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "539"
+      "starCount": "541"
     },
     {
       "name": "fork-commit-merge",
@@ -1941,7 +1941,7 @@
       "status": "",
       "marker": "📝",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=python-poetry/poetry-core&v=3",
-      "starCount": "481"
+      "starCount": "482"
     },
     {
       "name": "mail-parser",
@@ -1950,7 +1950,7 @@
       "status": "",
       "marker": "✉️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=SpamScope/mail-parser&v=3",
-      "starCount": "459"
+      "starCount": "460"
     },
     {
       "name": "xsdata",
@@ -1959,7 +1959,7 @@
       "status": "",
       "marker": "🧬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tefra/xsdata&v=3",
-      "starCount": "454"
+      "starCount": "455"
     },
     {
       "name": "WebOb",
@@ -1977,7 +1977,7 @@
       "status": "",
       "marker": "📝",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=moinwiki/moin&v=3",
-      "starCount": "375"
+      "starCount": "376"
     },
     {
       "name": "areg-sdk",
@@ -2094,7 +2094,7 @@
       "status": "",
       "marker": "🍎",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=abordage/awesome-mac&v=3",
-      "starCount": "34"
+      "starCount": "35"
     },
     {
       "name": "awesome-coding-agents",
