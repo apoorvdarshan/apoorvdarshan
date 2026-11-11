@@ -1,53 +1,53 @@
 {
   "metric": "lifetime first-time App Store downloads",
-  "target_as_of": "2026-11-08",
-  "checked_on": "2026-11-10",
+  "target_as_of": "2026-11-09",
+  "checked_on": "2026-11-11",
   "apps": {
     "6758935726": {
       "name": "fud-ai",
-      "as_of": "2026-11-07",
-      "first_time": 9517,
-      "redownload": 483,
-      "ios_total_downloads": 10000,
-      "other_platform_downloads": 3978,
-      "display_total": 13495,
+      "as_of": "2026-11-08",
+      "first_time": 9634,
+      "redownload": 491,
+      "ios_total_downloads": 10125,
+      "other_platform_downloads": 4104,
+      "display_total": 13738,
       "badge": "13K+",
-      "android_as_of": "2026-11-05",
+      "android_as_of": "2026-11-06",
       "android_package": "com.apoorvdarshan.calorietracker"
     },
     "6761645656": {
       "name": "verceltics",
-      "as_of": "2026-11-07",
-      "first_time": 1465,
+      "as_of": "2026-11-08",
+      "first_time": 1468,
       "redownload": 57,
-      "ios_total_downloads": 1522,
+      "ios_total_downloads": 1525,
       "other_platform_downloads": 0,
-      "display_total": 1465,
+      "display_total": 1468,
       "badge": "1K+"
     },
     "6760672848": {
       "name": "scowld",
-      "as_of": "2026-11-07",
-      "first_time": 667,
+      "as_of": "2026-11-08",
+      "first_time": 676,
       "redownload": 49,
-      "ios_total_downloads": 716,
+      "ios_total_downloads": 725,
       "other_platform_downloads": 0,
-      "display_total": 667,
+      "display_total": 676,
       "badge": "600+"
     },
     "6760978934": {
       "name": "quit-all",
-      "as_of": "2026-11-07",
-      "first_time": 148,
+      "as_of": "2026-11-08",
+      "first_time": 149,
       "redownload": 5,
-      "ios_total_downloads": 153,
+      "ios_total_downloads": 154,
       "other_platform_downloads": 0,
-      "display_total": 148,
+      "display_total": 149,
       "badge": "100+"
     },
     "6792598227": {
       "name": "pcm-notes",
-      "as_of": "2026-11-07",
+      "as_of": "2026-11-08",
       "first_time": 101,
       "redownload": 8,
       "ios_total_downloads": 109,
@@ -57,7 +57,7 @@
     },
     "6783505799": {
       "name": "abysm",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-08",
       "first_time": 55,
       "redownload": 2,
       "ios_total_downloads": 57,
@@ -66,6 +66,6 @@
       "badge": "50+"
     }
   },
-  "as_of": "2026-11-06",
-  "latest_as_of": "2026-11-07"
+  "as_of": "2026-11-08",
+  "latest_as_of": "2026-11-08"
 }

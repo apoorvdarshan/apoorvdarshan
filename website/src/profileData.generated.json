@@ -19,9 +19,9 @@
       "status": "",
       "marker": "🥦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
-      "downloads": "14K+",
+      "downloads": "15K+",
       "metric": "downloads",
-      "starCount": "524"
+      "starCount": "525"
     },
     {
       "name": "verceltics",
@@ -126,7 +126,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
       "downloads": "400+",
       "metric": "downloads",
-      "starCount": "15"
+      "starCount": "16"
     },
     {
       "name": "opencode-gemini-imagegen-plugin",
@@ -1701,21 +1701,21 @@
       "starCount": "1.6k"
     },
     {
-      "name": "pyfiglet",
-      "url": "https://github.com/pwaller/pyfiglet/pull/161",
-      "description": "fix: return False from isValidFont for missing fonts",
-      "status": "",
-      "marker": "🔤",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pwaller/pyfiglet&v=3",
-      "starCount": "1.6k"
-    },
-    {
       "name": "argcomplete",
       "url": "https://github.com/kislyuk/argcomplete/pull/553",
       "description": "fix: expand ~ in DirectoriesCompleter",
       "status": "",
       "marker": "⌨️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kislyuk/argcomplete&v=3",
+      "starCount": "1.6k"
+    },
+    {
+      "name": "pyfiglet",
+      "url": "https://github.com/pwaller/pyfiglet/pull/161",
+      "description": "fix: return False from isValidFont for missing fonts",
+      "status": "",
+      "marker": "🔤",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pwaller/pyfiglet&v=3",
       "starCount": "1.6k"
     },
     {
@@ -2040,7 +2040,7 @@
       "status": "",
       "marker": "🕰️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=adbar/htmldate&v=3",
-      "starCount": "159"
+      "starCount": "160"
     },
     {
       "name": "awesome-nutrition-tracking",
@@ -2067,7 +2067,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tomasz-buczek/awesome-ai-companions&v=3",
-      "starCount": "60"
+      "starCount": "61"
     },
     {
       "name": "markdown-reader",
