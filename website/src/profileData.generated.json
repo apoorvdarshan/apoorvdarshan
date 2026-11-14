@@ -1701,21 +1701,21 @@
       "starCount": "1.6k"
     },
     {
-      "name": "argcomplete",
-      "url": "https://github.com/kislyuk/argcomplete/pull/553",
-      "description": "fix: expand ~ in DirectoriesCompleter",
-      "status": "",
-      "marker": "⌨️",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kislyuk/argcomplete&v=3",
-      "starCount": "1.6k"
-    },
-    {
       "name": "pyfiglet",
       "url": "https://github.com/pwaller/pyfiglet/pull/161",
       "description": "fix: return False from isValidFont for missing fonts",
       "status": "",
       "marker": "🔤",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pwaller/pyfiglet&v=3",
+      "starCount": "1.6k"
+    },
+    {
+      "name": "argcomplete",
+      "url": "https://github.com/kislyuk/argcomplete/pull/553",
+      "description": "fix: expand ~ in DirectoriesCompleter",
+      "status": "",
+      "marker": "⌨️",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kislyuk/argcomplete&v=3",
       "starCount": "1.6k"
     },
     {
