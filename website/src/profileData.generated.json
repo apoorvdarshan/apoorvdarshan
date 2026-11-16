@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "16K+",
       "metric": "downloads",
-      "starCount": "536"
+      "starCount": "539"
     },
     {
       "name": "verceltics",
@@ -126,7 +126,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/coincide&v=3",
       "downloads": "400+",
       "metric": "downloads",
-      "starCount": "18"
+      "starCount": "19"
     },
     {
       "name": "opencode-gemini-imagegen-plugin",
@@ -1179,21 +1179,21 @@
       "starCount": "49k"
     },
     {
-      "name": "zx",
-      "url": "https://github.com/google/zx/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
-      "description": "2 merged PRs: improve error handling for…; provide clear error when cwd… (by Google)",
-      "status": "",
-      "marker": "🐚",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=google/zx&v=3",
-      "starCount": "46k"
-    },
-    {
       "name": "payload",
       "url": "https://github.com/payloadcms/payload/pull/18057",
       "description": "fix: return 404 for version operations when versions are disabled",
       "status": "",
       "marker": "🧱",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=payloadcms/payload&v=3",
+      "starCount": "46k"
+    },
+    {
+      "name": "zx",
+      "url": "https://github.com/google/zx/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan",
+      "description": "2 merged PRs: improve error handling for…; provide clear error when cwd… (by Google)",
+      "status": "",
+      "marker": "🐚",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=google/zx&v=3",
       "starCount": "46k"
     },
     {
@@ -1260,21 +1260,21 @@
       "starCount": "18k"
     },
     {
-      "name": "burn",
-      "url": "https://github.com/tracel-ai/burn/pull/5536",
-      "description": "fix(store): exclude adapter-matched tensors from unused",
-      "status": "",
-      "marker": "🦀",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tracel-ai/burn&v=3",
-      "starCount": "16k"
-    },
-    {
       "name": "pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent/pull/2895",
       "description": "fix: share language matcher with plain diff provider",
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=The-PR-Agent/pr-agent&v=3",
+      "starCount": "16k"
+    },
+    {
+      "name": "burn",
+      "url": "https://github.com/tracel-ai/burn/pull/5536",
+      "description": "fix(store): exclude adapter-matched tensors from unused",
+      "status": "",
+      "marker": "🦀",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tracel-ai/burn&v=3",
       "starCount": "16k"
     },
     {
@@ -1878,7 +1878,7 @@
       "status": "",
       "marker": "📧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
-      "starCount": "581"
+      "starCount": "583"
     },
     {
       "name": "IMAPClient",
@@ -1914,7 +1914,7 @@
       "status": "",
       "marker": "🔀",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&v=3",
-      "starCount": "545"
+      "starCount": "546"
     },
     {
       "name": "vermin",
@@ -2004,7 +2004,7 @@
       "status": "",
       "marker": "🔧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=rr-/docstring_parser&v=3",
-      "starCount": "272"
+      "starCount": "273"
     },
     {
       "name": "click-repl",
@@ -2067,7 +2067,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=tomasz-buczek/awesome-ai-companions&v=3",
-      "starCount": "61"
+      "starCount": "62"
     },
     {
       "name": "markdown-reader",
@@ -2076,7 +2076,7 @@
       "status": "",
       "marker": "📖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=petertzy/markdown-reader&v=3",
-      "starCount": "44"
+      "starCount": "45"
     },
     {
       "name": "elemo",
