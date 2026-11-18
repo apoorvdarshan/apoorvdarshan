@@ -365,13 +365,6 @@ function HomePage({ navigate }) {
 
       <EducationSection navigate={navigate} />
 
-      {projectSectionGroups().filter((group) => group.name === 'Wildcard').map((group) => (
-        <section key={group.name}>
-          <h2>{group.name}</h2>
-          <EntryList items={group.items} />
-        </section>
-      ))}
-
       <section>
         <h2>Mobile Apps</h2>
         <EntryList items={profile.apps} />
@@ -387,7 +380,7 @@ function HomePage({ navigate }) {
         <EntryList items={profile.extensions} />
       </section>
 
-      {projectSectionGroups().filter((group) => group.name !== 'Wildcard').map((projectSection) => (
+      {projectSectionGroups().map((projectSection) => (
         <section key={projectSection.name}>
           <h2>{projectSection.name}</h2>
           <EntryList items={projectSection.items} limit={3} />
