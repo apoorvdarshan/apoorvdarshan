@@ -19,9 +19,9 @@
       "status": "",
       "marker": "🥦",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
-      "downloads": "16K+",
+      "downloads": "14K+",
       "metric": "downloads",
-      "starCount": "544"
+      "starCount": "546"
     },
     {
       "name": "verceltics",
@@ -1105,7 +1105,7 @@
       "status": "",
       "marker": "⚙️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=ansible/ansible&v=3",
-      "starCount": "72k"
+      "starCount": "71k"
     },
     {
       "name": "jquery",
@@ -1762,7 +1762,7 @@
       "status": "",
       "marker": "🧹",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
-      "starCount": "962"
+      "starCount": "963"
     },
     {
       "name": "ccextractor",
@@ -1771,7 +1771,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "919"
+      "starCount": "920"
     },
     {
       "name": "decorator",
@@ -1808,6 +1808,15 @@
       "marker": "🪶",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=ikamensh/flynt&v=3",
       "starCount": "733"
+    },
+    {
+      "name": "fastavro",
+      "url": "https://github.com/fastavro/fastavro/pull/888",
+      "description": "Convert bytes/fixed field defaults to bytes during schema resolution",
+      "status": "",
+      "marker": "🔧",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fastavro/fastavro&v=3",
+      "starCount": "714"
     },
     {
       "name": "kart",
@@ -1870,7 +1879,7 @@
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=giselles-ai/giselle&v=3",
-      "starCount": "559"
+      "starCount": "558"
     },
     {
       "name": "BancosBrasileiros",
@@ -1906,7 +1915,7 @@
       "status": "",
       "marker": "🍴",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&v=3",
-      "starCount": "520"
+      "starCount": "521"
     },
     {
       "name": "poetry-core",
@@ -1915,7 +1924,7 @@
       "status": "",
       "marker": "📝",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=python-poetry/poetry-core&v=3",
-      "starCount": "483"
+      "starCount": "484"
     },
     {
       "name": "mail-parser",
