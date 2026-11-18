@@ -169,20 +169,19 @@ for local-only extensions. Publicly readable unlisted pages can also be configur
 Restricted/private listings are not accessed with personal cookies.
 
 Seven repositories have stable release assets: Fud AI (APK only), LithosAI Bar,
-DesktopWorm, Browser Cookie Bridge, Hash Harbor, TetherShot, and Coincide (Mac DMG/ZIP
-only; its `ios-v…` App Store releases carry no assets). Both releases and
+DesktopWorm, Browser Cookie Bridge, Hash Harbor, and TetherShot. Both releases and
 assets are paginated. Allowlisted distributables exclude signatures/checksums,
 source auto-archives, draft/prerelease assets and publishing-only Android AAB files.
 Counts cover assets still available on GitHub; deleted assets cannot be recovered.
 
 For mapped projects, npm downloads plus GitHub asset requests form a **download
 event total**, not unique users or successful installs. A single npm installation
-can fetch a release binary too (for example Hash Harbor, or Coincide's ZIP); both are file downloads.
+can fetch a release binary too (for example Hash Harbor); both are file downloads.
 Fud AI adds APK download events to its independently verified iOS + Android
 first-time store subtotal. The store snapshots in `resume/` keep their original metric.
 Chrome users are never added to downloads and may decrease.
 
-TetherShot, Browser Cookie Bridge and Coincide are in `apoorvdarshan/homebrew-tap`. Their
+TetherShot and Browser Cookie Bridge are in `apoorvdarshan/homebrew-tap`. Their
 casks fetch the same GitHub release DMGs, so those fetches are already represented
 in GitHub counts. There is no extra Homebrew total to add. Homebrew analytics
 are optional reporting over rolling windows, not a complete lifetime counter:

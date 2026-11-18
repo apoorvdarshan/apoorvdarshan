@@ -6,7 +6,7 @@
 
 ## Mobile Apps
 <ul>
-  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 14K+" src="https://apoorvdarshan.com/badges/downloads/v1/14K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
+  <li>🥦 <strong><a href="https://github.com/apoorvdarshan/fud-ai">fud-ai</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&amp;v=3"> <img alt="Downloads: 16K+" src="https://apoorvdarshan.com/badges/downloads/v1/16K%2B.svg"> - AI-powered calorie and nutrition tracker app</li>
   <li>📈 <strong><a href="https://github.com/apoorvdarshan/verceltics">verceltics</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/verceltics&amp;v=3"> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Open-source iOS hub for hosting, domains, analytics, and uptime</li>
   <li>🤖 <strong><a href="https://github.com/apoorvdarshan/scowld">scowld</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/scowld&amp;v=3"> <img alt="Downloads: 700+" src="https://apoorvdarshan.com/badges/downloads/v1/700%2B.svg"> - iOS AI companion with a live VRM avatar that sees you</li>
   <li>🚫 <strong><a href="https://github.com/apoorvdarshan/quit-all">quit-all</a></strong> <img alt="Downloads: 100+" src="https://apoorvdarshan.com/badges/downloads/v1/100%2B.svg"> - iOS app to quit smoking, alcohol, social media, and more</li>
