@@ -1720,21 +1720,21 @@
       "starCount": "1.3k"
     },
     {
-      "name": "mpmath",
-      "url": "https://github.com/mpmath/mpmath/pull/1123",
-      "description": "fix: close leftover figure in plot/cplot/splot on error",
-      "status": "",
-      "marker": "🧮",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mpmath/mpmath&v=3",
-      "starCount": "1.2k"
-    },
-    {
       "name": "awesome-ai-companion",
       "url": "https://github.com/DasterProkio/awesome-ai-companion/pull/10",
       "description": "docs: add Scowld companion client",
       "status": "",
       "marker": "🤖",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=DasterProkio/awesome-ai-companion&v=3",
+      "starCount": "1.2k"
+    },
+    {
+      "name": "mpmath",
+      "url": "https://github.com/mpmath/mpmath/pull/1123",
+      "description": "fix: close leftover figure in plot/cplot/splot on error",
+      "status": "",
+      "marker": "🧮",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mpmath/mpmath&v=3",
       "starCount": "1.2k"
     },
     {
@@ -1762,7 +1762,7 @@
       "status": "",
       "marker": "🧹",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
-      "starCount": "964"
+      "starCount": "965"
     },
     {
       "name": "ccextractor",
@@ -1861,7 +1861,7 @@
       "status": "",
       "marker": "📧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
-      "starCount": "584"
+      "starCount": "585"
     },
     {
       "name": "IMAPClient",
@@ -1906,7 +1906,7 @@
       "status": "",
       "marker": "🐍",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&v=3",
-      "starCount": "541"
+      "starCount": "542"
     },
     {
       "name": "fork-commit-merge",
@@ -1978,7 +1978,7 @@
       "status": "",
       "marker": "🔬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=radis/radis&v=3",
-      "starCount": "290"
+      "starCount": "291"
     },
     {
       "name": "docstring_parser",
