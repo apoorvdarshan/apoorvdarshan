@@ -1,43 +1,43 @@
 {
   "metric": "lifetime first-time App Store downloads",
-  "target_as_of": "2026-11-17",
-  "checked_on": "2026-11-19",
+  "target_as_of": "2026-11-18",
+  "checked_on": "2026-11-20",
   "apps": {
     "6758935726": {
       "name": "fud-ai",
-      "as_of": "2026-11-16",
-      "first_time": 10432,
-      "redownload": 521,
-      "ios_total_downloads": 10953,
-      "other_platform_downloads": 4483,
-      "display_total": 14915,
-      "badge": "14K+",
-      "android_as_of": "2026-11-11",
+      "as_of": "2026-11-17",
+      "first_time": 10529,
+      "redownload": 527,
+      "ios_total_downloads": 11056,
+      "other_platform_downloads": 4704,
+      "display_total": 15233,
+      "badge": "15K+",
+      "android_as_of": "2026-11-15",
       "android_package": "com.apoorvdarshan.calorietracker"
     },
     "6761645656": {
       "name": "verceltics",
-      "as_of": "2026-11-16",
-      "first_time": 1498,
+      "as_of": "2026-11-17",
+      "first_time": 1504,
       "redownload": 57,
-      "ios_total_downloads": 1555,
+      "ios_total_downloads": 1561,
       "other_platform_downloads": 0,
-      "display_total": 1498,
+      "display_total": 1504,
       "badge": "1K+"
     },
     "6760672848": {
       "name": "scowld",
-      "as_of": "2026-11-16",
-      "first_time": 733,
+      "as_of": "2026-11-17",
+      "first_time": 741,
       "redownload": 52,
-      "ios_total_downloads": 785,
+      "ios_total_downloads": 793,
       "other_platform_downloads": 0,
-      "display_total": 733,
+      "display_total": 741,
       "badge": "700+"
     },
     "6760978934": {
       "name": "quit-all",
-      "as_of": "2026-11-16",
+      "as_of": "2026-11-17",
       "first_time": 155,
       "redownload": 5,
       "ios_total_downloads": 160,
@@ -47,7 +47,7 @@
     },
     "6792598227": {
       "name": "pcm-notes",
-      "as_of": "2026-11-16",
+      "as_of": "2026-11-17",
       "first_time": 109,
       "redownload": 8,
       "ios_total_downloads": 117,
@@ -67,5 +67,5 @@
     }
   },
   "as_of": "2026-11-15",
-  "latest_as_of": "2026-11-16"
+  "latest_as_of": "2026-11-17"
 }

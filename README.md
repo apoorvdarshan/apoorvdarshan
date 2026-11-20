@@ -20,9 +20,9 @@
 
 ## Chrome Extensions
 <ul>
-  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 80+" src="https://apoorvdarshan.com/badges/users/v1/80%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
+  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 90+" src="https://apoorvdarshan.com/badges/users/v1/90%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - True newest-first YouTube search</li>
-  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 5" src="https://apoorvdarshan.com/badges/users/v1/5.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
+  <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 6" src="https://apoorvdarshan.com/badges/users/v1/6.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
 </ul>
 
@@ -41,9 +41,9 @@
 <ul>
 <li>🚀 <strong><a href="https://github.com/apoorvdarshan/store-release">store-release</a></strong> <img alt="Downloads: 1K+" src="https://apoorvdarshan.com/badges/downloads/v1/1K%2B.svg"> - Ship iOS and Android apps to the stores with GitHub Actions</li>
 <li>💾 <strong><a href="https://github.com/apoorvdarshan/github-backup">github-backup</a></strong> - Daily GitHub backups to private GitLab with integrity checks</li>
-<li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> <img alt="Downloads: 2" src="https://apoorvdarshan.com/badges/downloads/v1/2.svg"> - LithosAI balance, daily usage, and model spend in the macOS menu bar</li>
+<li>📊 <strong><a href="https://github.com/apoorvdarshan/lithosai-bar">lithosai-bar</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - LithosAI balance, daily usage, and model spend in the macOS menu bar</li>
 <li>🪱 <strong><a href="https://github.com/apoorvdarshan/DesktopWorm">DesktopWorm</a></strong> <img alt="Downloads: 3" src="https://apoorvdarshan.com/badges/downloads/v1/3.svg"> - macOS C. elegans simulation using the OpenWorm c302 connectome</li>
-<li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 3K+" src="https://apoorvdarshan.com/badges/downloads/v1/3K%2B.svg"> - Transfer local Chromium sessions to Codex on macOS</li>
+<li>🍪 <strong><a href="https://github.com/apoorvdarshan/browser-cookie-bridge">browser-cookie-bridge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/browser-cookie-bridge&amp;v=3"> <img alt="Downloads: 4K+" src="https://apoorvdarshan.com/badges/downloads/v1/4K%2B.svg"> - Transfer local Chromium sessions to Codex on macOS</li>
 <li>⚓ <strong><a href="https://github.com/apoorvdarshan/hash-harbor">hash-harbor</a></strong> <img alt="Downloads: 800+" src="https://apoorvdarshan.com/badges/downloads/v1/800%2B.svg"> - Local torrent streamer/downloader with a browser UI</li>
 <li>📸 <strong><a href="https://github.com/apoorvdarshan/TetherShot">TetherShot</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/TetherShot&amp;v=3"> <img alt="Downloads: 5K+" src="https://apoorvdarshan.com/badges/downloads/v1/5K%2B.svg"> - macOS menu-bar iPhone screenshots to a folder you choose</li>
 </ul>
