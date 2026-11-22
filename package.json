@@ -10,6 +10,6 @@
     "lint": "npm --prefix website run lint"
   },
   "devDependencies": {
-    "fast-check": "4.10.2"
+    "fast-check": "4.10.3"
   }
 }
