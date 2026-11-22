@@ -1,20 +1,20 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-11-21",
-  "as_of": "2026-11-19",
+  "checked_on": "2026-11-22",
+  "as_of": "2026-11-21",
   "packages": {
     "browser-cookie-bridge": {
       "name": "browser-cookie-bridge",
       "created": "2026-08-10",
-      "downloads": 3782,
+      "downloads": 3783,
       "badge": "3K+",
       "reports": [
         {
           "start": "2026-08-10",
-          "end": "2026-11-19",
-          "downloads": 3782,
-          "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-19/browser-cookie-bridge"
+          "end": "2026-11-21",
+          "downloads": 3783,
+          "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-21/browser-cookie-bridge"
         }
       ]
     },
@@ -26,37 +26,37 @@
       "reports": [
         {
           "start": "2026-07-26",
-          "end": "2026-11-19",
+          "end": "2026-11-21",
           "downloads": 860,
-          "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-19/hash-harbor"
+          "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-21/hash-harbor"
         }
       ]
     },
     "tethershot": {
       "name": "TetherShot",
       "created": "2026-06-10",
-      "downloads": 5017,
+      "downloads": 5025,
       "badge": "5K+",
       "reports": [
         {
           "start": "2026-06-10",
-          "end": "2026-11-19",
-          "downloads": 5017,
-          "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-19/tethershot"
+          "end": "2026-11-21",
+          "downloads": 5025,
+          "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-21/tethershot"
         }
       ]
     },
     "@apoorvdarshan/crossposter": {
       "name": "crossposter",
       "created": "2026-06-05",
-      "downloads": 4736,
+      "downloads": 4738,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-05",
-          "end": "2026-11-19",
-          "downloads": 4736,
-          "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-19/@apoorvdarshan%2Fcrossposter"
+          "end": "2026-11-21",
+          "downloads": 4738,
+          "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-21/@apoorvdarshan%2Fcrossposter"
         }
       ]
     },
@@ -68,9 +68,9 @@
       "reports": [
         {
           "start": "2026-03-18",
-          "end": "2026-11-19",
+          "end": "2026-11-21",
           "downloads": 481,
-          "url": "https://api.npmjs.org/downloads/point/2026-03-18:2026-11-19/@apoorvdarshan%2Fxscore"
+          "url": "https://api.npmjs.org/downloads/point/2026-03-18:2026-11-21/@apoorvdarshan%2Fxscore"
         }
       ]
     }
