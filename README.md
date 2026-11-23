@@ -273,6 +273,13 @@
 [![Hex](https://img.shields.io/badge/-Hex-0B0C0E?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwYjBjMGUiLz48cGF0aCBkPSJNMTcgMTZ2MzJNNDcgMTZ2MzJNMTcgMzJoMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZjJlZiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4%3D&logoColor=white)](https://anoma.ly/hex/)
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
 [![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
+
+## Currently Reading
+
+<ul>
+  <li><strong><a href="https://www.amazon.in/Harry-Potter-Philosophers-Stone-Rowling-ebook/dp/B019PIOJYU">Harry Potter and the Philosopher's Stone</a></strong> - J.K. Rowling (Kindle edition)</li>
+</ul>
+
 ## Resume
 
 PDF resume — view or download.

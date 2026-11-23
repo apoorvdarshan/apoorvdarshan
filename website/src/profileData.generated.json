@@ -2181,6 +2181,13 @@
       }
     ]
   },
+  "currentlyReading": [
+    {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "url": "https://www.amazon.in/Harry-Potter-Philosophers-Stone-Rowling-ebook/dp/B019PIOJYU",
+      "description": "J.K. Rowling (Kindle edition)"
+    }
+  ],
   "connect": [
     {
       "name": "Profile",
