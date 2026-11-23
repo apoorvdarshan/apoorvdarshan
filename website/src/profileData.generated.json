@@ -118,6 +118,14 @@
   ],
   "projects": [
     {
+      "name": "OpenCode ChatGPT Image Gen",
+      "url": "https://github.com/apoorvdarshan/opencode-chatgpt-image-gen",
+      "description": "Generate and edit images with a ChatGPT subscription",
+      "status": "",
+      "marker": "🖼️",
+      "starBadgeUrl": ""
+    },
+    {
       "name": "opencode-gemini-imagegen-plugin",
       "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
       "description": "Generate images with Gemini (Nano Banana)",
@@ -561,6 +569,14 @@
     {
       "name": "AI & Agents",
       "items": [
+        {
+          "name": "OpenCode ChatGPT Image Gen",
+          "url": "https://github.com/apoorvdarshan/opencode-chatgpt-image-gen",
+          "description": "Generate and edit images with a ChatGPT subscription",
+          "status": "",
+          "marker": "🖼️",
+          "starBadgeUrl": ""
+        },
         {
           "name": "opencode-gemini-imagegen-plugin",
           "url": "https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin",
