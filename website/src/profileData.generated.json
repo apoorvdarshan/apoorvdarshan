@@ -74,7 +74,7 @@
       "status": "",
       "marker": "🌊",
       "starBadgeUrl": "",
-      "downloads": "70+",
+      "downloads": "80+",
       "metric": "downloads"
     }
   ],
@@ -86,7 +86,7 @@
       "status": "",
       "marker": "🗺️",
       "starBadgeUrl": "",
-      "downloads": "90+",
+      "downloads": "100+",
       "metric": "users"
     },
     {
@@ -1024,7 +1024,7 @@
       "status": "",
       "marker": "🏕️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=freeCodeCamp/freeCodeCamp&v=3",
-      "starCount": "459k"
+      "starCount": "460k"
     },
     {
       "name": "tensorflow",
@@ -1861,7 +1861,7 @@
       "status": "",
       "marker": "📧",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&v=3",
-      "starCount": "585"
+      "starCount": "587"
     },
     {
       "name": "IMAPClient",
@@ -1870,7 +1870,7 @@
       "status": "",
       "marker": "📬",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=mjs/imapclient&v=3",
-      "starCount": "567"
+      "starCount": "568"
     },
     {
       "name": "giselle",
