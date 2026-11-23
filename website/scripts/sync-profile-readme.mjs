@@ -152,7 +152,7 @@ async function attachStarCounts(data, previousStarCounts = new Map(), verifiedSt
   await Promise.all(workers)
 }
 
-function parseReadme(readme) {
+export function parseReadme(readme) {
   const beforeApps = section(readme, '# Hi,', '## Mobile Apps')
   const technologyMatches = [...beforeApps.matchAll(/!\[([^\]]+)\]\(https:\/\/img\.shields\.io\/badge/g)]
   const technologies = technologyMatches.map((match) => match[1])
@@ -191,6 +191,8 @@ function parseReadme(readme) {
         software: badgeTiles(section(usesSection, '### Software')),
       }
     })(),
+    currentlyReading: htmlEntries(readme, '## Currently Reading', '## Resume')
+      .map(({ name, url, description }) => ({ name, url, description })),
     connect: badgeLinks(section(readme, '## Connect', '### Recognition')),
     recognition: markdownBullets(section(readme, '### Recognition', '### Philosophy')),
     philosophy: plainText(philosophy),

@@ -15,12 +15,12 @@
 
 ## Games
 <ul>
-  <li>🌊 <strong><a href="https://github.com/apoorvdarshan/abysm">abysm</a></strong> <img alt="Downloads: 70+" src="https://apoorvdarshan.com/badges/downloads/v1/70%2B.svg"> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
+  <li>🌊 <strong><a href="https://github.com/apoorvdarshan/abysm">abysm</a></strong> <img alt="Downloads: 80+" src="https://apoorvdarshan.com/badges/downloads/v1/80%2B.svg"> - Calm pixel-art dive past 75 real sea creatures to Challenger Deep</li>
 </ul>
 
 ## Chrome Extensions
 <ul>
-  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 90+" src="https://apoorvdarshan.com/badges/users/v1/90%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
+  <li>🗺️ <strong><a href="https://github.com/apoorvdarshan/x-country-filter">x-country-filter</a></strong> <img alt="Users: 100+" src="https://apoorvdarshan.com/badges/users/v1/100%2B.svg"> - Hide X (Twitter) posts from selected countries</li>
   <li>🆕 <strong><a href="https://github.com/apoorvdarshan/newest-youtube-search">newest-youtube-search</a></strong> - True newest-first YouTube search</li>
   <li>⏸️ <strong><a href="https://github.com/apoorvdarshan/streaming-autopause">streaming-autopause</a></strong> <img alt="Users: 7" src="https://apoorvdarshan.com/badges/users/v1/7.svg"> - Auto-pauses Netflix &amp; Prime Video when you switch away</li>
   <li>🎬 <strong><a href="https://github.com/apoorvdarshan/streaming-indian-filter">streaming-indian-filter</a></strong> - Hides Indian Netflix &amp; Prime Video titles (personal preference)</li>
@@ -152,7 +152,7 @@
       <div>&bull; 🔧 <strong><a href="https://github.com/zhuima/awesome-cloudflare/pull/252">awesome-cloudflare</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=zhuima/awesome-cloudflare&amp;v=3"> - Add Verceltics to 开发者工具 / Others</div>
       <div>&bull; 📓 <strong><a href="https://github.com/jupyterlab/jupyterlab/pull/18530">jupyterlab</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=jupyterlab/jupyterlab&amp;v=3"> - fix: theme settings in non-English locales (by <a href="https://github.com/jupyterlab"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"></a>)</div>
       <div>&bull; 🛡️ <strong><a href="https://github.com/prowler-cloud/prowler/pull/10102">prowler</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=prowler-cloud/prowler&amp;v=3"> - fix: remove return statements from finally blocks</div>
-      <div>&bull; 🎙️ <strong><a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan">omi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&amp;v=3"> - 134 merged PRs: detect introduced names that…; persist CV1 pause/mute across…</div>
+      <div>&bull; 🎙️ <strong><a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr%20is%3Amerged%20author%3Aapoorvdarshan">omi</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=BasedHardware/omi&amp;v=3"> - 135 merged PRs: deliver the in-flight Whisper…; detect introduced names that…</div>
       <div>&bull; 👁️ <strong><a href="https://github.com/kornia/kornia/pull/4121">kornia</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=kornia/kornia&amp;v=3"> - fix(geometry): validate NMS box shape</div>
       <div>&bull; 🔧 <strong><a href="https://github.com/Heapy/awesome-kotlin/pull/1207">awesome-kotlin</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=Heapy/awesome-kotlin&amp;v=3"> - Add Verceltics to Android projects</div>
       <div>&bull; 🦄 <strong><a href="https://github.com/benoitc/gunicorn/pull/3686">gunicorn</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=benoitc/gunicorn&amp;v=3"> - Fix ASGI connection count on server close (authored commit)</div>
@@ -273,6 +273,13 @@
 [![Hex](https://img.shields.io/badge/-Hex-0B0C0E?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwYjBjMGUiLz48cGF0aCBkPSJNMTcgMTZ2MzJNNDcgMTZ2MzJNMTcgMzJoMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZjJlZiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4%3D&logoColor=white)](https://anoma.ly/hex/)
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
 [![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
+
+## Currently Reading
+
+<ul>
+  <li><strong><a href="https://www.amazon.in/Harry-Potter-Philosophers-Stone-Rowling-ebook/dp/B019PIOJYU">Harry Potter and the Philosopher's Stone</a></strong> - J.K. Rowling (Kindle edition)</li>
+</ul>
+
 ## Resume
 
 PDF resume — view or download.
