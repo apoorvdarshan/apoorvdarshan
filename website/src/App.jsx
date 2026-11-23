@@ -270,6 +270,20 @@ function ReadmeDetails() {
         </ul>
       </section>
 
+      {profile.currentlyReading.length > 0 && (
+        <section id="currently-reading">
+          <h2>Currently Reading</h2>
+          <ul className="bullet-list">
+            {profile.currentlyReading.map(({ name, url, description }) => (
+              <li key={url}>
+                <ExternalLink href={url}>{name}</ExternalLink>
+                {description && <> — {description}</>}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <section>
         <h2>Resume</h2>
         <ul className="bullet-list resume-links">
