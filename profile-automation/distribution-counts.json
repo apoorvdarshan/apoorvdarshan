@@ -2,13 +2,13 @@
   "version": 1,
   "sources": {
     "releases:apoorvdarshan/fud-ai": {
-      "count": 1583,
+      "count": 1596,
       "assets": [
         {
           "id": 717564572,
           "name": "fudai-v8.1.1.apk",
           "tag": "android-v8.1.1",
-          "downloads": 142,
+          "downloads": 155,
           "url": "https://github.com/apoorvdarshan/fud-ai/releases/download/android-v8.1.1/fudai-v8.1.1.apk"
         },
         {
@@ -224,13 +224,13 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/fud-ai/releases",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
-      "display_total": 17224,
+      "display_total": 17292,
       "badge": "17K+",
       "breakdown": {
-        "github_release_downloads": 1583,
-        "store_first_time_downloads": 15641
+        "github_release_downloads": 1596,
+        "store_first_time_downloads": 15696
       }
     },
     "releases:apoorvdarshan/lithosai-bar": {
@@ -246,7 +246,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/lithosai-bar/releases",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "cee05da977f2d8a121aba20364494bef10299302aaf794aca3d65d7dd1a99893",
       "display_total": 3,
       "badge": "3",
@@ -267,7 +267,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/DesktopWorm/releases",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "3bd2b395ca5401ae3cfa9b497e267d8fbfc0d0a1f2584b09cb27db00b459fd2b",
       "display_total": 3,
       "badge": "3",
@@ -276,13 +276,13 @@
       }
     },
     "releases:apoorvdarshan/browser-cookie-bridge": {
-      "count": 298,
+      "count": 299,
       "assets": [
         {
           "id": 567067483,
           "name": "Browser-Cookie-Bridge-arm64.dmg",
           "tag": "v1.5.10",
-          "downloads": 80,
+          "downloads": 81,
           "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases/download/v1.5.10/Browser-Cookie-Bridge-arm64.dmg"
         },
         {
@@ -680,7 +680,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
       "npm_as_of": "2026-11-22",
       "homebrew": {
@@ -688,11 +688,11 @@
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 4082,
+      "display_total": 4097,
       "badge": "4K+",
       "breakdown": {
-        "github_release_downloads": 298,
-        "npm_downloads": 3784
+        "github_release_downloads": 299,
+        "npm_downloads": 3798
       }
     },
     "releases:apoorvdarshan/hash-harbor": {
@@ -911,14 +911,14 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
       "npm_as_of": "2026-11-22",
-      "display_total": 895,
+      "display_total": 899,
       "badge": "800+",
       "breakdown": {
         "github_release_downloads": 33,
-        "npm_downloads": 862
+        "npm_downloads": 866
       }
     },
     "releases:apoorvdarshan/TetherShot": {
@@ -1046,7 +1046,7 @@
       ],
       "metric": "downloads of available stable release assets",
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
       "npm_as_of": "2026-11-22",
       "homebrew": {
@@ -1054,37 +1054,37 @@
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 5283,
+      "display_total": 5288,
       "badge": "5K+",
       "breakdown": {
         "github_release_downloads": 256,
-        "npm_downloads": 5027
+        "npm_downloads": 5032
       }
     },
     "extensions:apoorvdarshan/x-country-filter": {
-      "count": 104,
+      "count": 103,
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/country-filter-for-x-twit/cocohplmilpblbkoikolbhakjipccioa?hl=en",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "cc0dfed07c7cae93a165c9eba947046e309e7277bf2f4d0b5800bb63c3acc790",
-      "display_total": 104,
+      "display_total": 103,
       "badge": "100+",
       "breakdown": {
-        "chrome_users": 104
+        "chrome_users": 103
       }
     },
     "extensions:apoorvdarshan/streaming-autopause": {
-      "count": 7,
+      "count": 8,
       "lower_bound": false,
       "metric": "Chrome Web Store users",
       "url": "https://chromewebstore.google.com/detail/streaming-auto-pauseresum/nafnjeielmlkeinkmbfppfecpfebgcbl?hl=en",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "config_sha256": "bd41a61372303f03bf4d6c157b53904f7cc861b27a0c095a0a28fe638d69560c",
-      "display_total": 7,
-      "badge": "7",
+      "display_total": 8,
+      "badge": "8",
       "breakdown": {
-        "chrome_users": 7
+        "chrome_users": 8
       }
     }
   },

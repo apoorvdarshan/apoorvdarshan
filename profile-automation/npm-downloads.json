@@ -1,19 +1,19 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-11-23",
+  "checked_on": "2026-11-24",
   "as_of": "2026-11-22",
   "packages": {
     "browser-cookie-bridge": {
       "name": "browser-cookie-bridge",
       "created": "2026-08-10",
-      "downloads": 3784,
+      "downloads": 3798,
       "badge": "3K+",
       "reports": [
         {
           "start": "2026-08-10",
           "end": "2026-11-22",
-          "downloads": 3784,
+          "downloads": 3798,
           "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-22/browser-cookie-bridge"
         }
       ]
@@ -21,13 +21,13 @@
     "hash-harbor": {
       "name": "hash-harbor",
       "created": "2026-07-26",
-      "downloads": 862,
+      "downloads": 866,
       "badge": "800+",
       "reports": [
         {
           "start": "2026-07-26",
           "end": "2026-11-22",
-          "downloads": 862,
+          "downloads": 866,
           "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-22/hash-harbor"
         }
       ]
@@ -35,13 +35,13 @@
     "tethershot": {
       "name": "TetherShot",
       "created": "2026-06-10",
-      "downloads": 5027,
+      "downloads": 5032,
       "badge": "5K+",
       "reports": [
         {
           "start": "2026-06-10",
           "end": "2026-11-22",
-          "downloads": 5027,
+          "downloads": 5032,
           "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-22/tethershot"
         }
       ]
@@ -49,13 +49,13 @@
     "@apoorvdarshan/crossposter": {
       "name": "crossposter",
       "created": "2026-06-05",
-      "downloads": 4762,
+      "downloads": 4766,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-05",
           "end": "2026-11-22",
-          "downloads": 4762,
+          "downloads": 4766,
           "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-22/@apoorvdarshan%2Fcrossposter"
         }
       ]
