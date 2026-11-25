@@ -21,7 +21,7 @@
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=apoorvdarshan/fud-ai&v=3",
       "downloads": "17K+",
       "metric": "downloads",
-      "starCount": "557"
+      "starCount": "559"
     },
     {
       "name": "verceltics",
@@ -207,7 +207,7 @@
       "status": "",
       "marker": "📊",
       "starBadgeUrl": "",
-      "downloads": "3",
+      "downloads": "4",
       "metric": "downloads"
     },
     {
@@ -238,7 +238,7 @@
       "status": "",
       "marker": "⚓",
       "starBadgeUrl": "",
-      "downloads": "800+",
+      "downloads": "900+",
       "metric": "downloads"
     },
     {
@@ -663,7 +663,7 @@
           "status": "",
           "marker": "📊",
           "starBadgeUrl": "",
-          "downloads": "3",
+          "downloads": "4",
           "metric": "downloads"
         },
         {
@@ -693,7 +693,7 @@
           "status": "",
           "marker": "⚓",
           "starBadgeUrl": "",
-          "downloads": "800+",
+          "downloads": "900+",
           "metric": "downloads"
         },
         {
@@ -1691,21 +1691,21 @@
       "starCount": "1.6k"
     },
     {
-      "name": "pyfiglet",
-      "url": "https://github.com/pwaller/pyfiglet/pull/161",
-      "description": "fix: return False from isValidFont for missing fonts",
-      "status": "",
-      "marker": "🔤",
-      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pwaller/pyfiglet&v=3",
-      "starCount": "1.6k"
-    },
-    {
       "name": "argcomplete",
       "url": "https://github.com/kislyuk/argcomplete/pull/553",
       "description": "fix: expand ~ in DirectoriesCompleter",
       "status": "",
       "marker": "⌨️",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=kislyuk/argcomplete&v=3",
+      "starCount": "1.6k"
+    },
+    {
+      "name": "pyfiglet",
+      "url": "https://github.com/pwaller/pyfiglet/pull/161",
+      "description": "fix: return False from isValidFont for missing fonts",
+      "status": "",
+      "marker": "🔤",
+      "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=pwaller/pyfiglet&v=3",
       "starCount": "1.6k"
     },
     {
@@ -1778,7 +1778,7 @@
       "status": "",
       "marker": "🧹",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=djlint/djLint&v=3",
-      "starCount": "964"
+      "starCount": "965"
     },
     {
       "name": "ccextractor",
@@ -1787,7 +1787,7 @@
       "status": "",
       "marker": "📺",
       "starBadgeUrl": "https://github-star-badge.apoorvdarshan.com/api/stars?repo=CCExtractor/ccextractor&v=3",
-      "starCount": "919"
+      "starCount": "920"
     },
     {
       "name": "decorator",

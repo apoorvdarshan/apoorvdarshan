@@ -1,43 +1,43 @@
 {
   "metric": "lifetime first-time App Store downloads",
-  "target_as_of": "2026-11-22",
-  "checked_on": "2026-11-24",
+  "target_as_of": "2026-11-23",
+  "checked_on": "2026-11-25",
   "apps": {
     "6758935726": {
       "name": "fud-ai",
-      "as_of": "2026-11-21",
-      "first_time": 10813,
-      "redownload": 546,
-      "ios_total_downloads": 11359,
+      "as_of": "2026-11-22",
+      "first_time": 10891,
+      "redownload": 547,
+      "ios_total_downloads": 11438,
       "other_platform_downloads": 4883,
-      "display_total": 15696,
+      "display_total": 15774,
       "badge": "15K+",
       "android_as_of": "2026-11-18",
       "android_package": "com.apoorvdarshan.calorietracker"
     },
     "6761645656": {
       "name": "verceltics",
-      "as_of": "2026-11-21",
-      "first_time": 1512,
+      "as_of": "2026-11-22",
+      "first_time": 1513,
       "redownload": 58,
-      "ios_total_downloads": 1570,
+      "ios_total_downloads": 1571,
       "other_platform_downloads": 0,
-      "display_total": 1512,
+      "display_total": 1513,
       "badge": "1K+"
     },
     "6760672848": {
       "name": "scowld",
-      "as_of": "2026-11-21",
-      "first_time": 779,
+      "as_of": "2026-11-22",
+      "first_time": 788,
       "redownload": 56,
-      "ios_total_downloads": 835,
+      "ios_total_downloads": 844,
       "other_platform_downloads": 0,
-      "display_total": 779,
+      "display_total": 788,
       "badge": "700+"
     },
     "6760978934": {
       "name": "quit-all",
-      "as_of": "2026-11-21",
+      "as_of": "2026-11-22",
       "first_time": 157,
       "redownload": 5,
       "ios_total_downloads": 162,
@@ -47,25 +47,25 @@
     },
     "6792598227": {
       "name": "pcm-notes",
-      "as_of": "2026-11-21",
-      "first_time": 114,
+      "as_of": "2026-11-22",
+      "first_time": 115,
       "redownload": 8,
-      "ios_total_downloads": 122,
+      "ios_total_downloads": 123,
       "other_platform_downloads": 0,
-      "display_total": 114,
+      "display_total": 115,
       "badge": "100+"
     },
     "6783505799": {
       "name": "abysm",
-      "as_of": "2026-11-21",
-      "first_time": 84,
+      "as_of": "2026-11-22",
+      "first_time": 85,
       "redownload": 4,
-      "ios_total_downloads": 88,
+      "ios_total_downloads": 89,
       "other_platform_downloads": 0,
-      "display_total": 84,
+      "display_total": 85,
       "badge": "80+"
     }
   },
-  "as_of": "2026-11-21",
-  "latest_as_of": "2026-11-21"
+  "as_of": "2026-11-22",
+  "latest_as_of": "2026-11-22"
 }
