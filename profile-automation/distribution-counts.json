@@ -240,11 +240,11 @@
       "url": "https://github.com/apoorvdarshan/fud-ai/releases",
       "checked_on": "2026-11-27",
       "config_sha256": "1a8f5da41d26b7b0aa4d62ebd10af85f0fc090e2e8d88d8173eda4c4245109a1",
-      "display_total": 17568,
+      "display_total": 17636,
       "badge": "17K+",
       "breakdown": {
         "github_release_downloads": 1705,
-        "store_first_time_downloads": 15863
+        "store_first_time_downloads": 15931
       }
     },
     "releases:apoorvdarshan/lithosai-bar": {
