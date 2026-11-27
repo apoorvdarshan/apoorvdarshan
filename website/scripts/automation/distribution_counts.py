@@ -118,7 +118,9 @@ def update_copy(readme, resume, item, label, users=False):
     check(len(indices) == 1, 'Expected one README project: ' + item['name'])
     i = indices[0]
     pattern = r'<img\b[^>]*alt="(?:Downloads|Users): [^"]*"[^>]*>'
-    if re.search(pattern, rows[i]):
+    if label == '0' and not users:
+        rows[i] = re.sub(' ?' + pattern, '', rows[i])
+    elif re.search(pattern, rows[i]):
         rows[i], count = re.subn(pattern, lambda _: image, rows[i])
         check(count == 1, 'Duplicate metric badge')
     else:

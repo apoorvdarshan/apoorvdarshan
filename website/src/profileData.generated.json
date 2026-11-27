@@ -123,9 +123,7 @@
       "description": "Connect ChatGPT dots to your Mac through MCP",
       "status": "",
       "marker": "💻",
-      "starBadgeUrl": "",
-      "downloads": "0",
-      "metric": "downloads"
+      "starBadgeUrl": ""
     },
     {
       "name": "OpenCode ChatGPT Image Gen",
@@ -585,9 +583,7 @@
           "description": "Connect ChatGPT dots to your Mac through MCP",
           "status": "",
           "marker": "💻",
-          "starBadgeUrl": "",
-          "downloads": "0",
-          "metric": "downloads"
+          "starBadgeUrl": ""
         },
         {
           "name": "OpenCode ChatGPT Image Gen",
