@@ -1,62 +1,69 @@
 {
   "version": 1,
   "metric": "lifetime npm package downloads",
-  "checked_on": "2026-11-26",
-  "as_of": "2026-11-24",
+  "checked_on": "2026-11-27",
+  "as_of": "2026-11-25",
   "packages": {
+    "dot-bridge": {
+      "name": "dot-bridge",
+      "created": "2026-11-27",
+      "downloads": 0,
+      "badge": "0",
+      "reports": []
+    },
     "browser-cookie-bridge": {
       "name": "browser-cookie-bridge",
       "created": "2026-08-10",
-      "downloads": 3846,
+      "downloads": 3855,
       "badge": "3K+",
       "reports": [
         {
           "start": "2026-08-10",
-          "end": "2026-11-24",
-          "downloads": 3846,
-          "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-24/browser-cookie-bridge"
+          "end": "2026-11-25",
+          "downloads": 3855,
+          "url": "https://api.npmjs.org/downloads/point/2026-08-10:2026-11-25/browser-cookie-bridge"
         }
       ]
     },
     "hash-harbor": {
       "name": "hash-harbor",
       "created": "2026-07-26",
-      "downloads": 871,
+      "downloads": 873,
       "badge": "800+",
       "reports": [
         {
           "start": "2026-07-26",
-          "end": "2026-11-24",
-          "downloads": 871,
-          "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-24/hash-harbor"
+          "end": "2026-11-25",
+          "downloads": 873,
+          "url": "https://api.npmjs.org/downloads/point/2026-07-26:2026-11-25/hash-harbor"
         }
       ]
     },
     "tethershot": {
       "name": "TetherShot",
       "created": "2026-06-10",
-      "downloads": 5086,
+      "downloads": 5091,
       "badge": "5K+",
       "reports": [
         {
           "start": "2026-06-10",
-          "end": "2026-11-24",
-          "downloads": 5086,
-          "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-24/tethershot"
+          "end": "2026-11-25",
+          "downloads": 5091,
+          "url": "https://api.npmjs.org/downloads/point/2026-06-10:2026-11-25/tethershot"
         }
       ]
     },
     "@apoorvdarshan/crossposter": {
       "name": "crossposter",
       "created": "2026-06-05",
-      "downloads": 4775,
+      "downloads": 4777,
       "badge": "4K+",
       "reports": [
         {
           "start": "2026-06-05",
-          "end": "2026-11-24",
-          "downloads": 4775,
-          "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-24/@apoorvdarshan%2Fcrossposter"
+          "end": "2026-11-25",
+          "downloads": 4777,
+          "url": "https://api.npmjs.org/downloads/point/2026-06-05:2026-11-25/@apoorvdarshan%2Fcrossposter"
         }
       ]
     },
@@ -68,12 +75,12 @@
       "reports": [
         {
           "start": "2026-03-18",
-          "end": "2026-11-24",
+          "end": "2026-11-25",
           "downloads": 488,
-          "url": "https://api.npmjs.org/downloads/point/2026-03-18:2026-11-24/@apoorvdarshan%2Fxscore"
+          "url": "https://api.npmjs.org/downloads/point/2026-03-18:2026-11-25/@apoorvdarshan%2Fxscore"
         }
       ]
     }
   },
-  "config_sha256": "fb739b9e53f6c23598bcdeba27ea98417569951a99fa85d0d0789e7ed332cbf6"
+  "config_sha256": "3e53715eaa91f9b992ce37c424d4487ea6de1c5098975ccb630d0a7ae4b35230"
 }

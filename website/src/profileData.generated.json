@@ -118,6 +118,16 @@
   ],
   "projects": [
     {
+      "name": "dot-bridge",
+      "url": "https://github.com/apoorvdarshan/dot-bridge",
+      "description": "Connect ChatGPT dots to your Mac through MCP",
+      "status": "",
+      "marker": "💻",
+      "starBadgeUrl": "",
+      "downloads": "0",
+      "metric": "downloads"
+    },
+    {
       "name": "OpenCode ChatGPT Image Gen",
       "url": "https://github.com/apoorvdarshan/opencode-chatgpt-image-gen",
       "description": "Generate and edit images with a ChatGPT subscription",
@@ -569,6 +579,16 @@
     {
       "name": "AI & Agents",
       "items": [
+        {
+          "name": "dot-bridge",
+          "url": "https://github.com/apoorvdarshan/dot-bridge",
+          "description": "Connect ChatGPT dots to your Mac through MCP",
+          "status": "",
+          "marker": "💻",
+          "starBadgeUrl": "",
+          "downloads": "0",
+          "metric": "downloads"
+        },
         {
           "name": "OpenCode ChatGPT Image Gen",
           "url": "https://github.com/apoorvdarshan/opencode-chatgpt-image-gen",

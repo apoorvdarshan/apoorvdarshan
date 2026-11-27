@@ -40,6 +40,15 @@ class FakeAPI:
 
 
 class NpmDownloadTests(unittest.TestCase):
+    def test_launch_day_has_no_completed_download_intervals(self):
+        config = copy.deepcopy(CONFIG)
+        config['packages'][0]['created'] = str(TODAY)
+        result = npm.refresh(config, TODAY, FakeAPI(config))
+        self.assertEqual(result['as_of'], '2026-10-10')
+        self.assertEqual(result['packages']['one']['reports'], [])
+        self.assertEqual(result['packages']['one']['downloads'], 0)
+        self.assertEqual(result['packages']['@apoorvdarshan/two']['downloads'], 26)
+
     def test_total_starts_at_publication_and_handles_scoped_packages(self):
         api = FakeAPI()
         result = npm.refresh(CONFIG, TODAY, api)

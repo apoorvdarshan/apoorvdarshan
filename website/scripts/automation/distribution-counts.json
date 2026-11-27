@@ -1,6 +1,14 @@
 {
   "releases": [
     {
+      "name": "dot-bridge",
+      "repo": "apoorvdarshan/dot-bridge",
+      "asset_pattern": "dot-bridge-(macos\\.zip|[0-9]+\\.[0-9]+\\.[0-9]+\\.tgz)",
+      "npm": "dot-bridge",
+      "homebrew": "apoorvdarshan/tap/dot-bridge",
+      "resume": false
+    },
+    {
       "name": "fud-ai",
       "repo": "apoorvdarshan/fud-ai",
       "asset_pattern": ".*\\.apk$",

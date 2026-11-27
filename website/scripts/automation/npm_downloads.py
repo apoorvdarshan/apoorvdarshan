@@ -69,16 +69,18 @@ def refresh(config, today, fetch=read_json):
         check(re.fullmatch(r'(?:@[a-z0-9._-]+/)?[a-z0-9._-]+', package), 'Invalid configured npm name')
         metadata = fetch('https://registry.npmjs.org/' + quote(package, safe='@'))
         check(metadata.get('name') == package, 'npm registry name mismatch')
-        check(repository_url(metadata.get('repository')) == repository_url(item['link']), 'npm repository mismatch')
         check(config['maintainer'] in [m.get('name') for m in metadata.get('maintainers', [])], 'npm maintainer mismatch')
         created = date.fromisoformat(metadata['time']['created'][:10])
         check(created.isoformat() == item['created'], 'npm creation date changed; retain verified counts')
-        check(EARLIEST <= created < today, 'Lifetime npm history is unavailable for this creation date')
+        check(EARLIEST <= created <= today, 'Lifetime npm history is unavailable for this creation date')
+        if created == today:
+            continue  # No completed reporting days for a launch today.
+        check(repository_url(metadata.get('repository')) == repository_url(item['link']), 'npm repository mismatch')
         start, end, _ = point(fetch(point_url(package, 'last-day')), package)
         check(start == end and created <= end < today, 'npm last-day report is not complete')
         latest.append(end)
     # All projects use the same available cutoff, even if npm is still processing yesterday.
-    through = min(latest)
+    through = min(latest, default=today - timedelta(days=1))
     result = {'version': 1, 'metric': 'lifetime npm package downloads',
               'checked_on': today.isoformat(), 'as_of': through.isoformat(), 'packages': {}}
     for item in packages:
@@ -89,7 +91,7 @@ def refresh(config, today, fetch=read_json):
             check((reported_start, reported_end) == (start, end), 'npm truncated the requested lifetime interval')
             total += count
             reports.append({'start': str(start), 'end': str(end), 'downloads': count, 'url': url})
-        check(reports, 'No complete npm history available')
+        check(reports or through < date.fromisoformat(item['created']), 'No complete npm history available')
         result['packages'][package] = {'name': item['name'], 'created': item['created'],
                                        'downloads': total, 'badge': badge(total), 'reports': reports}
     return result
@@ -112,7 +114,8 @@ def main():
         result['config_sha256'] = fingerprint
         check(not saved.get('as_of') or result['as_of'] >= saved['as_of'], 'npm reporting cutoff moved backwards')
     check(set(result['packages']) == {p['package'] for p in config['packages']}, 'Incomplete npm snapshot')
-    entries = [{**p, 'badge': badge(result['packages'][p['package']]['downloads'])} for p in config['packages']]
+    entries = [{**p, 'badge': badge(result['packages'][p['package']]['downloads'])}
+               for p in config['packages'] if not p.get('distribution_only')]
     readme, resume = update_download_copy(readme_path.read_text(), resume_path.read_text(), entries)
     # Validate every API response and both outputs before replacing any managed files.
     outputs = {readme_path: readme, resume_path: resume, snapshot_path: json.dumps(result, indent=2) + '\n'}

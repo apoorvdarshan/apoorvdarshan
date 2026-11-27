@@ -28,7 +28,7 @@
 
 ## AI & Agents
 <ul>
-<li>💻 <strong><a href="https://github.com/apoorvdarshan/dot-bridge">dot-bridge</a></strong> - Connect ChatGPT dots to your Mac through MCP</li>
+<li>💻 <strong><a href="https://github.com/apoorvdarshan/dot-bridge">dot-bridge</a></strong> <img alt="Downloads: 0" src="https://apoorvdarshan.com/badges/downloads/v1/0.svg"> - Connect ChatGPT dots to your Mac through MCP</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-chatgpt-image-gen">OpenCode ChatGPT Image Gen</a></strong> - Generate and edit images with a ChatGPT subscription</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - Generate images with Gemini (Nano Banana)</li>
 <li>📬 <strong><a href="https://github.com/apoorvdarshan/fud-mail">fud-mail</a></strong> - Multi-account Gmail MCP for Codex, Claude Code, and OpenCode</li>

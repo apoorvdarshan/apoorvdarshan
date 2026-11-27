@@ -125,6 +125,8 @@ def update_copy(readme, resume, item, label, users=False):
         check(' - ' in rows[i], 'Missing project description boundary')
         rows[i] = rows[i].replace(' - ', ' ' + image + ' - ', 1)
     readme = ''.join(rows)
+    if item.get('resume') is False:
+        return readme, resume
     rows = resume.splitlines(keepends=True)
     indices = [i for i, row in enumerate(rows) if row.lstrip().startswith(r'\resumeProjectHeading') and '\\href{' + link + '}' in row]
     check(len(indices) == 1, 'Expected one resume project: ' + item['name'])
