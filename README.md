@@ -278,6 +278,7 @@
 ## Currently Reading
 
 <ul>
+  <li><strong><a href="https://martin.kleppmann.com/2026/03/24/designing-data-intensive-applications-2e.html">Designing Data-Intensive Applications, 2nd Edition</a></strong> - Martin Kleppmann and Chris Riccomini (audiobook)</li>
   <li><strong><a href="https://www.amazon.in/Harry-Potter-Philosophers-Stone-Rowling-ebook/dp/B019PIOJYU">Harry Potter and the Philosopher's Stone</a></strong> - J.K. Rowling (Kindle edition)</li>
 </ul>
 

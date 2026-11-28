@@ -2214,6 +2214,11 @@
   },
   "currentlyReading": [
     {
+      "name": "Designing Data-Intensive Applications, 2nd Edition",
+      "url": "https://martin.kleppmann.com/2026/03/24/designing-data-intensive-applications-2e.html",
+      "description": "Martin Kleppmann and Chris Riccomini (audiobook)"
+    },
+    {
       "name": "Harry Potter and the Philosopher's Stone",
       "url": "https://www.amazon.in/Harry-Potter-Philosophers-Stone-Rowling-ebook/dp/B019PIOJYU",
       "description": "J.K. Rowling (Kindle edition)"
