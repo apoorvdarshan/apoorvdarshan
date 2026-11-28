@@ -64,6 +64,7 @@ def repository_url(value):
 def refresh(config, today, fetch=read_json):
     packages = config['packages']
     latest = []
+    missing_reports = []
     for item in packages:
         package = item['package']
         check(re.fullmatch(r'(?:@[a-z0-9._-]+/)?[a-z0-9._-]+', package), 'Invalid configured npm name')
@@ -73,14 +74,28 @@ def refresh(config, today, fetch=read_json):
         created = date.fromisoformat(metadata['time']['created'][:10])
         check(created.isoformat() == item['created'], 'npm creation date changed; retain verified counts')
         check(EARLIEST <= created <= today, 'Lifetime npm history is unavailable for this creation date')
+        check(repository_url(metadata.get('repository')) == repository_url(item['link']), 'npm repository mismatch')
         if created == today:
             continue  # No completed reporting days for a launch today.
-        check(repository_url(metadata.get('repository')) == repository_url(item['link']), 'npm repository mismatch')
-        start, end, _ = point(fetch(point_url(package, 'last-day')), package)
-        check(start == end and created <= end < today, 'npm last-day report is not complete')
+        try:
+            report = fetch(point_url(package, 'last-day'))
+        except HTTPError as error:
+            if error.code != 404:
+                raise
+            error.close()
+            missing_reports.append((package, created, error))
+            continue
+        start, end, count = point(report, package)
+        check(start == end < today, 'npm last-day report is not complete')
+        check(created <= end or count == 0, 'npm returned downloads before package publication')
         latest.append(end)
     # All projects use the same available cutoff, even if npm is still processing yesterday.
     through = min(latest, default=today - timedelta(days=1))
+    # A new package can have no report yet. Only accept a 404 if other reports
+    # establish a common cutoff before its publication.
+    for package, created, error in missing_reports:
+        if not latest or created <= through:
+            raise ValueError(f'npm last-day report missing for {package}') from error
     result = {'version': 1, 'metric': 'lifetime npm package downloads',
               'checked_on': today.isoformat(), 'as_of': through.isoformat(), 'packages': {}}
     for item in packages:

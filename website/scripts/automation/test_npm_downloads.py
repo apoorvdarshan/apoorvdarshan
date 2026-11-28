@@ -83,6 +83,38 @@ class NpmDownloadTests(unittest.TestCase):
         self.assertEqual(result['as_of'], '2026-10-09')
         self.assertEqual(result['packages']['one']['downloads'], 39)
 
+    def test_new_package_waits_for_npm_reporting_to_reach_publication(self):
+        config = copy.deepcopy(CONFIG)
+        config['packages'][0]['created'] = '2026-10-10'
+        for missing in (False, True):
+            with self.subTest(missing=missing):
+                api = FakeAPI(config, last_day='2026-10-09')
+                def delayed(url):
+                    if url == npm.point_url('one', 'last-day'):
+                        if missing:
+                            raise HTTPError(url, 404, 'Not Found', {}, None)
+                        return {**api(url), 'downloads': 0}
+                    return api(url)
+
+                result = npm.refresh(config, TODAY, delayed)
+                self.assertEqual(result['as_of'], '2026-10-09')
+                self.assertEqual(result['packages']['one']['reports'], [])
+                self.assertEqual(result['packages']['@apoorvdarshan/two']['downloads'], 25)
+                self.assertNotIn(npm.point_url('one', '2026-10-10:2026-10-10'), api.calls)
+
+        result = npm.refresh(config, TODAY, FakeAPI(config))
+        self.assertEqual(result['packages']['one']['downloads'], 1)
+
+    def test_missing_report_at_or_after_publication_fails(self):
+        api = FakeAPI()
+        def missing(url):
+            if url == npm.point_url('one', 'last-day'):
+                raise HTTPError(url, 404, 'Not Found', {}, None)
+            return api(url)
+
+        with self.assertRaisesRegex(ValueError, 'npm last-day report missing for one'):
+            npm.refresh(CONFIG, TODAY, missing)
+
     def test_truncated_ranges_wrong_package_and_invalid_counts_are_rejected(self):
         for change in [{'end': '2026-10-09'}, {'package': 'other'}, {'downloads': -1}, {'downloads': True}, {'downloads': 1.5}]:
             api = FakeAPI()
