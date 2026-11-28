@@ -696,17 +696,17 @@
       "url": "https://github.com/apoorvdarshan/browser-cookie-bridge/releases",
       "checked_on": "2026-11-28",
       "config_sha256": "583a568a4afb53bb6a9b566f14c0736f8075ecd47ba94ea1ea5dee21c6b9c7ed",
-      "npm_as_of": "2026-11-25",
+      "npm_as_of": "2026-11-26",
       "homebrew": {
         "package": "apoorvdarshan/tap/browser-cookie-bridge",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 4160,
+      "display_total": 4168,
       "badge": "4K+",
       "breakdown": {
         "github_release_downloads": 305,
-        "npm_downloads": 3855
+        "npm_downloads": 3863
       }
     },
     "releases:apoorvdarshan/hash-harbor": {
@@ -927,7 +927,7 @@
       "url": "https://github.com/apoorvdarshan/hash-harbor/releases",
       "checked_on": "2026-11-28",
       "config_sha256": "d43a99f8690a375d31d7d9dc5ba11587b3e1a17f31f03ad7721ec1a4d1821d59",
-      "npm_as_of": "2026-11-25",
+      "npm_as_of": "2026-11-26",
       "display_total": 906,
       "badge": "900+",
       "breakdown": {
@@ -1062,17 +1062,17 @@
       "url": "https://github.com/apoorvdarshan/TetherShot/releases",
       "checked_on": "2026-11-28",
       "config_sha256": "73602770a1effa88601d597595f91e966db53bd78de8870350a059a10c6c53eb",
-      "npm_as_of": "2026-11-25",
+      "npm_as_of": "2026-11-26",
       "homebrew": {
         "package": "apoorvdarshan/tap/tethershot",
         "counted_via": "github_release_downloads",
         "note": "Cask fetches the same GitHub assets; never add Homebrew installs again."
       },
-      "display_total": 5355,
+      "display_total": 5359,
       "badge": "5K+",
       "breakdown": {
         "github_release_downloads": 264,
-        "npm_downloads": 5091
+        "npm_downloads": 5095
       }
     },
     "extensions:apoorvdarshan/x-country-filter": {
@@ -1123,7 +1123,7 @@
       "url": "https://github.com/apoorvdarshan/dot-bridge/releases",
       "checked_on": "2026-11-28",
       "config_sha256": "457ede04d8ecd94655cdd978d62637005bf66bb18bd14ea02b93ea4c3538ea47",
-      "npm_as_of": "2026-11-25",
+      "npm_as_of": "2026-11-26",
       "homebrew": {
         "package": "apoorvdarshan/tap/dot-bridge",
         "counted_via": "github_release_downloads",
