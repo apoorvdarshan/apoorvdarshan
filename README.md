@@ -28,7 +28,7 @@
 
 ## AI & Agents
 <ul>
-<li>💻 <strong><a href="https://github.com/apoorvdarshan/dot-bridge">dot-bridge</a></strong> - Connect ChatGPT dots to your Mac through MCP</li>
+<li>💻 <strong><a href="https://github.com/apoorvdarshan/dot-bridge">dot-bridge</a></strong> <img alt="Downloads: 5" src="https://apoorvdarshan.com/badges/downloads/v1/5.svg"> - Connect ChatGPT dots to your Mac through MCP</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-chatgpt-image-gen">OpenCode ChatGPT Image Gen</a></strong> - Generate and edit images with a ChatGPT subscription</li>
 <li>🖼️ <strong><a href="https://github.com/apoorvdarshan/opencode-gemini-imagegen-plugin">opencode-gemini-imagegen-plugin</a></strong> - Generate images with Gemini (Nano Banana)</li>
 <li>📬 <strong><a href="https://github.com/apoorvdarshan/fud-mail">fud-mail</a></strong> - Multi-account Gmail MCP for Codex, Claude Code, and OpenCode</li>
@@ -220,8 +220,8 @@
       <div>&bull; 📧 <strong><a href="https://github.com/resend/resend-mcp/pull/166">resend-mcp</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=resend/resend-mcp&amp;v=3"> - feat: better order of validation for command running</div>
       <div>&bull; 📬 <strong><a href="https://github.com/mjs/imapclient/pull/644">IMAPClient</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=mjs/imapclient&amp;v=3"> - fix: reset IMAP state to AUTH after unselect_folder()</div>
       <div>&bull; 🤖 <strong><a href="https://github.com/giselles-ai/giselle/pull/2739">giselle</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=giselles-ai/giselle&amp;v=3"> - fix: use continue instead of return in handleEdgesChange</div>
-      <div>&bull; 🏦 <strong><a href="https://github.com/guibranco/BancosBrasileiros/pull/895">BancosBrasileiros</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=guibranco/BancosBrasileiros&amp;v=3"> - fix: redirected bank URLs reported by link checker</div>
       <div>&bull; 🔀 <strong><a href="https://github.com/OpenRouterTeam/awesome-openrouter/pull/103">awesome-openrouter</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=OpenRouterTeam/awesome-openrouter&amp;v=3"> - add Fud AI to the OpenRouter app directory</div>
+      <div>&bull; 🏦 <strong><a href="https://github.com/guibranco/BancosBrasileiros/pull/895">BancosBrasileiros</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=guibranco/BancosBrasileiros&amp;v=3"> - fix: redirected bank URLs reported by link checker</div>
       <div>&bull; 🐍 <strong><a href="https://github.com/netromdk/vermin/pull/344">vermin</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=netromdk/vermin&amp;v=3"> - fix: detect keyword arguments correctly for chained receivers</div>
       <div>&bull; 🍴 <strong><a href="https://github.com/fork-commit-merge/fork-commit-merge/pull/6370">fork-commit-merge</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=fork-commit-merge/fork-commit-merge&amp;v=3"> - solve: filter even numbers from array</div>
       <div>&bull; 📝 <strong><a href="https://github.com/python-poetry/poetry-core/pull/953">poetry-core</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.com/api/stars?repo=python-poetry/poetry-core&amp;v=3"> - fix: Version.difference with local variants of the same version</div>
